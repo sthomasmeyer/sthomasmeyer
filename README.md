@@ -23,7 +23,7 @@ When I'm not working, I like to play soccer, travel, snowboard, play poker, and 
 
 ## GitHub Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sthomasmeyer&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sthomasmeyer&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sthomasmeyer&hide=PLpgSQL,Procfile&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sthomasmeyer/sthomasmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
