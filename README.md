@@ -1,6 +1,6 @@
 # Introduction
 
-My name is Seth Thomasmeyer. I'm an educator and software engineer, currently teaching AP Computer Science at KIPP Austin Collegiate in Texas. I'm always seeking new challenges and opportunities to refine my skills. I enjoy teaching my students about powerful technologies (e.g., JavaScript) and working on personal projects. In both of those pursuits, I constantly ask myself: "What can I do to make this experience a delight for my students / potential users?"
+My name is Seth Thomasmeyer. I'm an educator and software engineer. I'm always seeking new challenges and opportunities to refine my skills. I enjoy writing about computer science and working on personal projects. In both of those pursuits, I constantly ask myself: "What can I do to make this experience a delight for my readers / potential users?"
 
 When I'm not working, I like to play soccer, travel, snowboard, play poker, and spend time with friends and family. I also have excellent taste in movies and music. One of my all-time favorite movies is Gladiator (2000), starring Russell Crowe, and one of my all-time favorite albums is "Random Access Memories" by Daft Punk.
 
