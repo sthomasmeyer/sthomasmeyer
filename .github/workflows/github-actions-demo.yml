@@ -1,18 +1,52 @@
-name: GitHub Actions Demo
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on: [push]
+name: Fetch NASA's Picture of the Day
+run-name: ${{ github.actor }} is fetching the NASA Picture of the Day
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run at midnight UTC
+  workflow_dispatch:
+
 jobs:
-  Explore-GitHub-Actions:
+  update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
-      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
-      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
-      - name: Check out repository code
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
-      - name: List files in the repository
+
+      - name: Fetch NASA Picture of the Day
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
         run: |
-          ls ${{ github.workspace }}
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+          echo 'Fetching NASA Picture of the Day'
+          response=$(curl -s "https://api.nasa.gov/planetary/apod?api_key=$NASA_API_KEY")
+          if [[ $(echo "$response" | jq -r '.code // empty') == "400" ]]; then
+            echo "Error: Bad request or invalid API key"
+            exit 1
+          fi
+
+          # Create README with markdown formatting
+          echo "# NASA Astronomy Picture of the Day" > README.md
+          echo "" >> README.md
+          echo "_Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
+          echo "" >> README.md
+          echo "## $(echo "$response" | jq -r '.title')" >> README.md
+          echo "" >> README.md
+          echo "![$(echo "$response" | jq -r '.title')]($(echo "$response" | jq -r '.url'))" >> README.md
+          echo "" >> README.md
+          echo "### Description" >> README.md
+          echo "" >> README.md
+          echo "$(echo "$response" | jq -r '.explanation')" >> README.md
+
+      - name: Commit and Push Changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
+            git add README.md
+            git commit -m "Daily update: NASA Picture of the Day ($(date -u '+%Y-%m-%d'))"
+            git push
+          else
+            echo "No changes to commit"
+          fi
