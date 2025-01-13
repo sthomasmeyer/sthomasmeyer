@@ -1,23 +1,31 @@
 name: Fetch NASA's Picture of the Day
 run-name: ${{ github.actor }} is fetching the NASA Picture of the Day
+# Workflow triggers are defined with the 'on' key in a GitHub Actions YAML file.
 on:
+  # Note, the 'schedule' event can be delayed during periods of high loads of GitHub Actions workflow runs.
+  # Scheduled workflows *only* run on the default branch.
   schedule:
-    - cron: '0 0 * * *' # Run at midnight UTC
-  workflow_dispatch:
+    # GitHub Actions schedule operates on UTC time. Cronjobs expect the following five values, in order:
+    # Minute (0-59), Hour (0-23), Day of the Month (1-31), Month (1-12), Day of the Week (0-6)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering of the workflow via the GitHub Actions interface.
 
+# Workflows are made up of one or more jobs that define tasks to be run. Each job runs independently.
 jobs:
-  update-readme:
-    runs-on: ubuntu-latest
+  update-readme: # The job identifier can be any valid name, but it should describe the job's purpose.
+    runs-on: ubuntu-latest # Specify the virtual environment for a job (e.g., windows-latest, macos-latest, etc.)
     permissions:
       contents: write
 
+    # Each job consists of steps that define specific tasks to perform.
     steps:
-      - name: Checkout repository
+      - name: Checkout repository # Clearly describe the step.
+        # This prebuilt GitHub action checks-out your repository so your workflow can access it.
         uses: actions/checkout@v4
 
       - name: Fetch NASA Picture of the Day
         env:
-          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }} # Establish job environment variables, (optionally) via GitHub Secrets.
         run: |
           echo 'Fetching NASA Picture of the Day'
           response=$(curl -s "https://api.nasa.gov/planetary/apod?api_key=$NASA_API_KEY")
