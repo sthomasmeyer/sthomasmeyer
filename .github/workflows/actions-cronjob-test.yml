@@ -37,7 +37,7 @@ jobs:
           # Create README with markdown formatting
           echo "# NASA Astronomy Picture of the Day" > README.md
           echo "" >> README.md
-          ech0 "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
+          echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
           echo "" >> README.md
           echo "## $(echo "$response" | jq -r '.title')" >> README.md
           echo "" >> README.md
