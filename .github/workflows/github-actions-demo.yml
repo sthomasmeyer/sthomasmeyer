@@ -7,7 +7,7 @@ on:
   schedule:
     # GitHub Actions schedule operates on UTC time. Cronjobs expect the following five values, in order:
     # Minute (0-59), Hour (0-23), Day of the Month (1-31), Month (1-12), Day of the Week (0-6)
-    - cron: '21 3 * * *''
+    - cron: '24 3 * * *'
   workflow_dispatch: # Allows manual triggering of the workflow via the GitHub Actions interface.
 
 # Workflows are made up of one or more jobs that define tasks to be run. Each job runs independently.
