@@ -8,7 +8,7 @@ check_date() {
     if [ ! -f "$CONFIG_FILE" ]; then
         echo "Error: Configuration file not found at $CONFIG_FILE"
         exit 1
-    }
+    fi
     
     if yq -e ".dates.[\"$CURRENT_DATE\"]" "$CONFIG_FILE" > /dev/null 2>&1; then
         echo "is_notable_date=true"
