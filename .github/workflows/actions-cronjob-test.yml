@@ -23,9 +23,21 @@ jobs:
         # This prebuilt GitHub action checks-out your repository so your workflow can access it.
         uses: actions/checkout@v4
 
+      - name: Check Date
+        id: date-check
+        run: |
+          chmod +x .github/date-management/check-date.sh
+
+          while IFS='=' read -r key value; do
+            if [[ -n "$key" ]]; then
+              echo "$key=$value" >> $GITHUB_OUTPUT
+            fi
+          done < <(.github/date-management/check-date.sh)
+
       - name: Fetch NASA Picture of the Day
+        id: nasa-fetch
         env:
-          NASA_API_KEY: ${{ secrets.NASA_API_KEY }} # Establish job environment variables, (optionally) via GitHub Secrets.
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
         run: |
           echo 'Fetching NASA Picture of the Day'
           response=$(curl -s "https://api.nasa.gov/planetary/apod?api_key=$NASA_API_KEY")
@@ -34,18 +46,66 @@ jobs:
             exit 1
           fi
 
-          # Create README with markdown formatting
+          # Store NASA data for use in next steps
+          echo "nasa_title=$(echo "$response" | jq -r '.title')" >> $GITHUB_OUTPUT
+          echo "nasa_url=$(echo "$response" | jq -r '.url')" >> $GITHUB_OUTPUT
+          echo "nasa_explanation=$(echo "$response" | jq -r '.explanation')" >> $GITHUB_OUTPUT
+
+      - name: Create Notable Date Content
+        if: steps.date-check.outputs.is_notable_date == 'true'
+        run: |
+          echo "# ${{ steps.date-check.outputs.title }}" > README.md
+          echo "" >> README.md
+          echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
+          echo "" >> README.md
+          echo "${{ steps.date-check.outputs.description }}" >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          echo "### Today's NASA Astronomy Picture of the Day" >> README.md
+          echo "" >> README.md
+          echo "![${{ steps.nasa-fetch.outputs.nasa_title }}](${{ steps.nasa-fetch.outputs.nasa_url }})" >> README.md
+          echo "" >> README.md
+          echo "*${{ steps.nasa-fetch.outputs.nasa_title }}*" >> README.md
+
+      - name: Create Regular NASA Content
+        if: steps.date-check.outputs.is_notable_date != 'true'
+        run: |
           echo "# NASA Astronomy Picture of the Day" > README.md
           echo "" >> README.md
           echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
           echo "" >> README.md
-          echo "## $(echo "$response" | jq -r '.title')" >> README.md
+          echo "## ${{ steps.nasa-fetch.outputs.nasa_title }}" >> README.md
           echo "" >> README.md
-          echo "![$(echo "$response" | jq -r '.title')]($(echo "$response" | jq -r '.url'))" >> README.md
+          echo "![${{ steps.nasa-fetch.outputs.nasa_title }}](${{ steps.nasa-fetch.outputs.nasa_url }})" >> README.md
           echo "" >> README.md
           echo "### Description" >> README.md
           echo "" >> README.md
-          echo "$(echo "$response" | jq -r '.explanation')" >> README.md
+          echo "${{ steps.nasa-fetch.outputs.nasa_explanation }}" >> README.md
+
+      # - name: Fetch NASA Picture of the Day
+      #   env:
+      #     NASA_API_KEY: ${{ secrets.NASA_API_KEY }} # Establish job environment variables, (optionally) via GitHub Secrets.
+      #   run: |
+      #     echo 'Fetching NASA Picture of the Day'
+      #     response=$(curl -s "https://api.nasa.gov/planetary/apod?api_key=$NASA_API_KEY")
+      #     if [[ $(echo "$response" | jq -r '.code // empty') == "400" ]]; then
+      #       echo "Error: Bad request or invalid API key"
+      #       exit 1
+      #     fi
+
+      #     # Create README with markdown formatting
+      #     echo "# NASA Astronomy Picture of the Day" > README.md
+      #     echo "" >> README.md
+      #     echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
+      #     echo "" >> README.md
+      #     echo "## $(echo "$response" | jq -r '.title')" >> README.md
+      #     echo "" >> README.md
+      #     echo "![$(echo "$response" | jq -r '.title')]($(echo "$response" | jq -r '.url'))" >> README.md
+      #     echo "" >> README.md
+      #     echo "### Description" >> README.md
+      #     echo "" >> README.md
+      #     echo "$(echo "$response" | jq -r '.explanation')" >> README.md
 
       - name: Commit and Push Changes
         run: |
@@ -53,7 +113,13 @@ jobs:
             git config user.name 'github-actions[bot]'
             git config user.email 'github-actions[bot]@users.noreply.github.com'
             git add README.md
-            git commit -m "Daily update: NASA Picture of the Day ($(date -u '+%Y-%m-%d'))"
+
+            if [[ "${{ steps.date-check.outputs.is_notable_date }}" == "true" ]]; then
+              git commit -m "✨ Special Update: ${{ steps.date-check.outputs.title }} ($(date -u '+%Y-%m-%d'))"
+            else
+              git commit -m "Daily update: NASA Picture of the Day ($(date -u '+%Y-%m-%d'))"
+            fi
+
             git push
           else
             echo "No changes to commit"
