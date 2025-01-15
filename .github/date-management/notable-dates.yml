@@ -1,4 +1,3 @@
-# Notable Dates
 dates:
   '01-15': # Testing, testing...
     title: 'Testing, testing...'
@@ -8,7 +7,6 @@ dates:
   '04-30': # Claude Shannon's Birthday
     title: "🧮 Celebrating Claude Shannon's Birthday!"
     description: 'Today we celebrate Claude Shannon (1916-2001), the father of information theory.'
-    image_url: 'https://example.com/claude-shannon.jpg' # Replace with actual image URL
 
   '05-11': # Richard Feynman's Birthday
     title: '⚛️ Happy Birthday, Richard Feynman!'
