@@ -50,17 +50,58 @@ jobs:
           echo "nasa_url=$(echo "$response" | jq -r '.url')" >> $GITHUB_OUTPUT
           echo "nasa_explanation=$(echo "$response" | jq -r '.explanation')" >> $GITHUB_OUTPUT
 
+      # - name: Get BASH Script Path
+      #   if: steps.date-check.outputs.is_notable_date == 'true'
+      #   id: get-bash-script
+      #   run: |
+      #     CURRENT_DATE="${{ steps.date_check.outputs.current_date }}"
+      #     MONTH=$(echo $CURRENT_DATE | cut -d'-' -f1)
+      #     MONTH_NAME=$(date -d "2024-${MONTH}-01" '+%B' | tr '[:upper:]' '[:lower:]')
+
+      #     SCRIPT_PATH=$(yq ".dates.[\"CURRENT_DATE\"].bash_script" .github/date-management/notable-dates.yml)
+
+      #     if [[ -z "$SCRIPT_PATH" ]]; then
+      #       echo "No BASH script specified for this date. Using default description."
+      #       echo "use_default=true" >> $GITHUB_OUTPUT
+      #     else
+      #       echo "Script Found: $SCRIPT_PATH"
+      #       echo "use_default=false" >> $GITHUB_OUTPUT
+      #       echo "script_path=.github/date-management/bash-scripts/$SCRIPT_PATH" >> $GITHUB_OUTPUT
+      #     fi
+
+      # - name: Execute Notable Date Script
+      #   if: steps.date-check.output.is_notable_date == 'true' && steps.get-bash-script.output.use_default == 'false'
+      #   run: |
+      #     SCRIPT_PATH="${{ steps.get-bash-script.outputs.script_path }}"
+      #     if [[ -f "$SCRIPT_PATH" ]]; then
+      #       chmod +x "$SCRIPT_PATH"
+      #       "$SCRIPT_PATH"
+      #     else
+      #       echo "Error: Script not found at $SCRIPT_PATH"
+      #       exit 1
+      #     fi
+
+      # - name: Create Fallback Notable Date Content
+      #   if: steps.date-check.outputs.is_notable_date == 'true' && steps.get-script.outputs.use_default == 'true'
+      #   run: |
+      #     echo "# ${{ steps.date-check.outputs.title }}" > README.md
+      #     echo "" >> README.md
+      #     echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
+      #     echo "" >> README.md
+      #     echo "${{ steps.date-check.outputs.description }}" >> README.md
+      #     echo "" >> README.md
+
       - name: Get BASH Script Path
         if: steps.date-check.outputs.is_notable_date == 'true'
         id: get-bash-script
         run: |
-          CURRENT_DATE="${{ steps.date_check.outputs.current_date }}"
+          CURRENT_DATE="${{ steps.date-check.outputs.current_date }}"
           MONTH=$(echo $CURRENT_DATE | cut -d'-' -f1)
           MONTH_NAME=$(date -d "2024-${MONTH}-01" '+%B' | tr '[:upper:]' '[:lower:]')
 
-          SCRIPT_PATH=$(yq ".dates.[\"CURRENT_DATE\"].bash_script" .github/date-management/notable-dates.yml)
+          SCRIPT_PATH=$(yq ".dates.[\"$CURRENT_DATE\"].bash_script" .github/date-management/notable-dates.yml)
 
-          if [[ -z "$SCRIPT_PATH" ]]; then
+          if [[ -z "$SCRIPT_PATH" || "$SCRIPT_PATH" == "null" ]]; then
             echo "No BASH script specified for this date. Using default description."
             echo "use_default=true" >> $GITHUB_OUTPUT
           else
@@ -70,7 +111,7 @@ jobs:
           fi
 
       - name: Execute Notable Date Script
-        if: steps.date-check.output.is_notable_date == 'true' && steps.get-bash-script.output.use_default == 'false'
+        if: steps.date-check.outputs.is_notable_date == 'true' && steps.get-bash-script.outputs.use_default == 'false'
         run: |
           SCRIPT_PATH="${{ steps.get-bash-script.outputs.script_path }}"
           if [[ -f "$SCRIPT_PATH" ]]; then
@@ -82,7 +123,7 @@ jobs:
           fi
 
       - name: Create Fallback Notable Date Content
-        if: steps.date-check.outputs.is_notable_date == 'true' && steps.get-script.outputs.use_default == 'true'
+        if: steps.date-check.outputs.is_notable_date == 'true' && steps.get-bash-script.outputs.use_default == 'true'
         run: |
           echo "# ${{ steps.date-check.outputs.title }}" > README.md
           echo "" >> README.md
