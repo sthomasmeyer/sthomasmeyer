@@ -1,6 +1,6 @@
 # 
 
-_Updated: 2025-01-17 21:28:56 UTC_
+_Updated: 2025-01-17 21:36:53 UTC_
 
 On this day, in 1961, Oscar Robertson made history as the youngest NBA All-Star.
 
