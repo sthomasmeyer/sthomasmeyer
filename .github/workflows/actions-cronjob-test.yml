@@ -3,7 +3,6 @@ run-name: ${{ github.actor }} is fetching the NASA Picture of the Day
 # Workflow triggers are defined with the 'on' key in a GitHub Actions YAML file.
 on:
   # Note, the 'schedule' event can be delayed during periods of high loads of GitHub Actions workflow runs.
-  # Scheduled workflows *only* run on the default branch.
   schedule:
     # GitHub Actions schedule operates on UTC time. Cronjobs expect the following five values, in order:
     # Minute (0-59), Hour (0-23), Day of the Month (1-31), Month (1-12), Day of the Week (0-6)
@@ -24,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Check Date
-        id: date-check
+        id: date-check # The [id] makes this step accessible in later steps for referencing outputs or status.
         run: |
           chmod +x .github/date-management/check-date.sh
 
@@ -51,6 +50,26 @@ jobs:
           echo "nasa_url=$(echo "$response" | jq -r '.url')" >> $GITHUB_OUTPUT
           echo "nasa_explanation=$(echo "$response" | jq -r '.explanation')" >> $GITHUB_OUTPUT
 
+      - name: Get BASH Script Path
+        if: steps.date-check.outputs.is_notable_date == 'true'
+        id: get-bash-script
+        run: |
+          CURRENT_DATE="${{ steps.date_check.outputs.current_date }}"
+          MONTH=$(echo $CURRENT_DATE | cut -d'-' -f1)
+          MONTH_NAME=$(date -d "2024-${MONTH}-01" '+%B' | tr '[:upper:]' '[:lower:]')
+
+          SCRIPT_PATH=$(yq ".dates.[\"CURRENT_DATE\"].bash_script" .github/date-management/notable-dates.yml)
+
+          if [[ -z "$SCRIPT_PATH" ]]; then
+            echo "No BASH script specified for this date. Using default description."
+            echo "use_default=true" >> $GITHUB_OUTPUT
+          else
+            echo "Script Found: $SCRIPT_PATH"
+            echo "use_default=false" >> $GITHUB_OUTPUT
+            echo "script_path=.github/date-management/bash-scripts/$SCRIPT_PATH" >> $GITHUB_OUTPUT
+          fi
+
+      # TODO: Refactor this to run the relevant BASH script to generate special README content.
       - name: Create Notable Date Content
         if: steps.date-check.outputs.is_notable_date == 'true'
         run: |
@@ -60,14 +79,8 @@ jobs:
           echo "" >> README.md
           echo "${{ steps.date-check.outputs.description }}" >> README.md
           echo "" >> README.md
-          echo "---" >> README.md
-          echo "" >> README.md
-          echo "### Today's NASA Astronomy Picture of the Day" >> README.md
-          echo "" >> README.md
-          echo "![${{ steps.nasa-fetch.outputs.nasa_title }}](${{ steps.nasa-fetch.outputs.nasa_url }})" >> README.md
-          echo "" >> README.md
-          echo "*${{ steps.nasa-fetch.outputs.nasa_title }}*" >> README.md
 
+      # If it is NOT a notable date, display the NASA PoD :)
       - name: Create Regular NASA Content
         if: steps.date-check.outputs.is_notable_date != 'true'
         run: |
@@ -82,30 +95,6 @@ jobs:
           echo "### Description" >> README.md
           echo "" >> README.md
           echo "${{ steps.nasa-fetch.outputs.nasa_explanation }}" >> README.md
-
-      # - name: Fetch NASA Picture of the Day
-      #   env:
-      #     NASA_API_KEY: ${{ secrets.NASA_API_KEY }} # Establish job environment variables, (optionally) via GitHub Secrets.
-      #   run: |
-      #     echo 'Fetching NASA Picture of the Day'
-      #     response=$(curl -s "https://api.nasa.gov/planetary/apod?api_key=$NASA_API_KEY")
-      #     if [[ $(echo "$response" | jq -r '.code // empty') == "400" ]]; then
-      #       echo "Error: Bad request or invalid API key"
-      #       exit 1
-      #     fi
-
-      #     # Create README with markdown formatting
-      #     echo "# NASA Astronomy Picture of the Day" > README.md
-      #     echo "" >> README.md
-      #     echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
-      #     echo "" >> README.md
-      #     echo "## $(echo "$response" | jq -r '.title')" >> README.md
-      #     echo "" >> README.md
-      #     echo "![$(echo "$response" | jq -r '.title')]($(echo "$response" | jq -r '.url'))" >> README.md
-      #     echo "" >> README.md
-      #     echo "### Description" >> README.md
-      #     echo "" >> README.md
-      #     echo "$(echo "$response" | jq -r '.explanation')" >> README.md
 
       - name: Commit and Push Changes
         run: |

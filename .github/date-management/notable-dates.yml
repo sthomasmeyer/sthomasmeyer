@@ -1,7 +1,7 @@
 dates:
-  '01-15': # Testing, testing...
-    title: 'Testing, testing...'
-    description: 'All that is gold does not glitter, not all those who wander are lost...'
+  '01-17': # Test a new (and improved) format - title (+) bash_script
+    title: 'The 11th NBA All Star Game features Oscar Robertson'
+    bash_script: 'january/nba-all-star-game.sh'
 
   # Scientists & Computing Pioneers
   '04-30': # Claude Shannon's Birthday
