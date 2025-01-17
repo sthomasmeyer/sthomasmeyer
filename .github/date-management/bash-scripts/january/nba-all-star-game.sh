@@ -1,7 +1,7 @@
 #!/bin/bash
-# .github/date-management/bash-scripts/january/nba-allstar-game.sh
+# .github/date-management/bash-scripts/january/nba-all-star-game.sh
 
-TITLE=$(yq ".dates.['01-17'].title" ../../notable-dates.yml)
+TITLE=$(yq ".dates.['01-17'].title" .github/date-management/notable-dates.yml)
 
 {
     echo "# ${TITLE}"
