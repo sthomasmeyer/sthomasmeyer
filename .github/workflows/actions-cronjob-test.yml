@@ -69,9 +69,20 @@ jobs:
             echo "script_path=.github/date-management/bash-scripts/$SCRIPT_PATH" >> $GITHUB_OUTPUT
           fi
 
-      # TODO: Refactor this to run the relevant BASH script to generate special README content.
-      - name: Create Notable Date Content
-        if: steps.date-check.outputs.is_notable_date == 'true'
+      - name: Execute Notable Date Script
+        if: steps.date-check.output.is_notable_date == 'true' && steps.get-bash-script.output.use_default == 'false'
+        run: |
+          SCRIPT_PATH="${{ steps.get-bash-script.outputs.script_path }}"
+          if [[ -f "$SCRIPT_PATH" ]]; then
+            chmod +x "$SCRIPT_PATH"
+            "$SCRIPT_PATH"
+          else
+            echo "Error: Script not found at $SCRIPT_PATH"
+            exit 1
+          fi
+
+      - name: Create Fallback Notable Date Content
+        if: steps.date-check.outputs.is_notable_date == 'true' && steps.get-script.outputs.use_default == 'true'
         run: |
           echo "# ${{ steps.date-check.outputs.title }}" > README.md
           echo "" >> README.md

@@ -1,6 +1,7 @@
 dates:
-  '01-17': # Test a new (and improved) format - title (+) bash_script
+  '01-17':
     title: 'The 11th NBA All Star Game features Oscar Robertson'
+    description: 'On this day, in 1961, Oscar Robertson became the youngest NBA All-Star, scoring 23 points with 14 assists and 9 rebounds. He left the Onondaga County War Memorial Coliseum in Syracuse, NY with a win and the MVP award.'
     bash_script: 'january/nba-all-star-game.sh'
 
   # Scientists & Computing Pioneers
