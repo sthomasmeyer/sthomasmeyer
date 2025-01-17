@@ -1,6 +1,6 @@
-# 
+# The 11th NBA All Star Game features Oscar Robertson
 
-_Updated: 2025-01-17 21:36:53 UTC_
+_Updated: 2025-01-17 21:43:38 UTC_
 
 On this day, in 1961, Oscar Robertson made history as the youngest NBA All-Star.
 
