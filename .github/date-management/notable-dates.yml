@@ -1,3 +1,7 @@
+# Apostraphe Guidelines ::
+## Refrain from using apostraphes in the notable date title fields. If you insist, I would recommend additional testing.
+## In the descriptions, remember to precede them with a YAML escape character ('), a single apostraphe.
+
 dates:
   '01-18':
     title: "Celebrating Muhammad Ali''s Birthday!"
