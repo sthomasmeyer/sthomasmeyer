@@ -1,6 +1,6 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2025-01-18 00:44:46 UTC_
+_Updated: 2025-01-18 00:53:59 UTC_
 
 ## Supernova Remnant Cassiopeia A
 
