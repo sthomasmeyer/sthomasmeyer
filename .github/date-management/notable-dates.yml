@@ -1,9 +1,4 @@
 dates:
-  '01-17':
-    title: 'Today is Muhammad Ali's Birthday!'
-    description: 'Float like a butterfly, sting like a bee; the hands can't hit what the eyes can't see. - Muhammad Ali'
-    bash_script: 'january/muhammad-ali-birthday.sh'
-
   '01-18':
     title: 'Today is Muhammad Ali's Birthday!'
     description: 'Float like a butterfly, sting like a bee; the hands can't hit what the eyes can't see. - Muhammad Ali'
