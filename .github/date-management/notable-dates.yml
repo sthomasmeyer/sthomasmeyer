@@ -1,35 +1,31 @@
 dates:
-  '01-18':
-    title: 'Celebrating Muhammad Ali's Birthday!'
+  "01-18":
+    title: "Celebrating Muhammad Ali's Birthday!"
     description: 'Float like a butterfly, sting like a bee; the hands can't hit what the eyes can't see. - Muhammad Ali'
     bash_script: 'january/muhammad-ali-birthday.sh'
-  # '01-18':
-  #   title: 'Today is Muhammad Ali's Birthday!'
-  #   description: 'Float like a butterfly, sting like a bee; the hands can't hit what the eyes can't see. - Muhammad Ali'
-  #   bash_script: 'january/muhammad-ali-birthday.sh'
 
   # Scientists & Computing Pioneers
-  '04-30': # Claude Shannon's Birthday
+  "04-30": # Claude Shannon's Birthday
     title: "🧮 Celebrating Claude Shannon's Birthday!"
-    description: 'Today we celebrate Claude Shannon (1916-2001), the father of information theory.'
+    description: "Today we celebrate Claude Shannon (1916-2001), the father of information theory."
 
-  '05-11': # Richard Feynman's Birthday
-    title: '⚛️ Happy Birthday, Richard Feynman!'
-    description: 'Celebrating the life of Richard Feynman (1918-1988), renowned physicist and educator.'
+  "05-11": # Richard Feynman's Birthday
+    title: "⚛️ Happy Birthday, Richard Feynman!"
+    description: "Celebrating the life of Richard Feynman (1918-1988), renowned physicist and educator."
 
-  '06-23': # Alan Turing's Birthday
-    title: '💻 Remembering Alan Turing'
-    description: 'Honoring Alan Turing (1912-1954), pioneer of computer science and artificial intelligence.'
+  "06-23": # Alan Turing's Birthday
+    title: "💻 Remembering Alan Turing"
+    description: "Honoring Alan Turing (1912-1954), pioneer of computer science and artificial intelligence."
 
   # Holidays
-  '07-04': # Independence Day
-    title: '🎆 Happy Fourth of July!'
-    description: 'Celebrating Independence Day in the United States.'
+  "07-04": # Independence Day
+    title: "🎆 Happy Fourth of July!"
+    description: "Celebrating Independence Day in the United States."
 
-  '10-31': # Halloween
-    title: '🎃 Happy Halloween!'
-    description: 'Spooky space facts and cosmic mysteries.'
+  "10-31": # Halloween
+    title: "🎃 Happy Halloween!"
+    description: "Spooky space facts and cosmic mysteries."
 
-  '12-25': # Christmas
-    title: '🎄 Merry Christmas!'
-    description: 'Celebrating the holidays with cosmic wonder.'
+  "12-25": # Christmas
+    title: "🎄 Merry Christmas!"
+    description: "Celebrating the holidays with cosmic wonder."
