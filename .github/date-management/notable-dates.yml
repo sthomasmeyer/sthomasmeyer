@@ -1,8 +1,11 @@
 dates:
   '01-18':
-    title: 'Today is Muhammad Ali's Birthday!'
-    description: 'Float like a butterfly, sting like a bee; the hands can't hit what the eyes can't see. - Muhammad Ali'
-    bash_script: 'january/muhammad-ali-birthday.sh'
+    title: 'Testing, testing...'
+    description: 'This is a test.'
+  # '01-18':
+  #   title: 'Today is Muhammad Ali's Birthday!'
+  #   description: 'Float like a butterfly, sting like a bee; the hands can't hit what the eyes can't see. - Muhammad Ali'
+  #   bash_script: 'january/muhammad-ali-birthday.sh'
 
   # Scientists & Computing Pioneers
   '04-30': # Claude Shannon's Birthday
