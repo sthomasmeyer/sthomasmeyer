@@ -24,9 +24,10 @@ check_date() {
         echo "description=$DESCRIPTION"
         return 0
     else
-        echo "Debug: No match for $CURRENT_DATE in $CONFIG_FILE"
-        echo "is_notable_date=false"
-        return 1
+        echo "Error: No match for $CURRENT_DATE in $CONFIG_FILE"
+        exit 1
+        # echo "is_notable_date=false"
+        # return 1
     fi
 }
 
