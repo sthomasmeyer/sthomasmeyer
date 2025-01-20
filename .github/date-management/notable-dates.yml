@@ -3,33 +3,252 @@
 ## In the descriptions, remember to precede them with a YAML escape character ('), a single apostraphe.
 
 dates:
+  # January
+  '01-01':
+    title: 'Bell Labs (1925)'
+    description: 'On January 1, 1925, Bell Telephone Laboratories, Inc. was organized to consolidate the development and research activities in the communication field and allied sciences for the Bell System.'
+    bash_script: ''
+
+  # Note, Hewlett-Packard was also founded on January 1, 1939.
+
+  '01-03':
+    title: 'Bitcoin Genesis Block'
+    description: "Bitcoin's genesis block contains the now-famous message 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks'. This message is a reference to the deteriorating financial conditions of that time and the rationale for creating Bitcoin."
+    bash_script: ''
+
+  '01-09':
+    title: 'Steve Jobs Announces the 1st iPhone (2007) at Macworld in San Francisco'
+    description: ''
+    bash_script: ''
+
+  '01-15':
+    title: 'Jimmy Wales and Larry Sanger Introduce Wikipedia (2001)'
+    description: ''
+    bash_script: ''
+
+  '01-16':
+    title: 'Netflix Introduces Streaming (2007)'
+    description: ''
+    bash_script: ''
+
   '01-17':
-    title: "Celebrating Muhammad Ali's Birthday!"
+    title: 'Celebrating Muhammad Ali (1942 - 2016)'
     description: "Float like a butterfly, sting like a bee; the hands can''t hit what the eyes can''t see. - Muhammad Ali"
     bash_script: 'january/muhammad-ali-birthday.sh'
 
-  # Scientists & Computing Pioneers
-  '04-30': # Claude Shannon's Birthday
-    title: "🧮 Celebrating Claude Shannon's Birthday!"
+  # Note, Benjamin Franklin's Birthday is also January 17.
+
+  '01-18':
+    title: 'Colossus Mark 1 is Delivered to Bletchley Park (1944)'
+    description: ''
+    bash_script: ''
+
+  '01-20':
+    title: 'Barack Obama is Sworn in as the 44th President of the United States of America (2009)'
+    description: ''
+    bash_script: 'january/obama-inaguration-day.sh'
+
+  # Note, Amazon DynamoDB was released by Werner Vogels (CTO at Amazon) on January 18, 2012.
+
+  '01-31':
+    title: 'Luis Suarez joins Liverpool FC (2011)'
+    description: ''
+    bash_script: ''
+
+  # February
+  '02-04':
+    title: 'Mark Zuckerberg Launches Facebook (2004)'
+    description: ''
+    bash_script: ''
+
+  '02-14':
+    title: 'Steve Chen, Chad Hurley, and Jawed Karim Found YouTube (2005)'
+    description: ''
+    bash_script: ''
+
+  # March
+  '03-31':
+    title: 'Celebrating Johann Sebastian Bach (1685 - 1750)'
+    description: ''
+    bash_script: ''
+
+  # April
+  '04-01':
+    title: 'Steve Jobs, Steve Wozniak, and Ronald Wayne Found Apple Computer, Inc. (1976)'
+    description: ''
+    bash_script: ''
+
+  '04-04':
+    title: 'Bill Gates and Paul Allen Found Microsoft (1975)'
+    description: ''
+    bash_script: ''
+
+  '04-29':
+    title: 'Paul Baran - Digital Packet Switching'
+    description: "Paul Baran, computer technologist and entrepreneur was responsible for one of the fundamental concepts that enable today's advanced computer networking systems: digital packet-switching."
+    bash_script: ''
+
+  '04-30':
+    title: 'Celebrating Claude Shannon (1916 - 2001)'
     description: 'Today we celebrate Claude Shannon (1916-2001), the father of information theory.'
+    bash_script: ''
 
-  '05-11': # Richard Feynman's Birthday
-    title: '⚛️ Happy Birthday, Richard Feynman!'
+  # May
+  '05-05':
+    title: 'Gladiator (2000) is Released in the United States and Canada'
+    description: ''
+    bash_script: ''
+
+  '05-11':
+    title: 'Celebrating Richard Feynman (1918 - 1988)'
     description: 'Celebrating the life of Richard Feynman (1918-1988), renowned physicist and educator.'
+    bash_script: ''
 
-  '06-23': # Alan Turing's Birthday
-    title: '💻 Remembering Alan Turing'
+  '05-15':
+    title: 'Shrek 2 (2004) Premiers at Cannes Film Festival'
+    description: ''
+    bash_script: ''
+
+  '05-17':
+    title: 'Happy Birthday Alan Kay, the Father of Object-oriented Programming!'
+    description: ''
+    bash_script: ''
+
+  # June
+  '06-18':
+    title: 'Happy Birthday Tim Berners-Lee!'
+    descripttion: ''
+    bash_script: ''
+
+  '06-21':
+    title: 'June (Summer) Solstice'
+    description: ''
+    bash_script: ''
+
+  '06-23':
+    title: 'Celebrating Alan Turing (1912 - 1954)'
     description: 'Honoring Alan Turing (1912-1954), pioneer of computer science and artificial intelligence.'
+    bash_script: ''
 
-  # Holidays
-  '07-04': # Independence Day
-    title: '🎆 Happy Fourth of July!'
+  '06-26':
+    title: "Harry Potter and the Sorcerer's Stone (1997) by J.K. Rowling"
+    description: ''
+    bash_script: ''
+
+  '06-28':
+    title: 'Gavrilo Princip Assassinates Franz Ferdinand!'
+    description: ''
+    bash_script: ''
+
+  '06-29':
+    title: 'Facebook (Meta) Open-sources React at JS Conf 2013'
+    description: ''
+    bash_script: ''
+
+  '06-30':
+    title: 'Happy Birthday Thomas Sowell!'
+    description: ''
+    bash_script: ''
+
+  # July
+  '07-04':
+    title: 'Happy Fourth of July!'
     description: 'Celebrating Independence Day in the United States.'
+    bash_script: ''
 
-  '10-31': # Halloween
-    title: '🎃 Happy Halloween!'
-    description: 'Spooky space facts and cosmic mysteries.'
+  '07-05':
+    title: 'Jeff Bezos Founds Amazon (1994)'
+    description: ''
+    bash_script: ''
 
-  '12-25': # Christmas
+  '07-29':
+    title: 'The Lord of the Rings: The Fellowship of the Ring (1954) by J.R.R. Tolkien'
+    description: ''
+    bash_script: ''
+
+  # August
+  '08-16':
+    title: 'Britain Sends the United States an Inagural Message via Transatlantic Telegraph Cable'
+    description: ''
+    bash_script: ''
+
+  # September
+  '09-04':
+    title: 'Larry Page and Sergey Brin Found Google, Inc. (1998)'
+    description: ''
+    bash_script: ''
+
+  '09-14':
+    title: 'Human Action: A Treatise on Economics (1949) by Ludwig von Mises'
+    description: ''
+    bash_script: ''
+
+  '09-18':
+    title: 'Rush Hour (1998)'
+    description: ''
+    bash_script: ''
+
+  '09-22':
+    title: 'Polish Striker, Robert Lewandowski Scores 5 Goals in 9 minutes for Bayern Munich'
+    description: ''
+    bash_script: ''
+
+  '09-29':
+    title: 'Celbrating Enrico Fermi (1901 - 1954)'
+    description: ''
+    bash_script: ''
+
+  # October
+  '10-04':
+    title: "The Soviet Union Launches Earth's 1st Artificial Satellite, Sputnik"
+    description: ''
+    bash_script: ''
+
+  '10-15':
+    title: 'Ken Thompson and Dennis Ritchie Present the UNIX Operating System to the World at the 1973 Symposium on Operating Systems Principles'
+    description: ''
+    bash_script: ''
+
+  '10-29':
+    title: "The 1st ARPANET Message: 'LO'"
+    description: ''
+    bash_script: ''
+
+  '10-31':
+    title: "Martin Luther's Ninety-five Theses"
+    description: ''
+    bash_script: ''
+
+  # November
+  '11-02':
+    title: 'Celebrating George Boole (1815 - 1864)'
+    description: ''
+    bash_script: ''
+
+  '11-27':
+    title: 'Bruce Lee - Actor, Martial Artist, and Cultural Icon (1940 - 1973)'
+    description: ''
+    bash_script: ''
+
+  # December
+  '12-07':
+    title: 'Attack on Pearl Harbor (1941)'
+    description: 'A date which will live in infamy.'
+    bash_script: ''
+
+  '12-21':
+    title: 'December (Winter) Solstice'
+    description: ''
+    bash_script: ''
+
+  '12-25':
     title: '🎄 Merry Christmas!'
     description: 'Celebrating the holidays with cosmic wonder.'
+    bash_script: ''
+
+  '12-28':
+    title: 'Happy Birthday Linus Torvalds!'
+    description: ''
+    bash_script: ''
+
+  # Note, John von Neumann (1903 - 1957) was also born on Deceber 28.

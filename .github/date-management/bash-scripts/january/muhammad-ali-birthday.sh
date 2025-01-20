@@ -1,5 +1,5 @@
 #!/bin/bash
-# .github/date-management/bash-scripts/january/nba-all-star-game.sh
+# .github/date-management/bash-scripts/january/muhammad-ali-birthday.sh
 
 source .github/date-management/utilities/gen-notable-date-header.sh
 
