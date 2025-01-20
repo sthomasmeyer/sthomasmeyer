@@ -1,5 +1,5 @@
 #!/bin/bash
-# .github/date-management/bash-scripts/obama-inaguration-day.sh
+# .github/date-management/bash-scripts/january/obama-inauguration-day.sh
 
 source .github/date-management/utilities/gen-notable-date-header.sh
 
