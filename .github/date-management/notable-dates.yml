@@ -1,101 +1,147 @@
 # Apostraphe Guidelines ::
-## Refrain from using apostraphes in the notable date title fields.
-## In the descriptions, remember to precede them with a YAML escape character ('), a single apostraphe.
+## Remember to precede them with a YAML escape character ('), a single apostraphe.
 
 dates:
   # January
   '01-01':
-    title: 'Bell Labs (1925)'
+    title: 'Days of January 1st Past: Bell Labs (1925), Hewlett-Packard (1939), and Agner K. Erlang (1878)'
     description: 'On January 1, 1925, Bell Telephone Laboratories, Inc. was organized to consolidate the development and research activities in the communication field and allied sciences for the Bell System.'
     bash_script: ''
 
-  # Note, Hewlett-Packard was also founded on January 1, 1939.
-
   '01-03':
-    title: 'Bitcoin Genesis Block'
-    description: "Bitcoin's genesis block contains the now-famous message 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks'. This message is a reference to the deteriorating financial conditions of that time and the rationale for creating Bitcoin."
+    title: 'Days of January 3rd Past: The Bitcoin Genesis Block'
+    description: "Bitcoin's genesis block contains the now-famous message: 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.' This message references the deteriorating financial conditions of that time and the rationale for creating Bitcoin."
+    bash_script: ''
+
+  '01-04':
+    title: 'Days of January 4th Past: Isaac Newton (1643)'
+    description: ''
     bash_script: ''
 
   '01-09':
-    title: 'Steve Jobs Announces the 1st iPhone (2007) at Macworld in San Francisco'
+    title: 'Days of January 9th Past: Steve Jobs Announces the 1st iPhone (2007) at Macworld in San Francisco'
     description: ''
     bash_script: ''
 
   '01-15':
-    title: 'Jimmy Wales and Larry Sanger Introduce Wikipedia (2001)'
+    title: 'Days of January 15th Past: Jimmy Wales and Larry Sanger Introduce Wikipedia (2001)'
     description: ''
     bash_script: ''
 
   '01-16':
-    title: 'Netflix Introduces Streaming (2007)'
+    title: 'Days of January 16th Past: Netflix Introduces Streaming (2007)'
     description: ''
     bash_script: ''
 
   '01-17':
-    title: 'Celebrating Muhammad Ali (1942 - 2016)'
-    description: "Float like a butterfly, sting like a bee; the hands can''t hit what the eyes can''t see. - Muhammad Ali"
+    title: 'Days of January 17th Past: Benjamin Franklin (1706) and Muhammad Ali (1942)'
+    description: "Float like a butterfly, sting like a bee; the hands can't hit what the eyes can't see. - Muhammad Ali"
     bash_script: 'january/muhammad-ali-birthday.sh'
 
-  # Note, Benjamin Franklin's Birthday is also January 17.
-
   '01-18':
-    title: 'Colossus Mark 1 is Delivered to Bletchley Park (1944)'
+    title: 'Days of January 18th Past: Colossus Mark 1 is Delivered to Bletchley Park (1944)'
     description: ''
     bash_script: ''
 
   '01-20':
-    title: 'Barack Obama is Sworn in as the 44th President of the United States of America (2009)'
+    title: 'Days of January 20th Past: Eisenhower (1953), Obama (2009), and DynamoDB (2012)'
     description: ''
-    bash_script: 'january/obama-inaguration-day.sh'
+    bash_script: 'january/obama-inauguration-day.sh'
 
-  # Note, Amazon DynamoDB was released by Werner Vogels (CTO at Amazon) on January 18, 2012.
+  # Barack Obama is sworn in as the 44th President of the United States of America (2009)
+  # Amazon DynamoDB was released by Werner Vogels (CTO at Amazon) on January 18, 2012.
 
   '01-31':
-    title: 'Luis Suarez joins Liverpool FC (2011)'
+    title: 'Days of January 31st Past: Luis Suárez Joins Liverpool FC (2011)'
     description: ''
     bash_script: ''
 
   # February
   '02-04':
-    title: 'Mark Zuckerberg Launches Facebook (2004)'
+    title: 'Days of February 4th Past: Facebook (2004)'
+    description: ''
+    bash_script: ''
+
+  '02-11':
+    title: 'Days of February 11th Past: Thomas Edison (1847)'
     description: ''
     bash_script: ''
 
   '02-14':
-    title: 'Steve Chen, Chad Hurley, and Jawed Karim Found YouTube (2005)'
+    title: 'Days of February 14th Past: Navstar II-1 (1989) and YouTube (2005)'
+    description: 'Steve Checn, Chad Hurley, and Jawed Karim founded YouTube on this day in 2005.'
+    bash_script: ''
+
+  '02-22':
+    title: 'Days of February 22nd Past: Miracle on Ice (1980)'
     description: ''
     bash_script: ''
 
   # March
+  '03-14':
+    title: 'SpaceX (2002)'
+    description: ''
+    bash_script: ''
+
+  '03-15':
+    title: 'Days of March 15th Past: Julius Caesar and the Ides of March (44 BC)'
+    description: ''
+    bash_script: ''
+
+  '03-30':
+    title: 'Days of March 30th Past: Vincent van Gogh (1853)'
+    description: ''
+    bash_script: ''
+
   '03-31':
-    title: 'Celebrating Johann Sebastian Bach (1685 - 1750)'
+    title: 'Days of March 31st Past: Johann Sebastian Bach (1685)'
     description: ''
     bash_script: ''
 
   # April
   '04-01':
-    title: 'Steve Jobs, Steve Wozniak, and Ronald Wayne Found Apple Computer, Inc. (1976)'
-    description: ''
+    title: 'Days of April 1st Past: Otto von Bismark (1815) and Apple Computer, Inc. (1976)'
+    description: 'Steve Jobs, Steve Wozniak, and Ronald Wayne founded Apple on this day in 1976.'
     bash_script: ''
 
   '04-04':
-    title: 'Bill Gates and Paul Allen Found Microsoft (1975)'
+    title: 'Days of April 4th Past: Microsoft (1975)'
+    description: 'Bill Gates and Paul Allen founded Microsoft on this day in 1975.'
+    bash_script: ''
+
+  '04-23':
+    title: 'Days of April 23rd Past: William Shakespeare (1564)'
+    description: ''
+    bash_script: ''
+
+  '04-26':
+    title: 'Days of April 26th Past: Marcus Aurelius (121 AD)'
+    description: ''
+    bash_script: ''
+
+  '04-28':
+    title: 'Days of April 28th Past: Kurt Gödel (1906)'
     description: ''
     bash_script: ''
 
   '04-29':
-    title: 'Paul Baran - Digital Packet Switching'
+    title: 'Days of April 29th Past: Paul Baran (1926) and CERN (1954)'
     description: "Paul Baran, computer technologist and entrepreneur was responsible for one of the fundamental concepts that enable today's advanced computer networking systems: digital packet-switching."
     bash_script: ''
 
   '04-30':
-    title: 'Celebrating Claude Shannon (1916 - 2001)'
+    title: 'Days of April 30th Past: Claude Shannon (1916)'
     description: 'Today we celebrate Claude Shannon (1916-2001), the father of information theory.'
     bash_script: ''
 
   # May
   '05-05':
-    title: 'Gladiator (2000) is Released in the United States and Canada'
+    title: 'Days of May 5th Past: Gladiator (2000)'
+    description: ''
+    bash_script: ''
+
+  '05-07':
+    title: 'Days of May 7th Past: Liverpool vs. Barcelona (2019)'
     description: ''
     bash_script: ''
 
@@ -110,11 +156,36 @@ dates:
     bash_script: ''
 
   '05-17':
-    title: 'Happy Birthday Alan Kay, the Father of Object-oriented Programming!'
+    title: 'Days of May 17th Past: Alan Kay (1940) and Random Access Memories (2013)'
+    description: ''
+    bash_script: ''
+
+  '05-22':
+    title: 'Days of May 22nd Past: Ethernet (1973)'
+    description: ''
+    bash_script: ''
+
+  '05-25':
+    title: 'Days of May 25th Past: The Miracle of Istanbul (2005)'
     description: ''
     bash_script: ''
 
   # June
+  '06-11':
+    title: 'Days of June 11th Past: Michael Jordan (1997)'
+    description: ''
+    bash_script: ''
+
+  '06-16':
+    title: 'Days of June 16th Past: IBM (1911)'
+    description: ''
+    bash_script: ''
+
+  '06-17':
+    title: 'Days of June 17th Past: M.C. Escher (1898)'
+    description: ''
+    bash_script: ''
+
   '06-18':
     title: 'Happy Birthday Tim Berners-Lee!'
     descripttion: ''
@@ -126,7 +197,7 @@ dates:
     bash_script: ''
 
   '06-23':
-    title: 'Celebrating Alan Turing (1912 - 1954)'
+    title: 'Days of June 23rd Past: Alan Turing (1912) and Vint Cerf (1943)'
     description: 'Honoring Alan Turing (1912-1954), pioneer of computer science and artificial intelligence.'
     bash_script: ''
 
@@ -151,13 +222,38 @@ dates:
     bash_script: ''
 
   # July
+  '07-01':
+    title: 'Days of July 1st Past: Gottfried W. Leibniz (1646) and Xerox PARC (1970)'
+    description: ''
+    bash_script: ''
+
   '07-04':
     title: 'Happy Fourth of July!'
     description: 'Celebrating Independence Day in the United States.'
     bash_script: ''
 
   '07-05':
-    title: 'Jeff Bezos Founds Amazon (1994)'
+    title: 'Days of July 5th Past: Amazon (1994)'
+    description: 'Jeff Bezos founded Amazon on this day in 1994.'
+    bash_script: ''
+
+  '07-08':
+    title: 'Days of July 8th Past: John D. Rockefeller (1839)'
+    description: ''
+    bash_script: ''
+
+  '07-10':
+    title: 'Days of July 10th Past: Nikola Tesla (1856)'
+    description: ''
+    bash_script: ''
+
+  '07-15':
+    title: 'Days of July 15th Past: Rembrandt (1606)'
+    description: ''
+    bash_script: ''
+
+  '07-20':
+    title: 'Days of July 20th Past: Alexander the Great (356 BC)'
     description: ''
     bash_script: ''
 
@@ -167,12 +263,22 @@ dates:
     bash_script: ''
 
   # August
+  '08-15':
+    title: ''
+    description: ''
+    bash_script: ''
+
   '08-16':
     title: 'Britain Sends the United States an Inagural Message via Transatlantic Telegraph Cable'
     description: ''
     bash_script: ''
 
   # September
+  '09-02':
+    title: 'Days of September 2nd Past: Google Chrome (2008)'
+    description: ''
+    bash_script: ''
+
   '09-04':
     title: 'Larry Page and Sergey Brin Found Google, Inc. (1998)'
     description: ''
@@ -193,8 +299,18 @@ dates:
     description: ''
     bash_script: ''
 
+  '09-24':
+    title: 'Days of September 24th Past: Superforecasting (2015)'
+    description: ''
+    bash_script: ''
+
+  '09-28':
+    title: 'Days of September 28th Past: Pokemon Red and Blue (1998)'
+    description: ''
+    bash_script: ''
+
   '09-29':
-    title: 'Celbrating Enrico Fermi (1901 - 1954)'
+    title: 'Days of September 29th Past: Enrico Fermi (1901)'
     description: ''
     bash_script: ''
 
@@ -204,8 +320,18 @@ dates:
     description: ''
     bash_script: ''
 
+  '10-05':
+    title: 'Days of October 5th Past: Sidney Crosby (2005)'
+    description: ''
+    bash_script: ''
+
   '10-15':
     title: 'Ken Thompson and Dennis Ritchie Present the UNIX Operating System to the World at the 1973 Symposium on Operating Systems Principles'
+    description: ''
+    bash_script: ''
+
+  '10-16':
+    title: 'Days of October 16th Past: Disney (1923), Skunk Works (1943), and The Lion, the Witch and the Wardrobe (1950)'
     description: ''
     bash_script: ''
 
@@ -247,8 +373,11 @@ dates:
     bash_script: ''
 
   '12-28':
-    title: 'Happy Birthday Linus Torvalds!'
+    title: 'Days of December 28th Past: John von Neumann (1903) and Linus Torvalds (1969)'
     description: ''
     bash_script: ''
 
-  # Note, John von Neumann (1903 - 1957) was also born on Deceber 28.
+  '12-31':
+    title: 'Days of December 31st Past: MIT Radiation Laboratory (1945)'
+    description: ''
+    bash_scripts: ''
