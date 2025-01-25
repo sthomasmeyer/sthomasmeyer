@@ -79,7 +79,7 @@ dates:
 
   # March
   '03-14':
-    title: 'SpaceX (2002)'
+    title: 'Days of March 14th Past: SpaceX (2002)'
     description: ''
     bash_script: ''
 
@@ -107,6 +107,11 @@ dates:
   '04-04':
     title: 'Days of April 4th Past: Microsoft (1975)'
     description: 'Bill Gates and Paul Allen founded Microsoft on this day in 1975.'
+    bash_script: ''
+
+  '04-07':
+    title: 'Days of April 7th Past: Bob Metcalfe (1946)'
+    description: ''
     bash_script: ''
 
   '04-23':
@@ -146,13 +151,13 @@ dates:
     bash_script: ''
 
   '05-11':
-    title: 'Celebrating Richard Feynman (1918 - 1988)'
+    title: 'Days of May 11th Past: Richard Feynman (1918)'
     description: 'Celebrating the life of Richard Feynman (1918-1988), renowned physicist and educator.'
     bash_script: ''
 
   '05-15':
-    title: 'Shrek 2 (2004) Premiers at Cannes Film Festival'
-    description: ''
+    title: 'Days of May 15th Past: Shrek 2 (2004)'
+    description: 'Shrek 2 (2004) Premiers at Cannes Film Festival'
     bash_script: ''
 
   '05-17':
@@ -167,6 +172,11 @@ dates:
 
   '05-25':
     title: 'Days of May 25th Past: The Miracle of Istanbul (2005)'
+    description: ''
+    bash_script: ''
+
+  '06-08':
+    title: 'Days of June 8th Past: Tim Berners-Lee (1955)'
     description: ''
     bash_script: ''
 
@@ -186,11 +196,6 @@ dates:
     description: ''
     bash_script: ''
 
-  '06-18':
-    title: 'Happy Birthday Tim Berners-Lee!'
-    descripttion: ''
-    bash_script: ''
-
   '06-21':
     title: 'June (Summer) Solstice'
     description: ''
@@ -202,22 +207,22 @@ dates:
     bash_script: ''
 
   '06-26':
-    title: "Harry Potter and the Sorcerer's Stone (1997) by J.K. Rowling"
+    title: "Days of June 26th Past: Harry Potter and the Sorcerer's Stone (1997)"
     description: ''
     bash_script: ''
 
   '06-28':
-    title: 'Gavrilo Princip Assassinates Franz Ferdinand!'
-    description: ''
+    title: 'Days of June 28th Past: Gavrilo Princip (1914)'
+    description: 'On this fateful day in 1914, Gavrilo Princip assassinated Archduke Franz Ferdinand of Austria-Hungary.'
     bash_script: ''
 
   '06-29':
-    title: 'Facebook (Meta) Open-sources React at JS Conf 2013'
-    description: ''
+    title: 'Days of June 29th Past: React (2013)'
+    description: 'On this day, Facebook (Meta) open-sourced React at JS Conf 2013.'
     bash_script: ''
 
   '06-30':
-    title: 'Happy Birthday Thomas Sowell!'
+    title: 'Days of June 30th Past: Thomas Sowell (1930)'
     description: ''
     bash_script: ''
 
@@ -242,6 +247,11 @@ dates:
     description: ''
     bash_script: ''
 
+  '07-09':
+    title: 'Days of July 9th Past: Marc Andreessen (1971)'
+    description: ''
+    bash_script: ''
+
   '07-10':
     title: 'Days of July 10th Past: Nikola Tesla (1856)'
     description: ''
@@ -258,19 +268,19 @@ dates:
     bash_script: ''
 
   '07-29':
-    title: 'The Lord of the Rings: The Fellowship of the Ring (1954) by J.R.R. Tolkien'
-    description: ''
+    title: 'Days of July 29th Past: The Fellowship of the Ring (1954)'
+    description: 'On this day in 1954, J.R.R. Tolkien published The Lord of the Rings: The Fellowship of the Ring.'
     bash_script: ''
 
   # August
   '08-15':
-    title: ''
-    description: ''
+    title: 'Days of August 15th Past: Napoleon (1769)'
+    description: 'Napoleon Bonaparte, French emperor and military general, was born today on the island of Corsica in 1769.'
     bash_script: ''
 
   '08-16':
-    title: 'Britain Sends the United States an Inagural Message via Transatlantic Telegraph Cable'
-    description: ''
+    title: 'Days of August 16th Past: The First Transatlantic Telegraph Message (1858)'
+    description: 'Europe and America are united by telegraphic communication. Glory to God in the highest, on earth peace, goodwill to men.'
     bash_script: ''
 
   # September
@@ -280,23 +290,23 @@ dates:
     bash_script: ''
 
   '09-04':
-    title: 'Larry Page and Sergey Brin Found Google, Inc. (1998)'
-    description: ''
+    title: 'Days of September 4th Past: Google, Inc. (1998)'
+    description: 'On this day in 1998, Larry Page and Sergey Brin founded Google, Inc.'
     bash_script: ''
 
   '09-14':
-    title: 'Human Action: A Treatise on Economics (1949) by Ludwig von Mises'
-    description: ''
+    title: 'Days of September 14th Past: Human Action (1949)'
+    description: 'On this day in 1949, Ludwig von Mises published Human Action: A Treatise on Economics'
     bash_script: ''
 
   '09-18':
-    title: 'Rush Hour (1998)'
+    title: 'Days of September 18th Past: Rush Hour (1998)'
     description: ''
     bash_script: ''
 
   '09-22':
-    title: 'Polish Striker, Robert Lewandowski Scores 5 Goals in 9 minutes for Bayern Munich'
-    description: ''
+    title: 'Days of September 22nd Past: Robert Lewandowski (2015)'
+    description: 'On this day in 2015, Polish Striker, Robert Lewandowski scored 5 goals in 9 minutes for Bayern Munich in a Bundesliga match against Wolfsburg.'
     bash_script: ''
 
   '09-24':
@@ -316,8 +326,8 @@ dates:
 
   # October
   '10-04':
-    title: "The Soviet Union Launches Earth's 1st Artificial Satellite, Sputnik"
-    description: ''
+    title: 'Days of October 4th Past: Sputnik 1 (1957)'
+    description: "On this day in 1957, the Soviet Union launched the world's first artificial satellite, Sputnik 1."
     bash_script: ''
 
   '10-05':
@@ -326,8 +336,8 @@ dates:
     bash_script: ''
 
   '10-15':
-    title: 'Ken Thompson and Dennis Ritchie Present the UNIX Operating System to the World at the 1973 Symposium on Operating Systems Principles'
-    description: ''
+    title: 'Days of October 15th Past: UNIX (1973)'
+    description: 'On this day, Ken Thompson and Dennis Ritchie presented the UNIX operating system at the 1973 Symposium on Operating Systems Principles.'
     bash_script: ''
 
   '10-16':
@@ -336,29 +346,29 @@ dates:
     bash_script: ''
 
   '10-29':
-    title: "The 1st ARPANET Message: 'LO'"
-    description: ''
+    title: 'Days of October 29th Past: The First ARPANET Message (1969)'
+    description: "On this day, UCLA computer science student, Charley Kline, sent the first ARPANET message ('LO') to the Stanford Research Institute's computer in Menlo Park, California."
     bash_script: ''
 
   '10-31':
-    title: "Martin Luther's Ninety-five Theses"
-    description: ''
+    title: 'Days of October 31st Past: 95 Theses (1517)'
+    description: 'On this day, Martin Luther nailed his 95 Theses to the church door in Wittenberg, Germany, an act that sparked the Protestant Reformation and changed the course of religious history.'
     bash_script: ''
 
   # November
   '11-02':
-    title: 'Celebrating George Boole (1815 - 1864)'
+    title: 'Days of November 2nd Past: George Boole (1815)'
     description: ''
     bash_script: ''
 
   '11-27':
-    title: 'Bruce Lee - Actor, Martial Artist, and Cultural Icon (1940 - 1973)'
-    description: ''
+    title: 'Days of November 27th Past: Bruce Lee (1940)'
+    description: 'On this day, Bruce Lee - actor, martial artist, and cultural icon - was born.'
     bash_script: ''
 
   # December
   '12-07':
-    title: 'Attack on Pearl Harbor (1941)'
+    title: 'Days of December 7th Past: Pearl Harbor (1941)'
     description: 'A date which will live in infamy.'
     bash_script: ''
 
@@ -369,7 +379,7 @@ dates:
 
   '12-25':
     title: '🎄 Merry Christmas!'
-    description: 'Celebrating the holidays with cosmic wonder.'
+    description: 'Merry Christmas to all, and to all a good night.'
     bash_script: ''
 
   '12-28':
@@ -380,4 +390,4 @@ dates:
   '12-31':
     title: 'Days of December 31st Past: MIT Radiation Laboratory (1945)'
     description: ''
-    bash_scripts: ''
+    bash_script: ''
