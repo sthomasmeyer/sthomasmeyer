@@ -1,11 +1,12 @@
 #!/bin/bash
-# .github/date-management/bash-scripts/april/paul-baran-and-cern.sh
+# .github/date-management/april/bash-scripts/paul-baran-and-cern.sh
 
 source .github/date-management/utilities/gen-notable-date-header.sh
 
 output_file="README.md"
 date="04-29"
-networks_image_path=".github/date-management/images/centralized-decentralized-and-distributed-networks.webp"
+networks_image_path=".github/date-management/april/images/centralized-decentralized-and-distributed-networks.webp"
+world_wide_web_proposal_image_path=".github/date-management/april/images/tim-berners-lee-world-wide-web-proposal-page-one.jpg"
 
 gen_notable_date_header "$date" "$output_file"
 
