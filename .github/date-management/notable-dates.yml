@@ -5,7 +5,7 @@ dates:
   # January
   '01-01':
     title: 'Days of January 1st Past: Bell Labs (1925), Hewlett-Packard (1939), and Agner K. Erlang (1878)'
-    description: 'On January 1, 1925, Bell Telephone Laboratories, Inc. was organized to consolidate the development and research activities in the communication field and allied sciences for the Bell System.'
+    description: 'On January 1, 1925, Bell Telephone Laboratories, Inc. was organized to consolidate research and development for the Bell System. This date also saw Bill Hewlett and Dave Packard found Hewlett-Packard in 1939. Additionally, Agner K. Erlang, the Danish mathematician who pioneered queueing theory and transformed our understanding of telephone network operations, was born on this day in 1878.'
     bash_script: ''
 
   '01-03':
@@ -15,7 +15,7 @@ dates:
 
   '01-04':
     title: 'Days of January 4th Past: Isaac Newton (1643)'
-    description: ''
+    description: 'Today we celebrate Sir Isaac Newton (1643 - 1727), an English polymath who invented calculus and formulated the theory of universal gravity - the latter in his _Principia_, a work that laid the foundation for modern physical science.'
     bash_script: ''
 
   '01-09':
@@ -25,12 +25,12 @@ dates:
 
   '01-15':
     title: 'Days of January 15th Past: Jimmy Wales and Larry Sanger Introduce Wikipedia (2001)'
-    description: ''
+    description: 'On this day in 2001, Jimmy Wales and Larry Sanger launched Wikipedia: The free, collaborative online encyclopedia that transformed global knowledge sharing.'
     bash_script: ''
 
   '01-16':
     title: 'Days of January 16th Past: Netflix Introduces Streaming (2007)'
-    description: ''
+    description: 'On this day in 2007, Netflix introduced its streaming service, forever changing how people consume movies and TV shows.'
     bash_script: ''
 
   '01-17':
@@ -39,17 +39,16 @@ dates:
     bash_script: 'january/muhammad-ali-birthday.sh'
 
   '01-18':
-    title: 'Days of January 18th Past: Colossus Mark 1 is Delivered to Bletchley Park (1944)'
-    description: ''
+    title: 'Days of January 18th Past: Colossus Mark 1 (1944) and DynamoDB (2012)'
+    description: "On this day in 1944, Colossus Mark 1, the world's first programmable electronic computer, was delivered to Bletchley Park. This date also saw the launch of Amazon's DynamoDB in 2012, revolutionizing cloud database services."
     bash_script: ''
 
-  '01-20':
-    title: 'Days of January 20th Past: Eisenhower (1953), Obama (2009), and DynamoDB (2012)'
-    description: ''
-    bash_script: 'january/obama-inauguration-day.sh'
-
-  # Barack Obama is sworn in as the 44th President of the United States of America (2009)
   # Amazon DynamoDB was released by Werner Vogels (CTO at Amazon) on January 18, 2012.
+
+  '01-20':
+    title: 'Days of January 20th Past: Obama (2009)'
+    description: "On this day in 2009, Barack Obama was sworn in as the 44th President of the United States, becoming the nation's first Black president."
+    bash_script: 'january/obama-inauguration-day.sh'
 
   '01-31':
     title: 'Days of January 31st Past: Luis Suárez Joins Liverpool FC (2011)'
@@ -59,7 +58,7 @@ dates:
   # February
   '02-04':
     title: 'Days of February 4th Past: Facebook (2004)'
-    description: ''
+    description: 'On this day in 2004, Mark Zuckerberg launched TheFacebook.com from his Harvard University dorm room.'
     bash_script: ''
 
   '02-11':
@@ -74,23 +73,23 @@ dates:
 
   '02-22':
     title: 'Days of February 22nd Past: Miracle on Ice (1980)'
-    description: ''
+    description: "On this day in 1980, the U.S. Men's Ice Hockey team defeated the heavily favored Soviet Union 4-3 in the 'Miracle on Ice', a medal-round game at the Lake Placid Winter Olympics."
     bash_script: ''
 
   # March
   '03-14':
     title: 'Days of March 14th Past: SpaceX (2002)'
-    description: ''
+    description: 'On this day in 2002, Elon Musk founded SpaceX (Space Exploration Technologies Corp.), a private aerospace company that would go on to evolutionize space travel and become the first to successfully launch and return a spacecraft from Earth orbit.'
     bash_script: ''
 
   '03-15':
     title: 'Days of March 15th Past: Julius Caesar and the Ides of March (44 BC)'
-    description: ''
+    description: 'veni, vidi, vici'
     bash_script: ''
 
   '03-30':
     title: 'Days of March 30th Past: Vincent van Gogh (1853)'
-    description: ''
+    description: 'Today we celebrate Vincent van Gogh (1853 - 1890), a Dutch Post-Impressionist painter whose bold colors and expressive brushwork left a lasting mark on Western art.'
     bash_script: ''
 
   '03-31':
@@ -332,6 +331,11 @@ dates:
 
   '10-05':
     title: 'Days of October 5th Past: Sidney Crosby (2005)'
+    description: ''
+    bash_script: ''
+
+  '10-14':
+    title: 'Days of October 14th Past: Dwight D. Eisenhower (1890)'
     description: ''
     bash_script: ''
 
