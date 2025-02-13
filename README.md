@@ -1,10 +1,10 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2025-02-12 11:20:57 UTC_
+_Updated: 2025-02-13 01:54:21 UTC_
 
 ## Asteroid Bennu Holds the Building Blocks of Life
 
-![Asteroid Bennu Holds the Building Blocks of Life](https://www.youtube.com/embed/ukCSRYcjSQw?rel=0)
+[![Watch Video](https://img.youtube.com/vi/https://www.youtube.com/embed/ukCSRYcjSQw?rel=0/0.jpg)](https://www.youtube.com/embed/ukCSRYcjSQw?rel=0)
 
 ### Description
 
