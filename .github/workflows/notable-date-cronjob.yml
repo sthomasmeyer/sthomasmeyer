@@ -101,7 +101,13 @@ jobs:
           echo "" >> README.md
           echo "## ${{ steps.nasa-fetch.outputs.nasa_title }}" >> README.md
           echo "" >> README.md
-          echo "![${{ steps.nasa-fetch.outputs.nasa_title }}](${{ steps.nasa-fetch.outputs.nasa_url }})" >> README.md
+
+          if [[ "${{ steps.nasa-fetch.outputs.nasa_media_type }}" == "image" ]]; then
+            echo "![${{ steps.nasa-fetch.outputs.nasa_title }}](${{ steps.nasa-fetch.outputs.nasa_url }})" >> README.md
+          else 
+            echo "[![Watch Video](https://img.youtube.com/vi/$(echo ${{ steps.nasa-fetch.outputs.nasa_url }} | sed 's/.*v=\([^&]*\).*/\1/')/0.jpg)](${{ steps.nasa-fetch.outputs.nasa_url }})" >> README.md
+          fi
+
           echo "" >> README.md
           echo "### Description" >> README.md
           echo "" >> README.md
