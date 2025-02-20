@@ -50,6 +50,7 @@ jobs:
           echo "nasa_title=$(echo "$response" | jq -r '.title')" >> $GITHUB_OUTPUT
           echo "nasa_url=$(echo "$response" | jq -r '.url')" >> $GITHUB_OUTPUT
           echo "nasa_explanation=$(echo "$response" | jq -r '.explanation')" >> $GITHUB_OUTPUT
+          echo "nasa_media_type=$(echo "$response" | jq -r '.media_type')" >> $GITHUB_OUTPUT
 
       - name: Get BASH Script Path
         if: steps.date-check.outputs.is_notable_date == 'true'
