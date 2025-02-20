@@ -1,10 +1,10 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2025-02-20 11:21:01 UTC_
+_Updated: 2025-02-20 14:46:36 UTC_
 
 ## Messier 87
 
-[![Watch Video](https://img.youtube.com/vi/https://apod.nasa.gov/apod/image/2502/m87-full_1024.jpg/0.jpg)](https://apod.nasa.gov/apod/image/2502/m87-full_1024.jpg)
+![Messier 87](https://apod.nasa.gov/apod/image/2502/m87-full_1024.jpg)
 
 ### Description
 
