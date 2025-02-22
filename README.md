@@ -1,11 +1,6 @@
-# NASA Astronomy Picture of the Day
+# Days of February 22nd Past: Miracle on Ice (1980)
 
-_Updated: 2025-02-21 11:22:13 UTC_
+_Updated: 2025-02-22 11:18:31 UTC_
 
-## Hubble's Andromeda Galaxy Mosaic
+On this day in 1980, the U.S. Men's Ice Hockey team defeated the heavily favored Soviet Union 4-3 in the 'Miracle on Ice', a medal-round game at the Lake Placid Winter Olympics.
 
-![Hubble's Andromeda Galaxy Mosaic](https://apod.nasa.gov/apod/image/2502/M31_HubbleMosaicCrop.jpg)
-
-### Description
-
-The largest photomosaic ever assembled from Hubble Space Telescope image data is a panoramic view of our neighboring spiral Andromeda Galaxy. With 600 overlapping frames assembled from observations made from July 2010 to December 2022, the full Hubble Andromeda Galaxy mosaic spans almost six full moons across planet Earth's sky. A cropped version shown above is nearly two full moons across and partially covers Andromeda's core and inner spiral arms. Also known as M31, the Andromeda Galaxy is 2.5 million light-years away. That makes it the closest large spiral galaxy to our own Milky Way. Our perspective on the spiral Milky Way is anchored to the view from the location of the Sun, a star found within the Milky Way's galactic disk. But Hubble's magnificent Andromeda mosaic offers an expansive view of a large spiral galaxy from the outside looking in. Hubble's comprehensive, detailed data set extending across the Andromeda Galaxy will allow astronomers to make an unprecedented holistic exploration of the mysteries of spiral galaxy structure and evolution.
