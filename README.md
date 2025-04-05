@@ -1,6 +1,11 @@
-# Days of April 4th Past: Microsoft (1975)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2025-04-04 11:23:56 UTC_
+_Updated: 2025-04-05 11:20:34 UTC_
 
-Bill Gates and Paul Allen founded Microsoft on this day in 1975.
+## The Gargoyles' Eclipse
 
+![The Gargoyles' Eclipse](https://apod.nasa.gov/apod/image/2504/NDGargoylesEclipse_kulik.jpg)
+
+### Description
+
+In dramatic silhouette against a cloudy daytime sky over Paris, France, gargoyles cast their monstrous gaze outward from the west facade of Notre Dame Cathedral.  Taken on March 29, this telephoto snapshot also captures the dramatic silhouette of a New Moon against the bright solar disk in a partial solar eclipse. Happening high in Parisian skies, the partial eclipse was close to its maximum phase of about 23 percent. Occurring near the end of the first eclipse season of 2025, this partial solar eclipse followed the total eclipse of the Full Moon on March 13/14. The upcoming second eclipse season of 2025 will see a total lunar eclipse on September 7/8 and partial solar eclipse on September 21. The partial solar eclipse will be seen only from locations in planet Earth's southern hemisphere.
