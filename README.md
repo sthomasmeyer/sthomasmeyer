@@ -1,11 +1,6 @@
-# NASA Astronomy Picture of the Day
+# Days of April 26th Past: Marcus Aurelius (121 AD)
 
-_Updated: 2025-04-25 11:23:20 UTC_
+_Updated: 2025-04-26 11:20:56 UTC_
 
-## Asteroid Donaldjohanson
 
-![Asteroid Donaldjohanson](https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png)
 
-### Description
-
-Main belt asteroid 52246 Donaldjohanson is about 8 kilometers long and 3.5 kilometers across. On April 20, this sharp close-up of the asteroid was captured at a distance of about 1100 kilometers by the Lucy spacecraft's long range camera during its second asteroid encounter. Named after American paleoanthropologist Donald Johanson, discoverer of the Lucy hominid fossil, the elongated asteroid was likely formed about 150 million years ago from a gentle collision of two smaller bodies creating its characteristic contact binary shape. Launched in October of 2021, the Lucy spacecraft will continue its travels through the main asteroid belt in 2025, but is on its way to explore Jupiter's swarm of Trojan asteroids. Lucy is expected to encounter its first Trojan asteroid target, 3548 Eurybates, in August 2027.
