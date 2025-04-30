@@ -1,6 +1,6 @@
-# Days of April 29th Past: Paul Baran (1926) and CERN (1954)
+# Days of April 30th Past: Claude Shannon (1916)
 
-_Updated: 2025-04-29 11:23:29 UTC_
+_Updated: 2025-04-30 11:23:04 UTC_
 
-Paul Baran, computer technologist and entrepreneur was responsible for one of the fundamental concepts that enable today's advanced computer networking systems: digital packet-switching.
+Today we celebrate Claude Shannon (1916-2001), the father of information theory.
 
