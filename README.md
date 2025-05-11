@@ -1,11 +1,6 @@
-# NASA Astronomy Picture of the Day
+# Days of May 11th Past: Richard Feynman (1918)
 
-_Updated: 2025-05-10 11:22:47 UTC_
+_Updated: 2025-05-11 11:21:07 UTC_
 
-## Yogi and Friends in 3D
+Celebrating the life of Richard Feynman (1918-1988), renowned physicist and educator.
 
-![Yogi and Friends in 3D](https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg)
-
-### Description
-
-This picture from July 1997 shows a ramp from the Pathfinder lander, the Sojourner robot rover, deflated landing airbags, a couch, Barnacle Bill and Yogi Rock appear together in this 3D stereo view of the surface of Mars. Barnacle Bill is the rock just left of the house cat-sized, solar-paneled Sojourner. Yogi is the big friendly-looking boulder at top right. The couch is the angular rock shape visible near center on the horizon. Look at the image with red/blue glasses (or just hold a piece of clear red plastic over your left eye and blue or green over your right) to get the dramatic 3D perspective. The stereo view was recorded by the remarkable Imager for Mars Pathfinder (IMP) camera. The IMP had two optical paths for stereo imaging and ranging and was equipped with an array of color filters for spectral analysis.  Operating as the first astronomical observatory on Mars, the IMP also recorded images of the Sun and Deimos, the smallest of Mars' two tiny moons.
