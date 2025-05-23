@@ -1,6 +1,11 @@
-# Days of May 22nd Past: Ethernet (1973)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2025-05-22 11:23:55 UTC_
+_Updated: 2025-05-23 11:23:37 UTC_
 
+## NGC 6366 vs 47 Ophiuchi
 
+![NGC 6366 vs 47 Ophiuchi](https://apod.nasa.gov/apod/image/2505/NGC6366_1024.jpg)
 
+### Description
+
+Most globular star clusters roam the halo of our Milky Way galaxy, but globular cluster NGC 6366 lies close to the galactic plane. About 12,000 light-years away toward the constellation Ophiuchus, the cluster's starlight is dimmed and reddened by the Milky Way's interstellar dust when viewed from planet Earth. As a result, the stars of NGC 6366 look almost golden in this telescopic scene, especially when seen next to relatively bright, bluish, and nearby star 47 Ophiuchi. Compared to the hundred thousand stars or so gravitationally bound in distant NGC 6366, 47 Oph itself is a binary star system  a mere 100 light-years away. Still, the co-orbiting stars of 47 Oph are too close together to be individually distinguished in the image.
