@@ -1,6 +1,6 @@
-# Days of June 16th Past: IBM (1911)
+# Days of June 17th Past: M.C. Escher (1898)
 
-_Updated: 2025-06-16 11:25:12 UTC_
+_Updated: 2025-06-17 11:24:31 UTC_
 
 
 
