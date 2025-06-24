@@ -1,6 +1,11 @@
-# Days of June 23rd Past: Alan Turing (1912) and Vint Cerf (1943)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2025-06-23 11:25:30 UTC_
+_Updated: 2025-06-24 11:25:28 UTC_
 
-Honoring Alan Turing (1912-1954), pioneer of computer science and artificial intelligence.
+## In the Center of Spiral Galaxy M61
 
+![In the Center of Spiral Galaxy M61](https://apod.nasa.gov/apod/image/2506/M61_HubbleEsoGendler_960.jpg)
+
+### Description
+
+Is there a spiral galaxy in the center of this spiral galaxy? Sort of.  Image data from the Hubble Space Telescope, the European Southern Observatory, and smaller telescopes on planet Earth are combined in this detailed portrait of face-on spiral galaxy Messier 61 (M61) and its bright center. A mere 55 million light-years away in the Virgo Cluster of Galaxies, M61 is also known as NGC 4303.  It's considered to be an example of a barred spiral galaxy similar to our own Milky Way.  Like other spiral galaxies, M61 also features sweeping spiral arms, cosmic dust lanes, pinkish star forming regions, and young blue star clusters.  Its core houses an active supermassive black hole surrounded by a bright nuclear spiral -- infalling star-forming gas that itself looks like a separate spiral galaxy.    APOD Turns 30!: Free public lecture in Cork, Ireland TONIGHT (Tuesday) at 7 pm
