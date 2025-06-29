@@ -1,6 +1,6 @@
-# Days of June 28th Past: Gavrilo Princip (1914)
+# Days of June 29th Past: React (2013)
 
-_Updated: 2025-06-28 11:23:09 UTC_
+_Updated: 2025-06-29 11:22:43 UTC_
 
-On this fateful day in 1914, Gavrilo Princip assassinated Archduke Franz Ferdinand of Austria-Hungary.
+On this day, Facebook (Meta) open-sourced React at JS Conf 2013.
 
