@@ -1,6 +1,6 @@
-# Days of June 29th Past: React (2013)
+# Days of June 30th Past: Thomas Sowell (1930)
 
-_Updated: 2025-06-29 11:22:43 UTC_
+_Updated: 2025-06-30 11:25:10 UTC_
 
-On this day, Facebook (Meta) open-sourced React at JS Conf 2013.
+
 
