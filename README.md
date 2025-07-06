@@ -1,6 +1,11 @@
-# Days of July 5th Past: Amazon (1994)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2025-07-05 11:22:34 UTC_
+_Updated: 2025-07-06 11:23:47 UTC_
 
-Jeff Bezos founded Amazon on this day in 1994.
+## The Spiral North Pole of Mars
 
+![The Spiral North Pole of Mars](https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg)
+
+### Description
+
+Why is there a spiral around the North Pole of Mars?  Each winter this pole develops a new outer layer about one meter thick composed of carbon dioxide frozen out of the thin Martian atmosphere.  This fresh layer is deposited on a water-ice layer that exists year round.  Strong winds blow down from above the cap's center and swirl due to the spin of the red planet -- contributing to Planum Boreum's spiral structure.  The featured image is a perspective mosaic generated in 2017 from numerous images taken by ESA's Mars Express and elevations extracted from the laser altimeter aboard NASA's Mars Global Surveyor mission.
