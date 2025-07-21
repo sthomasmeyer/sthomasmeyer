@@ -1,6 +1,11 @@
-# Days of July 20th Past: Alexander the Great (356 BC)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2025-07-20 11:24:29 UTC_
+_Updated: 2025-07-21 11:27:38 UTC_
 
+## Cat's Paw Nebula from Webb Space Telescope
 
+![Cat's Paw Nebula from Webb Space Telescope](https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_960.jpg)
 
+### Description
+
+Nebulas are perhaps as famous for being identified with familiar shapes as perhaps cats are for getting into trouble.  Still, no known cat could have created the vast Cat's Paw Nebula visible toward the constellation of the Scorpion  (Scorpius).  At 5,700 light years distant, Cat's Paw is an emission nebula within a larger molecular cloud.  Alternatively known as the Bear Claw Nebula and cataloged as NGC 6334, stars nearly ten times the mass of our Sun have been born there in only the past few million years. Pictured here is a recently released image of the Cat's Paw taken in infrared light by the James Webb Space Telescope.  This newly detailed view into the nebula helps provide insight for how turbulent molecular clouds turn gas into stars.    Explore Your Universe: Random APOD Generator
