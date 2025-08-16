@@ -1,6 +1,6 @@
-# Days of August 15th Past: Napoleon (1769)
+# Days of August 16th Past: The First Transatlantic Telegraph Message (1858)
 
-_Updated: 2025-08-15 11:24:31 UTC_
+_Updated: 2025-08-16 11:22:42 UTC_
 
-Napoleon Bonaparte, French emperor and military general, was born today on the island of Corsica in 1769.
+Europe and America are united by telegraphic communication. Glory to God in the highest, on earth peace, goodwill to men.
 
