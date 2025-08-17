@@ -1,6 +1,11 @@
-# Days of August 16th Past: The First Transatlantic Telegraph Message (1858)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2025-08-16 11:22:42 UTC_
+_Updated: 2025-08-17 11:23:07 UTC_
 
-Europe and America are united by telegraphic communication. Glory to God in the highest, on earth peace, goodwill to men.
+## Asperitas Clouds Over New Zealand
 
+![Asperitas Clouds Over New Zealand](https://apod.nasa.gov/apod/image/2508/asperatus_priester_1024.jpg)
+
+### Description
+
+What kind of clouds are these? Although their cause is presently unknown, such unusual atmospheric structures, as menacing as they might seem, do not appear to be harbingers of meteorological doom. Formally recognized as a distinct cloud type only last year, asperitas clouds can be stunning in appearance, unusual in occurrence, and are relatively unstudied. Whereas most low cloud decks are flat bottomed, asperitas clouds appear to have significant vertical structure underneath. Speculation therefore holds that asperitas clouds might be related to lenticular clouds that form near mountains, or mammatus clouds associated with thunderstorms, or perhaps a foehn -- a type of dry downward wind that flows off mountains. Clouds from such a wind called the Canterbury arch stream toward the east coast of New Zealand's South Island. The featured image, taken above Hanmer Springs in Canterbury, New Zealand in 2005, shows great detail partly because sunlight illuminates the undulating clouds from the side.
