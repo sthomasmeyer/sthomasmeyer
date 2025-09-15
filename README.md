@@ -1,6 +1,11 @@
-# Days of September 14th Past: Human Action (1949)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2025-09-14 11:18:59 UTC_
+_Updated: 2025-09-15 11:22:18 UTC_
 
-On this day in 1949, Ludwig von Mises published Human Action: A Treatise on Economics
+## Earth During a Powerful Solar Storm
 
+[![Watch Video](https://img.youtube.com/vi/null/0.jpg)](null)
+
+### Description
+
+Can our Sun become dangerous? Yes, sometimes. Every few years our Sun ejects a scary-large bubble of hot gas into the Solar System.  Every hundred years or so, when the timing, location, and magnetic field connections are just right, such a Coronal Mass Ejection (CME) will hit the Earth. When this happens, the Earth not only experiences dramatic auroras, but its magnetic field gets quickly pushed back and compressed, which causes electric grids to surge. Some of these surges could be dangerous, affecting satellites and knocking out power grids -- which can take months to fix.  Just such a storm -- called the Carrington Event -- occurred in 1859 and caused telegraph wires to spark. A similar CME passed near the Earth in 2012, and the featured animated video shows a computer model of what might have happened if it had been a direct hit.  In this model, the Earth's magnetopause becomes so compressed that it went inside the orbit of  geosynchronous communication satellites.
