@@ -1,11 +1,6 @@
-# NASA Astronomy Picture of the Day
+# Days of September 22nd Past: Robert Lewandowski (2015)
 
-_Updated: 2025-09-21 11:19:45 UTC_
+_Updated: 2025-09-22 11:23:36 UTC_
 
-## Equinox Sunset
+On this day in 2015, Polish Striker, Robert Lewandowski scored 5 goals in 9 minutes for Bayern Munich in a Bundesliga match against Wolfsburg.
 
-![Equinox Sunset](https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_1080.jpg)
-
-### Description
-
-Does the Sun set in the same direction every day? No, the direction of sunset depends on the time of the year. Although the Sun always sets approximately toward the west, on an equinox like today the Sun sets directly toward the west. After tomorrow's September equinox, the Sun will set increasingly toward the southwest, reaching its maximum displacement at the December solstice.  Before today's September equinox, the Sun had set toward the northwest, reaching its maximum displacement at the June solstice. The featured time-lapse image shows seven bands of the Sun setting one day each month from 2019 December through 2020 June.  These image sequences were taken from Alberta, Canada -- well north of the Earth's equator -- and feature the city of Edmonton in the foreground.  The middle band shows the Sun setting during the last equinox -- in March.  From this location, the Sun will set along this same equinox band again tomorrow.
