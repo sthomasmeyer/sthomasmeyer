@@ -1,6 +1,6 @@
-# Days of September 28th Past: Pokemon Red and Blue (1998)
+# Days of September 29th Past: Enrico Fermi (1901)
 
-_Updated: 2025-09-28 11:19:37 UTC_
+_Updated: 2025-09-29 11:23:06 UTC_
 
 
 
