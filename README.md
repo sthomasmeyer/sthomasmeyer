@@ -1,10 +1,10 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2025-10-01 11:24:00 UTC_
+_Updated: 2025-10-02 11:21:08 UTC_
 
-## NGC 6960: The Witch's Broom Nebula
+## Astronomy Picture of the Day
 
-![NGC 6960: The Witch's Broom Nebula](https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg)
+![Astronomy Picture of the Day](https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg)
 
 ### Description
 
