@@ -1,6 +1,6 @@
-# Days of October 4th Past: Sputnik 1 (1957)
+# Days of October 5th Past: Sidney Crosby (2005)
 
-_Updated: 2025-10-04 11:19:23 UTC_
+_Updated: 2025-10-05 11:19:29 UTC_
 
-On this day in 1957, the Soviet Union launched the world's first artificial satellite, Sputnik 1.
+
 
