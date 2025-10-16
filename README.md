@@ -1,6 +1,6 @@
-# Days of October 15th Past: UNIX (1973)
+# Days of October 16th Past: Disney (1923), Skunk Works (1943), and The Lion, the Witch and the Wardrobe (1950)
 
-_Updated: 2025-10-15 11:23:23 UTC_
+_Updated: 2025-10-16 11:24:12 UTC_
 
-On this day, Ken Thompson and Dennis Ritchie presented the UNIX operating system at the 1973 Symposium on Operating Systems Principles.
+
 
