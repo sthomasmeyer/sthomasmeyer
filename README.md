@@ -1,6 +1,11 @@
-# Days of October 16th Past: Disney (1923), Skunk Works (1943), and The Lion, the Witch and the Wardrobe (1950)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2025-10-16 11:24:12 UTC_
+_Updated: 2025-10-17 11:24:12 UTC_
 
+## 
+
+[![Watch Video](https://img.youtube.com/vi//0.jpg)]()
+
+### Description
 
 
