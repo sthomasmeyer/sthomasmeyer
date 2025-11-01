@@ -1,6 +1,11 @@
-# Days of October 31st Past: 95 Theses (1517)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2025-10-31 11:23:20 UTC_
+_Updated: 2025-11-01 11:21:09 UTC_
 
-On this day, Martin Luther nailed his 95 Theses to the church door in Wittenberg, Germany, an act that sparked the Protestant Reformation and changed the course of religious history.
+## Astronomy Picture of the Day
 
+![Astronomy Picture of the Day](https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg)
+
+### Description
+
+Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.
