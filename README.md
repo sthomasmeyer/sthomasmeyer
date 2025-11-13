@@ -1,6 +1,6 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2025-11-12 11:25:29 UTC_
+_Updated: 2025-11-13 11:25:52 UTC_
 
 ## Astronomy Picture of the Day
 
