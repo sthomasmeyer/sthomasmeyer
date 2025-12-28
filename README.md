@@ -1,11 +1,6 @@
-# NASA Astronomy Picture of the Day
+# Days of December 28th Past: John von Neumann (1903) and Linus Torvalds (1969)
 
-_Updated: 2025-12-27 11:25:00 UTC_
+_Updated: 2025-12-28 11:25:14 UTC_
 
-## Apollo 17's Moonship
 
-![Apollo 17's Moonship](https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk1024.jpg)
 
-### Description
-
-Awkward and angular looking, Apollo 17's lunar module Challenger was designed for flight in the near vacuum of space.  Digitally enhanced and reprocessed, this picture taken from Apollo 17's command module America shows Challenger's ascent stage in lunar orbit. Small reaction control thrusters are at the sides of the moonship with the bell of the ascent rocket engine underneath. The hatch that allowed access to the lunar surface is seen at the front, with a round radar antenna at the top. Mission commander Gene Cernan is clearly visible through the triangular window. This spaceship performed gracefully, landing on the Moon and returning the Apollo astronauts to the orbiting command module in December of 1972. So where is Challenger now?  While its descent stage remains at the Apollo 17 landing site in the Taurus-Littrow valley, the ascent stage pictured was intentionally crashed nearby after being jettisoned from the command module prior to the astronauts' return to planet Earth.
