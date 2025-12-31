@@ -1,11 +1,6 @@
-# NASA Astronomy Picture of the Day
+# Days of December 31st Past: MIT Radiation Laboratory (1945)
 
-_Updated: 2025-12-30 11:28:19 UTC_
+_Updated: 2025-12-31 11:27:14 UTC_
 
-## An Artificial Comet
 
-![An Artificial Comet](https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_1080.jpg)
 
-### Description
-
-Yes, but can your comet tail do this? No, and what you are seeing is not the tail of a comet. The picture features a cleverly overlayed time-lapse sequence of a group of satellites orbiting Earth together in June. Specifically, these are Starlink communications satellites in low Earth orbit reflecting back sunlight before sunrise to Inner Mongolia, China. Although the satellites appear to the human eye as points, the 20-second-long camera exposures caused them to appear as short streaks. Currently there are over 9000 Starlinks in orbit, with more being launched nearly every week.  Other satellite constellations are also being planned.   Explore the Universe: Random APOD Generator
