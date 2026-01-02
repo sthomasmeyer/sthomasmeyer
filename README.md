@@ -1,6 +1,11 @@
-# Days of January 1st Past: Bell Labs (1925), Hewlett-Packard (1939), and Agner K. Erlang (1878)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-01 11:26:55 UTC_
+_Updated: 2026-01-02 11:26:53 UTC_
 
-On January 1, 1925, Bell Telephone Laboratories, Inc. was organized to consolidate research and development for the Bell System. This date also saw Bill Hewlett and Dave Packard found Hewlett-Packard in 1939. Additionally, Agner K. Erlang, the Danish mathematician who pioneered queueing theory and transformed our understanding of telephone network operations, was born on this day in 1878.
+## NanoSail-D2
 
+![NanoSail-D2](https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png)
+
+### Description
+
+In 2011, on January 20, NASA's NanoSail-D2 unfurled a very thin and very reflective 10 square meter sail becoming the first solar sail spacecraft in low Earth orbit. Often considered the stuff of science fiction, sailing through space was suggested 400 years ago by astronomer Johannes Kepler, who had observed comet tails blown by the solar wind. But modern solar sail spacecraft designs, like NanoSail-D2, Japan's interplanetary spacecraft IKAROS, or the Planetary Society's Lightsail A, rely on the small but continuous pressure from sunlight itself for thrust. Glinting in the sunlight as it circled planet Earth, NanoSail-D2's solar sail was periodically bright and visible to the eye. These remarkably detailed images were captured by manually tracking the orbiting solar sail spacecraft with a small telescope.
