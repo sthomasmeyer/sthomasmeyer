@@ -1,11 +1,6 @@
-# NASA Astronomy Picture of the Day
+# Days of January 3rd Past: The Bitcoin Genesis Block
 
-_Updated: 2026-01-02 11:26:53 UTC_
+_Updated: 2026-01-03 11:25:03 UTC_
 
-## NanoSail-D2
+Bitcoin's genesis block contains the now-famous message: 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.' This message references the deteriorating financial conditions of that time and the rationale for creating Bitcoin.
 
-![NanoSail-D2](https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png)
-
-### Description
-
-In 2011, on January 20, NASA's NanoSail-D2 unfurled a very thin and very reflective 10 square meter sail becoming the first solar sail spacecraft in low Earth orbit. Often considered the stuff of science fiction, sailing through space was suggested 400 years ago by astronomer Johannes Kepler, who had observed comet tails blown by the solar wind. But modern solar sail spacecraft designs, like NanoSail-D2, Japan's interplanetary spacecraft IKAROS, or the Planetary Society's Lightsail A, rely on the small but continuous pressure from sunlight itself for thrust. Glinting in the sunlight as it circled planet Earth, NanoSail-D2's solar sail was periodically bright and visible to the eye. These remarkably detailed images were captured by manually tracking the orbiting solar sail spacecraft with a small telescope.
