@@ -1,6 +1,6 @@
-# Days of January 3rd Past: The Bitcoin Genesis Block
+# Days of January 4th Past: Isaac Newton (1643)
 
-_Updated: 2026-01-03 11:25:03 UTC_
+_Updated: 2026-01-04 11:25:05 UTC_
 
-Bitcoin's genesis block contains the now-famous message: 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.' This message references the deteriorating financial conditions of that time and the rationale for creating Bitcoin.
+Today we celebrate Sir Isaac Newton (1643 - 1727), an English polymath who invented calculus and formulated the theory of universal gravity - the latter in his _Principia_, a work that laid the foundation for modern physical science.
 
