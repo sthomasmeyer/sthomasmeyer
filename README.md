@@ -1,11 +1,6 @@
-# NASA Astronomy Picture of the Day
+# Days of January 9th Past: The iPhone (2007)
 
-_Updated: 2026-01-08 11:31:47 UTC_
+_Updated: 2026-01-09 03:01:02 UTC_
 
-## 
-
-[![Watch Video](https://img.youtube.com/vi//0.jpg)]()
-
-### Description
-
+On this day, Steve Jobs announced the 1st iPhone at Macworld (2007) in San Francisco.
 
