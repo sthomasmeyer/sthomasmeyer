@@ -1,6 +1,6 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-11 11:26:32 UTC_
+_Updated: 2026-01-12 11:31:38 UTC_
 
 ## 
 
