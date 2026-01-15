@@ -1,22 +1,24 @@
 # Days of January 15th Past: Jimmy Wales and Larry Sanger Introduce Wikipedia (2001)
 
-_Updated: 2026-01-15 14:51:13 UTC_
+_Updated: 2026-01-15 15:07:17 UTC_
 
 On this day in 2001, Jimmy Wales and Larry Sanger launched Wikipedia: The free, collaborative online encyclopedia that transformed global knowledge sharing.
 
 ---
 
-## Plato and the Lunar Alps
+## NASA Astronomy Picture of the Day
+
+### Plato and the Lunar Alps
 
 ![Plato and the Lunar Alps](https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr1024.jpg)
 
 The dark-floored, 95 kilometer wide crater Plato and sunlit peaks of the lunar Alps (Montes Alpes) are highlighted in this this sharp telescopic snapshot of the Moon's surface. While the Alps of planet Earth were uplifted over millions of years as continental plates slowly collided, the lunar Alps were likely formed by a sudden collision that created the giant impact basin known as the Mare Imbrium or Sea of Rains. The mare's generally smooth, lava-flooded floor is seen below the bordering mountain range. The prominent straight feature cutting through the mountains is the lunar Alpine Valley (Vallis Alpes). Joining the Mare Imbrium and northern Mare Frigoris (Sea of Cold) the valley extends toward the upper right, about 160 kilometers long and up to 10 kilometers wide. Of course, the large, bright lunar alpine mountain below and right of Plato crater is named Mont Blanc. Lacking an atmosphere, not to mention snow, the lunar Alps are probably not an ideal location for a winter vacation. Still, a 150 pound skier would weigh a mere 25 pounds on the Moon.
+
 ---
 
-## Word(s) of the Day
+## Words of the Day
 
 ![Dictionary.com](https://img.shields.io/badge/Dictionary.com-007bff?style=flat-square&logoColor=white)
-
 ### sagittate
 *adjective* •  /[saj-i-teyt]/
 
@@ -29,7 +31,6 @@ shaped like an arrowhead
 
 
 ![Britannica](https://img.shields.io/badge/Britannica-002244?style=flat-square&logoColor=white)
-
 ### extracurricular
 *adjective*
 
@@ -41,7 +42,6 @@ Relating to activities or studies that are not part of the regular academic curr
 
 
 ![Merriam-Webster](https://img.shields.io/badge/Merriam-Webster-dd2e1f?style=flat-square&logoColor=white)
-
 ### cloying
 *adjective* •  /KLOY-ing/
 
