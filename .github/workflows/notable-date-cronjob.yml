@@ -6,7 +6,7 @@ on:
   schedule:
     # GitHub Actions schedule operates on UTC time. Cronjobs expect the following five values, in order:
     # Minute (0-59), Hour (0-23), Day of the Month (1-31), Month (1-12), Day of the Week (0-6)
-    - cron: '11 11 * * *'
+    - cron: "11 11 * * *"
   workflow_dispatch: # Allows manual triggering of the workflow via the GitHub Actions interface.
 
 # Workflows are made up of one or more jobs that define tasks to be run. Each job runs independently.
@@ -34,44 +34,47 @@ jobs:
           done < <(.github/date-management/check-date.sh)
 
       - name: Fetch NASA Picture of the Day
+        # We fetch the NASA APOD daily, as it is a constant source of wonder and inspiration.
+        # This step is now intentional and unconditional, ensuring the cosmos is always part of our day.
         id: nasa-fetch
-        if: steps.date-check.outputs.is_notable_date != 'true'
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
         run: |
-          echo 'Fetching NASA Picture of the Day'
+          echo "Initiating fetch: NASA Astronomy Picture of the Day"
           response=$(curl -s "https://api.nasa.gov/planetary/apod?api_key=$NASA_API_KEY")
+
+          # Validation is key to a flawless experience.
           if [[ $(echo "$response" | jq -r '.code // empty') == "400" ]]; then
-            echo "Error: Bad request or invalid API key"
+            echo "Error: Bad request or invalid API key. We must strive for perfection."
             exit 1
           fi
 
-          # Store NASA data for use in next steps
+          # We capture these attributes with precision for use in our final presentation.
           echo "nasa_title=$(echo "$response" | jq -r '.title')" >> $GITHUB_OUTPUT
           echo "nasa_url=$(echo "$response" | jq -r '.url')" >> $GITHUB_OUTPUT
           echo "nasa_explanation=$(echo "$response" | jq -r '.explanation')" >> $GITHUB_OUTPUT
           echo "nasa_media_type=$(echo "$response" | jq -r '.media_type')" >> $GITHUB_OUTPUT
 
-      - name: Get BASH Script Path
+      - name: Get BASH Script Path for Notable Date
+        # If today is a day of significance, we seek the specific narrative crafted for it.
         if: steps.date-check.outputs.is_notable_date == 'true'
         id: get-bash-script
         run: |
           CURRENT_DATE="${{ steps.date-check.outputs.current_date }}"
-          MONTH=$(echo $CURRENT_DATE | cut -d'-' -f1)
-          MONTH_NAME=$(date -d "2024-${MONTH}-01" '+%B' | tr '[:upper:]' '[:lower:]')
-
+          # We resolve the script path, ensuring we only execute what is intentional.
           SCRIPT_PATH=$(yq ".dates.[\"$CURRENT_DATE\"].bash_script" .github/date-management/notable-dates.yml)
 
           if [[ -z "$SCRIPT_PATH" || "$SCRIPT_PATH" == "null" ]]; then
-            echo "No BASH script specified for this date. Using default description."
+            echo "No custom script found. We will rely on our elegant fallback."
             echo "use_default=true" >> $GITHUB_OUTPUT
           else
-            echo "Script Found: $SCRIPT_PATH"
+            echo "Narrative script identified: $SCRIPT_PATH"
             echo "use_default=false" >> $GITHUB_OUTPUT
             echo "script_path=.github/date-management/bash-scripts/$SCRIPT_PATH" >> $GITHUB_OUTPUT
           fi
 
-      - name: Execute Notable Date Script
+      - name: Execute Notable Date Narrative
+        # Here we let the specific history of the day lead the README.
         if: steps.date-check.outputs.is_notable_date == 'true' && steps.get-bash-script.outputs.use_default == 'false'
         run: |
           SCRIPT_PATH="${{ steps.get-bash-script.outputs.script_path }}"
@@ -79,11 +82,12 @@ jobs:
             chmod +x "$SCRIPT_PATH"
             "$SCRIPT_PATH"
           else
-            echo "Error: Script not found at $SCRIPT_PATH"
+            echo "Critical failure: Script missing at $SCRIPT_PATH. Excellence requires presence."
             exit 1
           fi
 
       - name: Create Fallback Notable Date Content
+        # When a custom script is absent, we provide a clean, essential starting point.
         if: steps.date-check.outputs.is_notable_date == 'true' && steps.get-bash-script.outputs.use_default == 'true'
         run: |
           echo "# ${{ steps.date-check.outputs.title }}" > README.md
@@ -93,26 +97,171 @@ jobs:
           echo "${{ steps.date-check.outputs.description }}" >> README.md
           echo "" >> README.md
 
-      - name: Create Regular NASA Content
-        if: steps.date-check.outputs.is_notable_date != 'true'
+      - name: Append NASA APOD Content
+        # This is where we bring the universe to the README.
+        # If no notable date was present, we initialize the file.
+        # Otherwise, we append below a subtle, intentional separator.
         run: |
-          echo "# NASA Astronomy Picture of the Day" > README.md
-          echo "" >> README.md
-          echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
-          echo "" >> README.md
+          IS_NOTABLE="${{ steps.date-check.outputs.is_notable_date }}"
+
+          if [[ "$IS_NOTABLE" == "true" ]]; then
+            echo "---" >> README.md
+            echo "" >> README.md
+          else
+            # If there's no notable date, NASA leads the presentation.
+            echo "# NASA Astronomy Picture of the Day" > README.md
+            echo "" >> README.md
+            echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
+            echo "" >> README.md
+          fi
+
           echo "## ${{ steps.nasa-fetch.outputs.nasa_title }}" >> README.md
           echo "" >> README.md
 
+          # Design is not just what it looks like, but how it works. 
+          # We handle different media types with grace.
           if [[ "${{ steps.nasa-fetch.outputs.nasa_media_type }}" == "image" ]]; then
             echo "![${{ steps.nasa-fetch.outputs.nasa_title }}](${{ steps.nasa-fetch.outputs.nasa_url }})" >> README.md
           else 
+            # For video, we provide a beautiful preview.
             echo "[![Watch Video](https://img.youtube.com/vi/$(echo ${{ steps.nasa-fetch.outputs.nasa_url }} | sed 's/.*v=\([^&]*\).*/\1/')/0.jpg)](${{ steps.nasa-fetch.outputs.nasa_url }})" >> README.md
           fi
 
           echo "" >> README.md
-          echo "### Description" >> README.md
-          echo "" >> README.md
           echo "${{ steps.nasa-fetch.outputs.nasa_explanation }}" >> README.md
+
+      - name: Append Word of the Day Content
+        # "Words are things, and a small drop of ink, falling like dew..."
+        # We curate a daily selection from the world's best dictionaries.
+        env:
+          CASTLE_KEY: ${{ secrets.CASTLE_KEY }}
+        run: |
+          echo "Initiating fetch: All-Sources Word of the Day"
+
+          # We use a bearer token to access our diverse lexicon.
+          response=$(curl -s -H "Authorization: Bearer $CASTLE_KEY" "https://api.castles-in-the-sky.org/wotd/all")
+
+          # Graceful handling of the void.
+          if [[ -z "$response" || $(echo "$response" | jq -r '.code // empty') == "400" ]]; then
+             echo "Notice: WOTD fetch invalid or empty. Skipping section to maintain purity."
+             exit 0
+          fi
+
+          echo "---" >> README.md
+          echo "" >> README.md
+          echo "## Word(s) of the Day" >> README.md
+          echo "" >> README.md
+
+          # We parse and reorder the array to tell a story: Accessible -> Literary -> Comprehensive
+          # 1. Dictionary.com (007bff)
+          # 2. Britannica (002244)
+          # 3. Merriam-Webster (dd2e1f)
+
+          echo "$response" | jq -c '.[] | select(. != null)' | while read -r word_obj; do
+            source=$(echo "$word_obj" | jq -r '.source')
+            word=$(echo "$word_obj" | jq -r '.word')
+            pos=$(echo "$word_obj" | jq -r '.partOfSpeech // empty')
+            pronunciation=$(echo "$word_obj" | jq -r '.pronunciation // empty')
+            def=$(echo "$word_obj" | jq -r '.definition')
+            
+            # Use jq to extract complex nested fields safely
+            
+            # Assign sorting weight and display properties based on source
+            case "$source" in
+              "Dictionary.com")
+                weight=1
+                color="007bff"
+                badge_label="Dictionary.com"
+                ;;
+              "Britannica")
+                weight=2
+                color="002244"
+                badge_label="Britannica"
+                ;;
+              "Merriam-Webster")
+                weight=3
+                color="dd2e1f"
+                badge_label="Merriam-Webster"
+                ;;
+              *)
+                weight=99
+                color="gray"
+                badge_label="$source"
+                ;;
+            esac
+            
+            # Store data in a temp file with weight prefix for sorting
+            echo "${weight}|${color}|${badge_label}|${word}|${pos}|${pronunciation}|${def}|${word_obj}" >> wotd_temp.txt
+          done
+
+          # Sort by weight and generate markdown
+          if [[ -f wotd_temp.txt ]]; then
+            sort -n -t'|' -k1 wotd_temp.txt | while IFS='|' read -r weight color badge_label word pos pronunciation def json; do
+              
+              # Badge
+              echo "![${badge_label}](https://img.shields.io/badge/${badge_label}-${color}?style=flat-square&logoColor=white)" >> README.md
+              echo "" >> README.md
+              
+              # Word Line
+              echo "### ${word}" >> README.md
+              
+              # Subhead (POS + Pronunciation)
+              subhead=""
+              if [[ -n "$pos" ]]; then subhead="*$pos*"; fi
+              if [[ -n "$pronunciation" ]]; then 
+                 if [[ -n "$subhead" ]]; then subhead="$subhead • "; fi
+                 subhead="${subhead} /$pronunciation/"
+              fi
+              if [[ -n "$subhead" ]]; then echo "$subhead" >> README.md; fi
+              echo "" >> README.md
+              
+              # Definition
+              echo "$def" >> README.md
+              echo "" >> README.md
+              
+              # Source Specific Enrichment
+              if [[ "$badge_label" == "Dictionary.com" ]]; then
+                 explanation=$(echo "$json" | jq -r '.explanation // empty')
+                 example=$(echo "$json" | jq -r '.example // empty')
+                 
+                 if [[ -n "$explanation" ]]; then
+                   echo "> **Explanation**" >> README.md
+                   echo "> $explanation" >> README.md
+                   echo "" >> README.md
+                 fi
+                 if [[ -n "$example" ]]; then
+                   echo "> *\"$example\"*" >> README.md
+                   echo "" >> README.md
+                 fi
+                 
+              elif [[ "$badge_label" == "Britannica" ]]; then
+                 quote=$(echo "$json" | jq -r '.enrichment.quote // empty')
+                 author=$(echo "$json" | jq -r '.enrichment.author // empty')
+                 context_source=$(echo "$json" | jq -r '.enrichment.source // empty')
+                 
+                 if [[ -n "$quote" ]]; then
+                    echo "> **Literary Context**" >> README.md
+                    echo "> \"$quote\"" >> README.md
+                    if [[ -n "$author" ]]; then
+                       echo "> — **$author**, _$context_source_" >> README.md
+                    fi
+                    echo "" >> README.md
+                 fi
+                 
+              elif [[ "$badge_label" == "Merriam-Webster" ]]; then
+                 did_you_know=$(echo "$json" | jq -r '.didYouKnow // empty')
+                 if [[ -n "$did_you_know" ]]; then
+                    echo "> **Did You Know?**" >> README.md
+                    echo "> $did_you_know" >> README.md
+                    echo "" >> README.md
+                 fi
+              fi
+              
+              echo "" >> README.md
+            done
+            
+            rm wotd_temp.txt
+          fi
 
       - name: Commit and Push Changes
         run: |
