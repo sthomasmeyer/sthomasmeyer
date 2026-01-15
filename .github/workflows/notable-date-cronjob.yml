@@ -99,23 +99,24 @@ jobs:
 
       - name: Append NASA APOD Content
         # This is where we bring the universe to the README.
-        # If no notable date was present, we initialize the file.
-        # Otherwise, we append below a subtle, intentional separator.
+        # If no notable date was present, NASA leads. Otherwise, it follows with a section header.
         run: |
           IS_NOTABLE="${{ steps.date-check.outputs.is_notable_date }}"
 
           if [[ "$IS_NOTABLE" == "true" ]]; then
+            # Notable date leads; NASA follows as a section.
             echo "---" >> README.md
             echo "" >> README.md
+            echo "## NASA Astronomy Picture of the Day" >> README.md
           else
-            # If there's no notable date, NASA leads the presentation.
+            # NASA leads the presentation.
             echo "# NASA Astronomy Picture of the Day" > README.md
             echo "" >> README.md
             echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
-            echo "" >> README.md
           fi
 
-          echo "## ${{ steps.nasa-fetch.outputs.nasa_title }}" >> README.md
+          echo "" >> README.md
+          echo "### ${{ steps.nasa-fetch.outputs.nasa_title }}" >> README.md
           echo "" >> README.md
 
           # Design is not just what it looks like, but how it works. 
@@ -129,6 +130,7 @@ jobs:
 
           echo "" >> README.md
           echo "${{ steps.nasa-fetch.outputs.nasa_explanation }}" >> README.md
+          echo "" >> README.md
 
       - name: Append Word of the Day Content
         # "Words are things, and a small drop of ink, falling like dew..."
@@ -149,8 +151,9 @@ jobs:
 
           echo "---" >> README.md
           echo "" >> README.md
-          echo "## Word(s) of the Day" >> README.md
+          echo "## Words of the Day" >> README.md
           echo "" >> README.md
+
 
           # We parse and reorder the array to tell a story: Accessible -> Literary -> Comprehensive
           # 1. Dictionary.com (007bff)
@@ -198,11 +201,10 @@ jobs:
           if [[ -f wotd_temp.txt ]]; then
             sort -n -t'|' -k1 wotd_temp.txt | while IFS='|' read -r weight color badge_label word pos pronunciation def json; do
               
-              # Badge
+              # Badge - sits directly above its associated word
               echo "![${badge_label}](https://img.shields.io/badge/${badge_label}-${color}?style=flat-square&logoColor=white)" >> README.md
-              echo "" >> README.md
               
-              # Word Line
+              # Word Line - immediately follows the badge
               echo "### ${word}" >> README.md
               
               # Subhead (POS + Pronunciation)
