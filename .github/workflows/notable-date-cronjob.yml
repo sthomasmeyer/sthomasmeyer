@@ -99,22 +99,22 @@ jobs:
 
       - name: Append NASA APOD Content
         # This is where we bring the universe to the README.
-        # If no notable date was present, we initialize the file.
-        # Otherwise, we append below a subtle, intentional separator.
+        # If no notable date was present, NASA leads. Otherwise, it follows with a section header.
         run: |
           IS_NOTABLE="${{ steps.date-check.outputs.is_notable_date }}"
 
           if [[ "$IS_NOTABLE" == "true" ]]; then
+            # Notable date leads; NASA follows as a section.
             echo "---" >> README.md
             echo "" >> README.md
+            echo "## NASA Astronomy Picture of the Day" >> README.md
           else
-            # If there's no notable date, we provide a simple timestamp header.
-            echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" > README.md
+            # NASA leads the presentation.
+            echo "# NASA Astronomy Picture of the Day" > README.md
             echo "" >> README.md
+            echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
           fi
 
-          # The NASA section always has a clear, intentional header.
-          echo "## NASA Astronomy Picture of the Day" >> README.md
           echo "" >> README.md
           echo "### ${{ steps.nasa-fetch.outputs.nasa_title }}" >> README.md
           echo "" >> README.md
