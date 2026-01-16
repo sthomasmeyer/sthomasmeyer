@@ -99,38 +99,35 @@ jobs:
 
       - name: Append NASA APOD Content
         # This is where we bring the universe to the README.
-        # If no notable date was present, NASA leads. Otherwise, it follows with a section header.
+        # We only include the universe when it's a visual feast (images).
+        # Videos are omitted to maintain a clean, intentional README focus.
         run: |
-          IS_NOTABLE="${{ steps.date-check.outputs.is_notable_date }}"
-
-          if [[ "$IS_NOTABLE" == "true" ]]; then
-            # Notable date leads; NASA follows as a section.
-            echo "---" >> README.md
-            echo "" >> README.md
-            echo "## NASA Astronomy Picture of the Day" >> README.md
-          else
-            # NASA leads the presentation.
-            echo "# NASA Astronomy Picture of the Day" > README.md
-            echo "" >> README.md
-            echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
-          fi
-
-          echo "" >> README.md
-          echo "### ${{ steps.nasa-fetch.outputs.nasa_title }}" >> README.md
-          echo "" >> README.md
-
-          # Design is not just what it looks like, but how it works. 
-          # We handle different media types with grace.
           if [[ "${{ steps.nasa-fetch.outputs.nasa_media_type }}" == "image" ]]; then
-            echo "![${{ steps.nasa-fetch.outputs.nasa_title }}](${{ steps.nasa-fetch.outputs.nasa_url }})" >> README.md
-          else 
-            # For video, we provide a beautiful preview.
-            echo "[![Watch Video](https://img.youtube.com/vi/$(echo ${{ steps.nasa-fetch.outputs.nasa_url }} | sed 's/.*v=\([^&]*\).*/\1/')/0.jpg)](${{ steps.nasa-fetch.outputs.nasa_url }})" >> README.md
-          fi
+            IS_NOTABLE="${{ steps.date-check.outputs.is_notable_date }}"
 
-          echo "" >> README.md
-          echo "${{ steps.nasa-fetch.outputs.nasa_explanation }}" >> README.md
-          echo "" >> README.md
+            if [[ "$IS_NOTABLE" == "true" ]]; then
+              # Notable date leads; NASA follows as a section.
+              echo "---" >> README.md
+              echo "" >> README.md
+              echo "## NASA Astronomy Picture of the Day" >> README.md
+            else
+              # NASA leads the presentation.
+              echo "# NASA Astronomy Picture of the Day" > README.md
+              echo "" >> README.md
+              echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
+            fi
+
+            echo "" >> README.md
+            echo "### ${{ steps.nasa-fetch.outputs.nasa_title }}" >> README.md
+            echo "" >> README.md
+
+            # Design is not just what it looks like, but how it works. 
+            echo "![${{ steps.nasa-fetch.outputs.nasa_title }}](${{ steps.nasa-fetch.outputs.nasa_url }})" >> README.md
+
+            echo "" >> README.md
+            echo "${{ steps.nasa-fetch.outputs.nasa_explanation }}" >> README.md
+            echo "" >> README.md
+          fi
 
       - name: Append Word of the Day Content
         # "Words are things, and a small drop of ink, falling like dew..."
@@ -149,9 +146,16 @@ jobs:
              exit 0
           fi
 
-          echo "---" >> README.md
-          echo "" >> README.md
-          echo "## Words of the Day" >> README.md
+          # Determine header based on file existence
+          if [[ -f README.md ]]; then
+            echo "---" >> README.md
+            echo "" >> README.md
+            echo "## Words of the Day" >> README.md
+          else
+            echo "# Words of the Day" > README.md
+            echo "" >> README.md
+            echo "_Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')_" >> README.md
+          fi
           echo "" >> README.md
 
 
@@ -199,68 +203,112 @@ jobs:
 
           # Sort by weight and generate markdown
           if [[ -f wotd_temp.txt ]]; then
-            sort -n -t'|' -k1 wotd_temp.txt | while IFS='|' read -r weight color badge_label word pos pronunciation def json; do
+            # Track current source to create section breaks
+            current_source=""
+
+            while IFS='|' read -r weight color badge_label word pos pronunciation def json; do
               
-              # Badge - sits directly above its associated word
-              echo "![${badge_label}](https://img.shields.io/badge/${badge_label}-${color}?style=flat-square&logoColor=white)" >> README.md
-              
-              # Word Line - immediately follows the badge
-              echo "### ${word}" >> README.md
-              
-              # Subhead (POS + Pronunciation)
-              subhead=""
-              if [[ -n "$pos" ]]; then subhead="*$pos*"; fi
-              if [[ -n "$pronunciation" ]]; then 
-                 if [[ -n "$subhead" ]]; then subhead="$subhead • "; fi
-                 subhead="${subhead} /$pronunciation/"
+              # Create source header when source changes
+              if [[ "$badge_label" != "$current_source" ]]; then
+                if [[ -n "$current_source" ]]; then
+                  # Add spacing between sources
+                  echo "" >> README.md
+                fi
+                
+                echo "### $badge_label" >> README.md
+                echo "" >> README.md
+                current_source="$badge_label"
               fi
-              if [[ -n "$subhead" ]]; then echo "$subhead" >> README.md; fi
-              echo "" >> README.md
               
-              # Definition
+              # Word as emphasized text with definition on same line (clean, scannable)
+              word_line="**${word}**"
+              
+              if [[ -n "$pos" ]]; then word_line="$word_line _${pos}_"; fi
+              if [[ -n "$pronunciation" ]]; then word_line="$word_line • /${pronunciation}/"; fi
+              
+              echo "$word_line" >> README.md
+              echo "" >> README.md
               echo "$def" >> README.md
               echo "" >> README.md
               
-              # Source Specific Enrichment
+              # Source-specific enrichment (refined)
               if [[ "$badge_label" == "Dictionary.com" ]]; then
-                 explanation=$(echo "$json" | jq -r '.explanation // empty')
-                 example=$(echo "$json" | jq -r '.example // empty')
-                 
-                 if [[ -n "$explanation" ]]; then
-                   echo "> **Explanation**" >> README.md
-                   echo "> $explanation" >> README.md
-                   echo "" >> README.md
-                 fi
-                 if [[ -n "$example" ]]; then
-                   echo "> *\"$example\"*" >> README.md
-                   echo "" >> README.md
-                 fi
-                 
+                explanation=$(echo "$json" | jq -r '.explanation // empty')
+                example=$(echo "$json" | jq -r '.example // empty')
+                
+                if [[ -n "$explanation" ]]; then
+                  echo "$explanation" >> README.md
+                  echo "" >> README.md
+                fi
+                
+                if [[ -n "$example" ]]; then
+                  echo "> _${example}_" >> README.md
+                  echo "" >> README.md
+                fi
+                
               elif [[ "$badge_label" == "Britannica" ]]; then
-                 quote=$(echo "$json" | jq -r '.enrichment.quote // empty')
-                 author=$(echo "$json" | jq -r '.enrichment.author // empty')
-                 context_source=$(echo "$json" | jq -r '.enrichment.source // empty')
-                 
-                 if [[ -n "$quote" ]]; then
-                    echo "> **Literary Context**" >> README.md
-                    echo "> \"$quote\"" >> README.md
-                    if [[ -n "$author" ]]; then
-                       echo "> — **$author**, _$context_source_" >> README.md
-                    fi
-                    echo "" >> README.md
-                 fi
-                 
+                # Examples first
+                examples=$(echo "$json" | jq -r '.exampleSentences[]? // empty' 2>/dev/null)
+                if [[ -n "$examples" ]]; then
+                  echo "$examples" | while read -r ex; do
+                    echo "> _${ex}_" >> README.md
+                  done
+                  echo "" >> README.md
+                fi
+                
+                # Lexical relationships (compact, on one line)
+                synonyms=$(echo "$json" | jq -r '.synonyms[]? // empty' 2>/dev/null | paste -sd "," - | sed 's/,/, /g' | sed '/^[[:space:]]*$/d')
+                antonyms=$(echo "$json" | jq -r '.antonyms[]? // empty' 2>/dev/null | paste -sd "," - | sed 's/,/, /g' | sed '/^[[:space:]]*$/d')
+                
+                if [[ -n "$synonyms" || -n "$antonyms" ]]; then
+                  lex_line=""
+                  if [[ -n "$synonyms" ]]; then lex_line="_Similar: ${synonyms}_"; fi
+                  if [[ -n "$antonyms" ]]; then
+                    if [[ -n "$lex_line" ]]; then lex_line="$lex_line  •  "; fi
+                    lex_line="${lex_line}_Opposite: ${antonyms}_"
+                  fi
+                  echo "$lex_line" >> README.md
+                  echo "" >> README.md
+                fi
+                
+                quote=$(echo "$json" | jq -r '.enrichment.quote // empty')
+                author=$(echo "$json" | jq -r '.enrichment.author // empty')
+                context_source=$(echo "$json" | jq -r '.enrichment.source // empty')
+                pub_date=$(echo "$json" | jq -r '.enrichment.publicationDate // empty')
+                
+                if [[ -n "$quote" && -n "$author" ]]; then
+                  echo "> _\"${quote}\"_" >> README.md
+                  echo ">" >> README.md
+                  echo "> — **${author}**, ${context_source} (${pub_date})" >> README.md
+                  echo "" >> README.md
+                fi
+                
               elif [[ "$badge_label" == "Merriam-Webster" ]]; then
-                 did_you_know=$(echo "$json" | jq -r '.didYouKnow // empty')
-                 if [[ -n "$did_you_know" ]]; then
-                    echo "> **Did You Know?**" >> README.md
-                    echo "> $did_you_know" >> README.md
-                    echo "" >> README.md
-                 fi
+                # Examples first
+                examples=$(echo "$json" | jq -r '.exampleSentences[]? // empty' 2>/dev/null)
+                if [[ -n "$examples" ]]; then
+                  echo "$examples" | while read -r ex; do
+                    echo "> _${ex}_" >> README.md
+                  done
+                  echo "" >> README.md
+                fi
+
+                # In Context
+                in_context=$(echo "$json" | jq -r '.inContext // empty')
+                if [[ -n "$in_context" ]]; then
+                   echo "> ${in_context}" >> README.md
+                   echo "" >> README.md
+                fi
+
+                did_you_know=$(echo "$json" | jq -r '.didYouKnow // empty')
+                
+                if [[ -n "$did_you_know" ]]; then
+                  echo "_${did_you_know}_" >> README.md
+                  echo "" >> README.md
+                fi
               fi
               
-              echo "" >> README.md
-            done
+            done < <(sort -n -t'|' -k1 wotd_temp.txt)
             
             rm wotd_temp.txt
           fi
