@@ -1,18 +1,19 @@
-# Days of January 16th Past: Netflix Introduces Streaming (2007)
+# Days of January 17th Past: Benjamin Franklin (1706) and Muhammad Ali (1942)
 
-_Updated: 2026-01-16 15:57:55 UTC_
+_Updated: 2026-01-17 11:25:24 UTC_
 
-On this day in 2007, Netflix introduced its streaming service, forever changing how people consume movies and TV shows.
+![](.github/date-management/images/muhammad-ali-underwater.jpg)
 
+"Float like a butterfly, sting like a bee; the hands can't hit what the eyes can't see." - Muhammad Ali
 ---
 
 ## NASA Astronomy Picture of the Day
 
-### NGC 7023: The Iris Nebula
+### Apollo 14: A View from Antares
 
-![NGC 7023: The Iris Nebula](https://apod.nasa.gov/apod/image/2601/NGC7023_Falk1024.jpg)
+![Apollo 14: A View from Antares](https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj_900.jpg)
 
-These cosmic clouds have blossomed 1,300 light-years away in the fertile starfields of the constellation Cepheus. Called the Iris Nebula, NGC 7023 is not the only nebula to evoke the imagery of flowers. Still, this deep telescopic image shows off the Iris Nebula's range of colors and symmetries embedded in surrounding fields of interstellar dust. Within the Iris itself, dusty nebular material surrounds a hot, young star. The dominant color of the brighter reflection nebula is blue, characteristic of dust grains reflecting starlight. Central filaments of the reflection nebula glow with a faint reddish photoluminescence as some dust grains effectively convert the star's invisible ultraviolet radiation to visible red light. Infrared observations indicate that this nebula contains complex carbon molecules known as PAHs. The dusty blue petals of the Iris Nebula span about six light-years.
+Apollo 14's Lunar Module Antares landed on the Moon on February 5, 1971. Toward the end of the stay astronaut Ed Mitchell snapped a series of photos of the lunar surface while looking out a window, assembled into this detailed mosaic by Apollo Lunar Surface Journal editor Eric Jones. The view looks across the Fra Mauro highlands to the northwest of the landing site after the Apollo 14 astronauts had completed their second and final walk on the Moon. Prominent in the foreground is their Modular Equipment Transporter, a two-wheeled, rickshaw-like device used to carry tools and samples. Near the horizon at top center is a 1.5 meter wide boulder dubbed Turtle rock. In the shallow crater below Turtle rock is the long white handle of a sampling instrument, thrown there javelin-style by Mitchell. Mitchell's fellow moonwalker and first American in space, Alan Shepard, also used a makeshift six iron to hit two golf balls. One of Shepard's golf balls is just visible as a white spot below Mitchell's javelin.
 
 ---
 
@@ -20,41 +21,41 @@ These cosmic clouds have blossomed 1,300 light-years away in the fertile starfie
 
 ### Dictionary.com
 
-**mondegreen** _noun_ • /[mon-di-green]/
+**hypethral** _adjective_ • /[hi-pee-thruhl]/
 
-a word or phrase from a mishearing of another word or phrase, especially in a song or poem
+(of a classical building) wholly or partly open to the sky
 
-A mondegreen happens when a phrase or lyric is misheard, giving it a whole new (and often funny) meaning. Songs, poems, and familiar sayings are prime territory for these accidental twists. Mondegreens remind us that sometimes mistakes can be pretty entertaining.
+Hypethral describes buildings that are open to the sky — often temples or courtyards with no roof overhead. The word comes from ancient Greek roots meaning "under the ether," evoking open air and natural light. In hypethral design, the sky becomes the finishing touch.
 
-> _Like many other fans, she thought the lyrics were "All the lonely Starbucks lovers" instead of "Got a long list of ex-lovers," but she later learned it was a mondegreen._
+> _The ruins included a beautiful hypethral temple, allowing a view of the sky above._
 
 
 ### Britannica
 
-**immerse** _verb_
+**migrate** _verb_ • //maɪˈɡreɪt//
 
-To involve oneself deeply in a particular activity, interest, or environment.
+To move from one country or place to live or work in another.
 
-> _She decided to immerse herself in her studies to prepare for the challenging exams._
-> _To truly understand a new culture, one must immerse oneself in its daily life and traditions._
-> _The artist would often immerse himself in his work for hours, losing all track of time._
+> _Many birds migrate south for the winter, seeking warmer climates and abundant food._
+> _Economic hardship often compels families to migrate to different regions in search of better opportunities._
+> _The software company decided to migrate all its legacy data to a new cloud-based system._
 
-_Similar: engage, absorb, engross_  •  _Opposite: withdraw, disengage, detach_
+_Similar: relocate, move, resettle_  •  _Opposite: stay, remain, settle_
 
-> _"For it is a perennial puzzle why a woman writing a novel dooms herself to a certain obscurity, and if she writes a play, she will be immersed in a still deeper darkness."_
+> _"Hence, if an oceanic island be inhabited by a single species of a genus, and a new species of the same genus should migrate from the mainland, it would be a severe competitor to the old inhabitant."_
 >
-> — **Virginia Woolf**, A Room of One's Own (1929)
+> — **Charles Darwin**, On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life (1859)
 
 
 ### Merriam-Webster
 
-**vendetta** _noun_ • /ven-DET-uh/
+**notorious** _adjective_ • /noh-TOR-ee-us/
 
-Vendetta refers to an active and mutual hatred between two families or groups, also known as a blood feud. It can also refer to an often prolonged series of retaliatory, vengeful, or hostile acts, or to a commitment to carrying out such acts.
+Notorious describes people and things that are well-known or famous, especially for something bad or unfavorable.
 
-> _The student insisted that the principal had a personal vendetta against her._
+> _Their city is notorious for its extremely hot and humid summers._
 
-> "Rita publicly refused a vendetta at his funeral. She wouldn't ask her sons to avenge him, even though that wasn't just normal for the time, it was expected." — Rita Halász, Deep Breath: A Novel (translated by Kris Herbert), 2025
+> “Given Long Island’s cul-de-sac geography and notorious traffic, proposed bridges and tunnels to Connecticut are bound to get attention on the Island.” — Peter Gill, Newsday, 8 Dec. 2025
 
-_English speakers borrowed vendetta, spelling and all, from Italian in the 19th century; literally meaning "revenge," vendetta first referred specifically to Italian and especially Corsican family- or clan-based feuds. It later extended in meaning to cover the acts that tend to feature in such feuds, and later still expanded further to refer to a commitment to carrying out such acts. Vendetta ultimately traces to the Latin verb vindicta, meaning "revenge" or "vindication." That Latin word is also in the family tree of other English terms related to getting even, including avenge, revenge, vengeance, vindicate, and vindictive._
+_For those who don’t give a fig about a bad reputation, being notorious for unpopular behavior is no biggie. (Being notorious for topping the Billboard charts? Now that’s a Biggie.) Although notorious (which comes from Latin noscere, “to come to know”) can be a synonym of famous, it’s more often a synonym of infamous, having long ago developed the additional implication of someone or something disreputable. The Book of Common Prayer of 1549 includes one of the first known uses of the unfavorable meaning in print, referring to “notorious synners.” You know what they say: more notorious synners, more problems._
 
