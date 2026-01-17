@@ -5,7 +5,7 @@ source .github/date-management/utilities/gen-notable-date-header.sh
 
 output_file="README.md"
 date="01-17"
-image_path=".github/date-management/images/muhammad-ali-underwater.jpg"
+image_path=".github/date-management/bash-scripts/january/images/muhammad-ali-underwater.jpg"
 
 # Generate the header
 gen_notable_date_header "$date" "$output_file"
