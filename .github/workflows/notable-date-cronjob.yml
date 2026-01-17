@@ -107,6 +107,7 @@ jobs:
 
             if [[ "$IS_NOTABLE" == "true" ]]; then
               # Notable date leads; NASA follows as a section.
+              echo "" >> README.md
               echo "---" >> README.md
               echo "" >> README.md
               echo "## NASA Astronomy Picture of the Day" >> README.md
@@ -148,6 +149,7 @@ jobs:
 
           # Determine header based on file existence
           if [[ -f README.md ]]; then
+            echo "" >> README.md
             echo "---" >> README.md
             echo "" >> README.md
             echo "## Words of the Day" >> README.md
