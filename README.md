@@ -1,20 +1,19 @@
-# Days of January 17th Past: Benjamin Franklin (1706) and Muhammad Ali (1942)
+# Days of January 18th Past: Colossus Mark 1 (1944) and DynamoDB (2012)
 
-_Updated: 2026-01-17 20:09:35 UTC_
+_Updated: 2026-01-18 11:24:52 UTC_
 
-![](.github/date-management/bash-scripts/january/images/muhammad-ali-underwater.jpg)
+On this day in 1944, Colossus Mark 1, the world's first programmable electronic computer, was delivered to Bletchley Park. This date also saw the launch of Amazon's DynamoDB in 2012, revolutionizing cloud database services.
 
-"Float like a butterfly, sting like a bee; the hands can't hit what the eyes can't see." - Muhammad Ali
 
 ---
 
 ## NASA Astronomy Picture of the Day
 
-### Apollo 14: A View from Antares
+### Jupiter from the Webb Space Telescope
 
-![Apollo 14: A View from Antares](https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj_900.jpg)
+![Jupiter from the Webb Space Telescope](https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_1080_annotated.jpg)
 
-Apollo 14's Lunar Module Antares landed on the Moon on February 5, 1971. Toward the end of the stay astronaut Ed Mitchell snapped a series of photos of the lunar surface while looking out a window, assembled into this detailed mosaic by Apollo Lunar Surface Journal editor Eric Jones. The view looks across the Fra Mauro highlands to the northwest of the landing site after the Apollo 14 astronauts had completed their second and final walk on the Moon. Prominent in the foreground is their Modular Equipment Transporter, a two-wheeled, rickshaw-like device used to carry tools and samples. Near the horizon at top center is a 1.5 meter wide boulder dubbed Turtle rock. In the shallow crater below Turtle rock is the long white handle of a sampling instrument, thrown there javelin-style by Mitchell. Mitchell's fellow moonwalker and first American in space, Alan Shepard, also used a makeshift six iron to hit two golf balls. One of Shepard's golf balls is just visible as a white spot below Mitchell's javelin.
+This infrared view of Jupiter by Webb is illuminating. High-resolution infrared images of Jupiter from the  James Webb Space Telescope (Webb) reveal, for example, differences between high-floating bright clouds -- including the Great Red Spot -- and low-lying dark clouds. Also clearly visible in the featured Webb image are Jupiter's dust ring, bright auroras at the poles, and Jupiter's moons Amalthea and Adrastea. The footprint of large volcanic moon Io's magnetic funneling of charged particles onto Jupiter is also visible in the southern aurora. Some objects are so bright that light noticeably diffracts around Webb's optics creating streaks.  Webb, which orbits the Sun near the Earth, has a mirror over six meters across making it the largest astronomical telescope ever launched -- with over six times more light-collecting area than Hubble.
 
 
 ---
@@ -23,41 +22,40 @@ Apollo 14's Lunar Module Antares landed on the Moon on February 5, 1971. Toward 
 
 ### Dictionary.com
 
-**hypethral** _adjective_ • /[hi-pee-thruhl]/
+**pedagogy** _noun_ • /[ped-uh-goh-jee]/
 
-(of a classical building) wholly or partly open to the sky
+the art or science of teaching
 
-Hypethral describes buildings that are open to the sky — often temples or courtyards with no roof overhead. The word comes from ancient Greek roots meaning "under the ether," evoking open air and natural light. In hypethral design, the sky becomes the finishing touch.
+Pedagogy refers to the methods and mindsets behind effective teaching — not just what's taught, but also how it's delivered. It's a word used in education circles, but it also applies to the everyday challenge of helping others learn and understand. Whether it's in a classroom or a conversation, strong pedagogy is what makes learning stick.
 
-> _The ruins included a beautiful hypethral temple, allowing a view of the sky above._
+> _The teacher studied various methods of instruction to improve her classroom pedagogy._
 
 
 ### Britannica
 
-**migrate** _verb_ • //maɪˈɡreɪt//
+**compass** _noun_
 
-To move from one country or place to live or work in another.
+A device used for determining direction, typically containing a magnetized needle that aligns itself with the Earth's magnetic field and points to magnetic north.
 
-> _Many birds migrate south for the winter, seeking warmer climates and abundant food._
-> _Economic hardship often compels families to migrate to different regions in search of better opportunities._
-> _The software company decided to migrate all its legacy data to a new cloud-based system._
+> _The lost hiker relied on his compass to find his way back to the trail._
+> _Ancient mariners used a simple magnetic compass to navigate vast oceans._
+> _Without a reliable compass, exploring uncharted territory would be far more perilous._
 
-_Similar: relocate, move, resettle_  •  _Opposite: stay, remain, settle_
-
-> _"Hence, if an oceanic island be inhabited by a single species of a genus, and a new species of the same genus should migrate from the mainland, it would be a severe competitor to the old inhabitant."_
+> _"I had taken the precaution to bring a compass and had them all by good luck upon me."_
 >
-> — **Charles Darwin**, On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life (1859)
+> — **Robert Louis Stevenson**, Treasure Island (1883)
 
 
 ### Merriam-Webster
 
-**notorious** _adjective_ • /noh-TOR-ee-us/
+**elicit** _verb_ • /ih-LISS-it/
 
-Notorious describes people and things that are well-known or famous, especially for something bad or unfavorable.
+Elicit is a formal word meaning “to get (a response, information, etc.) from someone.”
 
-> _Their city is notorious for its extremely hot and humid summers._
+> _The announcement of the final amount raised by the charity walk elicited cheers from the crowd._
+> _The teacher’s question elicited no response._
 
-> “Given Long Island’s cul-de-sac geography and notorious traffic, proposed bridges and tunnels to Connecticut are bound to get attention on the Island.” — Peter Gill, Newsday, 8 Dec. 2025
+> “By the end of the ceremony, the attendees knew where each soon-to-be graduate would be studying next. The students lined up and stormed the stage, screaming their names and their postsecondary destinations while hoisting flags from the institutions in the air. ... Each proud declaration elicited raucous clapping and hooting from the crowd.” — Elizabeth Hernandez, The Denver Post, 15 May 2025
 
-_For those who don’t give a fig about a bad reputation, being notorious for unpopular behavior is no biggie. (Being notorious for topping the Billboard charts? Now that’s a Biggie.) Although notorious (which comes from Latin noscere, “to come to know”) can be a synonym of famous, it’s more often a synonym of infamous, having long ago developed the additional implication of someone or something disreputable. The Book of Common Prayer of 1549 includes one of the first known uses of the unfavorable meaning in print, referring to “notorious synners.” You know what they say: more notorious synners, more problems._
+_Say them fast—or even slow—in isolation, and no one will know which one you mean: elicit and illicit both rhyme with the likes of explicit and complicit. But beyond being auditorily indistinguishable, they are used very differently. Illicit is an adjective applied to no-nos. It’s used to describe things people aren’t supposed to do. Something illicit is not permitted especially because it is illegal. Elicit, on the other hand, is a verb most often used to talk about calling forth or drawing out a response or reaction from someone, as in “her onstage antics elicited roars of laughter from the audience.” The Latin ancestors of this pair are easy to confuse too. Elicit comes from elicitus, illicit from illicitus. But going back just a little further, we find that elicit traces back beyond elicitus to lacere, meaning “to allure,” while illicitus comes ultimately from licēre, meaning “to be permitted.”_
 
