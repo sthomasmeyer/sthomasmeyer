@@ -1,19 +1,12 @@
-# Days of January 20th Past: Obama (2009)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-20 14:32:46 UTC_
+_Updated: 2026-01-21 11:33:44 UTC_
 
-![](.github/date-management/bash-scripts/january/images/barack-obama.webp)
+### Barred Spiral Galaxy NGC 1365 from Webb
 
+![Barred Spiral Galaxy NGC 1365 from Webb](https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365_1024.png)
 
----
-
-## NASA Astronomy Picture of the Day
-
-### Io in True Color
-
-![Io in True Color](https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_960.jpg)
-
-The strangest moon in the Solar System is bright yellow.  The featured picture, an attempt to show how Io would appear in the true colors perceptible to the average human eye, was taken in 1999 July by the Galileo spacecraft that orbited Jupiter from 1995 to 2003.  Io's colors derive from sulfur and molten silicate rock.  The unusual surface of Io is kept very young by its system of active volcanoes.  The intense tidal gravity of Jupiter stretches Io and damps wobbles caused by Jupiter's other Galilean moons.  The resulting friction greatly heats Io's interior, causing  molten rock to explode through the surface.  Io's volcanoes are so active that they are effectively turning the whole moon inside out.  Some of Io's volcanic lava is so hot it glows in the dark.
+A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That's twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope's Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb's field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar. Astronomers suspect the gravitational field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy's central, supermassive black hole.
 
 
 ---
@@ -22,42 +15,41 @@ The strangest moon in the Solar System is bright yellow.  The featured picture, 
 
 ### Dictionary.com
 
-**krummholz** _noun_ • /[kroom-hohlts]/
+**anatine** _adjective_ • /[an-uh-tahyn]/
 
-a forest of stunted trees near the timber line on a mountain
+resembling a duck
 
-Krummholz refers to the twisted, stunted trees found near a mountain's timber line, shaped by wind and cold. The word comes from German, literally translated as "crooked wood," and it captures both the harshness of alpine life and nature's resilience. In every gnarled branch, krummholz tells a story of survival.
+Anatine describes anything that resembles a duck in appearance, behavior, or any other way you can imagine. It's a technical term, but there's a touch of whimsy in using it to label something ducklike. Whether it's a duck-shaped cloud or a waddle in someone's walk, anatine is the perfect word when "duckish" just won't do.
 
-> _We hiked through the dense, wind-battered krummholz near the mountain's treeline._
+> _The yellow boat had an oddly anatine quality as it floated on the lake._
 
 
 ### Britannica
 
-**taper** _verb_
+**seminar** _noun_
 
-To become gradually smaller toward one end.
+A small group meeting, often at a college or university, for advanced study or professional training, where participants engage in discussion and active learning on a particular subject.
 
-> _The architect designed the tower to taper elegantly towards its apex._
-> _As the river approached the sea, it began to taper into a narrow channel._
-> _The candle's flame began to taper as the wax dwindled._
+> _The graduate students prepared diligently for the weekly philosophy seminar._
+> _She attended a weekend seminar on digital marketing to enhance her professional skills._
+> _The professor encouraged lively debate during the history seminar, fostering critical thinking among the students._
 
-_Similar: narrow, diminish, lessen_  •  _Opposite: widen, broaden, expand_
+_Similar: workshop, colloquium, symposium_
 
-> _"The trunks of the trees, which were mostly pines, began to taper, and the branches to spread out more horizontally."_
+> _"The seminar, as I understand it, is not a place for the transmission of knowledge, but for the joint exploration of a subject."_
 >
-> — **Henry David Thoreau**, Walden; or, Life in the Woods (1854)
+> — **Hannah Arendt**, Lectures on Kant's Political Philosophy (1982)
 
 
 ### Merriam-Webster
 
-**quiddity** _noun_ • /KWID-uh-tee/
+**schmooze** _verb_ • /SHMOOZ/
 
-Quiddity refers to the essence of a thing—that is, whatever makes something the type of thing that it is. Quiddity can also refer to a small and usually trivial complaint or criticism, or to a quirk or eccentricity in someone's behavior.
+To schmooze is to warmly chat with someone often in order to gain favor, business, or connections.
 
-> _The novelist’s genius was her unparalleled ability to capture the quiddity of the Maine seacoast in simple prose._
-> _He portrayed the character's quirks and quiddities with tender playfulness._
+> _The event provides an opportunity for local business owners to network and schmooze._
 
-> “When I was gathering my odes into a book—or rather, piling up my effusions in prose and verse and trying to work out which ones were odes and which weren’t—my friend Carlo gave me a magical concept. He called it ‘the odeness.’ It’s the essential quality, quiddity, … uniqueness of whatever you’re trying to write about. It’s what your ode is attempting to first identify and then celebrate. It’s the odeness of your ode.” — James Parker, The Atlantic, 30 Sept. 2025
+> "After wrapping up her speech filled with anecdotes and policy promises, the candidate schmoozed with the crowd, seemingly determined to shake every hand before her staff ushered her back to the bus." — Mike Kropf, The News Virginian (Waynesboro, Virginia), 4 Sept. 2025
 
-_When it comes to synonyms of quiddity, the Q’s have it. Consider quintessence, a synonym of the “essence of a thing” meaning of quiddity, and quibble, a synonym of the “trifling point” use. And let’s not forget about quirk: like quiddity, quirk can refer to a person’s eccentricities. Of course, quiddity also comes from a “Q” word, the Latin pronoun quis, which is one of two Latin words for “who” (the other is qui). Quid, the neuter form of quis, led to the Medieval Latin quidditas, which means “essence,” a term that was essential to the development of the English word quiddity._
+_Schmooze (also spelled shmooze) schlepped into English from the Yiddish schmues, meaning "talk," which itself is from the Hebrew shěmu’ōth, meaning "news" or "rumor." Although originally used to indicate simply talking in an informal and warm manner, the word now commonly suggests conversation for the purpose of gaining favor, business, or connections. Schmooze is one of a number of English schm- words originating from Yiddish; other classics include schmaltz (referring to rendered animal fat or excessively sentimental music or art), schmuck (a slang word for "jerk"), schmutz ("a filthy or soiling substance"), and schmear ("a layer of cream cheese")._
 
