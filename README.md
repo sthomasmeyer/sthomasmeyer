@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-21 11:33:44 UTC_
+_Updated: 2026-01-22 11:32:22 UTC_
 
-### Barred Spiral Galaxy NGC 1365 from Webb
+### LDN 1622: Dark Nebula in Orion
 
-![Barred Spiral Galaxy NGC 1365 from Webb](https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365_1024.png)
+![LDN 1622: Dark Nebula in Orion](https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg)
 
-A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That's twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope's Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb's field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar. Astronomers suspect the gravitational field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy's central, supermassive black hole.
+The silhouette of an intriguing dark nebula inhabits this cosmic scene. Lynds' Dark Nebula (LDN) 1622 appears against a faint background of glowing hydrogen gas only visible in long telescopic exposures of the region. In contrast, a brighter reflection nebula, vdB 62, is more easily seen just above the dusty dark nebula. LDN 1622 lies near the plane of our Milky Way Galaxy, close on the sky to Barnard's Loop, a large cloud surrounding the rich complex of emission nebulae found in the Belt and Sword of Orion. With swept-back outlines, the obscuring dust of LDN 1622 is thought to lie at a similar distance, perhaps 1,500 light-years away. At that distance, this 3 degree wide field of view would span about 100 light-years. Young stars do lie hidden within the dark expanse and have been revealed in Spitzer Space telescope infrared images. Still, the foreboding visual appearance of LDN 1622 inspires its popular name, the Boogeyman Nebula.
 
 
 ---
@@ -15,41 +15,41 @@ A mere 56 million light-years distant toward the southern constellation Fornax, 
 
 ### Dictionary.com
 
-**anatine** _adjective_ • /[an-uh-tahyn]/
+**scofflaw** _noun_ • /[skawf-law]/
 
-resembling a duck
+a person who flouts the law, especially one who fails to pay fines owed
 
-Anatine describes anything that resembles a duck in appearance, behavior, or any other way you can imagine. It's a technical term, but there's a touch of whimsy in using it to label something ducklike. Whether it's a duck-shaped cloud or a waddle in someone's walk, anatine is the perfect word when "duckish" just won't do.
+A scofflaw is someone who openly disregards rules or regulations. The word was coined during Prohibition as part of a contest to name those who flouted alcohol laws, but the catchy word  outgrew that context before long. Whether it's unpaid parking tickets or shooting off fireworks weeks after New Year's, a scofflaw doesn't bother to play by the book.
 
-> _The yellow boat had an oddly anatine quality as it floated on the lake._
+> _The scofflaw always ignored his parking tickets, proving his disregard for city regulations._
 
 
 ### Britannica
 
-**seminar** _noun_
+**barricade** _verb_ • //ˌbærɪˈkeɪd//
 
-A small group meeting, often at a college or university, for advanced study or professional training, where participants engage in discussion and active learning on a particular subject.
+To block or obstruct with a barrier, especially to prevent passage or entry.
 
-> _The graduate students prepared diligently for the weekly philosophy seminar._
-> _She attended a weekend seminar on digital marketing to enhance her professional skills._
-> _The professor encouraged lively debate during the history seminar, fostering critical thinking among the students._
+> _The protestors barricaded the street with overturned bins and old furniture._
+> _Fearing the approaching storm, the villagers began to barricade their windows with wooden planks._
+> _The police quickly moved to barricade all escape routes from the building._
 
-_Similar: workshop, colloquium, symposium_
+_Similar: block, obstruct, fortify_  •  _Opposite: open, unblock, clear_
 
-> _"The seminar, as I understand it, is not a place for the transmission of knowledge, but for the joint exploration of a subject."_
+> _"They barricaded the doors and windows with furniture, and waited."_
 >
-> — **Hannah Arendt**, Lectures on Kant's Political Philosophy (1982)
+> — **H.G. Wells**, The War of the Worlds (1898)
 
 
 ### Merriam-Webster
 
-**schmooze** _verb_ • /SHMOOZ/
+**disheveled** _adjective_ • /dih-SHEV-uld/
 
-To schmooze is to warmly chat with someone often in order to gain favor, business, or connections.
+A disheveled person or thing is not neat or tidy.
 
-> _The event provides an opportunity for local business owners to network and schmooze._
+> _His wrinkled suit gave him a disheveled appearance._
 
-> "After wrapping up her speech filled with anecdotes and policy promises, the candidate schmoozed with the crowd, seemingly determined to shake every hand before her staff ushered her back to the bus." — Mike Kropf, The News Virginian (Waynesboro, Virginia), 4 Sept. 2025
+> “My mother is waking up. ... She dresses quickly. Her oblong, Scots-Irish face may be too idiosyncratic for the screen anyway, the hollow cheekbones and sharp eyes, the straw-blond hair worn in a low-slung and slightly disheveled beehive.” — Matthew Specktor, The Golden Hour: A Story of Family and Power in Hollywood, 2025
 
-_Schmooze (also spelled shmooze) schlepped into English from the Yiddish schmues, meaning "talk," which itself is from the Hebrew shěmu’ōth, meaning "news" or "rumor." Although originally used to indicate simply talking in an informal and warm manner, the word now commonly suggests conversation for the purpose of gaining favor, business, or connections. Schmooze is one of a number of English schm- words originating from Yiddish; other classics include schmaltz (referring to rendered animal fat or excessively sentimental music or art), schmuck (a slang word for "jerk"), schmutz ("a filthy or soiling substance"), and schmear ("a layer of cream cheese")._
+_These days, the adjective disheveled is used to describe almost anything or anyone marked by disorder or disarray. Rumpled clothes, for example, often contribute to a disheveled appearance, as in Colson Whitehead’s novel Crook Manifesto, when the comedian Roscoe Pope walks onstage “disheveled, in wrinkled green corduroy pants.” Apartments, desks, bedsheets, you name it—all can be disheveled when not at their neatest and tidiest. Hair, however, is the most common noun to which disheveled is applied (along with hairdo terms like bun and beard), a fact that makes etymological sense. Disheveled comes from the Middle English adjective discheveled, meaning “bareheaded” or “with disordered hair.” That word is a partial translation of the Anglo-French word deschevelé, a combination of the prefix des- (“dis-“) and chevoil, meaning “hair.”_
 
