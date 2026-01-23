@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-22 11:32:22 UTC_
+_Updated: 2026-01-23 11:31:25 UTC_
 
-### LDN 1622: Dark Nebula in Orion
+### Planetary Nebula Abell 7
 
-![LDN 1622: Dark Nebula in Orion](https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg)
+![Planetary Nebula Abell 7](https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg)
 
-The silhouette of an intriguing dark nebula inhabits this cosmic scene. Lynds' Dark Nebula (LDN) 1622 appears against a faint background of glowing hydrogen gas only visible in long telescopic exposures of the region. In contrast, a brighter reflection nebula, vdB 62, is more easily seen just above the dusty dark nebula. LDN 1622 lies near the plane of our Milky Way Galaxy, close on the sky to Barnard's Loop, a large cloud surrounding the rich complex of emission nebulae found in the Belt and Sword of Orion. With swept-back outlines, the obscuring dust of LDN 1622 is thought to lie at a similar distance, perhaps 1,500 light-years away. At that distance, this 3 degree wide field of view would span about 100 light-years. Young stars do lie hidden within the dark expanse and have been revealed in Spitzer Space telescope infrared images. Still, the foreboding visual appearance of LDN 1622 inspires its popular name, the Boogeyman Nebula.
+Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies just south of Orion in planet Earth's skies toward the constellation Lepus, The Hare. Posing with scattered Milky Way stars, its generally simple spherical shape about 8 light-years in diameter is revealed in this deep telescopic image. The beautiful and complex shapes seen within the cosmic cloud are visually enhanced by the use of long exposures and narrowband filters that capture emission from hydrogen and oxygen atoms. Otherwise Abell 7 would be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula's central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. But its central star, seen here as a fading white dwarf, is some 10 billion years old.
 
 
 ---
@@ -15,41 +15,41 @@ The silhouette of an intriguing dark nebula inhabits this cosmic scene. Lynds' D
 
 ### Dictionary.com
 
-**scofflaw** _noun_ • /[skawf-law]/
+**ludic** _adjective_ • /[loo-dik]/
 
-a person who flouts the law, especially one who fails to pay fines owed
+playful in an aimless way
 
-A scofflaw is someone who openly disregards rules or regulations. The word was coined during Prohibition as part of a contest to name those who flouted alcohol laws, but the catchy word  outgrew that context before long. Whether it's unpaid parking tickets or shooting off fireworks weeks after New Year's, a scofflaw doesn't bother to play by the book.
+Ludic describes something playfully spontaneous — imaginative, free-form, and done just for the joy of it. It's the perfect word for when you're off-script, letting curiosity take the lead. A little ludic energy can loosen up even the most rigid day.
 
-> _The scofflaw always ignored his parking tickets, proving his disregard for city regulations._
+> _He couldn't help but smile at the cats' ludic antics as they batted at a string._
 
 
 ### Britannica
 
-**barricade** _verb_ • //ˌbærɪˈkeɪd//
+**accomplished** _adjective_
 
-To block or obstruct with a barrier, especially to prevent passage or entry.
+Highly skilled or proficient in a particular area, often as a result of extensive training or natural talent; also, having achieved many good or important things.
 
-> _The protestors barricaded the street with overturned bins and old furniture._
-> _Fearing the approaching storm, the villagers began to barricade their windows with wooden planks._
-> _The police quickly moved to barricade all escape routes from the building._
+> _Her accomplished piano playing captivated the entire audience with its technical brilliance and emotional depth._
+> _Despite his young age, he was already an accomplished scholar, having published several groundbreaking papers in his field._
+> _The accomplished chef prepared a meal that was both innovative and deeply satisfying, earning rave reviews from critics._
 
-_Similar: block, obstruct, fortify_  •  _Opposite: open, unblock, clear_
+_Similar: skillful, proficient, expert_  •  _Opposite: unskilled, inept, amateurish_
 
-> _"They barricaded the doors and windows with furniture, and waited."_
+> _""It is amazing to me," said Bingley, "how young ladies can have patience to be so very accomplished as they all are.""_
 >
-> — **H.G. Wells**, The War of the Worlds (1898)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
 
 ### Merriam-Webster
 
-**disheveled** _adjective_ • /dih-SHEV-uld/
+**astrolabe** _noun_ • /A-struh-layb/
 
-A disheveled person or thing is not neat or tidy.
+An astrolabe is a compact instrument used to observe and calculate the position of celestial bodies before the invention of the sextant.
 
-> _His wrinkled suit gave him a disheveled appearance._
+> _The new astronomy exhibit featured various gadgets and instruments, including an extensive collection of astrolabes._
 
-> “My mother is waking up. ... She dresses quickly. Her oblong, Scots-Irish face may be too idiosyncratic for the screen anyway, the hollow cheekbones and sharp eyes, the straw-blond hair worn in a low-slung and slightly disheveled beehive.” — Matthew Specktor, The Golden Hour: A Story of Family and Power in Hollywood, 2025
+> “‘Renaissance Treasures’ includes two contemporary navigational devices, a planispheric astrolabe from Persia and a pocket compass (think of them as beta-version GPS), as well as two Mercator globes. One dates from 1541 and shows the surface of the Earth. The other dates from 1551 and shows the heavens ...” — Mark Feeney, The Boston Globe, 9 May 2025
 
-_These days, the adjective disheveled is used to describe almost anything or anyone marked by disorder or disarray. Rumpled clothes, for example, often contribute to a disheveled appearance, as in Colson Whitehead’s novel Crook Manifesto, when the comedian Roscoe Pope walks onstage “disheveled, in wrinkled green corduroy pants.” Apartments, desks, bedsheets, you name it—all can be disheveled when not at their neatest and tidiest. Hair, however, is the most common noun to which disheveled is applied (along with hairdo terms like bun and beard), a fact that makes etymological sense. Disheveled comes from the Middle English adjective discheveled, meaning “bareheaded” or “with disordered hair.” That word is a partial translation of the Anglo-French word deschevelé, a combination of the prefix des- (“dis-“) and chevoil, meaning “hair.”_
+_“Thyn Astrolabie hath a ring to putten on the thombe of thi right hond in taking the height of thinges.” Thus begins a description of an astrolabe in A Treatise on the Astrolabe, a medieval user’s guide penned by an amateur astronomer by the name of Geoffrey Chaucer. Chaucer is best known for his Middle English poetic masterpiece The Canterbury Tales, but when his nose wasn’t buried in his writing, Chaucer was stargazing, and some of his passion for the heavens rubbed off on his son Lewis, who had displayed a special “abilite to lerne sciences touching nombres and proporciouns.” Chaucer dedicated his treatise to the 10-year-old boy, setting his instructions not in the usual Latin, but in “naked wordes in Englissh” so that little Lewis could understand. When he got older, Lewis may have learned that the word astrolabe traces to the Late Greek name for the instrument, astrolábion._
 
