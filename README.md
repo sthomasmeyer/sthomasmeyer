@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-23 11:31:25 UTC_
+_Updated: 2026-01-24 11:26:14 UTC_
 
-### Planetary Nebula Abell 7
+### Earthset from Orion
 
-![Planetary Nebula Abell 7](https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg)
+![Earthset from Orion](https://apod.nasa.gov/apod/image/2601/earthset-snap01.png)
 
-Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies just south of Orion in planet Earth's skies toward the constellation Lepus, The Hare. Posing with scattered Milky Way stars, its generally simple spherical shape about 8 light-years in diameter is revealed in this deep telescopic image. The beautiful and complex shapes seen within the cosmic cloud are visually enhanced by the use of long exposures and narrowband filters that capture emission from hydrogen and oxygen atoms. Otherwise Abell 7 would be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula's central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. But its central star, seen here as a fading white dwarf, is some 10 billion years old.
+ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver was used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft orbited in the opposite direction of the Moon's orbit around planet Earth. Swinging around the Moon, Orion reached a maximum distance (just over 400,000 kilometers) from Earth on 2022 November 28, exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration. The Artemis II mission, carrying 4 astronauts around the moon and back again, is due to launch as early as February 6.
 
 
 ---
@@ -15,41 +15,42 @@ Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies 
 
 ### Dictionary.com
 
-**ludic** _adjective_ • /[loo-dik]/
+**inure** _verb_ • /[in-yoor]/
 
-playful in an aimless way
+to accustom to hardship, difficulty, or pain
 
-Ludic describes something playfully spontaneous — imaginative, free-form, and done just for the joy of it. It's the perfect word for when you're off-script, letting curiosity take the lead. A little ludic energy can loosen up even the most rigid day.
+To inure is to become gradually accustomed to difficulty, especially through repeated exposure. Whether it's cold weather, tough criticism, or early-morning alarms, being inured doesn't mean you like it — it just means you've gotten used to it.
 
-> _He couldn't help but smile at the cats' ludic antics as they batted at a string._
+> _Years of early-morning shifts helped inure her to the discomfort of waking up before dawn._
 
 
 ### Britannica
 
-**accomplished** _adjective_
+**languid** _adjective_
 
-Highly skilled or proficient in a particular area, often as a result of extensive training or natural talent; also, having achieved many good or important things.
+Lacking in vigor or spirit; listless or sluggish.
 
-> _Her accomplished piano playing captivated the entire audience with its technical brilliance and emotional depth._
-> _Despite his young age, he was already an accomplished scholar, having published several groundbreaking papers in his field._
-> _The accomplished chef prepared a meal that was both innovative and deeply satisfying, earning rave reviews from critics._
+> _The hot, humid afternoon made everyone feel languid, preferring to rest indoors._
+> _Her languid movements suggested a profound weariness rather than relaxation._
+> _A languid melody drifted from the open window, perfectly suiting the lazy Sunday._
 
-_Similar: skillful, proficient, expert_  •  _Opposite: unskilled, inept, amateurish_
+_Similar: listless, sluggish, lethargic_  •  _Opposite: energetic, vigorous, active_
 
-> _""It is amazing to me," said Bingley, "how young ladies can have patience to be so very accomplished as they all are.""_
+> _"Her voice was a low, thrilling murmur, a languid, passionate voice, as if she had just awakened from a dream."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
 
 
 ### Merriam-Webster
 
-**astrolabe** _noun_ • /A-struh-layb/
+**garner** _verb_ • /GAHR-ner/
 
-An astrolabe is a compact instrument used to observe and calculate the position of celestial bodies before the invention of the sextant.
+Garner means "to acquire by effort; earn" or "to accumulate or collect."
 
-> _The new astronomy exhibit featured various gadgets and instruments, including an extensive collection of astrolabes._
+> _The new research findings have garnered the attention of medical experts._
+> _The group has garnered support from community organizations._
 
-> “‘Renaissance Treasures’ includes two contemporary navigational devices, a planispheric astrolabe from Persia and a pocket compass (think of them as beta-version GPS), as well as two Mercator globes. One dates from 1541 and shows the surface of the Earth. The other dates from 1551 and shows the heavens ...” — Mark Feeney, The Boston Globe, 9 May 2025
+> "The novel was already a favourite among literary critics but it's sure to garner wider, more mainstream appeal following the Booker Prize win." — Daisy Lester, The Independent (United Kingdom), 11 Nov. 2025
 
-_“Thyn Astrolabie hath a ring to putten on the thombe of thi right hond in taking the height of thinges.” Thus begins a description of an astrolabe in A Treatise on the Astrolabe, a medieval user’s guide penned by an amateur astronomer by the name of Geoffrey Chaucer. Chaucer is best known for his Middle English poetic masterpiece The Canterbury Tales, but when his nose wasn’t buried in his writing, Chaucer was stargazing, and some of his passion for the heavens rubbed off on his son Lewis, who had displayed a special “abilite to lerne sciences touching nombres and proporciouns.” Chaucer dedicated his treatise to the 10-year-old boy, setting his instructions not in the usual Latin, but in “naked wordes in Englissh” so that little Lewis could understand. When he got older, Lewis may have learned that the word astrolabe traces to the Late Greek name for the instrument, astrolábion._
+_What do you call a building in which grain is stored? These days, English speakers are most likely to call it a granary, but there was a time when garner was also a good candidate. That noun made its way into the language in the 12th century (ultimately from Latin granum, "grain"); the verb garner followed three centuries later with a closely related meaning: "to gather into a granary." Today the verb has largely abandoned its agrarian roots—it usually means "to earn" or "to accumulate." Meanwhile the noun garner is rare in contemporary use. It's found mostly in older literary contexts, such as these lines from Sir Walter Scott's The Bride of Lammermoor: "Or, from the garner-door, on ether borne, / The chaff flies devious from the winnow'd corn."_
 
