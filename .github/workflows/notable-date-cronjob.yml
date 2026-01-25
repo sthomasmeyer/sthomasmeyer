@@ -254,6 +254,7 @@ jobs:
                 if [[ -n "$examples" ]]; then
                   echo "$examples" | while read -r ex; do
                     echo "> _${ex}_" >> README.md
+                    echo ">" >> README.md
                   done
                   echo "" >> README.md
                 fi
@@ -291,6 +292,7 @@ jobs:
                 if [[ -n "$examples" ]]; then
                   echo "$examples" | while read -r ex; do
                     echo "> _${ex}_" >> README.md
+                    echo ">" >> README.md
                   done
                   echo "" >> README.md
                 fi
