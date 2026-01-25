@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-24 11:26:14 UTC_
+_Updated: 2026-01-25 11:26:19 UTC_
 
-### Earthset from Orion
+### Phobos: Doomed Moon of Mars
 
-![Earthset from Orion](https://apod.nasa.gov/apod/image/2601/earthset-snap01.png)
+![Phobos: Doomed Moon of Mars](https://apod.nasa.gov/apod/image/2601/Phobos_MRO_960.jpg)
 
-ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver was used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft orbited in the opposite direction of the Moon's orbit around planet Earth. Swinging around the Moon, Orion reached a maximum distance (just over 400,000 kilometers) from Earth on 2022 November 28, exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration. The Artemis II mission, carrying 4 astronauts around the moon and back again, is due to launch as early as February 6.
+This moon is doomed. Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These Martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more distant reaches of our Solar System. The larger moon, Phobos, is indeed seen to be a cratered, asteroid-like object in this stunning color image from the robotic Mars Reconnaissance Orbiter, which can image objects as small as 10 meters. But Phobos orbits so close to Mars - about 5,800 kilometers above the surface compared to 400,000 kilometers for our Moon - that gravitational tidal forces are dragging it down. In perhaps 50 million years, Phobos is expected to disintegrate into a ring of debris.
 
 
 ---
@@ -15,42 +15,45 @@ ght billion people are about to disappear in this snapshot from space taken on 2
 
 ### Dictionary.com
 
-**inure** _verb_ • /[in-yoor]/
+**boustrophedon** _noun_ • /[boo-struh-feed-n]/
 
-to accustom to hardship, difficulty, or pain
+an ancient method of writing in which the lines run alternately from right to left and from left to right
 
-To inure is to become gradually accustomed to difficulty, especially through repeated exposure. Whether it's cold weather, tough criticism, or early-morning alarms, being inured doesn't mean you like it — it just means you've gotten used to it.
+Boustrophedon describes a style of ancient writing that moves in alternating directions, like an ox plowing a field. Instead of restarting on the same side, each line flips — right to left, then left to right. You don't see boustrophedon much today, but its zigzag pattern is hard to forget once you've pictured it.
 
-> _Years of early-morning shifts helped inure her to the discomfort of waking up before dawn._
+> _The inscription was written in boustrophedon, changing direction with each new line of text._
 
 
 ### Britannica
 
-**languid** _adjective_
+**extract** _verb_ • //ɪkˈstrækt//
 
-Lacking in vigor or spirit; listless or sluggish.
+To remove or draw out, especially with effort or by a specific process.
 
-> _The hot, humid afternoon made everyone feel languid, preferring to rest indoors._
-> _Her languid movements suggested a profound weariness rather than relaxation._
-> _A languid melody drifted from the open window, perfectly suiting the lazy Sunday._
-
-_Similar: listless, sluggish, lethargic_  •  _Opposite: energetic, vigorous, active_
-
-> _"Her voice was a low, thrilling murmur, a languid, passionate voice, as if she had just awakened from a dream."_
+> _The dentist had to extract the stubborn wisdom tooth._
 >
-> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
+> _It took hours for the detective to extract the truth from the reluctant witness._
+>
+> _Scientists are working to extract valuable minerals from the deep-sea vents._
+>
+
+_Similar: withdraw, remove, derive_  •  _Opposite: insert, implant, inject_
+
+> _"The wages of labour are the recompense of the labourer's toil and trouble in extracting the produce of the land."_
+>
+> — **Adam Smith**, An Inquiry into the Nature and Causes of the Wealth of Nations (1776)
 
 
 ### Merriam-Webster
 
-**garner** _verb_ • /GAHR-ner/
+**resplendent** _adjective_ • /rih-SPLEN-dunt/
 
-Garner means "to acquire by effort; earn" or "to accumulate or collect."
+Resplendent is a literary word used to describe someone or something as very bright and attractive.
 
-> _The new research findings have garnered the attention of medical experts._
-> _The group has garnered support from community organizations._
+> _She looked resplendent in her green evening gown._
+>
 
-> "The novel was already a favourite among literary critics but it's sure to garner wider, more mainstream appeal following the Booker Prize win." — Daisy Lester, The Independent (United Kingdom), 11 Nov. 2025
+> “Her box braids were tied in a top bun that poked out of her green and gold headscarf... . Pretty as the braids were, he quietly missed the natural hair they protected. When unbound, her hair was a resplendent halo of vitality. But he knew the halo required a complex, labor-intensive morning and night routine for which she had lost patience.” — Karim Dimechkie, The Uproar: A Novel, 2025
 
-_What do you call a building in which grain is stored? These days, English speakers are most likely to call it a granary, but there was a time when garner was also a good candidate. That noun made its way into the language in the 12th century (ultimately from Latin granum, "grain"); the verb garner followed three centuries later with a closely related meaning: "to gather into a granary." Today the verb has largely abandoned its agrarian roots—it usually means "to earn" or "to accumulate." Meanwhile the noun garner is rare in contemporary use. It's found mostly in older literary contexts, such as these lines from Sir Walter Scott's The Bride of Lammermoor: "Or, from the garner-door, on ether borne, / The chaff flies devious from the winnow'd corn."_
+_Resplendent shares a root with splendid (meaning, among other things, “shining” or “brilliant”), splendent (“shining” or “glossy”), and splendor (“brightness” or “luster”). Each of these glowing terms gets its shine from the Latin verb splendēre (“to shine”). In the case of resplendent, the prefix re- added to splendēre formed the Latin resplendēre, meaning “to shine back.” Splendent, splendor, and resplendent were first used in English during the 15th century, but splendid didn’t light up our language until almost 200 years later; its earliest known use dates from the early 1600s._
 
