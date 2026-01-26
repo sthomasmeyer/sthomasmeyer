@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-25 11:26:19 UTC_
+_Updated: 2026-01-26 11:31:00 UTC_
 
-### Phobos: Doomed Moon of Mars
+### NGC 55: A Galaxy of Nebulas
 
-![Phobos: Doomed Moon of Mars](https://apod.nasa.gov/apod/image/2601/Phobos_MRO_960.jpg)
+![NGC 55: A Galaxy of Nebulas](https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg)
 
-This moon is doomed. Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These Martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more distant reaches of our Solar System. The larger moon, Phobos, is indeed seen to be a cratered, asteroid-like object in this stunning color image from the robotic Mars Reconnaissance Orbiter, which can image objects as small as 10 meters. But Phobos orbits so close to Mars - about 5,800 kilometers above the surface compared to 400,000 kilometers for our Moon - that gravitational tidal forces are dragging it down. In perhaps 50 million years, Phobos is expected to disintegrate into a ring of debris.
+Can you see nebulas in other galaxies?  Yes, some nebulas shine brightly enough -- if you know how to look.  Clouds of hydrogen and oxygen emit light at very specific colors, and by isolating them, astronomers and astrophotographers can reveal structures that would otherwise be too faint to notice.  This deep, 50-hour exposure highlights glowing hydrogen (red) and oxygen (blue) across galaxy NGC 55, viewed nearly edge-on.  Also known as the String of Pearls Galaxy, NGC 55 is often compared to our Milky Way's satellite galaxy the Large Magellanic Cloud (LMC), although NGC 55 lies much farther away at about 6.5 million light-years.  The resulting image uncovers a sprinkling of emission nebulas within and sometimes above the galaxy's dusty disk, offering a detailed look at distant star-forming regions.    Jigsaw Galaxy: Astronomy Puzzle of the Day
 
 
 ---
@@ -15,45 +15,45 @@ This moon is doomed. Mars, the red planet named for the Roman god of war, has tw
 
 ### Dictionary.com
 
-**boustrophedon** _noun_ • /[boo-struh-feed-n]/
+**atiptoe** _adverb_ • /[uh-tip-toh]/
 
-an ancient method of writing in which the lines run alternately from right to left and from left to right
+while standing or walking on tiptoe
 
-Boustrophedon describes a style of ancient writing that moves in alternating directions, like an ox plowing a field. Instead of restarting on the same side, each line flips — right to left, then left to right. You don't see boustrophedon much today, but its zigzag pattern is hard to forget once you've pictured it.
+Atiptoe describes quiet, careful movement — walking or standing on tiptoe, perhaps with a sense of stealth or anticipation. The word evokes lightness and hush, like someone trying not to wake a baby. Whether you're moving softly or reaching high, atiptoe says it with poise.
 
-> _The inscription was written in boustrophedon, changing direction with each new line of text._
+> _She walked atiptoe through the bedroom to avoid waking her napping toddler._
 
 
 ### Britannica
 
-**extract** _verb_ • //ɪkˈstrækt//
+**telecommute** _verb_ • /tel-i-kuh-MYOOT/
 
-To remove or draw out, especially with effort or by a specific process.
+To work remotely, typically from home, using telecommunications technology to connect to a central office or workplace.
 
-> _The dentist had to extract the stubborn wisdom tooth._
+> _Many companies shifted to allowing employees to telecommute during the pandemic, fundamentally changing their operations._
 >
-> _It took hours for the detective to extract the truth from the reluctant witness._
+> _She decided to telecommute from a cabin in the mountains, enjoying the peace and quiet while remaining productive._
 >
-> _Scientists are working to extract valuable minerals from the deep-sea vents._
+> _The new software makes it easier for team members to telecommute and collaborate effectively across different time zones._
 >
 
-_Similar: withdraw, remove, derive_  •  _Opposite: insert, implant, inject_
+_Similar: work remotely, work from home, telework_  •  _Opposite: commute, work in office_
 
-> _"The wages of labour are the recompense of the labourer's toil and trouble in extracting the produce of the land."_
+> _"The basic idea of telecommuting is to substitute telecommunications for transportation, allowing people to work from locations other than a central office."_
 >
-> — **Adam Smith**, An Inquiry into the Nature and Causes of the Wealth of Nations (1776)
+> — **Jack M. Nilles**, Telecommuting: A New Way to Work (1995)
 
 
 ### Merriam-Webster
 
-**resplendent** _adjective_ • /rih-SPLEN-dunt/
+**oaf** _noun_ • /OHF/
 
-Resplendent is a literary word used to describe someone or something as very bright and attractive.
+Oaf is used to refer to someone as big, clumsy, and slow-witted.
 
-> _She looked resplendent in her green evening gown._
+> _The main character starts the movie as a tactless, bumbling oaf who is constantly causing offense to everyone around them, but eventually learns a valuable lesson about kindness and courtesy._
 >
 
-> “Her box braids were tied in a top bun that poked out of her green and gold headscarf... . Pretty as the braids were, he quietly missed the natural hair they protected. When unbound, her hair was a resplendent halo of vitality. But he knew the halo required a complex, labor-intensive morning and night routine for which she had lost patience.” — Karim Dimechkie, The Uproar: A Novel, 2025
+> “Let me give you a rose. Well, just an imaginary rose. ‘What?’ ‘What’s the occasion?’ ‘What for?’ Because I want to participate in an act of kindness. ... It’s impossible, even for a blustering, clumsy oaf like me, to ignore the positive effects of a rose in hand.” — Anthony Campbell, The Advertiser-Gleam (Guntersville, Alabama), 24 Oct. 2025
 
-_Resplendent shares a root with splendid (meaning, among other things, “shining” or “brilliant”), splendent (“shining” or “glossy”), and splendor (“brightness” or “luster”). Each of these glowing terms gets its shine from the Latin verb splendēre (“to shine”). In the case of resplendent, the prefix re- added to splendēre formed the Latin resplendēre, meaning “to shine back.” Splendent, splendor, and resplendent were first used in English during the 15th century, but splendid didn’t light up our language until almost 200 years later; its earliest known use dates from the early 1600s._
+_In long-ago England, it was believed that elves sometimes secretly exchanged their babies for human babies—a belief that served as an explanation when parents found themselves with a baby that failed to meet expectations or desires: these parents believed that their real baby had been stolen by elves and that a changeling had been left in its place. The label for such a child was auf, or alfe, (meaning “an elf’s or a goblin’s child”), which was later altered to form our present-day oaf. Auf is likely from the Middle English alven or elven, meaning “elf” or “fairy.” Today, the word oaf is no longer associated with babies and is instead applied to anyone who appears especially unintelligent or graceless._
 
