@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-26 11:31:00 UTC_
+_Updated: 2026-01-27 11:32:32 UTC_
 
-### NGC 55: A Galaxy of Nebulas
+### Orion's Treasures over Snowy Mountains
 
-![NGC 55: A Galaxy of Nebulas](https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg)
+![Orion's Treasures over Snowy Mountains](https://apod.nasa.gov/apod/image/2601/OrionTatras_Bubak_960.jpg)
 
-Can you see nebulas in other galaxies?  Yes, some nebulas shine brightly enough -- if you know how to look.  Clouds of hydrogen and oxygen emit light at very specific colors, and by isolating them, astronomers and astrophotographers can reveal structures that would otherwise be too faint to notice.  This deep, 50-hour exposure highlights glowing hydrogen (red) and oxygen (blue) across galaxy NGC 55, viewed nearly edge-on.  Also known as the String of Pearls Galaxy, NGC 55 is often compared to our Milky Way's satellite galaxy the Large Magellanic Cloud (LMC), although NGC 55 lies much farther away at about 6.5 million light-years.  The resulting image uncovers a sprinkling of emission nebulas within and sometimes above the galaxy's dusty disk, offering a detailed look at distant star-forming regions.    Jigsaw Galaxy: Astronomy Puzzle of the Day
+Rising over a frozen valley in the Tatra Mountains, the familiar stars and nebulas of Orion dominate this wide-field nightscape.  The featured deep photo was taken in southern Poland's highest mountain range last month, where dark skies and alpine terrain combined to reveal both Earth's rugged beauty and the structure of our galaxy.  Above the snowy mountains, Orion's bright belt stars anchor a region of glowing interstellar clouds.  The Great Orion Nebula, a vast stellar nursery visible even to the unaided eye, shines near the center of the scene.  Surrounding it is the enormous arc of Barnard's Loop, a faint shell of ionized hydrogen gas spanning much of the constellation.  To the left, the round Rosette Nebula glows softly, while the grayish Witch Head Nebula hovers to the right, illuminated by nearby starlight.  Near the top, the orange supergiant Betelgeuse marks the hunter's shoulder.
 
 
 ---
@@ -15,45 +15,45 @@ Can you see nebulas in other galaxies?  Yes, some nebulas shine brightly enough 
 
 ### Dictionary.com
 
-**atiptoe** _adverb_ • /[uh-tip-toh]/
+**plage** _noun_ • /[plahzh]/
 
-while standing or walking on tiptoe
+a beach at a seashore resort
 
-Atiptoe describes quiet, careful movement — walking or standing on tiptoe, perhaps with a sense of stealth or anticipation. The word evokes lightness and hush, like someone trying not to wake a baby. Whether you're moving softly or reaching high, atiptoe says it with poise.
+A plage is more than just a beach — it's the kind with striped umbrellas, crystal blue water, and even a bit of glamour. The word was borrowed from French, and it still carries a breezy, European flair. If you're dreaming of your next coastal escape, plage brings the vacation vibes.
 
-> _She walked atiptoe through the bedroom to avoid waking her napping toddler._
+> _We spent the entire afternoon relaxing on the soft sands of the exclusive Sicilian plage._
 
 
 ### Britannica
 
-**telecommute** _verb_ • /tel-i-kuh-MYOOT/
+**trivial** _adjective_
 
-To work remotely, typically from home, using telecommunications technology to connect to a central office or workplace.
+Of little importance or value; insignificant.
 
-> _Many companies shifted to allowing employees to telecommute during the pandemic, fundamentally changing their operations._
+> _He often worried about trivial matters, ignoring the larger issues at hand._
 >
-> _She decided to telecommute from a cabin in the mountains, enjoying the peace and quiet while remaining productive._
+> _The argument started over a truly trivial misunderstanding._
 >
-> _The new software makes it easier for team members to telecommute and collaborate effectively across different time zones._
+> _Compared to the vastness of the universe, our daily concerns can seem remarkably trivial._
 >
 
-_Similar: work remotely, work from home, telework_  •  _Opposite: commute, work in office_
+_Similar: insignificant, minor, unimportant_  •  _Opposite: important, significant, consequential_
 
-> _"The basic idea of telecommuting is to substitute telecommunications for transportation, allowing people to work from locations other than a central office."_
+> _"Sir William and Lady Lucas are determined to go, merely on that account, for a trivial thing, you know, it is not as if they had any other acquaintance there."_
 >
-> — **Jack M. Nilles**, Telecommuting: A New Way to Work (1995)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
 
 ### Merriam-Webster
 
-**oaf** _noun_ • /OHF/
+**fiduciary** _adjective_ • /fuh-DOO-shee-air-ee/
 
-Oaf is used to refer to someone as big, clumsy, and slow-witted.
+Fiduciary is a formal word describing something relating to or involving trust, such as the trust between a customer and a professional.
 
-> _The main character starts the movie as a tactless, bumbling oaf who is constantly causing offense to everyone around them, but eventually learns a valuable lesson about kindness and courtesy._
+> _The bank's fiduciary obligations are clearly stated in the contract._
 >
 
-> “Let me give you a rose. Well, just an imaginary rose. ‘What?’ ‘What’s the occasion?’ ‘What for?’ Because I want to participate in an act of kindness. ... It’s impossible, even for a blustering, clumsy oaf like me, to ignore the positive effects of a rose in hand.” — Anthony Campbell, The Advertiser-Gleam (Guntersville, Alabama), 24 Oct. 2025
+> "Banks and brokerage firms hold a fiduciary responsibility to protect their customers, including from scams." — Carter Pape, American Banker, 11 Aug. 2025
 
-_In long-ago England, it was believed that elves sometimes secretly exchanged their babies for human babies—a belief that served as an explanation when parents found themselves with a baby that failed to meet expectations or desires: these parents believed that their real baby had been stolen by elves and that a changeling had been left in its place. The label for such a child was auf, or alfe, (meaning “an elf’s or a goblin’s child”), which was later altered to form our present-day oaf. Auf is likely from the Middle English alven or elven, meaning “elf” or “fairy.” Today, the word oaf is no longer associated with babies and is instead applied to anyone who appears especially unintelligent or graceless._
+_Fiduciary relationships are often of the financial variety, but the word fiduciary does not, in and of itself, suggest pecuniary ("money-related") matters. Rather, fiduciary applies to any situation in which one person justifiably places confidence and trust in someone else, and seeks that person's help or advice in some matter. The attorney-client relationship is a fiduciary one, for example, because the client trusts the attorney to act in the best interest of the client at all times. Fiduciary can also be used as a noun referring to the person who acts in a fiduciary capacity, and fiduciarily or fiducially can be called upon if you are in need of an adverb. The words are all faithful to their origin: Latin fīdere, which means "to trust."_
 
