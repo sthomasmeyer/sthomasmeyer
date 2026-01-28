@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-27 11:32:32 UTC_
+_Updated: 2026-01-28 11:32:50 UTC_
 
-### Orion's Treasures over Snowy Mountains
+### M78: Reflecting Blue in a Sea of Red
 
-![Orion's Treasures over Snowy Mountains](https://apod.nasa.gov/apod/image/2601/OrionTatras_Bubak_960.jpg)
+![M78: Reflecting Blue in a Sea of Red](https://apod.nasa.gov/apod/image/2601/M78Red_McCauley_1080.jpg)
 
-Rising over a frozen valley in the Tatra Mountains, the familiar stars and nebulas of Orion dominate this wide-field nightscape.  The featured deep photo was taken in southern Poland's highest mountain range last month, where dark skies and alpine terrain combined to reveal both Earth's rugged beauty and the structure of our galaxy.  Above the snowy mountains, Orion's bright belt stars anchor a region of glowing interstellar clouds.  The Great Orion Nebula, a vast stellar nursery visible even to the unaided eye, shines near the center of the scene.  Surrounding it is the enormous arc of Barnard's Loop, a faint shell of ionized hydrogen gas spanning much of the constellation.  To the left, the round Rosette Nebula glows softly, while the grayish Witch Head Nebula hovers to the right, illuminated by nearby starlight.  Near the top, the orange supergiant Betelgeuse marks the hunter's shoulder.
+In the vast Orion Molecular Cloud complex, several bright blue nebulas are particularly apparent.  Pictured here in the center are two of the most prominent reflection nebulas - dust clouds lit by the reflecting light of bright embedded stars.  The more famous nebula is M78, in the image center, cataloged over 200 years ago.  To its upper left is the lesser known NGC 2071.  Astronomers continue to study these reflection nebulas to better understand how interior stars form.  The overall red glow is from diffuse hydrogen gas that covers much of the Orion complex that spans much of the constellation of Orion. Nearby in the greater complex, which lies about 1,500 light years away, are the Orion Nebula, the Horsehead Nebula, and Barnard's Loop -- partially seen here as the white band on the upper left.    Almost Hyperspace: Random APOD Generator
 
 
 ---
@@ -15,45 +15,45 @@ Rising over a frozen valley in the Tatra Mountains, the familiar stars and nebul
 
 ### Dictionary.com
 
-**plage** _noun_ • /[plahzh]/
+**tutoyer** _verb_ • /[too-twah-yey]/
 
-a beach at a seashore resort
+to address someone familiarly
 
-A plage is more than just a beach — it's the kind with striped umbrellas, crystal blue water, and even a bit of glamour. The word was borrowed from French, and it still carries a breezy, European flair. If you're dreaming of your next coastal escape, plage brings the vacation vibes.
+To tutoyer someone is to speak to them with easy familiarity, like switching from "sir" to "bro." The word comes from French, where it marks a precise grammatical shift to informal pronouns. Whether you're getting closer or letting your guard down, tutoyer is all about speaking freely.
 
-> _We spent the entire afternoon relaxing on the soft sands of the exclusive Sicilian plage._
+> _After becoming friends with my neighbor, we began to tutoyer, dropping the formal titles completely._
 
 
 ### Britannica
 
-**trivial** _adjective_
+**tradition** _noun_
 
-Of little importance or value; insignificant.
+A long-established custom or belief passed on from generation to generation, often within a particular group, family, or society.
 
-> _He often worried about trivial matters, ignoring the larger issues at hand._
+> _The annual town fair is a cherished tradition that brings the community together every summer._
 >
-> _The argument started over a truly trivial misunderstanding._
+> _Many families uphold the tradition of a large holiday meal with extended relatives._
 >
-> _Compared to the vastness of the universe, our daily concerns can seem remarkably trivial._
+> _Breaking with tradition, the young artist decided to explore abstract forms rather than classical portraiture._
 >
 
-_Similar: insignificant, minor, unimportant_  •  _Opposite: important, significant, consequential_
+_Similar: custom, practice, heritage_  •  _Opposite: innovation, novelty, change_
 
-> _"Sir William and Lady Lucas are determined to go, merely on that account, for a trivial thing, you know, it is not as if they had any other acquaintance there."_
+> _"Tradition is a matter of much wider significance. It cannot be inherited, and if you want it you must obtain it by great labour. It involves, in the first place, the historical sense, which we may call nearly indispensable to anyone who would continue to be a poet beyond his twenty-fifth year."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **T.S. Eliot**, Tradition and the Individual Talent (1919)
 
 
 ### Merriam-Webster
 
-**fiduciary** _adjective_ • /fuh-DOO-shee-air-ee/
+**bombast** _noun_ • /BAHM-bast/
 
-Fiduciary is a formal word describing something relating to or involving trust, such as the trust between a customer and a professional.
+Bombast is a formal word that refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful.
 
-> _The bank's fiduciary obligations are clearly stated in the contract._
+> _You need less bombast and more substance in this speech._
 >
 
-> "Banks and brokerage firms hold a fiduciary responsibility to protect their customers, including from scams." — Carter Pape, American Banker, 11 Aug. 2025
+> “This is bombast that has not been thought through from a policy perspective. I know that many in the space community find this to be exciting and want to believe the hype behind such an announcement. Mars is exciting. However ... I think we have to ask ourselves whether getting to Mars is worth the moral costs in addition to the economic costs and potential risks to human lives.” — P. J. Blount, quoted in Newsweek, 28 Jan. 2025
 
-_Fiduciary relationships are often of the financial variety, but the word fiduciary does not, in and of itself, suggest pecuniary ("money-related") matters. Rather, fiduciary applies to any situation in which one person justifiably places confidence and trust in someone else, and seeks that person's help or advice in some matter. The attorney-client relationship is a fiduciary one, for example, because the client trusts the attorney to act in the best interest of the client at all times. Fiduciary can also be used as a noun referring to the person who acts in a fiduciary capacity, and fiduciarily or fiducially can be called upon if you are in need of an adverb. The words are all faithful to their origin: Latin fīdere, which means "to trust."_
+_Bombast settled softly into English in the mid-late 16th century as a textile term used to refer to cotton or other soft fibrous material used as padding or stuffing (its ultimate source is likely the Middle Persian noun pambak, meaning “cotton”), but within a decade it had extended from literal stuffing to figurative stuffing, referring to speech or writing that is padded with pretentious verbiage. The adjective bombastic, which followed bombast a century later, has been a favorite choice to describe blowhards, boasters, and cockalorums ever since._
 
