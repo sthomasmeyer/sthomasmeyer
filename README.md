@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-28 11:32:50 UTC_
+_Updated: 2026-01-29 11:42:02 UTC_
 
-### M78: Reflecting Blue in a Sea of Red
+### NGC 2442: Galaxy in Volans
 
-![M78: Reflecting Blue in a Sea of Red](https://apod.nasa.gov/apod/image/2601/M78Red_McCauley_1080.jpg)
+![NGC 2442: Galaxy in Volans](https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_1024.jpg)
 
-In the vast Orion Molecular Cloud complex, several bright blue nebulas are particularly apparent.  Pictured here in the center are two of the most prominent reflection nebulas - dust clouds lit by the reflecting light of bright embedded stars.  The more famous nebula is M78, in the image center, cataloged over 200 years ago.  To its upper left is the lesser known NGC 2071.  Astronomers continue to study these reflection nebulas to better understand how interior stars form.  The overall red glow is from diffuse hydrogen gas that covers much of the Orion complex that spans much of the constellation of Orion. Nearby in the greater complex, which lies about 1,500 light years away, are the Orion Nebula, the Horsehead Nebula, and Barnard's Loop -- partially seen here as the white band on the upper left.    Almost Hyperspace: Random APOD Generator
+Distorted galaxy NGC 2442 can be found in the southern constellation of the flying fish, (Piscis) Volans. Located about 50 million light-years away, the galaxy's two spiral arms extending from a pronounced central bar give it a hook-shaped appearance in this deep and colorful image, with foreground stars scattered across the telescopic field of view. The image also reveals the distant galaxy's obscuring dust lanes, young blue star clusters and reddish star forming regions surrounding a core of yellowish light from an older population of stars. But the star forming regions seem more concentrated along the drawn-out (upper right) spiral arm. The distorted structure is likely the result of an ancient close encounter with a smaller galaxy that lies off top left of the frame. This telescopic field of view spans over 200,000 light-years at the estimated distance of NGC 2442.
 
 
 ---
@@ -15,45 +15,45 @@ In the vast Orion Molecular Cloud complex, several bright blue nebulas are parti
 
 ### Dictionary.com
 
-**tutoyer** _verb_ • /[too-twah-yey]/
+**mythomania** _noun_ • /[mith-uh-mey-nee-uh]/
 
-to address someone familiarly
+lying or exaggerating to an abnormal degree
 
-To tutoyer someone is to speak to them with easy familiarity, like switching from "sir" to "bro." The word comes from French, where it marks a precise grammatical shift to informal pronouns. Whether you're getting closer or letting your guard down, tutoyer is all about speaking freely.
+Mythomania is the tendency to lie or exaggerate to an extreme degree. The word blends Greek roots meaning "story" and "madness," capturing the over-the-top nature of the behavior. When mythomania strikes, facts may fade, but the story lives on.
 
-> _After becoming friends with my neighbor, we began to tutoyer, dropping the formal titles completely._
+> _Her habit of absurdly embellishing stories suggested a case of mythomania._
 
 
 ### Britannica
 
-**tradition** _noun_
+**maintenance** _noun_
 
-A long-established custom or belief passed on from generation to generation, often within a particular group, family, or society.
+The act of keeping something in good condition or of causing something to continue or be preserved.
 
-> _The annual town fair is a cherished tradition that brings the community together every summer._
+> _Regular maintenance of the historical building prevented its decay._
 >
-> _Many families uphold the tradition of a large holiday meal with extended relatives._
+> _The government's primary goal was the maintenance of peace and order._
 >
-> _Breaking with tradition, the young artist decided to explore abstract forms rather than classical portraiture._
+> _She received funds for the maintenance of her children after the divorce._
 >
 
-_Similar: custom, practice, heritage_  •  _Opposite: innovation, novelty, change_
+_Similar: upkeep, preservation, continuation_  •  _Opposite: neglect, destruction, cessation_
 
-> _"Tradition is a matter of much wider significance. It cannot be inherited, and if you want it you must obtain it by great labour. It involves, in the first place, the historical sense, which we may call nearly indispensable to anyone who would continue to be a poet beyond his twenty-fifth year."_
+> _"To avoid these inconveniences, which spoil men's properties in the state of nature, men unite into societies, that they may have the united strength of the whole society to secure to them their properties, and may make such rules for the maintenance of peace and the preservation of their properties as they shall think fit."_
 >
-> — **T.S. Eliot**, Tradition and the Individual Talent (1919)
+> — **John Locke**, Two Treatises of Government (1689)
 
 
 ### Merriam-Webster
 
-**bombast** _noun_ • /BAHM-bast/
+**reciprocate** _verb_ • /rih-SIP-ruh-kayt/
 
-Bombast is a formal word that refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful.
+To reciprocate is to do something for or to someone who has done something similar for or to you. Reciprocate can also mean “to have (a feeling) for someone who has the same feeling for you.”
 
-> _You need less bombast and more substance in this speech._
+> _It was kind of my friend to give me a ride to the airport, and on the flight I was thinking of how to reciprocate the favor._
 >
 
-> “This is bombast that has not been thought through from a policy perspective. I know that many in the space community find this to be exciting and want to believe the hype behind such an announcement. Mars is exciting. However ... I think we have to ask ourselves whether getting to Mars is worth the moral costs in addition to the economic costs and potential risks to human lives.” — P. J. Blount, quoted in Newsweek, 28 Jan. 2025
+> “She entered the post office and greeted Tommaso, who reciprocated with a smile, then Carmine, who stroked his beard and shot her the usual skeptical glance.” — Francesca Giannone, The Letter Carrier (translated by Elettra Pauletto), 2025
 
-_Bombast settled softly into English in the mid-late 16th century as a textile term used to refer to cotton or other soft fibrous material used as padding or stuffing (its ultimate source is likely the Middle Persian noun pambak, meaning “cotton”), but within a decade it had extended from literal stuffing to figurative stuffing, referring to speech or writing that is padded with pretentious verbiage. The adjective bombastic, which followed bombast a century later, has been a favorite choice to describe blowhards, boasters, and cockalorums ever since._
+_“Scratch my back and I’ll scratch yours,” “do unto others as you would have them do to you,” “share and share alike”: such is the essence of the verb reciprocate, which implies a mutual or equivalent exchange or a paying back of what one has received. Reciprocate traces back to the Latin verb reciprocare (“to move back and forth”), which in turn comes from the adjective reciprocus, meaning “returning the same way” or “alternating.” Indeed, one of the meanings of reciprocate is “to move forward and backward alternately,” as in “a reciprocating saw.” Most often, however, reciprocate is used for the action of returning something in kind or degree, whether that be a gift, favor, or feeling._
 
