@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-29 11:42:02 UTC_
+_Updated: 2026-01-30 11:37:50 UTC_
 
-### NGC 2442: Galaxy in Volans
+### NGC 1333: Stellar Nursery in Perseus
 
-![NGC 2442: Galaxy in Volans](https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_1024.jpg)
+![NGC 1333: Stellar Nursery in Perseus](https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder1024.jpg)
 
-Distorted galaxy NGC 2442 can be found in the southern constellation of the flying fish, (Piscis) Volans. Located about 50 million light-years away, the galaxy's two spiral arms extending from a pronounced central bar give it a hook-shaped appearance in this deep and colorful image, with foreground stars scattered across the telescopic field of view. The image also reveals the distant galaxy's obscuring dust lanes, young blue star clusters and reddish star forming regions surrounding a core of yellowish light from an older population of stars. But the star forming regions seem more concentrated along the drawn-out (upper right) spiral arm. The distorted structure is likely the result of an ancient close encounter with a smaller galaxy that lies off top left of the frame. This telescopic field of view spans over 200,000 light-years at the estimated distance of NGC 2442.
+NGC 1333 is seen in visible light as a reflection nebula, dominated by bluish hues characteristic of starlight reflected by interstellar dust. A mere 1,000 light-years distant toward the heroic constellation Perseus, it lies at the edge of a large, star-forming molecular cloud. This telescopic close-up spans over two full moons on the sky or just over 15 light-years at the estimated distance of NGC 1333. It shows details of the dusty region along with telltale hints of contrasty red emission from Herbig-Haro objects, jets and shocked glowing gas emanating from recently formed stars. In fact, NGC 1333 contains hundreds of stars less than a million years old, most still hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago.
 
 
 ---
@@ -15,45 +15,45 @@ Distorted galaxy NGC 2442 can be found in the southern constellation of the flyi
 
 ### Dictionary.com
 
-**mythomania** _noun_ • /[mith-uh-mey-nee-uh]/
+**supervene** _verb_ • /[soo-per-veen]/
 
-lying or exaggerating to an abnormal degree
+to take place or occur as something additional or extraneous
 
-Mythomania is the tendency to lie or exaggerate to an extreme degree. The word blends Greek roots meaning "story" and "madness," capturing the over-the-top nature of the behavior. When mythomania strikes, facts may fade, but the story lives on.
+Supervene refers to something that happens unexpectedly, especially as an added or secondary event. The word can imply disruption, used when one thing suddenly inserts itself into the flow of another. Plans shift, outcomes change, and just like that, something new has supervened.
 
-> _Her habit of absurdly embellishing stories suggested a case of mythomania._
+> _Just as the meeting was ending, an emergency issue supervened, causing it to drag on even longer._
 
 
 ### Britannica
 
-**maintenance** _noun_
+**erase** _verb_ • /ɪˈreɪs/
 
-The act of keeping something in good condition or of causing something to continue or be preserved.
+To remove something completely, especially something written, recorded, or remembered, as if it never existed.
 
-> _Regular maintenance of the historical building prevented its decay._
+> _She used a soft rubber to carefully erase the pencil marks from the delicate drawing._
 >
-> _The government's primary goal was the maintenance of peace and order._
+> _The software update allowed users to easily erase old data and free up storage space._
 >
-> _She received funds for the maintenance of her children after the divorce._
+> _He tried desperately to erase the painful memories of the accident from his mind, but they lingered._
 >
 
-_Similar: upkeep, preservation, continuation_  •  _Opposite: neglect, destruction, cessation_
+_Similar: delete, obliterate, expunge_  •  _Opposite: record, write, create_
 
-> _"To avoid these inconveniences, which spoil men's properties in the state of nature, men unite into societies, that they may have the united strength of the whole society to secure to them their properties, and may make such rules for the maintenance of peace and the preservation of their properties as they shall think fit."_
+> _"I have tried to erase the past, to forget the years of suffering, but the scars remain, etched deeply into my soul."_
 >
-> — **John Locke**, Two Treatises of Government (1689)
+> — **Victor Hugo**, Les Misérables (1862)
 
 
 ### Merriam-Webster
 
-**reciprocate** _verb_ • /rih-SIP-ruh-kayt/
+**preeminent** _adjective_ • /pree-EM-uh-nunt/
 
-To reciprocate is to do something for or to someone who has done something similar for or to you. Reciprocate can also mean “to have (a feeling) for someone who has the same feeling for you.”
+Preeminent is a formal word used to describe someone or something more important, skillful, or successful than their counterparts or peers. It is used synonymously with outstanding and supreme.
 
-> _It was kind of my friend to give me a ride to the airport, and on the flight I was thinking of how to reciprocate the favor._
+> _She's the preeminent chef in a city renowned for its cuisine._
 >
 
-> “She entered the post office and greeted Tommaso, who reciprocated with a smile, then Carmine, who stroked his beard and shot her the usual skeptical glance.” — Francesca Giannone, The Letter Carrier (translated by Elettra Pauletto), 2025
+> "In this warmly engaging intellectual biography, [author Paul R.] Viotti traces the life and ideas of Kenneth Waltz, a preeminent figure in post–World War II international relations scholarship." — G. John Ikenberry, Foreign Affairs, 16 Dec. 2025
 
-_“Scratch my back and I’ll scratch yours,” “do unto others as you would have them do to you,” “share and share alike”: such is the essence of the verb reciprocate, which implies a mutual or equivalent exchange or a paying back of what one has received. Reciprocate traces back to the Latin verb reciprocare (“to move back and forth”), which in turn comes from the adjective reciprocus, meaning “returning the same way” or “alternating.” Indeed, one of the meanings of reciprocate is “to move forward and backward alternately,” as in “a reciprocating saw.” Most often, however, reciprocate is used for the action of returning something in kind or degree, whether that be a gift, favor, or feeling._
+_What is noteworthy about the following sentence? "Mount Kilimanjaro is a prominent eminence on the Tanzanian landscape." You very likely recognized two words that are closely related to preeminent:  prominent and eminence. All three words are rooted in the Latin verb stem -minēre, which is taken to mean "to stand out" though there is no record of its use without a prefix. Mount also deserves an honorable mention: it comes from the Latin mont- or mons, meaning "mountain," which is understood to share a common ancestor with -minēre. Mount leads us in turn to paramount, a word closely related in meaning to preeminent._
 
