@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of January 31st Past: Luis Suárez Joins Liverpool FC (2011)
 
-_Updated: 2026-01-30 11:37:50 UTC_
+_Updated: 2026-01-31 11:30:53 UTC_
 
-### NGC 1333: Stellar Nursery in Perseus
 
-![NGC 1333: Stellar Nursery in Perseus](https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder1024.jpg)
 
-NGC 1333 is seen in visible light as a reflection nebula, dominated by bluish hues characteristic of starlight reflected by interstellar dust. A mere 1,000 light-years distant toward the heroic constellation Perseus, it lies at the edge of a large, star-forming molecular cloud. This telescopic close-up spans over two full moons on the sky or just over 15 light-years at the estimated distance of NGC 1333. It shows details of the dusty region along with telltale hints of contrasty red emission from Herbig-Haro objects, jets and shocked glowing gas emanating from recently formed stars. In fact, NGC 1333 contains hundreds of stars less than a million years old, most still hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago.
+
+---
+
+## NASA Astronomy Picture of the Day
+
+### Artemis I: Flight Day 13
+
+![Artemis I: Flight Day 13](https://apod.nasa.gov/apod/image/2601/art001e000672-orig1024c.jpg)
+
+On flight day 13 (November 28, 2022) of the Artemis 1 mission, the Orion spacecraft reached its maximum distance from Earth. At over 430,000 kilometers from Earth, its distant retrograde orbit also puts Orion nearly 70,000 kilometers from the Moon. In the same field of view in this video frame from flight day 13, planet and large natural satellite even appear about the same apparent size from the spacecraft's perspective. On flight day 26 (December 11, 2022), the uncrewed spacecraft splashed down on its home world concluding the historic Artemis I mission. The Artemis II mission, carrying 4 astronauts around the moon and back again, will launch no earlier than February 8.
 
 
 ---
@@ -15,45 +22,45 @@ NGC 1333 is seen in visible light as a reflection nebula, dominated by bluish hu
 
 ### Dictionary.com
 
-**supervene** _verb_ • /[soo-per-veen]/
+**plangent** _adjective_ • /[plan-juhnt]/
 
-to take place or occur as something additional or extraneous
+resounding loudly, especially with a sorrowful sound, as a bell
 
-Supervene refers to something that happens unexpectedly, especially as an added or secondary event. The word can imply disruption, used when one thing suddenly inserts itself into the flow of another. Plans shift, outcomes change, and just like that, something new has supervened.
+Plangent describes a resonant, echoing sound, often marked by sadness or solemnity. It's the tone of a tolling bell, a distant horn, or a mournful chant. When something rings out loudly and deeply, it might be plangent.
 
-> _Just as the meeting was ending, an emergency issue supervened, causing it to drag on even longer._
+> _The cello's plangent tones reverberated across the concert hall, filling the air with a certain sadness._
 
 
 ### Britannica
 
-**erase** _verb_ • /ɪˈreɪs/
+**astronomical** _adjective_ • //ˌæstrəˈnɒmɪkəl//
 
-To remove something completely, especially something written, recorded, or remembered, as if it never existed.
+Extremely large in amount, extent, or degree.
 
-> _She used a soft rubber to carefully erase the pencil marks from the delicate drawing._
+> _The company faced astronomical expenses after the unexpected product recall._
 >
-> _The software update allowed users to easily erase old data and free up storage space._
+> _She had an astronomical number of tasks to complete before the deadline._
 >
-> _He tried desperately to erase the painful memories of the accident from his mind, but they lingered._
+> _The odds of winning the lottery are truly astronomical._
 >
 
-_Similar: delete, obliterate, expunge_  •  _Opposite: record, write, create_
+_Similar: enormous, colossal, immense_  •  _Opposite: tiny, minuscule, negligible_
 
-> _"I have tried to erase the past, to forget the years of suffering, but the scars remain, etched deeply into my soul."_
+> _"He had been in America only two years, but he had made an astronomical sum of money."_
 >
-> — **Victor Hugo**, Les Misérables (1862)
+> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
 
 
 ### Merriam-Webster
 
-**preeminent** _adjective_ • /pree-EM-uh-nunt/
+**short shrift** _noun_ • /SHORT-SHRIFT/
 
-Preeminent is a formal word used to describe someone or something more important, skillful, or successful than their counterparts or peers. It is used synonymously with outstanding and supreme.
+Short shrift means “little or no attention or thought” or “quick work.” In religious use it refers to barely adequate time for confession before execution.
 
-> _She's the preeminent chef in a city renowned for its cuisine._
+> _Certain neighborhoods have received short shrift from the city government._
 >
 
-> "In this warmly engaging intellectual biography, [author Paul R.] Viotti traces the life and ideas of Kenneth Waltz, a preeminent figure in post–World War II international relations scholarship." — G. John Ikenberry, Foreign Affairs, 16 Dec. 2025
+> “[Charlie] Caplinger echoed the concerns of many speakers at the meeting, with charter captains saying the recreational fishing industry’s economic contributions were being given short shrift.” — Mike Smith, NOLA.com (New Orleans, Louisiana), 6 Nov. 2025
 
-_What is noteworthy about the following sentence? "Mount Kilimanjaro is a prominent eminence on the Tanzanian landscape." You very likely recognized two words that are closely related to preeminent:  prominent and eminence. All three words are rooted in the Latin verb stem -minēre, which is taken to mean "to stand out" though there is no record of its use without a prefix. Mount also deserves an honorable mention: it comes from the Latin mont- or mons, meaning "mountain," which is understood to share a common ancestor with -minēre. Mount leads us in turn to paramount, a word closely related in meaning to preeminent._
+_We’ve got a confession to make, but we’ll keep it brief: while it’s technically possible to make “long shrift” of something, you’re unlikely to find long shrift in our dictionary anytime soon. Short shrift, on the other hand, has been keeping it real—real terse, that is—for centuries. The earliest known use of the phrase comes from Shakespeare’s play Richard III, in which Lord Hastings, who has been condemned by King Richard to be beheaded, is told by Sir Richard Ratcliffe to “Make a short shrift” as the king “longs to see your head.” Although now archaic, the noun shrift was understood in Shakespeare’s time to refer to the confession or absolution of sins, so “make a short shrift” meant, quite literally, “keep your confession short.” However, since at least the 19th century the phrase has been used figuratively to refer to a small or inadequate amount of time or attention given to something._
 
