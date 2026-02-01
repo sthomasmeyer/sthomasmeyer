@@ -1,19 +1,12 @@
-# Days of January 31st Past: Luis Suárez Joins Liverpool FC (2011)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-01-31 11:30:53 UTC_
+_Updated: 2026-02-01 11:31:51 UTC_
 
+### Galle: Happy Face Crater on Mars
 
+![Galle: Happy Face Crater on Mars](https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_960.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### Artemis I: Flight Day 13
-
-![Artemis I: Flight Day 13](https://apod.nasa.gov/apod/image/2601/art001e000672-orig1024c.jpg)
-
-On flight day 13 (November 28, 2022) of the Artemis 1 mission, the Orion spacecraft reached its maximum distance from Earth. At over 430,000 kilometers from Earth, its distant retrograde orbit also puts Orion nearly 70,000 kilometers from the Moon. In the same field of view in this video frame from flight day 13, planet and large natural satellite even appear about the same apparent size from the spacecraft's perspective. On flight day 26 (December 11, 2022), the uncrewed spacecraft splashed down on its home world concluding the historic Artemis I mission. The Artemis II mission, carrying 4 astronauts around the moon and back again, will launch no earlier than February 8.
+Mars has put on a happy face.  The Martian crater Galle is famous because it has internal markings that make it look like a face that is both smiling and winking.  These markings were originally discovered in the 1970s in pictures taken by the Viking Orbiter.  The Mars Global Surveyor (MGS) spacecraft that orbited Mars from 1996 to 2006 captured the featured picture.  Happy Face Crater and its iconic features were formed by chance billions of years ago when a city-sized asteroid slammed into the Martian surface.  All rocky planets and moons in our Solar System show impact craters, with the highest number of craters found on Earth's Moon and the planet Mercury. Earth and Venus would show the most, though, were it not for weather and erosion.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
 
 ---
@@ -22,45 +15,25 @@ On flight day 13 (November 28, 2022) of the Artemis 1 mission, the Orion spacecr
 
 ### Dictionary.com
 
-**plangent** _adjective_ • /[plan-juhnt]/
+**ergophobia** _noun_ • /[ur-guh-foh-bee-uh]/
 
-resounding loudly, especially with a sorrowful sound, as a bell
+an abnormal fear of work
 
-Plangent describes a resonant, echoing sound, often marked by sadness or solemnity. It's the tone of a tolling bell, a distant horn, or a mournful chant. When something rings out loudly and deeply, it might be plangent.
+Ergophobia is a strong fear or anxiety related to work. In psychology, it refers to a condition that can interfere with daily life. More casually, ergophobia can be used loosely to describe work-related dread, though its roots point to something deeper than just a bad day at the office.
 
-> _The cello's plangent tones reverberated across the concert hall, filling the air with a certain sadness._
-
-
-### Britannica
-
-**astronomical** _adjective_ • //ˌæstrəˈnɒmɪkəl//
-
-Extremely large in amount, extent, or degree.
-
-> _The company faced astronomical expenses after the unexpected product recall._
->
-> _She had an astronomical number of tasks to complete before the deadline._
->
-> _The odds of winning the lottery are truly astronomical._
->
-
-_Similar: enormous, colossal, immense_  •  _Opposite: tiny, minuscule, negligible_
-
-> _"He had been in America only two years, but he had made an astronomical sum of money."_
->
-> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
+> _His ergophobia made him very anxious as the weekend drew to a close._
 
 
 ### Merriam-Webster
 
-**short shrift** _noun_ • /SHORT-SHRIFT/
+**gargantuan** _adjective_ • /gahr-GAN-chuh-wun/
 
-Short shrift means “little or no attention or thought” or “quick work.” In religious use it refers to barely adequate time for confession before execution.
+Gargantuan describes something that is very large in size or amount; something gargantuan is, in other words, gigantic.
 
-> _Certain neighborhoods have received short shrift from the city government._
+> _Bigfoot is said to be a creature of gargantuan proportions._
 >
 
-> “[Charlie] Caplinger echoed the concerns of many speakers at the meeting, with charter captains saying the recreational fishing industry’s economic contributions were being given short shrift.” — Mike Smith, NOLA.com (New Orleans, Louisiana), 6 Nov. 2025
+> “By the late 1870s, he was asked to take part in the gargantuan task of evaluating and cataloguing the results of the five-year Challenger expedition—an ambitious British global research voyage, the first ever dedicated purely to science. [Ernst] Haeckel’s contribution to the final 50-volume Report of the Voyage of H.M.S. Challenger took a decade to complete and spanned three volumes, 2,750 pages, and 130 plates.” — Michael Benson, Nanocosmos: Journeys in Electron Space, 2025
 
-_We’ve got a confession to make, but we’ll keep it brief: while it’s technically possible to make “long shrift” of something, you’re unlikely to find long shrift in our dictionary anytime soon. Short shrift, on the other hand, has been keeping it real—real terse, that is—for centuries. The earliest known use of the phrase comes from Shakespeare’s play Richard III, in which Lord Hastings, who has been condemned by King Richard to be beheaded, is told by Sir Richard Ratcliffe to “Make a short shrift” as the king “longs to see your head.” Although now archaic, the noun shrift was understood in Shakespeare’s time to refer to the confession or absolution of sins, so “make a short shrift” meant, quite literally, “keep your confession short.” However, since at least the 19th century the phrase has been used figuratively to refer to a small or inadequate amount of time or attention given to something._
+_Gargantua is the name of a giant king in François Rabelais's 16th-century satiric novel Gargantua, the second part of a five-volume series about the giant and his son Pantagruel. All of the details of Gargantua's life befit a giant. He rides a colossal mare whose tail switches so violently that it fells the entire forest of Orleans. He has an enormous appetite, such that in one incident he inadvertently swallows five pilgrims while eating a salad. The scale of everything connected with Gargantua led to the adjective gargantuan, which since William Shakespeare's time has been used for anything of tremendous size or volume._
 
