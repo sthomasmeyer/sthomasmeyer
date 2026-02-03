@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-02 11:46:03 UTC_
+_Updated: 2026-02-03 11:46:36 UTC_
 
-### Orion: The Running Man Nebula
+### Red Spider Planetary Nebula from Webb
 
-![Orion: The Running Man Nebula](https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_960.jpg)
+![Red Spider Planetary Nebula from Webb](https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg)
 
-What part of Orion is this? Just north of the famous Orion Nebula is a picturesque star forming region in Orion's Sword that contains a lot of intricate dust -- some of which appears blue because it reflects the light of bright embedded stars.  The region's popular name is the Running Man Nebula because, looked at from the right, part of the brown dust appears to be running legs.  Cataloged as Sharpless 279, the reflection nebula is not only part of the constellation of Orion, but part of the greater Orion molecular cloud complex.  Light from the Running Man's bright stars, including 42 Orionis, the bright star closest to the featured image center, is slowly destroying and reshaping the surrounding dust, which will likely be completely gone in about 10 million years.  The nebula spans about 15 light years and lies about 1,500 light years away.   Jigsaw Nebula: Astronomy Puzzle of the Day
+Oh what a tangled web a planetary nebula can weave.  The Red Spider Planetary Nebula shows the complex structure that can result when a normal star ejects its outer gases and becomes a white dwarf star. Officially tagged NGC 6537, this two-lobed symmetric planetary nebula houses one of the hottest white dwarfs ever observed, probably as part of a binary star system.  Internal winds flowing out from the central stars, have been measured in excess of 1,000 kilometers per second. These winds expand the nebula, flow along the nebula's walls, and cause waves of hot gas and dust to collide.  Atoms caught in these colliding shocks radiate light shown in the featured false-color infrared picture by the James Webb Space Telescope.  The Red Spider Nebula lies toward the constellation of the Archer (Sagittarius).  Its distance is not well known but has been estimated by some to be about 4,000 light-years.
 
 
 ---
@@ -15,45 +15,45 @@ What part of Orion is this? Just north of the famous Orion Nebula is a picturesq
 
 ### Dictionary.com
 
-**mantic** _adjective_ • /[man-tik]/
+**gambit** _noun_ • /[gam-bit]/
 
-of or relating to divination
+a maneuver by which one seeks to gain an advantage
 
-Mantic relates to prophecy and the mysterious art of seeing the future. From the Greek "mantis," meaning "prophet," this word invites curiosity about hidden truths. Whether through ancient oracles, tarot cards, or crystal balls, mantic hints at what's to come.
+A gambit is a clever move designed to help you get ahead. Whether in games, conversation, or tricky situations, it's a tactic meant to set you up for success. Next time you have game night, consider a gambit early on. It might just pay off later!
 
-> _The seer offered a mantic prediction, consulting the cards to reveal the path ahead._
+> _The CEO's opening gambit was a risky takeover bid._
 
 
 ### Britannica
 
-**celebrity** _noun_
+**delicacy** _noun_
 
-A person who is famous, especially in the entertainment industry or public life.
+The quality of being sensitive, refined, or requiring careful and tactful handling, especially in social interactions or matters of feeling.
 
-> _The young actor quickly became a global celebrity after his breakout role._
+> _She handled the sensitive negotiations with great delicacy, ensuring no party felt slighted._
 >
-> _Paparazzi followed the celebrity wherever she went, hoping for an exclusive photo._
+> _The artist's brushstrokes showed an incredible delicacy, capturing the subtle nuances of light._
 >
-> _Despite his immense talent, he preferred to live a quiet life away from the glare of celebrity._
+> _He approached the subject of their disagreement with such delicacy that a resolution seemed possible._
 >
 
-_Similar: star, icon, luminary_  •  _Opposite: nobody, unknown, commoner_
+_Similar: tact, finesse, sensitivity_  •  _Opposite: clumsiness, coarseness, insensitivity_
 
-> _"I was a celebrity. I was the talk of the court."_
+> _"There was a mixture of sweetness and archness in her manner which made it difficult for her to be otherwise than graceful and pleasing, and in her relations with others, she showed a natural delicacy of feeling."_
 >
-> — **Mark Twain**, A Connecticut Yankee in King Arthur's Court (1889)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
 
 ### Merriam-Webster
 
-**prescience** _noun_ • /PRESH-ee-unss/
+**hornswoggle** _verb_ • /HORN-swah-gul/
 
-Prescience is a formal word used to refer to the ability to see or anticipate what will or might happen in the future.
+To hornswoggle someone is to trick or deceive them.
 
-> _He predicted the public's response to the proposed legislation with remarkable prescience._
+> _I think we were hornswoggled by that magician._
 >
 
-> "... novelists have always faced technological and social upheaval. They have mostly addressed it in one of two ways. The first is to imagine an altered future with the prescience of science fiction; Mary Shelley's warning that humans are not always in control of their creations is, if anything, even more resonant today than when Frankenstein was first published in 1818." — Jessi Jezewska Stevens, The Dial, 2 Dec. 2025
+> "Netflix users have been warned to look out for an insidious, AI-powered email scam that looks nearly indistinguishable from the real deal. ... If you have been already hornswoggled by such a scheme, Netflix advises changing your password and reaching out to your bank." — Ben Cost, The New York Post, 3 Mar. 2025
 
-_If you know the origin of science you already know half the story of prescience. Science comes from the Latin verb sciō, scīre, "to know," also source of such words as conscience, conscious, and omniscience. Prescience has as its ancestor a word that attached prae-, a predecessor of pre-, to this root to make praescire, meaning "to know beforehand."_
+_Hornswoggle is a slang word of some considerable mystery, at least where its etymology is concerned. The word appears to have originated in the southern United States in the early 19th century. The earliest known written record comes from an 1829 issue of The Virginia Literary Magazine in its glossary of Americanisms. The magazine states that hornswoggle comes from Kentucky, and that its oddness matches nicely with other 19th-century Americanisms, such as sockdolager, absquatulate, callithump, slumgullion, and skedaddle. While the exact point at which hornswoggle entered our language, and the way in which it was formed, may remain unknown, it is a charming addition to our language, joining bamboozle and honeyfuggle as colorful ways to say "to deceive."_
 
