@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of February 4th Past: Facebook (2004)
 
-_Updated: 2026-02-03 11:46:36 UTC_
+_Updated: 2026-02-04 11:44:04 UTC_
 
-### Red Spider Planetary Nebula from Webb
+On this day in 2004, Mark Zuckerberg launched TheFacebook.com from his Harvard University dorm room.
 
-![Red Spider Planetary Nebula from Webb](https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg)
 
-Oh what a tangled web a planetary nebula can weave.  The Red Spider Planetary Nebula shows the complex structure that can result when a normal star ejects its outer gases and becomes a white dwarf star. Officially tagged NGC 6537, this two-lobed symmetric planetary nebula houses one of the hottest white dwarfs ever observed, probably as part of a binary star system.  Internal winds flowing out from the central stars, have been measured in excess of 1,000 kilometers per second. These winds expand the nebula, flow along the nebula's walls, and cause waves of hot gas and dust to collide.  Atoms caught in these colliding shocks radiate light shown in the featured false-color infrared picture by the James Webb Space Telescope.  The Red Spider Nebula lies toward the constellation of the Archer (Sagittarius).  Its distance is not well known but has been estimated by some to be about 4,000 light-years.
+---
+
+## NASA Astronomy Picture of the Day
+
+### Spiral Galaxy NGC 1512: Wide Field
+
+![Spiral Galaxy NGC 1512: Wide Field](https://apod.nasa.gov/apod/image/2602/NGC1512_stern_960.jpg)
+
+Most galaxies don't have any rings -- why does this galaxy have three?  To begin, a ring that's near NGC 1512's center -- and so hard to see here -- is the nuclear ring which glows brightly with recently formed stars.  Next out is a ring of stars and dust appearing both red and blue, called, counter-intuitively, the inner ring.  This inner ring connects ends of a diffuse central bar of stars that runs horizontally across the galaxy.  Farthest out in this wide field image is a ragged structure that might be considered an outer ring. This outer ring appears spiral-like and is dotted with clusters of bright blue stars.  All these ring structures are thought to be affected by NGC 1512's own gravitational asymmetries in a drawn-out process called secular evolution.  The featured image was captured last month from a telescope at Deep Sky Chile in Chile.
 
 
 ---
@@ -15,45 +22,25 @@ Oh what a tangled web a planetary nebula can weave.  The Red Spider Planetary Ne
 
 ### Dictionary.com
 
-**gambit** _noun_ • /[gam-bit]/
+**ossify** _verb_ • /[os-uh-fahy]/
 
-a maneuver by which one seeks to gain an advantage
+to become rigid in habits, attitudes, or opinions
 
-A gambit is a clever move designed to help you get ahead. Whether in games, conversation, or tricky situations, it's a tactic meant to set you up for success. Next time you have game night, consider a gambit early on. It might just pay off later!
+Ossify originally described the process of something turning into bone, but it's also used to describe routines or views that get a bit stuck. From mornings that never change to ideas that refuse to budge, ossify captures the stubborn side of human nature.
 
-> _The CEO's opening gambit was a risky takeover bid._
-
-
-### Britannica
-
-**delicacy** _noun_
-
-The quality of being sensitive, refined, or requiring careful and tactful handling, especially in social interactions or matters of feeling.
-
-> _She handled the sensitive negotiations with great delicacy, ensuring no party felt slighted._
->
-> _The artist's brushstrokes showed an incredible delicacy, capturing the subtle nuances of light._
->
-> _He approached the subject of their disagreement with such delicacy that a resolution seemed possible._
->
-
-_Similar: tact, finesse, sensitivity_  •  _Opposite: clumsiness, coarseness, insensitivity_
-
-> _"There was a mixture of sweetness and archness in her manner which made it difficult for her to be otherwise than graceful and pleasing, and in her relations with others, she showed a natural delicacy of feeling."_
->
-> — **Jane Austen**, Pride and Prejudice (1813)
+> _The man's exercise routine had ossified: a run around the neighborhood each morning, same route, same pace, every day._
 
 
 ### Merriam-Webster
 
-**hornswoggle** _verb_ • /HORN-swah-gul/
+**diaphanous** _adjective_ • /dye-AF-uh-nus/
 
-To hornswoggle someone is to trick or deceive them.
+Diaphanous is a formal word used to describe fabric of a texture so fine that one can see through it. Diaphanous is also sometimes used figuratively to describe something characterized by extreme delicacy of form.
 
-> _I think we were hornswoggled by that magician._
+> _The bride looked radiant in her floor-length gown and diaphanous veil._
 >
 
-> "Netflix users have been warned to look out for an insidious, AI-powered email scam that looks nearly indistinguishable from the real deal. ... If you have been already hornswoggled by such a scheme, Netflix advises changing your password and reaching out to your bank." — Ben Cost, The New York Post, 3 Mar. 2025
+> "With a bright pattern set on flaming crimson and a diaphanous petticoat underneath, the dress fits her perfectly." — David Wingrave, Harpers Magazine, 24 Oct. 2025
 
-_Hornswoggle is a slang word of some considerable mystery, at least where its etymology is concerned. The word appears to have originated in the southern United States in the early 19th century. The earliest known written record comes from an 1829 issue of The Virginia Literary Magazine in its glossary of Americanisms. The magazine states that hornswoggle comes from Kentucky, and that its oddness matches nicely with other 19th-century Americanisms, such as sockdolager, absquatulate, callithump, slumgullion, and skedaddle. While the exact point at which hornswoggle entered our language, and the way in which it was formed, may remain unknown, it is a charming addition to our language, joining bamboozle and honeyfuggle as colorful ways to say "to deceive."_
+_What do the words diaphanous, epiphany, fancy, phenomenon, sycophant, emphasis, and phase all have in common? The Greek word phaínein shows more clearly in some of these words than in others, but it underlies all of them. The groundwork for diaphanous was laid when phaínein (meaning "to bring to light, cause to appear") was combined with the prefix dia- (meaning "through"). From that pairing came the Greek diaphanḗs ("transparent"), parent of the Medieval Latin diaphanus, which is the direct ancestor of the English word._
 
