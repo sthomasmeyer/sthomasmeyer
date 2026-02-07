@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-06 11:45:10 UTC_
+_Updated: 2026-02-07 11:32:44 UTC_
 
-### Supernova Remnant Cassiopeia A
+### Crescent Enceladus
 
-![Supernova Remnant Cassiopeia A](https://apod.nasa.gov/apod/image/2602/CasA_nircam_1024.jpg)
+![Crescent Enceladus](https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg)
 
-Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After only a few million years for the most massive stars, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the supernova explosion that created this remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light 11,000 years to reach us. This sharp NIRCam image from the James Webb Space Telescope shows the still-hot filaments and knots in the supernova remnant. The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across. A series of light echoes from the massive star's cataclysmic explosion are also identified in Webb's detailed images of the surrounding interstellar medium.
+Peering from the shadows, the Saturn-facing hemisphere of tantalizing inner moon Enceladus poses in this Cassini spacecraft image. North is up in the dramatic scene captured during November 2016 as Cassini's camera was pointed in a nearly sunward direction about 130,000 kilometers from the moon's bright crescent. In fact, the distant world reflects over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as fresh snow. A mere 500 kilometers in diameter, Enceladus is a surprisingly active moon. Data and images collected during Cassini's flybys have revealed water vapor and ice grains spewing from south polar geysers and evidence of an ocean of liquid water hidden beneath the moon's icy crust.
 
 
 ---
@@ -15,31 +15,47 @@ Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from v
 
 ### Dictionary.com
 
-**boohoo** _verb_ • /[boo-hoo]/
+**xylography** _noun_ • /[zahy-log-ruh-fee]/
 
-to weep noisily
+the art of engraving on wood
 
-Boohoo is what happens when crying turns loud and dramatic. This word mimics the sobbing sounds we make when emotions overwhelm us — less of a sniffle, more of a scene. From tearful toddlers to theatrical weeping, boohoo turns on the waterworks.
+Xylography is the art of engraving on wood — a centuries-old craft that turns timber into text or beautiful imagery. From decorative prints to intricate illustrations, xylography brings craftsmanship and texture to visual expression.
 
-> _When the final score was announced, the diehard fan began to boohoo loudly in disappointment._
+> _The artist displayed his skill in xylography by creating detailed prints from carved wood._
 
 
 ### Britannica
 
-**etiquette** _noun_
+**flip-flop** _noun_
 
-The customary code of polite behavior in society or among members of a particular profession or group.
+A sudden and complete reversal of position or opinion, especially in politics.
 
-> _Observing proper dining etiquette is essential when attending a formal dinner._
+> _The senator's recent policy change was criticized as a blatant flip-flop by his opponents._
 >
-> _He was praised for his impeccable business etiquette during the international conference._
+> _Voters are often wary of politicians who seem prone to flip-flops on key issues._
 >
-> _Learning the nuances of social etiquette can help one navigate unfamiliar cultural settings with grace._
+> _His flip-flop on environmental regulations surprised many of his long-time supporters._
 >
 
-_Similar: manners, protocol, decorum_  •  _Opposite: impoliteness, rudeness, boorishness_
+_Similar: reversal, U-turn, about-face_  •  _Opposite: consistency, steadfastness, adherence_
 
-> _"Etiquette is the science of living. It embraces everything. It is ethics. It is good taste. It is good manners. It is good breeding."_
+> _"The most devastating charge in politics today is 'flip-flop.' It means a sudden, complete reversal of position, usually on a matter of principle, and is hurled at candidates who have changed their minds."_
 >
-> — **Emily Post**, Etiquette in Society, in Business, in Politics, and at Home (1922)
+> — **William Safire**, The Flip-Flop Syndrome (The New York Times) (July 18, 1976)
+
+
+### Merriam-Webster
+
+**imbue** _verb_ • /im-BYOO/
+
+Imbue has two common meanings: "to permeate or influence as if by dyeing" and "to provide with something freely or naturally." In the second use it is usually used with with.
+
+> _A deep sense of history imbues the artist's work._
+>
+> _The children were imbued with a passion for nature by their parents, both biologists._
+>
+
+> "Aged cachaça, like fine whiskey, derives its complexity from the barrels it's matured in. There are dozens of different Brazilian woods cachaça can be aged in, and each imbues the spirit with its distinct flavor, resulting in varieties that are more floral or herbal, nutty or woody, savory or spiced." — Rebekah Peppler, The New York Times, 5 Dec. 2025
+
+_Like its synonym infuse, imbue implies the introduction of one thing into another so as to affect it throughout. Someone's voice can be imbued with pride, for example, or a photograph might be imbued with a sense of melancholy. In the past imbue was also used synonymously with imbrue, an obscure word meaning "to drench or stain," but the two words are likely unrelated. Imbue comes from the Latin verb imbuere, meaning "to dye, wet, or moisten," while imbrue has been traced back through Anglo-French and Old French to the Latin verb bibere, meaning "to drink."_
 
