@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-08 11:33:14 UTC_
+_Updated: 2026-02-09 11:54:00 UTC_
 
-### Active Sunspot Region 4366 Crosses the Sun
+### Miranda Revisited
 
-![Active Sunspot Region 4366 Crosses the Sun](https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_960.jpg)
+![Miranda Revisited](https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg)
 
-An unusually active sunspot region is now crossing the Sun.  The region, labelled AR 4366, is much larger than the Earth and has produced several powerful solar flares over the past ten days.  In the featured image, the region is marked by large and dark sunspots toward the upper right of the Sun's disk. The image captured the Sun over a hill in Zacatecas, Mexico, 5 days ago.  AR 4366 has become a candidate for the most active solar region in this entire 11-year solar cycle.  Active solar regions are frequently associated with increased auroral activity on the Earth.  Now reaching the edge, AR 4366 will begin facing away from the Earth during the coming week. It is not known, though, if the active region will survive long enough to reappear in about two weeks' time, as the Sun rotates.
+What is Miranda really like?  Visually, old images from NASA's Voyager 2 have been recently combined and remastered to result in the featured image of Uranus's 500-kilometer-wide moon. In the late 1980s, Voyager 2 flew by Uranus, coming close to the cratered, fractured, and unusually grooved moon -- named after a character from Shakespeare’s The Tempest.  Scientifically, planetary scientists are using old data and clear images to theorize anew about what shaped Miranda's severe surface features.  A leading hypothesis is that Miranda, beneath its icy surface, may have once hosted an expansive liquid water ocean which may be slowly freezing.  Thanks to the legacy of Voyager 2, Miranda has joined the ranks of Europa, Titan, and other icy moons in the search for water, and, possibly, microbial life, in our Solar System.   Jigsaw Moon: Astronomy Puzzle of the Day
 
 
 ---
@@ -15,31 +15,47 @@ An unusually active sunspot region is now crossing the Sun.  The region, labelle
 
 ### Dictionary.com
 
-**equanimous** _adjective_ • /[ih-kwan-uh-muhs]/
+**vilipend** _verb_ • /[vil-uh-pend]/
 
-having or showing mental and emotional composure
+to regard or treat as of little value or account
 
-To be equanimous is to stay calm and composed, even when tensions rise. The word describes a state of inner balance — steadiness in the face of stress. Whether you're breaking up an argument or navigating a high-stakes moment at work, an equanimous attitude can carry you through the day.
+If you vilipend something, you're writing it off as not very important or valuable. The word comes from Latin roots meaning "to consider cheap," which gives it a quietly dismissive tone. Think of vilipend as a useful word for brushing something off as insignificant.
 
-> _The equanimous leader calmly addressed the crisis, never losing her composure._
+> _Don't vilipend your colleague's innovative idea just because you prefer traditional methods._
 
 
 ### Britannica
 
-**humanitarian** _noun_ • //hjuˌmænəˈtɛriən//
+**inconsolable** _adjective_
 
-A person who actively promotes human welfare and social reform, especially through philanthropic aid and efforts to alleviate suffering.
+Extremely sad and unable to be comforted.
 
-> _The organization relies on dedicated humanitarians to deliver aid to disaster-stricken regions._
+> _After the loss of her beloved pet, she was inconsolable for weeks._
 >
-> _She dedicated her life to being a humanitarian, advocating for peace and justice across the globe._
+> _The child's inconsolable crying filled the quiet house, echoing his profound grief._
 >
-> _His work as a humanitarian earned him international recognition and respect._
+> _Even his closest friends found it difficult to offer solace to the inconsolable widower._
 >
 
-_Similar: philanthropist, altruist, benefactor_  •  _Opposite: misanthrope, egoist, oppressor_
+_Similar: heartbroken, grief-stricken, desolate_  •  _Opposite: cheerful, happy, joyous_
 
-> _"Mr. Chadband is a large, oily man, with a large head, and a large face, and a large stomach, and large hands, and large feet, and a large voice, and a large appetite; but he is, on the whole, a humanitarian."_
+> _"He was inconsolable. He had lost his daughter, and with her, all the light of his life."_
 >
-> — **Charles Dickens**, Bleak House (1853)
+> — **Victor Hugo**, Les Misérables (1862)
+
+
+### Merriam-Webster
+
+**fortuitous** _adjective_ • /for-TOO-uh-tus/
+
+Fortuitous is a formal word that usually describes something that comes or happens by a lucky chance. It can also mean “happening by chance” and “fortunate, lucky.”
+
+> _The fact that we were both there was a fortuitous coincidence._
+>
+> _You could not have arrived at a more fortuitous time._
+>
+
+> “The timing of the hit’s resurgence proved fortuitous: She had nearly wrapped the recording for 2025 full-length Pressure ... and the scorching hot single provided a push in the lead-up.” — Mackenzie Cummings-Grady, Billboard, 11 Nov. 2025
+
+_Before its meaning expanded, fortuitous meant one thing only: “happening by chance.” This was no accident; its Latin forebear, fortuitus, shares the same ancient root as fors, the Latin word for “chance.” But the fact that fortuitous sounds like a blend of fortunate and felicitous (“happily suited to an occasion”) likely led to a second meaning of “fortunate, lucky,” with the seeds of the newer sense perhaps planted by writers applying overtones of good fortune to something that is a random occurrence. The “lucky” use has been disparaged by critics, but it is now well established. Irregardless (cough), employing this sense in sterner company may be considered chancy._
 
