@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-09 11:54:00 UTC_
+_Updated: 2026-02-10 11:56:34 UTC_
 
-### Miranda Revisited
+### In Green Company: Aurora over Norway
 
-![Miranda Revisited](https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg)
+![In Green Company: Aurora over Norway](https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg)
 
-What is Miranda really like?  Visually, old images from NASA's Voyager 2 have been recently combined and remastered to result in the featured image of Uranus's 500-kilometer-wide moon. In the late 1980s, Voyager 2 flew by Uranus, coming close to the cratered, fractured, and unusually grooved moon -- named after a character from Shakespeare’s The Tempest.  Scientifically, planetary scientists are using old data and clear images to theorize anew about what shaped Miranda's severe surface features.  A leading hypothesis is that Miranda, beneath its icy surface, may have once hosted an expansive liquid water ocean which may be slowly freezing.  Thanks to the legacy of Voyager 2, Miranda has joined the ranks of Europa, Titan, and other icy moons in the search for water, and, possibly, microbial life, in our Solar System.   Jigsaw Moon: Astronomy Puzzle of the Day
+Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the creative featured image was captured as a composite from three separate exposures. The setting is a summit of the Austnesfjorden (a fjord) close to the town of Svolvear on the Lofoten islands in northern Norway. The year was 2014. This year, our Sun is just passing solar maximum, the peak in its 11-year surface activity cycle. As expected, some spectacular auroras have recently resulted.   Portal Universe: Random APOD Generator
 
 
 ---
@@ -15,47 +15,45 @@ What is Miranda really like?  Visually, old images from NASA's Voyager 2 have be
 
 ### Dictionary.com
 
-**vilipend** _verb_ • /[vil-uh-pend]/
+**eudemonic** _adjective_ • /[yoo-di-mon-ik]/
 
-to regard or treat as of little value or account
+pertaining or conducive to happiness
 
-If you vilipend something, you're writing it off as not very important or valuable. The word comes from Latin roots meaning "to consider cheap," which gives it a quietly dismissive tone. Think of vilipend as a useful word for brushing something off as insignificant.
+A eudemonic lifestyle focuses on deeper fulfillment rather than fleeting pleasure. Rooted in philosophical traditions, the word points to choices and values that support well-being in a deeper, more enduring sense. From meaningful work to strong relationships, a eudemonic approach values happiness over time.
 
-> _Don't vilipend your colleague's innovative idea just because you prefer traditional methods._
+> _The artist was guided by eudemonic ideals, believing that creative fulfillment mattered more than wealth._
 
 
 ### Britannica
 
-**inconsolable** _adjective_
+**remainder** _noun_ • /ri-MAIN-der/
 
-Extremely sad and unable to be comforted.
+The part that is left when other people or things are gone, used, or completed.
 
-> _After the loss of her beloved pet, she was inconsolable for weeks._
+> _After the initial rush, the remainder of the tickets were sold online._
 >
-> _The child's inconsolable crying filled the quiet house, echoing his profound grief._
+> _She dedicated the remainder of her life to charitable work._
 >
-> _Even his closest friends found it difficult to offer solace to the inconsolable widower._
+> _Please ensure the remainder of the payment is made by Friday._
 >
 
-_Similar: heartbroken, grief-stricken, desolate_  •  _Opposite: cheerful, happy, joyous_
+_Similar: rest, remnant, residue_  •  _Opposite: entirety, whole, total_
 
-> _"He was inconsolable. He had lost his daughter, and with her, all the light of his life."_
+> _"The remainder of the day passed in the usual manner."_
 >
-> — **Victor Hugo**, Les Misérables (1862)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
 
 ### Merriam-Webster
 
-**fortuitous** _adjective_ • /for-TOO-uh-tus/
+**besmirch** _verb_ • /bih-SMERCH/
 
-Fortuitous is a formal word that usually describes something that comes or happens by a lucky chance. It can also mean “happening by chance” and “fortunate, lucky.”
+To besmirch the reputation, name, honor, etc. of someone or something is to cause harm or damage to it.
 
-> _The fact that we were both there was a fortuitous coincidence._
->
-> _You could not have arrived at a more fortuitous time._
+> _The allegations have besmirched the company's reputation._
 >
 
-> “The timing of the hit’s resurgence proved fortuitous: She had nearly wrapped the recording for 2025 full-length Pressure ... and the scorching hot single provided a push in the lead-up.” — Mackenzie Cummings-Grady, Billboard, 11 Nov. 2025
+> "... in 1895, a ruthless public smear campaign hinging on [Oscar] Wilde's queerness led to the author's imprisonment, outing, and eventual exile. ... Famously, the British press conspired to draw the dramatist's name through the mud, besmirching his literary legacy for generations to follow." — Brittany Allen, LitHub.com, 20 Oct. 2025
 
-_Before its meaning expanded, fortuitous meant one thing only: “happening by chance.” This was no accident; its Latin forebear, fortuitus, shares the same ancient root as fors, the Latin word for “chance.” But the fact that fortuitous sounds like a blend of fortunate and felicitous (“happily suited to an occasion”) likely led to a second meaning of “fortunate, lucky,” with the seeds of the newer sense perhaps planted by writers applying overtones of good fortune to something that is a random occurrence. The “lucky” use has been disparaged by critics, but it is now well established. Irregardless (cough), employing this sense in sterner company may be considered chancy._
+_The prefix be- has several applications in English; in the case of besmirch, it means "to make or cause to be." But what does smirch itself mean? Since the 1400s, smirch has been used as a verb meaning "to make dirty, stained, or discolored." Besmirch joined English in the early 1600s, and today smirch and besmirch are both used when something—and especially something abstract, like a reputation—is being figuratively sullied, i.e., damaged or harmed. Besmirch isn't unique in its journey; English has a history of attaching be- to existing verbs to form synonyms. For example, befriend combines be- in its "to make or cause to be" sense with the verb friend, meaning "to act as the friend of." Befuddle combines be- in its "thoroughly" sense with fuddle, meaning "to stupefy with or as if with drink." And befog combines be- in its "to provide or cover with" sense with fog, meaning "to cover with or as if with fog."_
 
