@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of February 11th Past: Thomas Edison (1847)
 
-_Updated: 2026-02-10 11:56:34 UTC_
+_Updated: 2026-02-11 11:53:24 UTC_
 
-### In Green Company: Aurora over Norway
+Today we celebrate Thomas Edison (1847 - 1931), an American inventor and businessman who played a key role in ushering in the modern age of electricity.
 
-![In Green Company: Aurora over Norway](https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg)
 
-Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the creative featured image was captured as a composite from three separate exposures. The setting is a summit of the Austnesfjorden (a fjord) close to the town of Svolvear on the Lofoten islands in northern Norway. The year was 2014. This year, our Sun is just passing solar maximum, the peak in its 11-year surface activity cycle. As expected, some spectacular auroras have recently resulted.   Portal Universe: Random APOD Generator
+---
+
+## NASA Astronomy Picture of the Day
+
+### A Year of Sunspots
+
+![A Year of Sunspots](https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_960.jpg)
+
+How many sunspots can you see?  The central image shows the many sunspots that occurred in 2025, month by month around the circle, and all together in the grand central image.  Each sunspot is magnetically cooled and so appears dark -- and can last from days to months. Although the featured images originated from NASA's Solar Dynamics Observatory, sunspots can be easily seen with a small telescope or binoculars equipped with a solar filter. Very large sunspot groups like recent AR 4366 can even be seen with eclipse glasses. Sunspots are still counted by eye, but the total number is not considered exact because they frequently change and break up.  Last year, 2025, coincided with a solar maximum, the period of most intense magnetic activity during its 11-year solar cycle.  Our Sun remains unpredictable in many ways, including when it ejects solar flares that will impact the Earth, and how active the next solar cycle will be.
 
 
 ---
@@ -15,45 +22,45 @@ Raise your arms if you see an aurora. With those instructions, two nights went b
 
 ### Dictionary.com
 
-**eudemonic** _adjective_ • /[yoo-di-mon-ik]/
+**faux pas** _noun_ • /[foh pah]/
 
-pertaining or conducive to happiness
+an embarrassing social blunder
 
-A eudemonic lifestyle focuses on deeper fulfillment rather than fleeting pleasure. Rooted in philosophical traditions, the word points to choices and values that support well-being in a deeper, more enduring sense. From meaningful work to strong relationships, a eudemonic approach values happiness over time.
+A faux pas is a misstep that causes embarrassment in a social setting. The phrase comes from the French for "false step," a fitting image for errors that happen without bad intent. Fortunately, most faux pas fade from memory almost as quickly as they're made.
 
-> _The artist was guided by eudemonic ideals, believing that creative fulfillment mattered more than wealth._
+> _She committed a major faux pas when she called the host by the wrong name at the dinner party._
 
 
 ### Britannica
 
-**remainder** _noun_ • /ri-MAIN-der/
+**paramedic** _noun_
 
-The part that is left when other people or things are gone, used, or completed.
+A healthcare professional specially trained to provide emergency medical care to sick or injured people, often at the scene of an emergency and during transport to a hospital.
 
-> _After the initial rush, the remainder of the tickets were sold online._
+> _The paramedics arrived swiftly, assessing the situation with calm professionalism._
 >
-> _She dedicated the remainder of her life to charitable work._
+> _She decided to pursue a career as a paramedic after witnessing their life-saving work firsthand._
 >
-> _Please ensure the remainder of the payment is made by Friday._
+> _The advanced skills of a paramedic are crucial in critical situations before a patient reaches the emergency room._
 >
 
-_Similar: rest, remnant, residue_  •  _Opposite: entirety, whole, total_
+_Similar: EMT, first responder, emergency medical technician_
 
-> _"The remainder of the day passed in the usual manner."_
+> _"The paramedic is a new breed of medical worker, trained to provide advanced life support at the scene of an accident or illness, and during transport to the hospital."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Lawrence K. Altman**, Paramedics: New Breed of Lifesavers (December 10, 1972)
 
 
 ### Merriam-Webster
 
-**besmirch** _verb_ • /bih-SMERCH/
+**tabula rasa** _noun_ • /TAB-yuh-luh-RAH-zuh/
 
-To besmirch the reputation, name, honor, etc. of someone or something is to cause harm or damage to it.
+In general use, tabula rasa refers to something existing in an original pristine state. In philosophy, tabula rasa refers to the mind in its hypothetical primary blank or empty state before receiving outside impressions.
 
-> _The allegations have besmirched the company's reputation._
+> _The apartment was only just renovated, and everything is clean and white; it's a tabula rasa, ready for a new occupant._
 >
 
-> "... in 1895, a ruthless public smear campaign hinging on [Oscar] Wilde's queerness led to the author's imprisonment, outing, and eventual exile. ... Famously, the British press conspired to draw the dramatist's name through the mud, besmirching his literary legacy for generations to follow." — Brittany Allen, LitHub.com, 20 Oct. 2025
+> “Bella, née Victoria, is a living breathing tabula rasa unfettered by societal pressures, propriety, or niceties.” — Ryan Lattanzio, Indie Wire, 16 June 2025
 
-_The prefix be- has several applications in English; in the case of besmirch, it means "to make or cause to be." But what does smirch itself mean? Since the 1400s, smirch has been used as a verb meaning "to make dirty, stained, or discolored." Besmirch joined English in the early 1600s, and today smirch and besmirch are both used when something—and especially something abstract, like a reputation—is being figuratively sullied, i.e., damaged or harmed. Besmirch isn't unique in its journey; English has a history of attaching be- to existing verbs to form synonyms. For example, befriend combines be- in its "to make or cause to be" sense with the verb friend, meaning "to act as the friend of." Befuddle combines be- in its "thoroughly" sense with fuddle, meaning "to stupefy with or as if with drink." And befog combines be- in its "to provide or cover with" sense with fog, meaning "to cover with or as if with fog."_
+_Philosophers have been arguing that babies are born with minds that are essentially blank slates since the days of Aristotle. (Later, some psychologists took up the position as well.) English speakers have called that initial state of mental emptiness tabula rasa (a term taken from a Latin phrase that translates as “smooth or erased tablet”) since the 16th century, but it wasn't until British philosopher John Locke championed the concept in his Essay Concerning Human Understanding in 1690 that the term gained widespread popularity in our language. In later years, a figurative sense of the term emerged, referring to something that exists in an original state and has yet to be altered by outside forces._
 
