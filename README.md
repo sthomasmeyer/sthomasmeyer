@@ -1,19 +1,12 @@
-# Days of February 11th Past: Thomas Edison (1847)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-11 11:53:24 UTC_
+_Updated: 2026-02-12 11:51:30 UTC_
 
-Today we celebrate Thomas Edison (1847 - 1931), an American inventor and businessman who played a key role in ushering in the modern age of electricity.
+### The Bay of Rainbows
 
+![The Bay of Rainbows](https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg)
 
----
-
-## NASA Astronomy Picture of the Day
-
-### A Year of Sunspots
-
-![A Year of Sunspots](https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_960.jpg)
-
-How many sunspots can you see?  The central image shows the many sunspots that occurred in 2025, month by month around the circle, and all together in the grand central image.  Each sunspot is magnetically cooled and so appears dark -- and can last from days to months. Although the featured images originated from NASA's Solar Dynamics Observatory, sunspots can be easily seen with a small telescope or binoculars equipped with a solar filter. Very large sunspot groups like recent AR 4366 can even be seen with eclipse glasses. Sunspots are still counted by eye, but the total number is not considered exact because they frequently change and break up.  Last year, 2025, coincided with a solar maximum, the period of most intense magnetic activity during its 11-year solar cycle.  Our Sun remains unpredictable in many ways, including when it ejects solar flares that will impact the Earth, and how active the next solar cycle will be.
+Dark, smooth regions that cover the Moon's familiar face are called by Latin names for oceans and seas. That naming convention is historical, though it may seem a little ironic to denizens of the space age who recognize the Moon as a mostly dry and airless world, and the smooth, dark areas as lava-flooded impact basins. For example, this telescopic lunar vista, looks over the expanse of the northwestern Mare Imbrium, or Sea of Rains and into the Sinus Iridum, the Bay of Rainbows. Ringed by the Jura Mountains (montes), the bay is about 250 kilometers across. Seen after local sunrise, the mountains form part of the Sinus Iridum impact crater wall. Their rugged sunlit arc is bounded at the top by Cape (promontorium) Laplace reaching nearly 3,000 meters above the bay's surface. At the bottom of the arc is Cape Heraclides, depicted by Giovanni Cassini in his 1679 telescope-based drawings mapping the moon as a moon maiden seen in profile with long, flowing hair.
 
 
 ---
@@ -22,45 +15,47 @@ How many sunspots can you see?  The central image shows the many sunspots that o
 
 ### Dictionary.com
 
-**faux pas** _noun_ • /[foh pah]/
+**catechize** _verb_ • /[kat-i-kahyz]/
 
-an embarrassing social blunder
+to question closely
 
-A faux pas is a misstep that causes embarrassment in a social setting. The phrase comes from the French for "false step," a fitting image for errors that happen without bad intent. Fortunately, most faux pas fade from memory almost as quickly as they're made.
+To catechize is to question someone intensely, usually in a careful or systematic way. The word suggests sustained attention rather than casual curiosity. If someone keeps circling back until your response is crystal clear, they might be catechizing you.
 
-> _She committed a major faux pas when she called the host by the wrong name at the dinner party._
+> _The attorney planned to catechize the witness about every last detail of the incident._
 
 
 ### Britannica
 
-**paramedic** _noun_
+**stupendous** _adjective_
 
-A healthcare professional specially trained to provide emergency medical care to sick or injured people, often at the scene of an emergency and during transport to a hospital.
+So impressive, grand, or amazing as to cause astonishment or wonder.
 
-> _The paramedics arrived swiftly, assessing the situation with calm professionalism._
+> _The architect unveiled plans for a stupendous skyscraper that would dominate the city's skyline._
 >
-> _She decided to pursue a career as a paramedic after witnessing their life-saving work firsthand._
+> _Despite the team's stupendous efforts, they narrowly lost the championship game._
 >
-> _The advanced skills of a paramedic are crucial in critical situations before a patient reaches the emergency room._
+> _The Grand Canyon offers a truly stupendous view, leaving visitors speechless._
 >
 
-_Similar: EMT, first responder, emergency medical technician_
+_Similar: amazing, astonishing, colossal_  •  _Opposite: ordinary, unremarkable, insignificant_
 
-> _"The paramedic is a new breed of medical worker, trained to provide advanced life support at the scene of an accident or illness, and during transport to the hospital."_
+> _"From that stupendous height of Godhead thrown, To bottomless perdition, there to dwell In adamantine chains and penal fire."_
 >
-> — **Lawrence K. Altman**, Paramedics: New Breed of Lifesavers (December 10, 1972)
+> — **John Milton**, Paradise Lost (1667)
 
 
 ### Merriam-Webster
 
-**tabula rasa** _noun_ • /TAB-yuh-luh-RAH-zuh/
+**endemic** _adjective_ • /en-DEM-ik/
 
-In general use, tabula rasa refers to something existing in an original pristine state. In philosophy, tabula rasa refers to the mind in its hypothetical primary blank or empty state before receiving outside impressions.
+When used for a plant or animal species, endemic describes something that grows or exists in a certain place or area, and often specifically something restricted to a particular locality or region. Endemic is also used to describe diseases that persist over time in a particular region or population. It can also mean “common in a particular area or field.”
 
-> _The apartment was only just renovated, and everything is clean and white; it's a tabula rasa, ready for a new occupant._
+> _Our children were excited to finally see wild giant pandas—endemic to just three provinces in south-central China—during our family vacation._
+>
+> _He eventually learned that low wages were endemic to his line of work, but he continued nevertheless to pursue his passion._
 >
 
-> “Bella, née Victoria, is a living breathing tabula rasa unfettered by societal pressures, propriety, or niceties.” — Ryan Lattanzio, Indie Wire, 16 June 2025
+> “Though less charismatic than the improbably pastel pink birds, unique endemic plants have achieved impressive feats of resourcefulness and endurance. Indeed, scientists have called the region an ‘unparalleled natural laboratory’ to understand how plants adapt to ‘extreme environmental conditions.’” — Thea Riofrancos, Extraction: The Frontiers of Green Capitalism, 2025
 
-_Philosophers have been arguing that babies are born with minds that are essentially blank slates since the days of Aristotle. (Later, some psychologists took up the position as well.) English speakers have called that initial state of mental emptiness tabula rasa (a term taken from a Latin phrase that translates as “smooth or erased tablet”) since the 16th century, but it wasn't until British philosopher John Locke championed the concept in his Essay Concerning Human Understanding in 1690 that the term gained widespread popularity in our language. In later years, a figurative sense of the term emerged, referring to something that exists in an original state and has yet to be altered by outside forces._
+_Ever wonder how endemic ended up in the English language? It arrived via French and New Latin, with its ultimate origin likely in the Greek adjective éndēmos, which describes (among other things) a disease confined to one area. Éndēmos was formed from en- ( “in”) and a form of the noun dêmos, meaning “district, country, people.” That word was also key to the formation of the earlier word on which éndēmos was modeled: epidēmia, meaning “disease affecting a large number of individuals.” English adopted epidemic (also via French) in the early 17th century, but endemic didn’t become, uh, endemic until a century and a half later. (The familiar relation pandemic slipped into the language in the mid 17th.) In current use, endemic characterizes diseases that are generally found in a particular area—malaria, for example, is said to be endemic to tropical and subtropical regions—while epidemic indicates a sudden, severe outbreak within a region or group. Endemic is also used by biologists to characterize plant and animal species that are found only in a given area._
 
