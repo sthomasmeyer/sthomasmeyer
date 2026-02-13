@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-12 11:51:30 UTC_
+_Updated: 2026-02-13 11:41:05 UTC_
 
-### The Bay of Rainbows
+### NGC 147 and NGC 185
 
-![The Bay of Rainbows](https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg)
+![NGC 147 and NGC 185](https://apod.nasa.gov/apod/image/2602/N147N1851024.png)
 
-Dark, smooth regions that cover the Moon's familiar face are called by Latin names for oceans and seas. That naming convention is historical, though it may seem a little ironic to denizens of the space age who recognize the Moon as a mostly dry and airless world, and the smooth, dark areas as lava-flooded impact basins. For example, this telescopic lunar vista, looks over the expanse of the northwestern Mare Imbrium, or Sea of Rains and into the Sinus Iridum, the Bay of Rainbows. Ringed by the Jura Mountains (montes), the bay is about 250 kilometers across. Seen after local sunrise, the mountains form part of the Sinus Iridum impact crater wall. Their rugged sunlit arc is bounded at the top by Cape (promontorium) Laplace reaching nearly 3,000 meters above the bay's surface. At the bottom of the arc is Cape Heraclides, depicted by Giovanni Cassini in his 1679 telescope-based drawings mapping the moon as a moon maiden seen in profile with long, flowing hair.
+Dwarf galaxies NGC 147 (left) and NGC 185 stand side by side in this deep telescopic portrait. The two are not-often-imaged satellite galaxies of M31, the great spiral Andromeda Galaxy, some 2.5 million light-years away. Their separation on the sky, less than one degree across a pretty field of view toward the constellation Cassiopeia, translates to only about 35 thousand light-years at Andromeda's distance, but Andromeda itself is found well outside this frame. Brighter and more famous satellite galaxies of Andromeda, M32 and M110, are seen much closer to the great spiral. NGC 147 and NGC 185 have been identified as binary galaxies, forming a gravitationally stable binary system. But recently discovered faint dwarf galaxy Cassiopeia II also seems to be part of their system, forming a gravitationally bound group within Andromeda's intriguing population of small satellite galaxies.
 
 
 ---
@@ -15,47 +15,45 @@ Dark, smooth regions that cover the Moon's familiar face are called by Latin nam
 
 ### Dictionary.com
 
-**catechize** _verb_ • /[kat-i-kahyz]/
+**loblolly** _noun_ • /[lob-lol-ee]/
 
-to question closely
+a mire or mudhole
 
-To catechize is to question someone intensely, usually in a careful or systematic way. The word suggests sustained attention rather than casual curiosity. If someone keeps circling back until your response is crystal clear, they might be catechizing you.
+A loblolly refers to a soggy, muddy patch of ground where footing quickly becomes uncertain. The word has a low, sloshy sound that matches the place it describes. If you've ever stepped somewhere that swallowed your shoe whole, you've met a loblolly.
 
-> _The attorney planned to catechize the witness about every last detail of the incident._
+> _After the heavy rain, the path turned into a squishy loblolly, making it hard to walk._
 
 
 ### Britannica
 
-**stupendous** _adjective_
+**harvest** _verb_ • //ˈhɑːrvɪst//
 
-So impressive, grand, or amazing as to cause astonishment or wonder.
+To gather or collect (a crop or other natural resource) for use, or to obtain the results or rewards of an effort.
 
-> _The architect unveiled plans for a stupendous skyscraper that would dominate the city's skyline._
+> _Farmers work tirelessly to harvest their crops before the first frost._
 >
-> _Despite the team's stupendous efforts, they narrowly lost the championship game._
+> _After years of dedicated research, the scientists were finally able to harvest valuable data from their experiments._
 >
-> _The Grand Canyon offers a truly stupendous view, leaving visitors speechless._
+> _The community came together to harvest the wild berries from the forest._
 >
 
-_Similar: amazing, astonishing, colossal_  •  _Opposite: ordinary, unremarkable, insignificant_
+_Similar: gather, reap, collect_  •  _Opposite: plant, sow_
 
-> _"From that stupendous height of Godhead thrown, To bottomless perdition, there to dwell In adamantine chains and penal fire."_
+> _"He was too old to harvest the fish alone."_
 >
-> — **John Milton**, Paradise Lost (1667)
+> — **Ernest Hemingway**, The Old Man and the Sea (1952)
 
 
 ### Merriam-Webster
 
-**endemic** _adjective_ • /en-DEM-ik/
+**rapscallion** _noun_ • /rap-SKAL-yun/
 
-When used for a plant or animal species, endemic describes something that grows or exists in a certain place or area, and often specifically something restricted to a particular locality or region. Endemic is also used to describe diseases that persist over time in a particular region or population. It can also mean “common in a particular area or field.”
+The word rapscallion refers to someone who causes trouble, often in a mischievous way. It appears in the same sorts of contexts as rascal and scamp.
 
-> _Our children were excited to finally see wild giant pandas—endemic to just three provinces in south-central China—during our family vacation._
->
-> _He eventually learned that low wages were endemic to his line of work, but he continued nevertheless to pursue his passion._
+> _The movie follows the story of a rambunctious young rapscallion who can’t seem to stay out of trouble._
 >
 
-> “Though less charismatic than the improbably pastel pink birds, unique endemic plants have achieved impressive feats of resourcefulness and endurance. Indeed, scientists have called the region an ‘unparalleled natural laboratory’ to understand how plants adapt to ‘extreme environmental conditions.’” — Thea Riofrancos, Extraction: The Frontiers of Green Capitalism, 2025
+> “Charlie Brown evolved into a world-class underdog. ‘Originally, Charlie Brown was a bit of a rapscallion, a bit of a wiseass,’ [Chris] Mautner said. ‘There is a certain point, after a year or two, when he starts to become the butt of jokes, when he starts being a lonely kid. Once [Charles] Schulz hit upon that, Charlie Brown got it pretty bad for a long time.’” — Jim Beckerman, The Record (Bergen County, New Jersey), 9 Oct. 2025
 
-_Ever wonder how endemic ended up in the English language? It arrived via French and New Latin, with its ultimate origin likely in the Greek adjective éndēmos, which describes (among other things) a disease confined to one area. Éndēmos was formed from en- ( “in”) and a form of the noun dêmos, meaning “district, country, people.” That word was also key to the formation of the earlier word on which éndēmos was modeled: epidēmia, meaning “disease affecting a large number of individuals.” English adopted epidemic (also via French) in the early 17th century, but endemic didn’t become, uh, endemic until a century and a half later. (The familiar relation pandemic slipped into the language in the mid 17th.) In current use, endemic characterizes diseases that are generally found in a particular area—malaria, for example, is said to be endemic to tropical and subtropical regions—while epidemic indicates a sudden, severe outbreak within a region or group. Endemic is also used by biologists to characterize plant and animal species that are found only in a given area._
+_The word rascal has been part of English since the 15th century, but it apparently failed to fully capture the disagreeable nature of the wily knaves of yore: by the 16th century, English speakers had expanded rascal to rascallion. But it seems that even that term didn’t sound quite mischievous enough. Eventually, rascallion was further altered, resulting in the snappier, plosive-enhanced rapscallion. And although rapscallion has zero connection with scallion, it does add a figuratively spicy kick to one’s speech, not unlike chawbacon and other cheeky insults that may be of interest and use._
 
