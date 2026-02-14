@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of February 14th Past: Navstar II-1 (1989) and YouTube (2005)
 
-_Updated: 2026-02-13 11:41:05 UTC_
+_Updated: 2026-02-14 11:32:28 UTC_
 
-### NGC 147 and NGC 185
+Steve Chen, Chad Hurley, and Jawed Karim founded YouTube on this day in 2005.
 
-![NGC 147 and NGC 185](https://apod.nasa.gov/apod/image/2602/N147N1851024.png)
 
-Dwarf galaxies NGC 147 (left) and NGC 185 stand side by side in this deep telescopic portrait. The two are not-often-imaged satellite galaxies of M31, the great spiral Andromeda Galaxy, some 2.5 million light-years away. Their separation on the sky, less than one degree across a pretty field of view toward the constellation Cassiopeia, translates to only about 35 thousand light-years at Andromeda's distance, but Andromeda itself is found well outside this frame. Brighter and more famous satellite galaxies of Andromeda, M32 and M110, are seen much closer to the great spiral. NGC 147 and NGC 185 have been identified as binary galaxies, forming a gravitationally stable binary system. But recently discovered faint dwarf galaxy Cassiopeia II also seems to be part of their system, forming a gravitationally bound group within Andromeda's intriguing population of small satellite galaxies.
+---
+
+## NASA Astronomy Picture of the Day
+
+### Roses are Red
+
+![Roses are Red](https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg)
+
+Roses are red, nebulas are too, and this Valentine's gift is a stunning view! Pictured is a loving look at the Rosette Nebula (NGC 2237): a cosmic bloom of bright young stars sitting atop a stem of glowing hot gas. The rose’s blue-white speckles are among the most luminous stars in the galaxy, with some burning millions of times brighter than the Sun. Their stellar winds sculpt the famed rose shape by pushing gas and dust away from the center. Though only a few million years old, these massive stars are already nearing the end of their lives, while dimmer stars embedded in the nebula will burn for billions of years to come. The vibrant red hue comes from hydrogen gas, ionized by the ultraviolet light from the young stars. The rose’s blue-white center is color-mapped to indicate the presence of similarly ionized oxygen. The Rosette Nebula reminds us of the beauty and transformation woven into the fabric of the universe.
 
 
 ---
@@ -15,45 +22,45 @@ Dwarf galaxies NGC 147 (left) and NGC 185 stand side by side in this deep telesc
 
 ### Dictionary.com
 
-**loblolly** _noun_ • /[lob-lol-ee]/
+**billet-doux** _noun_ • /[bil-ey-doo]/
 
-a mire or mudhole
+a love letter
 
-A loblolly refers to a soggy, muddy patch of ground where footing quickly becomes uncertain. The word has a low, sloshy sound that matches the place it describes. If you've ever stepped somewhere that swallowed your shoe whole, you've met a loblolly.
+A billet-doux is a love letter — usually short, personal, and meant for just one special reader. The phrase, which comes from French meaning "sweet note," carries an old-fashioned elegance that suggests handwritten notes. In the digital age, a billet-doux feels intimate in a way few messages can match.
 
-> _After the heavy rain, the path turned into a squishy loblolly, making it hard to walk._
+> _The billet-doux found inside the old book revealed a past romance._
 
 
 ### Britannica
 
-**harvest** _verb_ • //ˈhɑːrvɪst//
+**globalize** _verb_ • //ˈɡloʊbəlaɪz//
 
-To gather or collect (a crop or other natural resource) for use, or to obtain the results or rewards of an effort.
+To make something worldwide in scope or application; to extend its reach, influence, or operations across the entire globe.
 
-> _Farmers work tirelessly to harvest their crops before the first frost._
+> _Many companies seek to globalize their operations to reach a wider customer base._
 >
-> _After years of dedicated research, the scientists were finally able to harvest valuable data from their experiments._
+> _The internet has played a significant role in helping to globalize communication and culture._
 >
-> _The community came together to harvest the wild berries from the forest._
+> _Efforts to globalize trade often involve complex international agreements._
 >
 
-_Similar: gather, reap, collect_  •  _Opposite: plant, sow_
+_Similar: internationalize, universalize, worldwide_  •  _Opposite: localize, nationalize, restrict_
 
-> _"He was too old to harvest the fish alone."_
+> _"The universalization of Western liberal democracy as the final form of human government is not merely a theoretical construct, but a practical reality, as more and more countries seek to globalize their economies and political systems."_
 >
-> — **Ernest Hemingway**, The Old Man and the Sea (1952)
+> — **Francis Fukuyama**, The End of History and the Last Man (1992)
 
 
 ### Merriam-Webster
 
-**rapscallion** _noun_ • /rap-SKAL-yun/
+**canoodle** _verb_ • /kuh-NOO-dul/
 
-The word rapscallion refers to someone who causes trouble, often in a mischievous way. It appears in the same sorts of contexts as rascal and scamp.
+To canoodle with someone is to hug and kiss them in a romantic way.
 
-> _The movie follows the story of a rambunctious young rapscallion who can’t seem to stay out of trouble._
+> _Two lovers were canoodling on a park bench._
 >
 
-> “Charlie Brown evolved into a world-class underdog. ‘Originally, Charlie Brown was a bit of a rapscallion, a bit of a wiseass,’ [Chris] Mautner said. ‘There is a certain point, after a year or two, when he starts to become the butt of jokes, when he starts being a lonely kid. Once [Charles] Schulz hit upon that, Charlie Brown got it pretty bad for a long time.’” — Jim Beckerman, The Record (Bergen County, New Jersey), 9 Oct. 2025
+> “In one dining room, ruby-colored tufted banquettes sit under vintage-inspired chandeliers. In a private room, purple-colored walls give way to cocktail tables where couples might canoodle, sipping martinis.” — Sarah Blaskovich, The Dallas Morning News, 28 Mar. 2025
 
-_The word rascal has been part of English since the 15th century, but it apparently failed to fully capture the disagreeable nature of the wily knaves of yore: by the 16th century, English speakers had expanded rascal to rascallion. But it seems that even that term didn’t sound quite mischievous enough. Eventually, rascallion was further altered, resulting in the snappier, plosive-enhanced rapscallion. And although rapscallion has zero connection with scallion, it does add a figuratively spicy kick to one’s speech, not unlike chawbacon and other cheeky insults that may be of interest and use._
+_The origins of canoodle are uncertain, but may have their genesis in an English dialect noun of the same spelling meaning “donkey,” “fool,” or “foolish lover.” That canoodle may itself be an alteration of the word noodle, used to mean “a foolish person.” (The fool noodle likely comes from noddle, a word for the head.) The guess seems reasonable given that, since its appearance in the language around the mid-19th century, canoodle has been most often used lightheartedly for playful public displays of affection by couples who are head over heels in love._
 
