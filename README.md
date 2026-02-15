@@ -1,19 +1,12 @@
-# Days of February 14th Past: Navstar II-1 (1989) and YouTube (2005)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-14 11:32:28 UTC_
+_Updated: 2026-02-15 11:33:03 UTC_
 
-Steve Chen, Chad Hurley, and Jawed Karim founded YouTube on this day in 2005.
+### To Fly Free in Space
 
+![To Fly Free in Space](https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg)
 
----
-
-## NASA Astronomy Picture of the Day
-
-### Roses are Red
-
-![Roses are Red](https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg)
-
-Roses are red, nebulas are too, and this Valentine's gift is a stunning view! Pictured is a loving look at the Rosette Nebula (NGC 2237): a cosmic bloom of bright young stars sitting atop a stem of glowing hot gas. The rose’s blue-white speckles are among the most luminous stars in the galaxy, with some burning millions of times brighter than the Sun. Their stellar winds sculpt the famed rose shape by pushing gas and dust away from the center. Though only a few million years old, these massive stars are already nearing the end of their lives, while dimmer stars embedded in the nebula will burn for billions of years to come. The vibrant red hue comes from hydrogen gas, ionized by the ultraviolet light from the young stars. The rose’s blue-white center is color-mapped to indicate the presence of similarly ionized oxygen. The Rosette Nebula reminds us of the beauty and transformation woven into the fabric of the universe.
+What would it be like to fly free in space?  About 100 meters from the cargo bay of a space shuttle, Bruce McCandless II was living the dream -- floating farther out than anyone had ever been before.  Guided by a Manned Maneuvering Unit (MMU), astronaut McCandless, pictured, was floating free in space. During Space Shuttle mission 41-B in 1984,  McCandless and fellow NASA astronaut Robert Stewart were the first to experience such an untethered space walk. The MMU worked by shooting jets of nitrogen and was used to help deploy and retrieve satellites.  With a mass over 140 kilograms, an MMU is heavy on Earth, but, like everything, is weightless when drifting in orbit. The MMU was later replaced with the SAFER backpack propulsion unit.
 
 
 ---
@@ -22,45 +15,31 @@ Roses are red, nebulas are too, and this Valentine's gift is a stunning view! Pi
 
 ### Dictionary.com
 
-**billet-doux** _noun_ • /[bil-ey-doo]/
+**higgledy-piggledy** _adverb_ • /[hig-uhl-dee-pig-uhl-dee]/
 
-a love letter
+in a jumbled, confused, or disorderly manner
 
-A billet-doux is a love letter — usually short, personal, and meant for just one special reader. The phrase, which comes from French meaning "sweet note," carries an old-fashioned elegance that suggests handwritten notes. In the digital age, a billet-doux feels intimate in a way few messages can match.
+When life moves higgledy-piggledy, it's full of chaos, mess, or confusion. Papers pile up, plans unravel, and suddenly everything's higgledy-piggledy. At least there's a fun word for these moments of delightful disorder!
 
-> _The billet-doux found inside the old book revealed a past romance._
+> _The children left their building blocks higgledy-piggledy all over the living room floor._
 
 
 ### Britannica
 
-**globalize** _verb_ • //ˈɡloʊbəlaɪz//
+**disposition** _noun_ • /dis-puh-ZISH-uhn/
 
-To make something worldwide in scope or application; to extend its reach, influence, or operations across the entire globe.
+A person's or animal's inherent qualities of mind and character; their usual attitude or mood.
 
-> _Many companies seek to globalize their operations to reach a wider customer base._
+> _Her calm disposition made her an excellent mediator in disputes._
 >
-> _The internet has played a significant role in helping to globalize communication and culture._
+> _Despite the challenging circumstances, he maintained a remarkably optimistic disposition._
 >
-> _Efforts to globalize trade often involve complex international agreements._
->
-
-_Similar: internationalize, universalize, worldwide_  •  _Opposite: localize, nationalize, restrict_
-
-> _"The universalization of Western liberal democracy as the final form of human government is not merely a theoretical construct, but a practical reality, as more and more countries seek to globalize their economies and political systems."_
->
-> — **Francis Fukuyama**, The End of History and the Last Man (1992)
-
-
-### Merriam-Webster
-
-**canoodle** _verb_ • /kuh-NOO-dul/
-
-To canoodle with someone is to hug and kiss them in a romantic way.
-
-> _Two lovers were canoodling on a park bench._
+> _The dog's gentle disposition quickly won over the children._
 >
 
-> “In one dining room, ruby-colored tufted banquettes sit under vintage-inspired chandeliers. In a private room, purple-colored walls give way to cocktail tables where couples might canoodle, sipping martinis.” — Sarah Blaskovich, The Dallas Morning News, 28 Mar. 2025
+_Similar: temperament, character, nature_  •  _Opposite: agitation, discomposure_
 
-_The origins of canoodle are uncertain, but may have their genesis in an English dialect noun of the same spelling meaning “donkey,” “fool,” or “foolish lover.” That canoodle may itself be an alteration of the word noodle, used to mean “a foolish person.” (The fool noodle likely comes from noddle, a word for the head.) The guess seems reasonable given that, since its appearance in the language around the mid-19th century, canoodle has been most often used lightheartedly for playful public displays of affection by couples who are head over heels in love._
+> _"They were all of them now at Netherfield; and Mr. Bingley was a young man of large fortune, good sense, and a pleasing disposition."_
+>
+> — **Jane Austen**, Pride and Prejudice (1813)
 
