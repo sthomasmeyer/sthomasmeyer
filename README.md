@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-15 11:33:03 UTC_
+_Updated: 2026-02-16 11:50:08 UTC_
 
-### To Fly Free in Space
+### Unexplained Shocks Around a White Dwarf Star
 
-![To Fly Free in Space](https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg)
+![Unexplained Shocks Around a White Dwarf Star](https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg)
 
-What would it be like to fly free in space?  About 100 meters from the cargo bay of a space shuttle, Bruce McCandless II was living the dream -- floating farther out than anyone had ever been before.  Guided by a Manned Maneuvering Unit (MMU), astronaut McCandless, pictured, was floating free in space. During Space Shuttle mission 41-B in 1984,  McCandless and fellow NASA astronaut Robert Stewart were the first to experience such an untethered space walk. The MMU worked by shooting jets of nitrogen and was used to help deploy and retrieve satellites.  With a mass over 140 kilograms, an MMU is heavy on Earth, but, like everything, is weightless when drifting in orbit. The MMU was later replaced with the SAFER backpack propulsion unit.
+How is RXJ0528+2838 creating such shock waves?  A recently discovered white dwarf star, the farther left of the two largest white spots, RXJ0528+2838, was found 730 light-years away from Earth.  Most stars, when done fusing nuclei in their cores for energy, become red giant stars, the cores of which live on as faint dense white dwarfs that slowly cool down for the rest of time.  White dwarfs are so dense that the only thing that stops them from collapsing further is quantum mechanics. In about 5 billion years, our Sun will become a white dwarf, too.  The featured image, obtained with the European Southern Observatory’s Very Large Telescope, shows unexplained bow shocks around RXJ0528+2838, similar to the bow wave of water around a fast-moving ship. Astronomers don’t yet know what is powering these shocks, which have existed for at least 1,000 years.  The red, green and blue colors represent trace amounts of glowing hydrogen, nitrogen and oxygen gas.    Open Science: Browse 3,900+ codes in the Astrophysics Source Code Library
 
 
 ---
@@ -15,31 +15,31 @@ What would it be like to fly free in space?  About 100 meters from the cargo bay
 
 ### Dictionary.com
 
-**higgledy-piggledy** _adverb_ • /[hig-uhl-dee-pig-uhl-dee]/
+**adret** _noun_ • /[a-drey]/
 
-in a jumbled, confused, or disorderly manner
+a side of a mountain receiving direct sunlight
 
-When life moves higgledy-piggledy, it's full of chaos, mess, or confusion. Papers pile up, plans unravel, and suddenly everything's higgledy-piggledy. At least there's a fun word for these moments of delightful disorder!
+Hikers and climbers might gravitate toward the adret, the slope that soaks up the sun while the other side stays cooler and shaded. It's the warm, inviting stretch of the mountain where snow melts first, plants thrive, and the day feels a little more lively. Next time you're outdoors, see if you can look on the bright side!
 
-> _The children left their building blocks higgledy-piggledy all over the living room floor._
+> _In early spring, the adret showed patches of grass, while the opposite slope stayed snowy and quiet._
 
 
 ### Britannica
 
-**disposition** _noun_ • /dis-puh-ZISH-uhn/
+**sideways** _adverb_
 
-A person's or animal's inherent qualities of mind and character; their usual attitude or mood.
+In a direction to or from one side; with one side facing forward.
 
-> _Her calm disposition made her an excellent mediator in disputes._
+> _The crab scuttled sideways across the sand, disappearing into a crevice._
 >
-> _Despite the challenging circumstances, he maintained a remarkably optimistic disposition._
+> _She glanced sideways at her friend, trying to gauge his reaction without being too obvious._
 >
-> _The dog's gentle disposition quickly won over the children._
+> _To fit the large painting through the narrow doorway, they had to turn it sideways._
 >
 
-_Similar: temperament, character, nature_  •  _Opposite: agitation, discomposure_
+_Similar: laterally, obliquely, askance_  •  _Opposite: forward, straight_
 
-> _"They were all of them now at Netherfield; and Mr. Bingley was a young man of large fortune, good sense, and a pleasing disposition."_
+> _"The Hatter shook his head mournfully. 'I don't think you can do better,' he said, 'to save time, than begin by taking a walk sideways.'"_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Lewis Carroll**, Alice's Adventures in Wonderland (1865)
 
