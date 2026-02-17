@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-16 11:50:08 UTC_
+_Updated: 2026-02-17 11:49:35 UTC_
 
-### Unexplained Shocks Around a White Dwarf Star
+### Tails of Comet Wierzchoś
 
-![Unexplained Shocks Around a White Dwarf Star](https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg)
+![Tails of Comet Wierzchoś](https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg)
 
-How is RXJ0528+2838 creating such shock waves?  A recently discovered white dwarf star, the farther left of the two largest white spots, RXJ0528+2838, was found 730 light-years away from Earth.  Most stars, when done fusing nuclei in their cores for energy, become red giant stars, the cores of which live on as faint dense white dwarfs that slowly cool down for the rest of time.  White dwarfs are so dense that the only thing that stops them from collapsing further is quantum mechanics. In about 5 billion years, our Sun will become a white dwarf, too.  The featured image, obtained with the European Southern Observatory’s Very Large Telescope, shows unexplained bow shocks around RXJ0528+2838, similar to the bow wave of water around a fast-moving ship. Astronomers don’t yet know what is powering these shocks, which have existed for at least 1,000 years.  The red, green and blue colors represent trace amounts of glowing hydrogen, nitrogen and oxygen gas.    Open Science: Browse 3,900+ codes in the Astrophysics Source Code Library
+Some comets are regular guests of our solar neighborhood; others come by only once, never to return.  We won’t have another chance to see Comet C/2024 E1 (Wierzchoś), which is currently making its way through the inner Solar System.  The hyperbolic orbit of this comet indicates that it will likely become an interstellar traveler.  Comet Wierzchoś is today near its closest approach to the Earth, passing roughly the same distance from the Earth as is the Sun.  The featured 30-minute exposure was taken last week in Chile and shows a 5-degree long ion tail as well as three shorter dust tails.  The green hue of the coma comes from the breakdown of dicarbon molecules by sunlight, but that process does not last long enough to also tinge the tails.  On the far right lies a spiral galaxy far in the distance: NGC 300.
 
 
 ---
@@ -15,31 +15,45 @@ How is RXJ0528+2838 creating such shock waves?  A recently discovered white dwar
 
 ### Dictionary.com
 
-**adret** _noun_ • /[a-drey]/
+**lunation** _noun_ • /[loo-ney-shuhn]/
 
-a side of a mountain receiving direct sunlight
+the period of time from one new moon to the next
 
-Hikers and climbers might gravitate toward the adret, the slope that soaks up the sun while the other side stays cooler and shaded. It's the warm, inviting stretch of the mountain where snow melts first, plants thrive, and the day feels a little more lively. Next time you're outdoors, see if you can look on the bright side!
+A lunation is the time it takes for the moon to complete a full cycle of phases. From new moon to full moon and back again, a lunation is about 29.5 days. Whether you're tracking tides or traditions, a lunation helps you appreciate the moon's celestial rhythm.
 
-> _In early spring, the adret showed patches of grass, while the opposite slope stayed snowy and quiet._
+> _The ritual is tied to a specific lunation, not a fixed calendar date._
 
 
 ### Britannica
 
-**sideways** _adverb_
+**roadblock** _noun_
 
-In a direction to or from one side; with one side facing forward.
+Something that stops progress; an obstacle or impediment.
 
-> _The crab scuttled sideways across the sand, disappearing into a crevice._
+> _Lack of funding proved to be a major roadblock for the ambitious research project._
 >
-> _She glanced sideways at her friend, trying to gauge his reaction without being too obvious._
+> _Negotiators faced a significant roadblock when discussing the final terms of the treaty._
 >
-> _To fit the large painting through the narrow doorway, they had to turn it sideways._
+> _Overcoming the initial roadblocks, the team successfully launched their new product ahead of schedule._
 >
 
-_Similar: laterally, obliquely, askance_  •  _Opposite: forward, straight_
+_Similar: obstacle, impediment, barrier_  •  _Opposite: advantage, aid, facilitator_
 
-> _"The Hatter shook his head mournfully. 'I don't think you can do better,' he said, 'to save time, than begin by taking a walk sideways.'"_
+> _"I am further convinced that our white brothers of the South, if they are to reach the goal of freedom, must remove all roadblocks in their way."_
 >
-> — **Lewis Carroll**, Alice's Adventures in Wonderland (1865)
+> — **Martin Luther King Jr.**, Letter from Birmingham Jail (April 16, 1963)
+
+
+### Merriam-Webster
+
+**abdicate** _verb_ • /AB-dih-kayt/
+
+Abdicate usually means “to renounce a position of power, such as a throne, high office, dignity, or function.” It can also mean “to fail to do what is required by (a duty or responsibility).”
+
+> _I know many challenges lie ahead, but I take this role on willingly, and will not abdicate my responsibility._
+>
+
+> “The story revolves around a plan by dark forces to kidnap the royal heirs and force the prince to abdicate his throne to an evil wizard.” — Screen Daily, 5 Jan. 2026
+
+_Give it up for abdicate, a word powerful enough to undo a coronation. If you need a term to describe formally throwing in the towel, this one should prove—perhaps ironically—a royal success. Coming from the Latin verb abdicāre, “to resign, renounce, withdraw,” (which traces back to the verb dīcere, meaning “to speak, state”), abdicate is used primarily for those who give up sovereign power or who evade a very serious responsibility. English has dīcere to thank for a variety of other words, among them dictate, contradict, prediction, and the crown jewel of them all: dictionary._
 
