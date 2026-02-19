@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-18 11:49:58 UTC_
+_Updated: 2026-02-19 11:49:22 UTC_
 
-### Orion's Cradle
+### IC 2574: Coddington's Nebula
 
-![Orion's Cradle](https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_960.jpg)
+![IC 2574: Coddington's Nebula](https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg)
 
-Cradled in red-glowing hydrogen gas, stars are being born in Orion.  These stellar nurseries lie at the edge of the giant Orion molecular cloud complex, some 1,500 light-years away.  This detailed view spans about 12 degrees across the center of the well-known constellation, with the Great Orion Nebula, the closest large star-forming region, visible toward the lower right.  The deep mosaic also includes, near the top center, the Flame Nebula and the Horsehead Nebula.  Image data acquired with a hydrogen-alpha filter adds other remarkable features to this wide-angle cosmic vista: pervasive tendrils of energized atomic hydrogen gas and portions of the surrounding Barnard's Loop. While the Orion Nebula and many stars in Orion are easy to see with the unaided eye, emission from the extensive interstellar gas is faint and much harder to record, even in telescopic views of the nebula-rich complex.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small, irregular galaxies form stars too. In fact, dwarf galaxy IC 2574 shows clear evidence of intense star forming activity in its telltale reddish regions of glowing hydrogen gas. Just as in spiral galaxies, the turbulent star-forming regions in IC 2574 are churned by stellar winds and supernova explosions spewing material into the galaxy's interstellar medium and triggering further star formation. A mere 12 million light-years distant, IC 2574 is part of the M81 group of galaxies, seen toward the northern constellation Ursa Major. Also known as Coddington's Nebula, the faint but intriguing island universe is about 50,000 light-years across, discovered by American astronomer Edwin Coddington in 1898.
 
 
 ---
@@ -15,31 +15,31 @@ Cradled in red-glowing hydrogen gas, stars are being born in Orion.  These stell
 
 ### Dictionary.com
 
-**sobersided** _adjective_ • /[soh-ber-sahy-did]/
+**schlep** _verb_ • /[shlep]/
 
-solemn in disposition or character
+to carry or lug
 
-Sobersided describes someone practical or solemn in character. Whether quietly observing a raucous celebration or responding with thoughtful restraint during a lively discussion, a sobersided person brings a grounded, measured presence.
+To schlep means "to carry or drag something with effort." Whether it's hauling groceries, moving furniture, or lugging suitcases through the airport, this Yiddish borrowing captures the laborious side of life. Next time you're hoisting something heavy, you can say you're schlepping it instead.
 
-> _Among his more playful siblings, he's always been the sobersided one._
+> _I had to schlep the heavy bags up three flights of stairs to my apartment._
 
 
 ### Britannica
 
-**organic** _adjective_ • /ɔːrˈɡænɪk/
+**impair** _verb_ • /im-PAIR/
 
-Relating to or derived from living matter; or, developing naturally and gradually, without external manipulation.
+To make something weaker, less effective, or worse; to damage or diminish in quality, strength, or function.
 
-> _The artist preferred the organic shapes found in nature for her sculptures._
+> _Lack of sleep can significantly impair one's judgment and reaction time._
 >
-> _The company experienced organic growth, expanding its customer base through word-of-mouth rather than aggressive marketing._
+> _The severe drought began to impair the region's agricultural output._
 >
-> _Many consumers now prefer organic produce, believing it to be healthier and more environmentally friendly._
+> _His ability to concentrate was impaired by the constant noise from the construction site._
 >
 
-_Similar: natural, biological, inherent_  •  _Opposite: artificial, synthetic, inorganic_
+_Similar: damage, weaken, harm_  •  _Opposite: enhance, strengthen, improve_
 
-> _"A state without the means of some change is without the means of its conservation. Without such means it might even risk the loss of that part of the constitution which it wished the most religiously to preserve. The body politic, like the natural body, must be subject to perpetual flux and reflux, and what is called decay, and renovation. It is not in the power of man to make a system of government, or an organic body, to stand still."_
+> _"My health was impaired by the change of climate and my uninterrupted course of application."_
 >
-> — **Edmund Burke**, Reflections on the Revolution in France (1790)
+> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
 
