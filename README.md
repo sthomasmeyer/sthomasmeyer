@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-19 11:49:22 UTC_
+_Updated: 2026-02-21 11:32:11 UTC_
 
-### IC 2574: Coddington's Nebula
+### Twilight with Moon and Planets
 
-![IC 2574: Coddington's Nebula](https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg)
+![Twilight with Moon and Planets](https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg)
 
-Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small, irregular galaxies form stars too. In fact, dwarf galaxy IC 2574 shows clear evidence of intense star forming activity in its telltale reddish regions of glowing hydrogen gas. Just as in spiral galaxies, the turbulent star-forming regions in IC 2574 are churned by stellar winds and supernova explosions spewing material into the galaxy's interstellar medium and triggering further star formation. A mere 12 million light-years distant, IC 2574 is part of the M81 group of galaxies, seen toward the northern constellation Ursa Major. Also known as Coddington's Nebula, the faint but intriguing island universe is about 50,000 light-years across, discovered by American astronomer Edwin Coddington in 1898.
+Only two days after the February New Moon's annular eclipse of the Sun, a slender lunar crescent poses above the western horizon after sunset in this wintry twilight skyscape. Its nightside faintly illuminated by earthshine, the young Moon is joined by three bright planets in the mostly clear, early evening skies above the village of Kirazli, Turkiye. Inner planet Venus appears closest to the horizon. Near the beginning of its 2026 performance as planet Earth's evening star, brilliant Venus is seen through the warm sunset glare near picture center. Straight above Venus, innermost planet Mercury is easy to spot as it stands remarkably high above the horizon even as the twilight sky is growing dark. Outer planet Saturn, most distant of the naked-eye planets, is found just left of the Moon's sunlit crescent.
 
 
 ---
@@ -15,31 +15,45 @@ Grand spiral galaxies often seem to get all the glory, flaunting their young, br
 
 ### Dictionary.com
 
-**schlep** _verb_ • /[shlep]/
+**breviloquent** _adjective_ • /[bre-vil-uh-kwuhnt]/
 
-to carry or lug
+speaking or expressed in a concise or terse style
 
-To schlep means "to carry or drag something with effort." Whether it's hauling groceries, moving furniture, or lugging suitcases through the airport, this Yiddish borrowing captures the laborious side of life. Next time you're hoisting something heavy, you can say you're schlepping it instead.
+Breviloquent describes using as few words as possible to get a message across. It applies to punchy speeches, crisp writing, and any moment where less is more. When restraint makes the message sharper, breviloquent is the word.
 
-> _I had to schlep the heavy bags up three flights of stairs to my apartment._
+> _The breviloquent presentation, deliberately short and to the point, impressed the entire committee of executives._
 
 
 ### Britannica
 
-**impair** _verb_ • /im-PAIR/
+**debris** _noun_
 
-To make something weaker, less effective, or worse; to damage or diminish in quality, strength, or function.
+The scattered fragments, wreckage, or refuse of something destroyed or discarded.
 
-> _Lack of sleep can significantly impair one's judgment and reaction time._
+> _After the hurricane, the streets were impassable due to the extensive debris._
 >
-> _The severe drought began to impair the region's agricultural output._
+> _The archaeologists carefully sifted through the ancient debris, hoping to find artifacts._
 >
-> _His ability to concentrate was impaired by the constant noise from the construction site._
+> _The artist created a sculpture from industrial debris, transforming waste into art._
 >
 
-_Similar: damage, weaken, harm_  •  _Opposite: enhance, strengthen, improve_
+_Similar: wreckage, rubble, refuse_  •  _Opposite: order, cleanliness, intactness_
 
-> _"My health was impaired by the change of climate and my uninterrupted course of application."_
+> _"The current ran swiftly, and the steamer, with a broken rudder, drifted helplessly amongst the snags and the debris of the banks."_
 >
-> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
+> — **Joseph Conrad**, Heart of Darkness (1902)
+
+
+### Merriam-Webster
+
+**laconic** _adjective_ • /luh-KAH-nik/
+
+Laconic describes someone or something communicating with few words. Laconic can more narrowly mean "concise to the point of seeming rude or mysterious."
+
+> _The stand-up comedian is known for his laconic wit and mastery of the one-liner._
+>
+
+> "Elijah did not enjoy all my choices. ... But my son listened closely to every selection. He remembered plot points better than I did and assessed historical figures concisely. 'Mean,' he said of Voltaire. 'Creepy,' summed up Alexander Hamilton. ... Most surprising, my laconic teenager shared my love of Austen. Those hours listening to Pride and Prejudice were some of the happiest of my parenting life." — Allegra Goodman, LitHub.com, 4 Feb. 2025
+
+_We'll keep it brief. Laconia was once an ancient province in southern Greece. Its capital city was Sparta, and the Spartans were famous for their terseness of speech. Laconic comes to us by way of the Latin word laconicus ("Spartan") from the Greek word lakōnikos. In current use, laconic means "terse" or "concise to the point of seeming rude or mysterious," and thus recalls the Spartans' tight-lipped taciturnity._
 
