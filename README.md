@@ -1,19 +1,12 @@
-# Days of February 22nd Past: Miracle on Ice (1980)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-22 11:31:57 UTC_
+_Updated: 2026-02-23 11:49:46 UTC_
 
-On this day in 1980, the U.S. Men's Ice Hockey team defeated the heavily favored Soviet Union 4-3 in the 'Miracle on Ice', a medal-round game at the Lake Placid Winter Olympics.
+### Pleiades: The Seven Sisters Star Cluster
 
+![Pleiades: The Seven Sisters Star Cluster](https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_960.jpg)
 
----
-
-## NASA Astronomy Picture of the Day
-
-### Shadow of a Martian Robot
-
-![Shadow of a Martian Robot](https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg)
-
-What if you saw your shadow on Mars and it wasn't human?  Then you might be the Opportunity rover exploring Mars.  Opportunity explored the Red Planet from 2004 to 2018, finding evidence of ancient water, and sending breathtaking images across the inner Solar System.  Pictured here in 2004, Opportunity looks opposite the Sun into Endurance Crater and sees its own shadow.  Two wheels are visible on the lower left and right, while the floor and walls of the unusual crater are visible in the background.  Caught in a dust storm in 2018, Opportunity stopped responding, and NASA stopped trying to contact it in 2019 and declared the ground-breaking mission, originally planned for only 92 days, complete.
+Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen with the unaided eye even from the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured 18-hour exposure, taken from Bory Tucholskie, Poland covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer's eyesight.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
 
 ---
@@ -22,45 +15,45 @@ What if you saw your shadow on Mars and it wasn't human?  Then you might be the 
 
 ### Dictionary.com
 
-**yaw** _verb_ • /[yaw]/
+**platitude** _noun_ • /[plat-i-tood]/
 
-to deviate from a straight course, as a ship
+a dull or trite remark
 
-To yaw is to drift off course, especially when forward motion stays steady but direction does not. The word is most at home in nautical and aviation contexts, where even small deviations matter. When progress continues but alignment slips, yaw captures that sideways pull.
+A platitude is the kind of remark that sounds comforting but lands flat. These familiar phrases often aim for wisdom, yet repetition drains them of force or insight. When words feel recycled instead of revealing, a platitude is usually to blame.
 
-> _A sudden crosswind caused the small sailboat to yaw significantly off its intended path._
+> _His campaign speech was full of meaningless platitudes, boring nearly the entire audience._
 
 
 ### Britannica
 
-**plagiarism** _noun_ • /ˈpleɪdʒəˌrɪzəm/
+**terminal** _noun_
 
-The act of using another person's words or ideas without giving credit to that person.
+A building or area where public transportation vehicles (such as buses, trains, or airplanes) regularly stop to allow passengers to embark or disembark.
 
-> _The professor warned students that any instance of plagiarism would result in a failing grade._
+> _The weary travelers finally arrived at the bus terminal, eager to find their next connection._
 >
-> _She was careful to cite all her sources to avoid accusations of plagiarism._
+> _Security was tight at the international terminal, with long lines of passengers waiting to check in._
 >
-> _Detecting plagiarism in academic papers has become easier with advanced software._
+> _She waited patiently at the train terminal, watching the digital board for her platform number._
 >
 
-_Similar: literary theft, intellectual property infringement, appropriation_  •  _Opposite: originality, attribution, independent creation_
+_Similar: station, depot, concourse_
 
-> _"The most exquisite plagiarism is that which is made to assume the air of originality."_
+> _"The only building in sight was a small, white, two-story affair, which was a sort of terminal for the local ferry."_
 >
-> — **Edgar Allan Poe**, Marginalia (c. 1845)
+> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
 
 
 ### Merriam-Webster
 
-**foray** _noun_ • /FOR-ay/
+**culminate** _verb_ • /KUL-muh-nayt/
 
-A foray is an initial and often hesitant attempt to do something in a new or different field or area of activity, as in “the novelist’s foray into nonfiction.” In martial contexts, foray means “a sudden or irregular invasion or attack for war or spoils.”
+To culminate is to reach the end or the final result of something. Culminate is usually used with in or with.
 
-> _The professional wrestler’s surprise foray into ballet was at first met with skepticism, but he eventually proved himself a dancer of grace and poise._
+> _Their efforts have culminated in the discovery of a new treatment._
 >
 
-> “Bryan Escareño’s foray into fashion was the result of happenstance. In 2018, the designer, who was born and raised in Venice, California, bought a green vintage Singer sewing machine at a garage sale determined to learn to make the perfect pair of denim pants. … He began honing his sewing skills, eventually crafting cut-and-sew flannel shirts that caught the eye of his colleagues at LA’s Wasteland, a high-end resale boutique.” — Celia San Miguel, USA Today, 3 Dec. 2025
+> “The grand emotions of these cartoons-come-to-life culminate in huge song and dance numbers, the songs sung by the voices you know and love from the movies and the dances enhanced by the grace of topflight figure skating.” — Christopher Arnott, The Hartford Courant, 11 Jan. 2026
 
-_For centuries, foray referred only to a sudden or irregular invasion or attack, but in the late 19th century it began to venture into gentler semantic territory. While the newer sense of foray still involves a trek into a foreign territory, the travel is figurative: when you make this kind of foray, you dabble in an area, occupation, or pastime that’s new to you. Take the particularly apt example (stay tuned) of mushroom hunting. The likely ancestor of foray is an Anglo-French word referring to the violent sort who do invasion forays, but that word could also refer to a forager—that is, one who wanders in search of food. (Forage has the same etymological source.) Interestingly, foray has seen a resurgence of use connected to its foraging roots, as evidenced by the growing popularity of mycophile-led mushroom “forays” that have been lately popping up like toadstools._
+_When a star or other heavenly body culminates, it reaches its highest point above the horizon from the vantage point of an observer on the ground. The English verb culminate was drawn (via Medieval Latin) from the Late Latin verb culminare, meaning “to crown,” specifically for this astronomical application. Its ultimate root is the Latin noun culmen, meaning “top.” Today, the word’s typical context is less lofty: it can mean “to reach a climactic point,” as in “a long career culminating in a prestigious award,” but it can also simply mean “to reach the end of something,” as in “a sentence culminating in a period.”_
 
