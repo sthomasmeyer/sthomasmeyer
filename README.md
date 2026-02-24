@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-23 11:49:46 UTC_
+_Updated: 2026-02-24 11:51:27 UTC_
 
-### Pleiades: The Seven Sisters Star Cluster
+### Planet Parade over Sydney Opera House
 
-![Pleiades: The Seven Sisters Star Cluster](https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_960.jpg)
+![Planet Parade over Sydney Opera House](https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg)
 
-Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen with the unaided eye even from the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured 18-hour exposure, taken from Bory Tucholskie, Poland covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer's eyesight.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+Look up this week and see a whole bunch of planets.  Just after sunset, looking west (mostly), planets Mercury, Venus, Saturn, and Jupiter will all be visible to the unaided eye simultaneously.  If you have a telescope, planets Uranus and Neptune can also be seen.  In order up from the horizon, the lineup this week will be Venus (the brightest), Mercury, Saturn, Neptune, Uranus, and Jupiter (second brightest).  It doesn't matter where on Earth you live because this early evening planet parade will be visible through clear skies all around the globe.  The planets will appear to be nearly in a line because they all orbit the Sun in nearly the same plane: the ecliptic.  The featured image shows a similar planet parade that occurred in 2022, captured over the Sydney Opera House in southern Australia.  Although visible all week, the planets will be most easily seen together this weekend.
 
 
 ---
@@ -15,45 +15,45 @@ Have you ever seen the Pleiades star cluster? Even if you have, you probably hav
 
 ### Dictionary.com
 
-**platitude** _noun_ • /[plat-i-tood]/
+**odontoid** _adjective_ • /[oh-don-toid]/
 
-a dull or trite remark
+of or resembling a tooth
 
-A platitude is the kind of remark that sounds comforting but lands flat. These familiar phrases often aim for wisdom, yet repetition drains them of force or insight. When words feel recycled instead of revealing, a platitude is usually to blame.
+Odontoid describes something that resembles a tooth in shape or function. The word is most often used in anatomy and science, where form is carefully observed and named. When a structure narrows to a pointed, toothlike profile, odontoid fits cleanly.
 
-> _His campaign speech was full of meaningless platitudes, boring nearly the entire audience._
+> _The unusual bony structure had an odontoid appearance that puzzled the biologists._
 
 
 ### Britannica
 
-**terminal** _noun_
+**investigate** _verb_ • //ɪnˈvɛstɪˌɡeɪt//
 
-A building or area where public transportation vehicles (such as buses, trains, or airplanes) regularly stop to allow passengers to embark or disembark.
+To carry out a systematic or formal inquiry to discover and examine the facts of an incident, allegation, or problem.
 
-> _The weary travelers finally arrived at the bus terminal, eager to find their next connection._
+> _The police will thoroughly investigate the claims of fraud._
 >
-> _Security was tight at the international terminal, with long lines of passengers waiting to check in._
+> _It is crucial to investigate all potential side effects of the new medication._
 >
-> _She waited patiently at the train terminal, watching the digital board for her platform number._
+> _Before making a judgment, one must investigate the circumstances fully._
 >
 
-_Similar: station, depot, concourse_
+_Similar: examine, explore, probe_  •  _Opposite: ignore, overlook, disregard_
 
-> _"The only building in sight was a small, white, two-story affair, which was a sort of terminal for the local ferry."_
+> _"It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts. My dear Watson, you must not only see, but you must also investigate."_
 >
-> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
+> — **Arthur Conan Doyle**, A Study in Scarlet (1887)
 
 
 ### Merriam-Webster
 
-**culminate** _verb_ • /KUL-muh-nayt/
+**umpteen** _adjective_ • /UMP-teen/
 
-To culminate is to reach the end or the final result of something. Culminate is usually used with in or with.
+Umpteen is an informal adjective meaning "very many" or "indefinitely numerous."
 
-> _Their efforts have culminated in the discovery of a new treatment._
+> _The artist has painted the same subject umpteen times, yet each piece has its own unique quality._
 >
 
-> “The grand emotions of these cartoons-come-to-life culminate in huge song and dance numbers, the songs sung by the voices you know and love from the movies and the dances enhanced by the grace of topflight figure skating.” — Christopher Arnott, The Hartford Courant, 11 Jan. 2026
+> "The life of a showgirl often includes umpteen costume changes, elaborate props and copious amounts of hairspray." – The Economist, 4 Oct. 2025
 
-_When a star or other heavenly body culminates, it reaches its highest point above the horizon from the vantage point of an observer on the ground. The English verb culminate was drawn (via Medieval Latin) from the Late Latin verb culminare, meaning “to crown,” specifically for this astronomical application. Its ultimate root is the Latin noun culmen, meaning “top.” Today, the word’s typical context is less lofty: it can mean “to reach a climactic point,” as in “a long career culminating in a prestigious award,” but it can also simply mean “to reach the end of something,” as in “a sentence culminating in a period.”_
+_There may not be a gazillion ways in English to refer to a large, indefinite number, but there are definitely more than a soupçon. Many of these, such as zillion, bazillion, kazillion, jillion, and bajillion, start with -illion (as in million) and add a satisfying consonant or syllable in front for some extra oomph. The adjective umpteen does the same for -teen, with the oomph provided by the ump in umpty. Umpty, an adjective meaning "such and such" (as in "umpty percent" or "umpty-four") arose, like umpteen, in the latter half of the 1800s. We only occasionally use umpty these days, but you're bound to hear or read umpteen and umpteenth ("latest or last in an indefinitely numerous series") any number of times._
 
