@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-26 11:50:04 UTC_
+_Updated: 2026-02-27 11:41:52 UTC_
 
-### Webb and Hubble: IC 5332
+### Sharpless 249 and the Jellyfish Nebula
 
-![Webb and Hubble: IC 5332](https://apod.nasa.gov/apod/image/2602/IC5332webb2209c_1024.jpg)
+![Sharpless 249 and the Jellyfish Nebula](https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg)
 
-What does the universe look like through infrared goggles? Our eyes can only see visible light, but astronomers want to see more. Today’s APOD shows spiral galaxy IC 5332 as seen by two NASA telescopes: Webb in mid-infrared and Hubble in ultraviolet and visible light. To toggle between the two space-based views just slide your cursor over the image (or follow this link). The Hubble image highlights the spiral arms of the galaxy separated by dark regions, whereas the Webb image reveals a finer, more tangled structure. Interstellar dust scatters and absorbs light from the stars in the galaxy, causing the dark dust lanes in the Hubble image, and then emits heat in infrared light, so dust glows in this Webb image. The Mid-InfraRed Instrument on Webb needs to operate at a chilling temperature of -266ºC (or - 447ºF), otherwise it would detect infrared radiation from the telescope itself. Combining these observations, astronomers connect the “small scale” of gas and stars to the truly large scale of galactic structure and evolution.
+Normally faint and elusive, the Jellyfish Nebula is caught in this alluring telescopic field of view. Floating in the interstellar sea, the nebula is anchored right and left by two bright stars, Mu and Eta Geminorum, at the foot of the celestial twins. The Jellyfish Nebula itself is right of center, seen as a brighter arcing ridge of emission with dangling tentacles. In fact, this cosmic jellyfish is part of bubble-shaped supernova remnant IC 443, the expanding debris cloud from a massive star that exploded. Light from the explosion first reached planet Earth over 30,000 years ago. Like its cousin in astrophysical waters the Crab Nebula supernova remnant, the Jellyfish Nebula is known to harbor a neutron star, the ultradense remnant of the collapsed stellar core. An emission nebula cataloged as Sharpless 249 fills the field at the upper left. The Jellyfish Nebula is about 5,000 light-years away. At that distance, this image would be about 300 light-years across.
 
 
 ---
@@ -15,31 +15,25 @@ What does the universe look like through infrared goggles? Our eyes can only see
 
 ### Dictionary.com
 
-**epistolize** _verb_ • /[ih-pis-tl-ahyz]/
+**ascribe** _verb_ • /[uh-skrahyb]/
 
-to write a letter
+to attribute
 
-To epistolize is to put your thoughts into a letter, more likely with intention and care rather than haste. The word has a formal air, evoking careful sentences and a measured tone. When an idea deserves more than a quick message, epistolize feels like the right choice.
+To ascribe is to assign a cause, quality, or origin to something. The word tends to show up when we're discussing why things happen or where ideas come from, especially when the connection isn't obvious. Keep ascribe handy for nuanced explanations.
 
-> _She decided to epistolize rather than make a phone call about the complicated billing situation._
+> _We must not ascribe every success solely to luck, but acknowledge hard work._
 
 
-### Britannica
+### Merriam-Webster
 
-**dehydrate** _verb_
+**nettle** _verb_ • /NET-ul/
 
-To remove water or moisture from something, or to lose too much water.
+To nettle someone is to make them angry or annoyed.
 
-> _Hikers must carry enough water to avoid becoming severely dehydrated in the desert._
->
-> _The sun can quickly dehydrate clothes left out on a hot day._
->
-> _Many fruits are dehydrated to preserve them for longer periods._
+> _Though he tried to maintain a friendly tone, the town official was clearly nettled by the reporter's suggestion that the town was at fault._
 >
 
-_Similar: dry, desiccate, parch_  •  _Opposite: hydrate, moisten, saturate_
+> "I can't help but be reminded of an idiom that irked me no end during times of familial stress ... : 'Use it or lose it.' The message being that if a skill or resource is not regularly utilised, over time, we will lose it. As nettled as I was by it, I now feel obliged to acknowledge the obvious truth behind the catchphrase." — Gwen Loughman, The Journal (Ireland), 21 Aug. 2025
 
-> _"The patient was much emaciated and seemed to dehydrate rapidly, losing fluids through excessive perspiration and vomiting."_
->
-> — **Various Authors**, The Medical News, Volume 69 (1896)
+_If you've ever brushed against nettles, you know those plants have sharp bristles that can leave you smarting and itching. The painful and irritating rash that nettles cause can last for days, but at least it is a rash with a linguistic silver lining. The discomfort caused by nettles can serve to remind one that the verb nettle is a synonym of irritate. Nettle originated as a plant name that we can trace to the Old English word netel. Eventually, people likened the persistent stinging itch caused by the plant to the nagging aggravation of being annoyed, and nettle joined the likes of vex, peeve, and irk in describing such little miseries._
 
