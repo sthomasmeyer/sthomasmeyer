@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-27 11:41:52 UTC_
+_Updated: 2026-02-28 11:28:44 UTC_
 
-### Sharpless 249 and the Jellyfish Nebula
+### Lunar Occultation of Mercury
 
-![Sharpless 249 and the Jellyfish Nebula](https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg)
+![Lunar Occultation of Mercury](https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg)
 
-Normally faint and elusive, the Jellyfish Nebula is caught in this alluring telescopic field of view. Floating in the interstellar sea, the nebula is anchored right and left by two bright stars, Mu and Eta Geminorum, at the foot of the celestial twins. The Jellyfish Nebula itself is right of center, seen as a brighter arcing ridge of emission with dangling tentacles. In fact, this cosmic jellyfish is part of bubble-shaped supernova remnant IC 443, the expanding debris cloud from a massive star that exploded. Light from the explosion first reached planet Earth over 30,000 years ago. Like its cousin in astrophysical waters the Crab Nebula supernova remnant, the Jellyfish Nebula is known to harbor a neutron star, the ultradense remnant of the collapsed stellar core. An emission nebula cataloged as Sharpless 249 fills the field at the upper left. The Jellyfish Nebula is about 5,000 light-years away. At that distance, this image would be about 300 light-years across.
+Fans of the western sky after sunset have lately enjoyed this month's remarkable array of bright planets. Witnessed from some locations, on February 18 planet Mercury even appeared to slide behind the Moon, an event known as a lunar occultation. These two snapshots, taken in early evening skies show before and after telescopic views of the rare disappearance of innermost planet behind young Moon. The top panel finds bright Mercury just visible at the northern (right) edge of the earthshine-illuminated lunar disk. In the bottom panel the bright planet has emerged in darker skies beyond the Moon's sunlit crescent. As seen south of Sallisaw, Oklahoma, planet Earth, this lunar occultation of Mercury lasted only about 3 minutes (video). But you can still check out a parade of planets tonight.  March 3: Total Lunar Eclipse
 
 
 ---
@@ -15,25 +15,49 @@ Normally faint and elusive, the Jellyfish Nebula is caught in this alluring tele
 
 ### Dictionary.com
 
-**ascribe** _verb_ • /[uh-skrahyb]/
+**vade mecum** _noun_ • /[vey-dee mee-kuhm]/
 
-to attribute
+something a person carries around for frequent or regular use
 
-To ascribe is to assign a cause, quality, or origin to something. The word tends to show up when we're discussing why things happen or where ideas come from, especially when the connection isn't obvious. Keep ascribe handy for nuanced explanations.
+A vade mecum is something you keep close because you rely on it. This Latinate phrase suggests usefulness earned through reliability rather than novelty. Whether it's a notebook, tool, or lucky charm, a vade mecum is defined by how faithfully it stays at your side.
 
-> _We must not ascribe every success solely to luck, but acknowledge hard work._
+> _The field guide was her trusted vade mecum on every hiking trip._
+
+
+### Britannica
+
+**hospitable** _adjective_ • /HOS-pi-tuh-bul/
+
+Generous and friendly in receiving and entertaining guests or strangers.
+
+> _The villagers were known for their hospitable nature, always offering food and shelter to weary travelers._
+>
+> _Despite the remote location, the small mountain lodge maintained a surprisingly hospitable atmosphere._
+>
+> _The new manager created a more hospitable work environment, leading to increased team morale._
+>
+
+_Similar: welcoming, cordial, gracious_  •  _Opposite: unfriendly, inhospitable, unwelcoming_
+
+> _"The people of this country are very hospitable, and they have a great deal of good nature."_
+>
+> — **Daniel Defoe**, A Journal of the Plague Year (1722)
 
 
 ### Merriam-Webster
 
-**nettle** _verb_ • /NET-ul/
+**congruous** _adjective_ • /KAHNG-groo-us/
 
-To nettle someone is to make them angry or annoyed.
+Something described as congruous is in agreement, harmony, or correspondence with something else. Congruous can also describe something that is appropriate for a particular circumstance or requirement, or a thing that is marked or enhanced by harmonious agreement among its constituent elements.
 
-> _Though he tried to maintain a friendly tone, the town official was clearly nettled by the reporter's suggestion that the town was at fault._
+> _Their professional achievements were congruous with their academic abilities._
+>
+> _The low bookshelf forms a congruous barrier between the spaces._
+>
+> _It is a congruous, plausible story, consistent in all its details._
 >
 
-> "I can't help but be reminded of an idiom that irked me no end during times of familial stress ... : 'Use it or lose it.' The message being that if a skill or resource is not regularly utilised, over time, we will lose it. As nettled as I was by it, I now feel obliged to acknowledge the obvious truth behind the catchphrase." — Gwen Loughman, The Journal (Ireland), 21 Aug. 2025
+> “Hannah is a sustainability consultant and climate impact manager, which is congruous with an outdoor ethos and the culture around bike guiding ...” — Wendy Altschuler, Forbes, 3 Sept. 2024
 
-_If you've ever brushed against nettles, you know those plants have sharp bristles that can leave you smarting and itching. The painful and irritating rash that nettles cause can last for days, but at least it is a rash with a linguistic silver lining. The discomfort caused by nettles can serve to remind one that the verb nettle is a synonym of irritate. Nettle originated as a plant name that we can trace to the Old English word netel. Eventually, people likened the persistent stinging itch caused by the plant to the nagging aggravation of being annoyed, and nettle joined the likes of vex, peeve, and irk in describing such little miseries._
+_Congruous had only been part of the English language for a few decades in 1615, when a book about the Church of Rome referred to “teaching most congruous to reason.” The word has remained more or less true to its Latin roots: it comes from Latin congruus, an adjective that comes from the verb congruere, meaning “to come together” or “to agree.” (Its more common antonym, incongruous is about the same age.) Another familiar congruere descendant in English is congruent, which first appeared at least a century earlier with the same meaning as congruous. English also acquired congrue, a verb meaning “to be in harmony” or “to agree,” from congruere, but it has since become obsolete._
 
