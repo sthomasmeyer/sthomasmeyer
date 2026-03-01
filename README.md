@@ -61,3 +61,54 @@ Something described as congruous is in agreement, harmony, or correspondence wit
 
 _Congruous had only been part of the English language for a few decades in 1615, when a book about the Church of Rome referred to “teaching most congruous to reason.” The word has remained more or less true to its Latin roots: it comes from Latin congruus, an adjective that comes from the verb congruere, meaning “to come together” or “to agree.” (Its more common antonym, incongruous is about the same age.) Another familiar congruere descendant in English is congruent, which first appeared at least a century earlier with the same meaning as congruous. English also acquired congrue, a verb meaning “to be in harmony” or “to agree,” from congruere, but it has since become obsolete._
 
+
+---
+
+## Words of the Day
+
+### Dictionary.com
+
+**hogwash** _noun_ • /[hawg-wosh]/
+
+talk or writing that is meaningless or insincere
+
+Hogwash is talk or writing that's empty, insincere, or just plain nonsense. The word comes from farm life, originally referring to the watery slop fed to pigs. Next time someone spins a story that doesn't hold water, you can call it what it is: hogwash.
+
+> _He claimed he could finish the marathon without training, but that's pure hogwash._
+
+
+### Britannica
+
+**rehabilitate** _verb_
+
+To bring someone or something back to a normal, healthy condition after an illness, injury, or problem, or to restore to a former good state.
+
+> _After the accident, she spent months in physical therapy to rehabilitate her injured knee._
+>
+> _The city council approved a plan to rehabilitate the historic downtown district, restoring its old charm._
+>
+> _The organization works to rehabilitate rescued animals, preparing them for adoption into loving homes._
+>
+
+_Similar: restore, recover, recondition_  •  _Opposite: deteriorate, damage, destroy_
+
+> _"We have been trying to rehabilitate the people of this country, and we have been trying to rehabilitate the country itself."_
+>
+> — **Franklin D. Roosevelt**, Fireside Chat 10: On the Works Relief Program (April 28, 1935)
+
+
+### Merriam-Webster
+
+**paean** _noun_ • /PEE-un/
+
+Paean is a literary word that refers to a song of joy, praise, or victory. It can also be used as a synonym of tribute for a work that praises or honors its subject.
+
+> _Her retirement party featured many paeans for her long years of service to the company._
+>
+> _Critics considered the movie both a thrilling Western and a paean to the natural beauty of the Rockies._
+>
+
+> “The show is a tender study of people struggling to do right by themselves and others. It's also a paean to Chicago, my hometown ...” — Isaac Stanley-Becker, The Atlantic, 10 Aug. 2025
+
+_In ancient Greece, Paiā́n (or Paiṓn) was a name used for the god Apollo when in the guise of physician to the gods (Paiā́n/Paiṓn comes from the name of an older Mycenaean healer god). Paiā́n and paiṓn were also used to refer to hymns of thanksgiving and praise sung especially to Apollo, as was their Latin descendant, paean. When paean first appeared in English in the late 16th century, it was used both in the context of Greek history and in general for a joyous song or hymn of praise, tribute, thanksgiving, or triumph. Over time, the word became even more generalized, and it is now used for any kind of tribute._
+
