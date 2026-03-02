@@ -1,65 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-02-28 11:28:44 UTC_
+_Updated: 2026-03-02 11:37:27 UTC_
 
-### Lunar Occultation of Mercury
+### The Dusty Surroundings of Orion and the Pleiades
 
-![Lunar Occultation of Mercury](https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg)
+![The Dusty Surroundings of Orion and the Pleiades](https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg)
 
-Fans of the western sky after sunset have lately enjoyed this month's remarkable array of bright planets. Witnessed from some locations, on February 18 planet Mercury even appeared to slide behind the Moon, an event known as a lunar occultation. These two snapshots, taken in early evening skies show before and after telescopic views of the rare disappearance of innermost planet behind young Moon. The top panel finds bright Mercury just visible at the northern (right) edge of the earthshine-illuminated lunar disk. In the bottom panel the bright planet has emerged in darker skies beyond the Moon's sunlit crescent. As seen south of Sallisaw, Oklahoma, planet Earth, this lunar occultation of Mercury lasted only about 3 minutes (video). But you can still check out a parade of planets tonight.  March 3: Total Lunar Eclipse
-
-
----
-
-## Words of the Day
-
-### Dictionary.com
-
-**vade mecum** _noun_ • /[vey-dee mee-kuhm]/
-
-something a person carries around for frequent or regular use
-
-A vade mecum is something you keep close because you rely on it. This Latinate phrase suggests usefulness earned through reliability rather than novelty. Whether it's a notebook, tool, or lucky charm, a vade mecum is defined by how faithfully it stays at your side.
-
-> _The field guide was her trusted vade mecum on every hiking trip._
-
-
-### Britannica
-
-**hospitable** _adjective_ • /HOS-pi-tuh-bul/
-
-Generous and friendly in receiving and entertaining guests or strangers.
-
-> _The villagers were known for their hospitable nature, always offering food and shelter to weary travelers._
->
-> _Despite the remote location, the small mountain lodge maintained a surprisingly hospitable atmosphere._
->
-> _The new manager created a more hospitable work environment, leading to increased team morale._
->
-
-_Similar: welcoming, cordial, gracious_  •  _Opposite: unfriendly, inhospitable, unwelcoming_
-
-> _"The people of this country are very hospitable, and they have a great deal of good nature."_
->
-> — **Daniel Defoe**, A Journal of the Plague Year (1722)
-
-
-### Merriam-Webster
-
-**congruous** _adjective_ • /KAHNG-groo-us/
-
-Something described as congruous is in agreement, harmony, or correspondence with something else. Congruous can also describe something that is appropriate for a particular circumstance or requirement, or a thing that is marked or enhanced by harmonious agreement among its constituent elements.
-
-> _Their professional achievements were congruous with their academic abilities._
->
-> _The low bookshelf forms a congruous barrier between the spaces._
->
-> _It is a congruous, plausible story, consistent in all its details._
->
-
-> “Hannah is a sustainability consultant and climate impact manager, which is congruous with an outdoor ethos and the culture around bike guiding ...” — Wendy Altschuler, Forbes, 3 Sept. 2024
-
-_Congruous had only been part of the English language for a few decades in 1615, when a book about the Church of Rome referred to “teaching most congruous to reason.” The word has remained more or less true to its Latin roots: it comes from Latin congruus, an adjective that comes from the verb congruere, meaning “to come together” or “to agree.” (Its more common antonym, incongruous is about the same age.) Another familiar congruere descendant in English is congruent, which first appeared at least a century earlier with the same meaning as congruous. English also acquired congrue, a verb meaning “to be in harmony” or “to agree,” from congruere, but it has since become obsolete._
+How well do you know the night sky? OK, but how well can you identify famous sky objects in a very deep image? Either way, here is a test: see if you can find some well-known night-sky icons in a deep image filled with filaments of normally faint dust and gas.  This image contains the Pleiades star cluster, Barnard's Loop, Orion Nebula, Aldebaran, Betelgeuse, Witch Head Nebula, Eridanus Loop, and the California Nebula. To find their real locations, here is an annotated image version.  The reason this task might be difficult is similar to the reason it is initially hard to identify familiar constellations in a very dark sky: the tapestry of our night sky has an extremely deep hidden complexity.  The featured composite reveals some of this complexity in a 16 hours of sky exposure in dark skies over Granada, Spain.    Tonight: Total Lunar Eclipse
 
 
 ---
@@ -68,47 +15,45 @@ _Congruous had only been part of the English language for a few decades in 1615,
 
 ### Dictionary.com
 
-**hogwash** _noun_ • /[hawg-wosh]/
+**aleatory** _adjective_ • /[ey-lee-uh-tawr-ee]/
 
-talk or writing that is meaningless or insincere
+from accidental causes or chance
 
-Hogwash is talk or writing that's empty, insincere, or just plain nonsense. The word comes from farm life, originally referring to the watery slop fed to pigs. Next time someone spins a story that doesn't hold water, you can call it what it is: hogwash.
+Something aleatory depends on chance or randomness rather than design. The word comes from a Latin term meaning "gambler," evoking the uncertainty of a roll of the dice. Bingo players, gamers, and speed daters all have aleatory moments where unpredictability is part of the fun.
 
-> _He claimed he could finish the marathon without training, but that's pure hogwash._
+> _The financial markets are often aleatory, their outcome dependent upon unpredictable global events._
 
 
 ### Britannica
 
-**rehabilitate** _verb_
+**analyze** _verb_ • //ˈænəˌlaɪz//
 
-To bring someone or something back to a normal, healthy condition after an illness, injury, or problem, or to restore to a former good state.
+To examine something methodically and in detail, typically in order to explain or interpret it, or to determine the nature and relationship of its parts.
 
-> _After the accident, she spent months in physical therapy to rehabilitate her injured knee._
+> _Scientists will analyze the soil samples to determine their composition._
 >
-> _The city council approved a plan to rehabilitate the historic downtown district, restoring its old charm._
+> _Before making a decision, it's crucial to analyze all available data._
 >
-> _The organization works to rehabilitate rescued animals, preparing them for adoption into loving homes._
+> _She spent hours analyzing the complex legal document._
 >
 
-_Similar: restore, recover, recondition_  •  _Opposite: deteriorate, damage, destroy_
+_Similar: examine, study, dissect_  •  _Opposite: synthesize, ignore, neglect_
 
-> _"We have been trying to rehabilitate the people of this country, and we have been trying to rehabilitate the country itself."_
+> _"We are enabled to analyze that which is next to us, and to discern in it the particular law or laws by which it is related to itself and to the whole."_
 >
-> — **Franklin D. Roosevelt**, Fireside Chat 10: On the Works Relief Program (April 28, 1935)
+> — **Henry David Thoreau**, Walden (1854)
 
 
 ### Merriam-Webster
 
-**paean** _noun_ • /PEE-un/
+**exhilarate** _verb_ • /ig-ZIL-uh-rayt/
 
-Paean is a literary word that refers to a song of joy, praise, or victory. It can also be used as a synonym of tribute for a work that praises or honors its subject.
+Exhilarate means "to cause (someone) to feel very happy and excited." It is usually used in the passive voice as (be) exhilarated.
 
-> _Her retirement party featured many paeans for her long years of service to the company._
->
-> _Critics considered the movie both a thrilling Western and a paean to the natural beauty of the Rockies._
+> _She was exhilarated by the prospect of attending her dream school._
 >
 
-> “The show is a tender study of people struggling to do right by themselves and others. It's also a paean to Chicago, my hometown ...” — Isaac Stanley-Becker, The Atlantic, 10 Aug. 2025
+> "I'll say it: winter is my favorite season for jazz in Chicago. Summer may be busier and splashier, but there's nothing quite like nestling into a darkened club, cheeks flushed from the cold, for a singular and inventive night of music. It does more than thaw frozen fingers: It exhilarates, inspires and inflames, in the best way." — Hannah Edgar, The Chicago Tribune, 11 Jan. 2026
 
-_In ancient Greece, Paiā́n (or Paiṓn) was a name used for the god Apollo when in the guise of physician to the gods (Paiā́n/Paiṓn comes from the name of an older Mycenaean healer god). Paiā́n and paiṓn were also used to refer to hymns of thanksgiving and praise sung especially to Apollo, as was their Latin descendant, paean. When paean first appeared in English in the late 16th century, it was used both in the context of Greek history and in general for a joyous song or hymn of praise, tribute, thanksgiving, or triumph. Over time, the word became even more generalized, and it is now used for any kind of tribute._
+_Many people find exhilarate a difficult word to spell. It's easy to forget that silent "h" in there, and is it an "er" or "ar" after the "l"? It may be easier to remember the spelling if you know that exhilarate ultimately comes from the Latin adjective hilarus, meaning "cheerful." (This also explains why the earliest meaning of exhilarate is "to make cheerful.") Exhilarate comes from exhilaratus, a form of exhilarare, which combines ex- and hilarare, a verb from hilarus that means "to cheer or gladden." If hilarus looks familiar, that may be because it's also the source of hilarious and hilarity (as well as hilariously and hilariousness, of course)._
 
