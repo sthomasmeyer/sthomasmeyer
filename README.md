@@ -57,3 +57,52 @@ Exhilarate means "to cause (someone) to feel very happy and excited." It is usua
 
 _Many people find exhilarate a difficult word to spell. It's easy to forget that silent "h" in there, and is it an "er" or "ar" after the "l"? It may be easier to remember the spelling if you know that exhilarate ultimately comes from the Latin adjective hilarus, meaning "cheerful." (This also explains why the earliest meaning of exhilarate is "to make cheerful.") Exhilarate comes from exhilaratus, a form of exhilarare, which combines ex- and hilarare, a verb from hilarus that means "to cheer or gladden." If hilarus looks familiar, that may be because it's also the source of hilarious and hilarity (as well as hilariously and hilariousness, of course)._
 
+
+---
+
+## Words of the Day
+
+### Dictionary.com
+
+**bon ton** _noun_ • /[bon ton]/
+
+fashionable society
+
+From glittering parties to stylish wardrobes, the bon ton is a world of high style where elegance and social grace come naturally. The term comes from French and has long been associated with good taste and polished manners. How chic!
+
+> _Only the bon ton received invitations to the exclusive, highly anticipated summer ball._
+
+
+### Britannica
+
+**accumulate** _verb_
+
+To gather or acquire an increasing number or quantity of something over a period of time.
+
+> _Dust tends to accumulate in neglected corners of a room._
+>
+> _Over the years, she managed to accumulate a vast collection of rare books._
+>
+> _The company's profits began to accumulate steadily after the new product launch._
+>
+
+_Similar: gather, collect, amass_  •  _Opposite: dissipate, disperse, squander_
+
+> _"The great object of their ambition is to accumulate money, not to make use of it."_
+>
+> — **Adam Smith**, The Wealth of Nations (1776)
+
+
+### Merriam-Webster
+
+**spiel** _noun_ • /SPEEL/
+
+A spiel is a fast speech that someone has often said before and that is usually intended to persuade people to buy something or to agree to something.
+
+> _The founder gave us a long spiel about the benefits of joining the running club._
+>
+
+> “We were in a hotel and when he and his publicist exited one door of the suite, I slipped out the other to meet him at the elevator. I gave him my spiel about the film and handed him a rough cut on VHS. He said, ‘Alright, we’ll take a look.’” — Ed Burns, quoted in The Hollywood Reporter, 21 Jan. 2026
+
+_Here’s our spiel on spiel: it’s well-known as a noun, and you may also be aware that spiel can be used as a verb meaning “to talk extravagantly,” but did you know that the verb can also mean “to play music”? That, in fact, is the word’s original meaning, and one it shares with its German root, spielen. Spiel is also found in glockenspiel, the name of a musical instrument similar to the xylophone._
+
