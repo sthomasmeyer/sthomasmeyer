@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-05 11:45:29 UTC_
+_Updated: 2026-03-06 11:38:48 UTC_
 
-### Total Lunar Eclipse over Tsé Bit'a'í
+### The Astrosphere of HD 61005
 
-![Total Lunar Eclipse over Tsé Bit'a'í](https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg)
+![The Astrosphere of HD 61005](https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg)
 
-rlier this week, Earth’s shadow swept across the full Moon in the year’s only total lunar eclipse. This stunning sequence combines images showing the Moon’s path across the night sky.  Each lunar image captures our planet’s shadow gradually engulfing the Moon, culminating in its red glow.  Sunlight scatters and refracts as it passes through Earth’s atmosphere toward the Moon. Shorter wavelength light (blue and green) scatters more efficiently, leaving red, orange, and yellow hues to paint the lunar surface. Tsé Bit'a'í (”rock with wings”, also known as Shiprock), located in Navajo Nation, provides a powerful volcanic foreground central to this photo and to stories of Navajo origin, adventure, and heroism. As the first full moon of the lunar new year, this eclipse held significance across cultures. Visible from East Asia to North America, this eclipse united observers across great distances, a cosmic reminder that we share the same sky.
+Do young stars blow bubbles? The larger view shows a stellar field observed with the Cerro Tololo Inter-American Observatory in Chile, and the inset highlights HD 61005, a star like our Sun, only 120 light-years away. Much younger than the Sun, at just about 100 million years old, it blows a fast and dense stellar wind that pushes out the cooler dust and gas that surrounds it, forming a bubble called an astrosphere. The star-blown bubble was detected with the Chandra X-ray Observatory, and it has a diameter roughly 200 times the Earth-Sun distance.  Our Sun has a bubble too, called the heliosphere, which protects the planets from cosmic radiation. Also shown in the inset is debris left behind from star formation, observed by Hubble. The debris appears as wings, giving the star its nickname: the Moth.
 
 
 ---
@@ -15,45 +15,45 @@ rlier this week, Earth’s shadow swept across the full Moon in the year’s onl
 
 ### Dictionary.com
 
-**rogue** _adjective_ • /[rohg]/
+**prescind** _verb_ • /[pri-sind]/
 
-defiant and uncontrollable
+to separate or single out in thought
 
-Rogue describes a person or thing that's defiant, unpredictable, or out of control. From mischievous employees to giant waves that seem to come out of nowhere, the word signals behavior outside the usual rules. Breaking from the unexpected course? It's gone rogue!
+To prescind is to concentrate on one element, setting the rest aside. It's useful when analyzing a problem or focusing on what really matters. Prescind what's important from the unnecessary details.
 
-> _The rogue bull broke free from the herd, running wildly across the open fields._
+> _The editor prescinded the key points from the long report to make a concise summary._
 
 
 ### Britannica
 
-**intricate** _adjective_ • //ˈɪntrɪkɪt//
+**protrude** _verb_
 
-Having many interconnected parts or elements; complex or complicated.
+To extend beyond or project out from a surface or boundary.
 
-> _The watchmaker meticulously assembled the intricate gears and springs of the antique timepiece._
+> _A sharp rock protruded from the shallow water, posing a hazard to boats._
 >
-> _She found herself lost in the intricate patterns of the Persian rug, admiring each delicate thread._
+> _His lower lip would often protrude slightly when he was deep in thought._
 >
-> _Solving the intricate puzzle required patience and a keen eye for detail._
+> _The ancient tree's roots protruded from the earth, forming natural steps._
 >
 
-_Similar: complex, complicated, elaborate_  •  _Opposite: simple, straightforward, plain_
+_Similar: project, jut, stick out_  •  _Opposite: recede, withdraw, retract_
 
-> _"It was an intricate business, and I was not much accustomed to intricate business."_
+> _"From the hood of the machine a metallic tentacle, jointed and flexible, began to protrude."_
 >
-> — **Charles Dickens**, Great Expectations (1861)
+> — **H.G. Wells**, The War of the Worlds (1898)
 
 
 ### Merriam-Webster
 
-**deem** _verb_ • /DEEM/
+**vaunted** _adjective_ • /VAWN-tud/
 
-Deem is a somewhat formal word used when someone comes to think something or to have something as an opinion after some consideration.
+Vaunted describes someone or something that is often spoken of or described as very good or great.
 
-> _The covered bridge was closed to automobile traffic for the winter because town officials deemed it a hazard to motorists._
+> _The team’s vaunted defense faltered in the second half of the game._
 >
 
-> “bbno$ is an artist who has certainly taken some flak over the years for his style. Some find it to be a gimmick, while others deem it corny. Despite this, he does have a pretty sizable fanbase.” — Alexander Cole, HotNewHipHop.com, 10 Jan. 2026
+> “After much initial hype, the much vaunted new production partnership fizzled out after just two seasons, leaving the franchise scrambling for a new direction and without a lead actor in its signature role.”  — Lacy Baugher, Den of Geek, 22 Jan. 2026
 
-_If you feel a sense of doom when asked to define deem, we’re here with some details for your dome (sense 7). While today deem is used generally as a synonym of consider (as in “a movie deemed appropriate for all ages”), its origins are more formal, coming specifically from the realm of law. The oldest meaning of deem, which comes from the Old English verb dēman (relative of dōm, meaning “doom”) is “to sit in judgment upon,” as employed by Edmund Spenser in The Faerie Queen: “... at th’one side six Judges were dispos’d, / To view and deem the deeds of arms that day.” This sense was obsolete by the early 17th century, and other senses including “to expect or hope” have come and gone, but deem’s use overall has never dimmed. In fact, today’s most common meaning of “to come to think or judge something; to consider” has also been in use since Old English and is still deemed quite common._
+_The verb vaunt has been used since the 15th century with the meaning “to make a vain display of one’s own worth or attainments”—in other words, “to brag or boast.” Over time, vaunt developed the meaning “to boast of (a particular thing),” as in “the promotional flier vaunts the natural beauty of the area,” and that use gave rise to the adjectival form vaunted. The history of vaunt and vaunted leads back to the Latin word vānus, with the meanings “lacking content, empty, illusory, marked by foolish or empty pride.” The word vain itself is also a descendant of vānus._
 
