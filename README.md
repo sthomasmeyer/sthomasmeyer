@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-06 11:38:48 UTC_
+_Updated: 2026-03-07 11:31:40 UTC_
 
-### The Astrosphere of HD 61005
+### Two Eclipses of Saros 133
 
-![The Astrosphere of HD 61005](https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg)
+![Two Eclipses of Saros 133](https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg)
 
-Do young stars blow bubbles? The larger view shows a stellar field observed with the Cerro Tololo Inter-American Observatory in Chile, and the inset highlights HD 61005, a star like our Sun, only 120 light-years away. Much younger than the Sun, at just about 100 million years old, it blows a fast and dense stellar wind that pushes out the cooler dust and gas that surrounds it, forming a bubble called an astrosphere. The star-blown bubble was detected with the Chandra X-ray Observatory, and it has a diameter roughly 200 times the Earth-Sun distance.  Our Sun has a bubble too, called the heliosphere, which protects the planets from cosmic radiation. Also shown in the inset is debris left behind from star formation, observed by Hubble. The debris appears as wings, giving the star its nickname: the Moth.
+Centered on maximum eclipse, these two total lunar eclipse sequences look almost identical. Yet the one shown on top is composed of images recorded in February 2008, while at the bottom is the recent March 2026 total eclipse of the Moon. Why are they so similar? Because these two total lunar eclipses are from the same Saros cycle. The Saros cycle was discovered historically from observations of the Moon's orbit. With a period of 18 years, 11 and 1/3 days, the cycle predicts when the Sun, Earth, and Moon all return to the same relative geometry for a lunar (or solar) eclipse. Eclipses separated by one Saros period belong to the same numbered Saros series, in this case Saros 133. So expect the next lunar eclipse in Saros 133 to be a repeat of this year's March 3 eclipse. You can watch the next Saros 133 total lunar eclipse on March 13, 2044.   Growing Gallery: Total Lunar Eclipse of March 3
 
 
 ---
@@ -15,45 +15,45 @@ Do young stars blow bubbles? The larger view shows a stellar field observed with
 
 ### Dictionary.com
 
-**prescind** _verb_ • /[pri-sind]/
+**pizzetta** _noun_ • /[peet-set-uh]/
 
-to separate or single out in thought
+a small, single-serving pizza
 
-To prescind is to concentrate on one element, setting the rest aside. It's useful when analyzing a problem or focusing on what really matters. Prescind what's important from the unnecessary details.
+A pizzetta is a small, single-serving pizza that's perfect for sampling flavors without committing to a full pie. Its Italian root, with the diminutive "-etta," signals its scaled-down size. Pizzetta: one small pizza with outsized flavor.
 
-> _The editor prescinded the key points from the long report to make a concise summary._
+> _For dinner, she ordered a delicious pizzetta with pepperoni and fresh mozzarella cheese._
 
 
 ### Britannica
 
-**protrude** _verb_
+**lagoon** _noun_ • /ləˈɡuːn/
 
-To extend beyond or project out from a surface or boundary.
+An area of shallow seawater separated from the open ocean by a reef, barrier island, or sandbar.
 
-> _A sharp rock protruded from the shallow water, posing a hazard to boats._
+> _The children spent the afternoon snorkeling in the calm, clear lagoon._
 >
-> _His lower lip would often protrude slightly when he was deep in thought._
+> _Palm trees fringed the tranquil lagoon, casting long shadows on the water._
 >
-> _The ancient tree's roots protruded from the earth, forming natural steps._
+> _The fishing village was nestled beside a protected lagoon, safe from the rough ocean waves._
 >
 
-_Similar: project, jut, stick out_  •  _Opposite: recede, withdraw, retract_
+_Similar: inlet, cove, bay_
 
-> _"From the hood of the machine a metallic tentacle, jointed and flexible, began to protrude."_
+> _"Within the irregular arc of coral the lagoon was still as a mountain lake—blue of all shades and depths and a bright, romantic green where the sea-fan waved."_
 >
-> — **H.G. Wells**, The War of the Worlds (1898)
+> — **William Golding**, Lord of the Flies (1954)
 
 
 ### Merriam-Webster
 
-**vaunted** _adjective_ • /VAWN-tud/
+**libertine** _noun_ • /LIB-er-teen/
 
-Vaunted describes someone or something that is often spoken of or described as very good or great.
+A libertine is in broad terms a person who is unrestrained by convention or morality. More narrowly, the word describes someone who leads an immoral life.
 
-> _The team’s vaunted defense faltered in the second half of the game._
+> _The legend of Don Juan depicts him as a playboy and libertine._
 >
 
-> “After much initial hype, the much vaunted new production partnership fizzled out after just two seasons, leaving the franchise scrambling for a new direction and without a lead actor in its signature role.”  — Lacy Baugher, Den of Geek, 22 Jan. 2026
+> "As horrifying as some of the sins of Victorian scholarship may have been, it would have been anathema to these students of classical philosophy to simply throw out Plato. But that's what some of their modern inheritors have tried to do. … It's worth noting that we might not have Plato's work at all, were it not carefully studied and preserved by the Islamic scholars (hardly libertines themselves) of the medieval period." — R. Bruce Anderson, The Ledger (Lakeland, Florida), 1 Feb. 2026
 
-_The verb vaunt has been used since the 15th century with the meaning “to make a vain display of one’s own worth or attainments”—in other words, “to brag or boast.” Over time, vaunt developed the meaning “to boast of (a particular thing),” as in “the promotional flier vaunts the natural beauty of the area,” and that use gave rise to the adjectival form vaunted. The history of vaunt and vaunted leads back to the Latin word vānus, with the meanings “lacking content, empty, illusory, marked by foolish or empty pride.” The word vain itself is also a descendant of vānus._
+_"I only ask to be free," says Mr. Skimpole in Charles Dickens' Bleak House. His words would undoubtedly have appealed to the world's first libertines. The word libertine comes from the Latin lībertīnus, a word used in early writings of Roman antiquity to describe a formerly enslaved person who had been set free (the Roman term for an emancipated person was the Latin lībertus). Middle English speakers used libertine to refer to a freedman, but by the late 1500s its meaning was extended to freethinkers, both religious and secular, and it later came to imply that an individual was a little too unrestrained, especially in moral affairs. The likely Latin root of libertine is līber, the ultimate source of our word liberty._
 
