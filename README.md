@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-07 11:31:40 UTC_
+_Updated: 2026-03-08 11:31:15 UTC_
 
-### Two Eclipses of Saros 133
+### The Aurora Tree
 
-![Two Eclipses of Saros 133](https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg)
+![The Aurora Tree](https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg)
 
-Centered on maximum eclipse, these two total lunar eclipse sequences look almost identical. Yet the one shown on top is composed of images recorded in February 2008, while at the bottom is the recent March 2026 total eclipse of the Moon. Why are they so similar? Because these two total lunar eclipses are from the same Saros cycle. The Saros cycle was discovered historically from observations of the Moon's orbit. With a period of 18 years, 11 and 1/3 days, the cycle predicts when the Sun, Earth, and Moon all return to the same relative geometry for a lunar (or solar) eclipse. Eclipses separated by one Saros period belong to the same numbered Saros series, in this case Saros 133. So expect the next lunar eclipse in Saros 133 to be a repeat of this year's March 3 eclipse. You can watch the next Saros 133 total lunar eclipse on March 13, 2044.   Growing Gallery: Total Lunar Eclipse of March 3
+Yes, but can your tree do this?  Pictured is a visual coincidence between the dark branches of a nearby tree and bright glow of a distant aurora. The beauty of the aurora -- combined with how it seemed to mimic a tree right nearby -- mesmerized the photographer to such a degree that he momentarily forgot to take pictures. When viewed at the right angle, it seemed that this tree had aurora for leaves. Fortunately, before the aurora morphed into a different overall shape, he came to his senses and captured the awe-inspiring momentary coincidence.  Typically triggered by solar explosions, aurora are caused by high energy electrons impacting the Earth's atmosphere around 150 kilometers up.  The unusual Earth-sky collaboration was witnessed in March of 2017 in Iceland.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
 
 ---
@@ -15,45 +15,45 @@ Centered on maximum eclipse, these two total lunar eclipse sequences look almost
 
 ### Dictionary.com
 
-**pizzetta** _noun_ • /[peet-set-uh]/
+**perspicacious** _adjective_ • /[pur-spi-key-shuhs]/
 
-a small, single-serving pizza
+having understanding and discernment
 
-A pizzetta is a small, single-serving pizza that's perfect for sampling flavors without committing to a full pie. Its Italian root, with the diminutive "-etta," signals its scaled-down size. Pizzetta: one small pizza with outsized flavor.
+Someone who's perspicacious has keen insight, noticing details that others might overlook. This sharp mental clarity isn't just about intuition; it's also about careful observation. In fact, perspicacious is related to "perception," both coming from a Latin root meaning "to look closely." So if you see what others miss, you're perspicacious!
 
-> _For dinner, she ordered a delicious pizzetta with pepperoni and fresh mozzarella cheese._
+> _The perspicacious analyst immediately understood the complex data and its implications._
 
 
 ### Britannica
 
-**lagoon** _noun_ • /ləˈɡuːn/
+**obscure** _verb_
 
-An area of shallow seawater separated from the open ocean by a reef, barrier island, or sandbar.
+To make something unclear, difficult to understand, or hard to perceive.
 
-> _The children spent the afternoon snorkeling in the calm, clear lagoon._
+> _The dense fog began to obscure the distant city skyline._
 >
-> _Palm trees fringed the tranquil lagoon, casting long shadows on the water._
+> _His complex language often served to obscure his true intentions rather than reveal them._
 >
-> _The fishing village was nestled beside a protected lagoon, safe from the rough ocean waves._
+> _A sudden cloud passed over the sun, momentarily obscuring its light._
 >
 
-_Similar: inlet, cove, bay_
+_Similar: conceal, cloud, obfuscate_  •  _Opposite: clarify, reveal, illuminate_
 
-> _"Within the irregular arc of coral the lagoon was still as a mountain lake—blue of all shades and depths and a bright, romantic green where the sea-fan waved."_
+> _"But it was in vain: sleep fled from my eyes, and the anguish of my soul obscured my reason."_
 >
-> — **William Golding**, Lord of the Flies (1954)
+> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
 
 
 ### Merriam-Webster
 
-**libertine** _noun_ • /LIB-er-teen/
+**crepuscular** _adjective_ • /krih-PUHSS-kyuh-ler/
 
-A libertine is in broad terms a person who is unrestrained by convention or morality. More narrowly, the word describes someone who leads an immoral life.
+Crepuscular means “of, relating to, or resembling twilight.” It is used in zoological contexts to describe creatures that are active during twilight, or the activities of such creatures.
 
-> _The legend of Don Juan depicts him as a playboy and libertine._
+> _As evening came on, fireflies began to appear in the crepuscular gloaming._
 >
 
-> "As horrifying as some of the sins of Victorian scholarship may have been, it would have been anathema to these students of classical philosophy to simply throw out Plato. But that's what some of their modern inheritors have tried to do. … It's worth noting that we might not have Plato's work at all, were it not carefully studied and preserved by the Islamic scholars (hardly libertines themselves) of the medieval period." — R. Bruce Anderson, The Ledger (Lakeland, Florida), 1 Feb. 2026
+> “To gaze upon a platypus is to witness a jumble of contradictions. …  Even when you see one with your own eyes—say, paddling underwater, absorbed in her crepuscular rooting—the platypus (Ornithorhynchus anatinus) remains hard to believe.” — Kathleen Yale, Orion, Winter 2025/2026
 
-_"I only ask to be free," says Mr. Skimpole in Charles Dickens' Bleak House. His words would undoubtedly have appealed to the world's first libertines. The word libertine comes from the Latin lībertīnus, a word used in early writings of Roman antiquity to describe a formerly enslaved person who had been set free (the Roman term for an emancipated person was the Latin lībertus). Middle English speakers used libertine to refer to a freedman, but by the late 1500s its meaning was extended to freethinkers, both religious and secular, and it later came to imply that an individual was a little too unrestrained, especially in moral affairs. The likely Latin root of libertine is līber, the ultimate source of our word liberty._
+_The early Romans had two words for the twilight. Crepusculum was favored by Roman writers for the half-light of evening, just after the sun sets; diluculum was reserved for morning twilight, just before the sun rises—it is related to lūcidus, meaning “bright.” (Crepusculum was likely modeled on diluculum, from the assumed  root krepos-, meaning “twilight.”) English speakers didn’t embrace either of these Latin nouns as substitutes for the word twilight, but they did form the adjective crepuscular in the 17th century. The word’s zoological sense, relating to animals that are most active at twilight, developed in the 19th century._
 
