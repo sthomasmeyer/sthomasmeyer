@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-08 11:31:15 UTC_
+_Updated: 2026-03-09 11:45:09 UTC_
 
-### The Aurora Tree
+### The Cranium Nebula from the Webb Telescope
 
-![The Aurora Tree](https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg)
+![The Cranium Nebula from the Webb Telescope](https://apod.nasa.gov/apod/image/2603/cranium_WebbMiri2_960.jpg)
 
-Yes, but can your tree do this?  Pictured is a visual coincidence between the dark branches of a nearby tree and bright glow of a distant aurora. The beauty of the aurora -- combined with how it seemed to mimic a tree right nearby -- mesmerized the photographer to such a degree that he momentarily forgot to take pictures. When viewed at the right angle, it seemed that this tree had aurora for leaves. Fortunately, before the aurora morphed into a different overall shape, he came to his senses and captured the awe-inspiring momentary coincidence.  Typically triggered by solar explosions, aurora are caused by high energy electrons impacting the Earth's atmosphere around 150 kilometers up.  The unusual Earth-sky collaboration was witnessed in March of 2017 in Iceland.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+What's going on inside the head of this nebula?  Dubbed the Exposed Cranium Nebula for its similarity to the human brain, what created the nebula remains a mystery.  One thought is that the Cranium Nebula, also known as PMR 1, is a planetary nebula surrounding a white dwarf star. In this mode, the outer atmosphere was expelled when the original Sun-like star ran out of central nuclear fuel and contracted. A competing thought is that the central star is much more massive, possibly a Wolf-Rayet star, that is ejecting gas and dust via turbulent stellar winds.  Adding to the intrigue is the dark vertical central division and the thin outer gaseous shell.  The featured image was taken by the Webb Space Telescope in mid- infrared light, while a second image, included as a rollover, is in near-infrared.  Future observations may reveal if this brainy system will quietly just fade from view or, many years from now, suddenly erupt in a powerful supernova.
 
 
 ---
@@ -15,45 +15,45 @@ Yes, but can your tree do this?  Pictured is a visual coincidence between the da
 
 ### Dictionary.com
 
-**perspicacious** _adjective_ • /[pur-spi-key-shuhs]/
+**muzz** _verb_ • /[muhz]/
 
-having understanding and discernment
+to confuse (someone)
 
-Someone who's perspicacious has keen insight, noticing details that others might overlook. This sharp mental clarity isn't just about intuition; it's also about careful observation. In fact, perspicacious is related to "perception," both coming from a Latin root meaning "to look closely." So if you see what others miss, you're perspicacious!
+To muzz someone is to confuse or bewilder them, leaving them flustered. Quirky and playful, this slangy word from the 18th century describes mental muddling. Stay sharp, or risk someone muzzing you!
 
-> _The perspicacious analyst immediately understood the complex data and its implications._
+> _The professor's complex explanation of quantum physics started to muzz the students._
 
 
 ### Britannica
 
-**obscure** _verb_
+**hammock** _noun_ • /HAM-uhk/
 
-To make something unclear, difficult to understand, or hard to perceive.
+A type of bed made of a piece of cloth or netting suspended by cords at both ends, typically hung between two trees, poles, or other supports.
 
-> _The dense fog began to obscure the distant city skyline._
+> _On a lazy afternoon, he enjoyed reading a book while gently swaying in the hammock strung between two oak trees._
 >
-> _His complex language often served to obscure his true intentions rather than reveal them._
+> _The campers quickly set up their hammocks, eager to rest after a long day of hiking._
 >
-> _A sudden cloud passed over the sun, momentarily obscuring its light._
+> _She found the perfect spot for her new hammock, offering both shade and a gentle breeze._
 >
 
-_Similar: conceal, cloud, obfuscate_  •  _Opposite: clarify, reveal, illuminate_
+_Similar: sling bed, net bed_
 
-> _"But it was in vain: sleep fled from my eyes, and the anguish of my soul obscured my reason."_
+> _"I slept in a hammock, and was much tormented by the mosquitoes."_
 >
-> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
+> — **Charles Darwin**, The Voyage of the Beagle (1839)
 
 
 ### Merriam-Webster
 
-**crepuscular** _adjective_ • /krih-PUHSS-kyuh-ler/
+**hector** _verb_ • /HEK-ter/
 
-Crepuscular means “of, relating to, or resembling twilight.” It is used in zoological contexts to describe creatures that are active during twilight, or the activities of such creatures.
+To hector someone is to criticize or question them in a threatening way.
 
-> _As evening came on, fireflies began to appear in the crepuscular gloaming._
+> _The judge ordered the attorney to stop hectoring the witness._
 >
 
-> “To gaze upon a platypus is to witness a jumble of contradictions. …  Even when you see one with your own eyes—say, paddling underwater, absorbed in her crepuscular rooting—the platypus (Ornithorhynchus anatinus) remains hard to believe.” — Kathleen Yale, Orion, Winter 2025/2026
+> “He continued to hector Neal about his inattention to business (‘I have been waiting to hear from you,’ again, and again, and again), without any tangible results.” — Jem Aswad, Variety, 5 Aug. 2025
 
-_The early Romans had two words for the twilight. Crepusculum was favored by Roman writers for the half-light of evening, just after the sun sets; diluculum was reserved for morning twilight, just before the sun rises—it is related to lūcidus, meaning “bright.” (Crepusculum was likely modeled on diluculum, from the assumed  root krepos-, meaning “twilight.”) English speakers didn’t embrace either of these Latin nouns as substitutes for the word twilight, but they did form the adjective crepuscular in the 17th century. The word’s zoological sense, relating to animals that are most active at twilight, developed in the 19th century._
+_In Homer’s Iliad, Hector, the eldest son of King Priam of Troy, was a model soldier, son, father, and friend, the champion of the Trojan army until he was killed by the Greek hero Achilles. So how did his name become a verb meaning “to intimidate or harass”? That use was likely influenced by gangs of rowdy street toughs who roamed London in the 17th century and called themselves “Hectors.” They may have thought themselves gallant young blades (that’s sense 3b(3)), but to the general populace they were swaggering bullies who intimidated passersby and vandalized property._
 
