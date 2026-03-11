@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-10 11:44:35 UTC_
+_Updated: 2026-03-11 11:44:52 UTC_
 
-### Sky Glows over Paranal Observatory
+### CG 4: The Globule and the Galaxy
 
-![Sky Glows over Paranal Observatory](https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_1080.jpg)
+![CG 4: The Globule and the Galaxy](https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg)
 
-Are lasers from giant telescopes being used to defend the Earth?  No.  Lasers shot from telescopes are now commonly used to help increase the accuracy of astronomical observations.  In some directions, Earth atmosphere-induced fluctuations in starlight can indicate how the air mass over a telescope is changing, but in other directions, no bright star exists.  In these directions, astronomers can create an artificial star with a laser.  Subsequent observations of the artificial laser guide star can reveal information so detailed about the changing blurring effects of the Earth's atmosphere that much of it can be removed by rapidly flexing a telescope's mirror.  Such adaptive optics techniques allow high-resolution ground-based observations of real stars, planets, and nebulas.  Pictured here, telescopes at Paranal Observatory in Chile study a colorful sky filled with green airglow and the Magellanic Clouds on the left, red airglow on the right, and the majestic central band of our Milky Way Galaxy arching across the center.
+Is this a cosmic monster ready to devour an unsuspecting galaxy? Thankfully, that is not the case. The red “monster” shown in the featured image is Cometary Globule CG 4, 1,300 light-years away in the Constellation Puppis. CG 4 is a molecular cloud, where hydrogen becomes cold enough to form molecules that can be brought together by gravity to create stars. The shape of CG 4 resembles that of a comet, but its head is 1.5 light-year in diameter and its tail is 8 light-years long; for comparison, the distance from the Earth to the sun is only 8 light-minutes. Astronomers believe that the tail of a cometary globule could have been shaped by a nearby supernova explosion or by irradiation from hot, massive stars. Indeed, CG 4 and other nearby globules point away from the Vela Supernova Remnant, at the center of the Gum Nebula. The edge-on spiral galaxy, ESO 257-19, is more than a hundred million light-years beyond CG 4, and is completely safe from the “monster”.
 
 
 ---
@@ -15,45 +15,45 @@ Are lasers from giant telescopes being used to defend the Earth?  No.  Lasers sh
 
 ### Dictionary.com
 
-**effulgent** _adjective_ • /[ih-fuhl-juhnt]/
+**candor** _noun_ • /[kan-der]/
 
-radiant or shining
+the quality of being open and sincere in one's speech
 
-Something effulgent shines brilliantly, whether it's a sunset or a glowing lamp. The word can also be used figuratively to describe things like bright ideas. From a Latin term meaning "to shine," effulgent practically radiates light and cheer.
+Candor is openness and honesty in speech. When someone speaks with candor, there's sincerity in every word. Even when it's not the feedback you want to hear, candor can guide growth and improvement.
 
-> _The effulgent sun peeked over the horizon, casting a brilliant glow across the morning sky._
+> _Her refreshing candor about earlier missteps made the negotiation process much smoother for both parties._
 
 
 ### Britannica
 
-**distort** _verb_
+**indulge** _verb_ • //ɪnˈdʌldʒ//
 
-To change something so that it is no longer true or accurate, or to alter its natural, normal, or original shape, appearance, or sound.
+To allow oneself or another to enjoy the pleasure of something, often something that might be considered a luxury or a treat, or to satisfy a desire or interest.
 
-> _The journalist was criticized for attempting to distort the facts to fit a particular narrative._
+> _After a long week, she decided to indulge in a relaxing bubble bath and a good book._
 >
-> _A wide-angle lens can sometimes distort the proportions of objects in a photograph._
+> _Parents sometimes indulge their children with too many sweets, despite knowing it's not healthy._
 >
-> _Fear can often distort one's perception of reality, making small problems seem insurmountable._
+> _He allowed himself to indulge his passion for vintage cars by spending hours at auto shows._
 >
 
-_Similar: misrepresent, twist, warp_  •  _Opposite: clarify, straighten, represent accurately_
+_Similar: pamper, spoil, gratify_  •  _Opposite: deny, refrain, curb_
 
-> _"To say that the constitution of England is a union of three powers reciprocally checking each other, is farcical; either the words have no meaning, or they are flat contradictions. To say that the Commons is a check upon the King, presupposes two things. First, that the King is not to be trusted without being looked after, or in other words, that a thirst for absolute power is the natural disease of Monarchy. Secondly, that the Commons, by being appointed for that purpose, are either wiser or more worthy of confidence than the Crown. But as the same constitution which gives the Commons a power to check the King, gives the King a negative over the Commons, it is easy to see that these words are mere sound; that they only serve to amuse, to deceive, or to distort."_
+> _"I am sure I shall be very happy to indulge you."_
 >
-> — **Thomas Paine**, Common Sense (1776)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
 
 ### Merriam-Webster
 
-**mea culpa** _noun_ • /may-uh-KOOL-puh/
+**besotted** _adjective_ • /bih-SAH-tud/
 
-The noun mea culpa is used for a formal acknowledgment of personal fault or error.
+Someone described as besotted is so in love that they are unable to think clearly; they are utterly infatuated. Besotted can also be used as a synonym of drunk.
 
-> _The podcast host's mea culpa did little to satisfy those who found the episode deeply offensive._
+> _The opening scene of the movie follows a besotted couple at a party, the camera’s focus emphasizing their ignorance of all that’s around them._
 >
 
-> "... his apology was the best public mea culpa of this century. ... It was delivered without hesitation, qualification or blame shifting." — John Mosig, The Age (Melbourne, Australia), 24 Oct. 2025
+> “Kathrin [tour guide] is endearingly besotted with her adopted country and spoke about it with the reverence of a convert. Some more things I heard from her that contribute to people in Finland being happy included: sauna culture discouraging fatphobia; emphasis on design—that means even very basic, cheap things are beautiful and robust; and, of course, nature.” — Imogen West-Knights, Slate, 27 Aug. 2025
 
-_Mea culpa means "through my fault" in Latin. Said by itself, it's an exclamation of apology or remorse that is used to mean "It was my fault" or "I apologize." Mea culpa is also a noun, however. A newspaper might issue a mea culpa for printing inaccurate information, or a politician might give a speech making mea culpas for past wrongdoings. Mea culpa is one of many English terms that come from the Latin culpa, meaning "guilt." Some other examples are culpable ("meriting condemnation or blame especially as wrong or harmful"), culprit ("one guilty of a crime or a fault"), and exculpate ("to clear from alleged fault or guilt")._
+_Stumble on the word sot and you will likely find it attached to a person who tends to over-imbibe. The word has referred to a habitual drunkard since the late 16th century, and before that—from the days of Old English—it referred to a fool generally. The now-archaic verb sot followed a similar trajectory, its original meaning of “to cause to appear foolish” being joined later by its “to drink alcohol excessively” meaning. The earliest known recorded use of the related adjective besotted (in the late 16th century, from the the verb besot), however, described a state of figurative intoxication: one besotted was stupefied by love rather than liquor. The still-current sense of besotted meaning “drunk” didn’t show up until the early 19th century. In fact, evidence of the “infatuated” sense of besotted also predates the tipple-related senses of the noun sot, verb sot, and verb besot, suggesting perhaps that love may be the strongest intoxicant of all._
 
