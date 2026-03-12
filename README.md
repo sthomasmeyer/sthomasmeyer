@@ -57,3 +57,52 @@ Someone described as besotted is so in love that they are unable to think clearl
 
 _Stumble on the word sot and you will likely find it attached to a person who tends to over-imbibe. The word has referred to a habitual drunkard since the late 16th century, and before that—from the days of Old English—it referred to a fool generally. The now-archaic verb sot followed a similar trajectory, its original meaning of “to cause to appear foolish” being joined later by its “to drink alcohol excessively” meaning. The earliest known recorded use of the related adjective besotted (in the late 16th century, from the the verb besot), however, described a state of figurative intoxication: one besotted was stupefied by love rather than liquor. The still-current sense of besotted meaning “drunk” didn’t show up until the early 19th century. In fact, evidence of the “infatuated” sense of besotted also predates the tipple-related senses of the noun sot, verb sot, and verb besot, suggesting perhaps that love may be the strongest intoxicant of all._
 
+
+---
+
+## Words of the Day
+
+### Dictionary.com
+
+**inhere** _verb_ • /[in-heer]/
+
+to exist as an inseparable quality or attribute of something
+
+To inhere is to be an essential or built-in part of something. Courage may inhere in a hero, and curiosity in a scientist — traits that seem inseparable from the person who has them. If something inheres, it's woven so tightly into the whole thing that you can't imagine it any other way.
+
+> _A strong sense of honesty and justice must inhere in all judges._
+
+
+### Britannica
+
+**forbidden fruit** _noun_
+
+Something that is desired precisely because it is prohibited or unattainable.
+
+> _For many, the allure of the forbidden fruit is irresistible, leading them to pursue what they know they shouldn't._
+>
+> _The antique book, locked away in the dusty attic, became a forbidden fruit to the curious child._
+>
+> _She found herself drawn to the forbidden fruit of a secret romance, despite the potential consequences._
+>
+
+_Similar: Taboo, Temptation, Vice_  •  _Opposite: Permitted pleasure_
+
+> _"Forbid them not, who taste, but rather taste with them the forbidden fruit."_
+>
+> — **John Milton**, Paradise Lost (1667)
+
+
+### Merriam-Webster
+
+**gambit** _noun_ • /GAM-bit/
+
+A gambit is something done or said in order to gain an advantage or to produce a desired effect.
+
+> _The workers’ opening gambit in the negotiations was to demand a wage hike._
+>
+
+> “Now the book publishing industry has sent a message to all A.I. companies: Our intellectual property isn’t yours for the taking, and you cannot act with impunity. This settlement is an opening gambit in a critical battle that will be waged for years to come.” — Andrea Bartz, The New York Times, 1 Oct. 2025
+
+_Don’t let the similarities of sound and general flavor between gambit and gamble trip you up; the two words are unrelated. Gambit first appeared in English in a 1656 chess handbook that was said to feature almost a hundred illustrated gambetts. Gambett traces back first to the Spanish word gambito, and before that to the Italian gambetto, from gamba meaning “leg.” Gambetto referred to the act of tripping someone, as in wrestling, in order to gain an advantage. In chess,  gambit (or gambett, as it was once spelled) originally referred to a chess opening whereby the bishop’s pawn is intentionally sacrificed—or tripped—to gain an advantage in position. Gambit is now applied to many other chess openings, but after being pinned down for years, it also finally broke free of chess’s hold and is used generally to refer to any “move,” whether literal or rhetorical, done to get a leg up, so to speak. While such moves can be risky, gambit is not synonymous with gamble, which likely comes from Old English gamen, meaning “amusement, jest, pastime”—source too of game._
+
