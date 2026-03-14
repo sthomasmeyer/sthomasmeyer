@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of March 14th Past: SpaceX (2002)
 
-_Updated: 2026-03-13 11:40:04 UTC_
+_Updated: 2026-03-14 11:34:15 UTC_
 
-### Toolondo Totality Trails
+On this day in 2002, Elon Musk founded SpaceX (Space Exploration Technologies Corp.), a private aerospace company that would go on to evolutionize space travel and become the first to successfully launch and return a spacecraft from Earth orbit.
 
-![Toolondo Totality Trails](https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg)
 
-In this composited night skyscape, stacked exposures trace graceful star trails above Lake Toolondo, Victoria, Australia, planet Earth. Captured while the lunar eclipse of March 3 was in progress, the exposures used were made during the hour-long total eclipse phase. So faint star trails are easily visible along with the trail of the reddened Moon in the eclipse-darkened skies above the lake and trees. Of course, the apparent motion of Moon and stars revealed in the timelapse composite reflect the Earth's daily rotation around its axis. Dramatically punctuating the Moon's trail as totality ended, a single, separate telephoto image of the totally eclipsed Moon was scaled and blended into the scene.   Growing Gallery: Total Lunar Eclipse of March 3
+---
+
+## NASA Astronomy Picture of the Day
+
+### A Year for K2-315b
+
+![A Year for K2-315b](https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg)
+
+Want to visit a planet that has 3.14 days in a year? Then plan a trip to K2-315b, an earth-sized planet orbiting around a cool, red, M dwarf star about once every 3.14 days. The exoplanet's discovery, based on publicly available data from the planet-hunting Kepler Space Telescope's extended K2 mission, was announced in 2020. K2-315b's measured orbital period in days is nearly equal to the extremely popular irrational number Pi. That puts the exoplanet so close to its parent star that its surface is likely very warm, baking-hot in fact. And this Pi planet is over 185 light-years away. So instead of trying to arrange for an interstellar vacation to K2-315b, there may be easier and more comfortable ways for you to celebrate Pi day on planet Earth.
 
 
 ---
@@ -15,45 +22,47 @@ In this composited night skyscape, stacked exposures trace graceful star trails 
 
 ### Dictionary.com
 
-**eidolon** _noun_ • /[ahy-doh-luhn]/
+**juvenescent** _adjective_ • /[joo-vuh-nes-uhnt]/
 
-a phantom or apparition
+being or becoming youthful
 
-An eidolon is a fancy word for a ghostly figure. Elusive and eerie, it can chill the air or send a shiver down your spine. This spooky word is a reminder that some things exist more in feeling than in form.
+Juvenescent describes something that feels young and fresh, like discovering your own personal fountain of youth. Whether it's a burst of energy, a new idea, or that feeling of renewal after a relaxing trip, this word is all about that youthful spark.
 
-> _The shimmering figure that appeared on the staircase was clearly an eidolon._
+> _The seasoned professor felt juvenescent when he started teaching the freshman class again._
 
 
 ### Britannica
 
-**morbid** _adjective_ • /ˈmɔːrbɪd/
+**illusion** _noun_
 
-Characterized by or appealing to an unhealthy or gruesome interest in disturbing subjects, especially death and disease.
+Something that appears to be real or true but is not; a deceptive appearance or belief.
 
-> _His morbid fascination with true crime documentaries kept him up late at night._
+> _The magician created the illusion of a floating woman with clever mirrors._
 >
-> _The old house, with its creaking floors and shadowy corners, had a morbid charm for the adventurous children._
+> _Many people live under the illusion that money alone can buy happiness._
 >
-> _She found his morbid sense of humor unsettling, especially at a funeral._
+> _The desert heat often creates a mirage, an optical illusion of water in the distance._
 >
 
-_Similar: macabre, ghastly, grisly_  •  _Opposite: healthy, cheerful, wholesome_
+_Similar: mirage, delusion, fantasy_  •  _Opposite: reality, truth, fact_
 
-> _"I know not how it was—but, with the first glimpse of the building, a sense of insufferable gloom pervaded my spirit. It was a morbid acuteness of the senses; the food which I ate oppressed me, the odor of the flowers was oppressive; I could not bear the touch of the softest clothing."_
+> _"The most beautiful thing we can experience is the mysterious. It is the source of all true art and science. He to whom this emotion is a stranger, who can no longer pause to wonder and stand rapt in awe, is as good as dead: his eyes are closed. The insight into the mystery of life, coupled though it be with fear, has also given rise to religion. That is the source of the illusion, but also of the power, of religion."_
 >
-> — **Edgar Allan Poe**, The Fall of the House of Usher (1839)
+> — **Albert Einstein**, The World As I See It (1934)
 
 
 ### Merriam-Webster
 
-**immure** _verb_ • /ih-MYOOR/
+**rash** _adjective_ • /RASH/
 
-To immure something is to enclose it within or as if within walls. Immure is also sometimes used synonymously with imprison.
+Rash describes something done or made quickly and without thought about what will happen as a result. It can also describe someone who is doing something rash.
 
-> _Scientists at the research station in Antarctica are immured by the frozen wild that surrounds them._
+> _I later regretted having made such a rash promise in a moment of chaos._
+>
+> _Don't be rash about this decision. Take your time._
 >
 
-> "The Torlonia collection, which Alessandro Torlonia moved into a private museum in Rome in 1875, went into hiding in the early 1940s. ... Disputes among family members and with the government left the marbles hidden away, gathering dust and grime. For all those years scholars had to beg and bribe to get in. One government official, desperate to see what gems the Torlonia prince had immured, resorted to dressing up as a cleaner." — Jason Farago, The New York Times, 16 Apr. 2025
+> “The climactic scenes toy with the blurred lines between hallucination and reality, but the logic falls apart; threads like Hana’s rash decision to undertake a dangerous surgical fix virtually evaporate without much payoff.” — David Rooney, The Hollywood Reporter, 3 Feb. 2026
 
-_Like mural, immure comes from murus, a Latin noun meaning "wall." Immure came to English by way of the Medieval Latin verb immurare, formed from murus and the prefix in- (meaning "in" or "within"). Immure, which first appeared in English in the late 16th century, literally means "to wall in" or "to enclose with a wall," but it has extended meanings as well. In addition to senses meaning "to imprison" and "to entomb," the word sometimes has broader applications, essentially meaning "to shut in" or "to confine." One might remark, for example, that a very studious acquaintance spends most of her time "immured in the library."_
+_Is it possible that the origins of the noun rash (referring to a group of red spots on the skin that is caused by an illness or a reaction to something) and the adjective rash (meaning “overly hasty”) are the same? Not so fast! Like many homonyms—“two or more words spelled and pronounced alike but different in meaning”—the two rashes have distinct sources. The noun rash, which first appeared in English in the late 17th century, probably comes ultimately from the Latin verb rādere, meaning “to scrape, scratch, shave.” The adjective rash appears to be about two centuries older, and comes from a Middle English word rasch meaning “active, quick, eager.”_
 
