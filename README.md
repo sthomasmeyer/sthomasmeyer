@@ -1,19 +1,19 @@
-# Days of March 14th Past: SpaceX (2002)
+# Days of March 15th Past: Julius Caesar and the Ides of March (44 BC)
 
-_Updated: 2026-03-14 11:34:15 UTC_
+_Updated: 2026-03-15 11:35:53 UTC_
 
-On this day in 2002, Elon Musk founded SpaceX (Space Exploration Technologies Corp.), a private aerospace company that would go on to evolutionize space travel and become the first to successfully launch and return a spacecraft from Earth orbit.
+veni, vidi, vici
 
 
 ---
 
 ## NASA Astronomy Picture of the Day
 
-### A Year for K2-315b
+### Equinox at the Pyramid of the Feathered Serpent
 
-![A Year for K2-315b](https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg)
+![Equinox at the Pyramid of the Feathered Serpent](https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg)
 
-Want to visit a planet that has 3.14 days in a year? Then plan a trip to K2-315b, an earth-sized planet orbiting around a cool, red, M dwarf star about once every 3.14 days. The exoplanet's discovery, based on publicly available data from the planet-hunting Kepler Space Telescope's extended K2 mission, was announced in 2020. K2-315b's measured orbital period in days is nearly equal to the extremely popular irrational number Pi. That puts the exoplanet so close to its parent star that its surface is likely very warm, baking-hot in fact. And this Pi planet is over 185 light-years away. So instead of trying to arrange for an interstellar vacation to K2-315b, there may be easier and more comfortable ways for you to celebrate Pi day on planet Earth.
+To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico's Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid's own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. In a few days another equinox will occur -- not only at Temple of Kukulcán, but all over planet Earth.
 
 
 ---
@@ -22,47 +22,45 @@ Want to visit a planet that has 3.14 days in a year? Then plan a trip to K2-315b
 
 ### Dictionary.com
 
-**juvenescent** _adjective_ • /[joo-vuh-nes-uhnt]/
+**triumvirate** _noun_ • /[trahy-uhm-ver-it]/
 
-being or becoming youthful
+any association of three in office or authority
 
-Juvenescent describes something that feels young and fresh, like discovering your own personal fountain of youth. Whether it's a burst of energy, a new idea, or that feeling of renewal after a relaxing trip, this word is all about that youthful spark.
+A triumvirate is a trio in authority or office, from a Latin term meaning "three men." Political leaders, business partners, or creative teams can form a triumvirate, sharing power and responsibility. A triumvirate, when successful, shows how three voices can lead as one.
 
-> _The seasoned professor felt juvenescent when he started teaching the freshman class again._
+> _The new political triumvirate included the president, vice president, and treasurer._
 
 
 ### Britannica
 
-**illusion** _noun_
+**insatiable** _adjective_
 
-Something that appears to be real or true but is not; a deceptive appearance or belief.
+Always wanting more; impossible to satisfy.
 
-> _The magician created the illusion of a floating woman with clever mirrors._
+> _The young entrepreneur had an insatiable drive to succeed, working tirelessly day and night._
 >
-> _Many people live under the illusion that money alone can buy happiness._
+> _Despite eating a large meal, his insatiable hunger for dessert led him to order a second slice of cake._
 >
-> _The desert heat often creates a mirage, an optical illusion of water in the distance._
+> _Her insatiable curiosity about the universe led her to pursue a career in astrophysics._
 >
 
-_Similar: mirage, delusion, fantasy_  •  _Opposite: reality, truth, fact_
+_Similar: unquenchable, ravenous, voracious_  •  _Opposite: satiated, satisfied, content_
 
-> _"The most beautiful thing we can experience is the mysterious. It is the source of all true art and science. He to whom this emotion is a stranger, who can no longer pause to wonder and stand rapt in awe, is as good as dead: his eyes are closed. The insight into the mystery of life, coupled though it be with fear, has also given rise to religion. That is the source of the illusion, but also of the power, of religion."_
+> _"I had an insatiable craving for the knowledge that was forbidden me."_
 >
-> — **Albert Einstein**, The World As I See It (1934)
+> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
 
 
 ### Merriam-Webster
 
-**rash** _adjective_ • /RASH/
+**tranche** _noun_ • /TRAHNSH/
 
-Rash describes something done or made quickly and without thought about what will happen as a result. It can also describe someone who is doing something rash.
+Tranche refers to a division or portion of a whole.
 
-> _I later regretted having made such a rash promise in a moment of chaos._
->
-> _Don't be rash about this decision. Take your time._
+> _A tranche of leaked documents was delivered to the newspaper anonymously, with more promised to come._
 >
 
-> “The climactic scenes toy with the blurred lines between hallucination and reality, but the logic falls apart; threads like Hana’s rash decision to undertake a dangerous surgical fix virtually evaporate without much payoff.” — David Rooney, The Hollywood Reporter, 3 Feb. 2026
+> “Congress approved an initial tranche of funding legislation in November as the longest shutdown in history came to an end.” — Kaia Hubbard, CBS News, 16 Dec. 2025
 
-_Is it possible that the origins of the noun rash (referring to a group of red spots on the skin that is caused by an illness or a reaction to something) and the adjective rash (meaning “overly hasty”) are the same? Not so fast! Like many homonyms—“two or more words spelled and pronounced alike but different in meaning”—the two rashes have distinct sources. The noun rash, which first appeared in English in the late 17th century, probably comes ultimately from the Latin verb rādere, meaning “to scrape, scratch, shave.” The adjective rash appears to be about two centuries older, and comes from a Middle English word rasch meaning “active, quick, eager.”_
+_In French, tranche means “slice.” Cutting deeper into the word’s etymology, we find the Old French word trenchier, meaning “to cut,” which has its likely origin in a Latin word meaning “to cut in three,” from Latin trini meaning “three each.” Tranche emerged in the English language in the late 19th century to refer to a division or portion of a larger pool or whole, and later developed a finance-specific meaning referring to an offering for sale of typically a set of bonds “cut” from a larger group of bonds, the tranche being differentiated by such factors as maturity or rate of return._
 
