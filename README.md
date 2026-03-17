@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-16 11:54:01 UTC_
+_Updated: 2026-03-17 11:51:26 UTC_
 
-### NGC 1566: The Spanish Dancer Galaxy
+### The Tadpoles of IC 410
 
-![NGC 1566: The Spanish Dancer Galaxy](https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_960.jpg)
+![The Tadpoles of IC 410](https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver1024c.jpg)
 
-If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe containing billions of stars and situated about 40 million light-years away toward the constellation of the Dolphinfish (Dorado), NGC 1566 presents a gorgeous face-on view. Classified as a grand design spiral, NGC 1566 shows two prominent and graceful spiral arms that are traced by bright blue star clusters, red emission nebulas, and dark cosmic dust lanes. Numerous Hubble Space Telescope images of NGC 1566 have been taken to study star formation, supernovas, and the spiral's unusually active center. NGC 1566's flaring center makes the spiral one of the closest and brightest Seyfert galaxies, likely housing a central supermassive black hole wreaking havoc on surrounding stars and gas.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+This telescopic close-up shows off the central regions of otherwise faint emission nebula IC 410, captured under backyard skies. Presented in a Hubble color palette, the image combines visible broadband and narrowband data with data from the near-infrared. Below and right of center are two remarkable inhabitants of the interstellar pond of gas and dust. the Tadpoles of IC 410. Partly obscured by foreground dust, the nebula itself surrounds NGC 1893, a young galactic cluster of stars. Formed in the interstellar cloud a mere 4 million years ago, the intensely hot, bright cluster stars energize the glowing gas. But the cosmic tadpoles themselves are composed of denser cooler gas and dust. Around 10 light-years long they are likely sites of ongoing star formation. Sculpted by stellar winds and radiation their heads are outlined by bright ridges of ionized gas while their tails trail away from the cluster's central young stars. IC 410 lies some 10,000 light-years away, toward the nebula-rich constellation Auriga.
 
 
 ---
@@ -15,45 +15,45 @@ If not perfect, then this spiral galaxy is at least one of the most photogenic. 
 
 ### Dictionary.com
 
-**sub rosa** _adverb_ • /[suhb roh-zuh]/
+**beatific** _adjective_ • /[bee-uh-tif-ik]/
 
-confidentially, secretly, or privately
+blissful or saintly
 
-When something is done sub rosa, it's secret or confidential. Literally meaning "under the rose" in Latin, the phrase evokes discretion and hidden knowledge. If a meeting happens sub rosa, expect closed doors and maybe even drawn shades.
+Beatific describes a kind of happiness that feels serene and radiant. It can refer to a peaceful expression, such as a soft smile or relaxed gaze. A beatific grin is a joy to behold.
 
-> _The team discussed the sensitive plan sub rosa, away from the prying ears of their rivals._
+> _A beatific expression of profound peace settled on the old monk's features._
 
 
 ### Britannica
 
-**internist** _noun_
+**exclusive** _adjective_
 
-A physician specializing in internal medicine, focusing on the diagnosis and non-surgical treatment of diseases of the internal organs.
+Reserved for or restricted to a particular person, group, or purpose; not shared or divided.
 
-> _The patient was referred to an internist for a comprehensive diagnostic evaluation of her persistent fatigue._
+> _The journalist secured an exclusive interview with the reclusive author._
 >
-> _As an internist, Dr. Lee often manages chronic conditions like diabetes and hypertension, providing long-term care._
+> _Membership in the club is highly exclusive, requiring a personal invitation._
 >
-> _Many people choose an internist as their primary care physician due to their broad medical knowledge and holistic approach._
+> _Her exclusive focus on her studies led to her graduating at the top of her class._
 >
 
-_Similar: physician, doctor, specialist_  •  _Opposite: surgeon_
+_Similar: restricted, private, sole_  •  _Opposite: inclusive, shared, common_
 
-> _"He was not merely a brilliant diagnostician, but a true internist, deeply concerned with the whole patient and the art of healing."_
+> _"He was a son of God—a phrase which, if it means anything, means just that—and he must be about His Father's business, the service of a vast, vulgar, and meretricious beauty. So he invented just the sort of Jay Gatsby that a seventeen-year-old boy would be likely to invent, and to this conception he was faithful to the end. For a while these reveries provided an outlet for his imagination; they were a satisfactory hint of the unreality of reality, a promise that the rock of the world was founded securely on a fairy's wing. An exclusive devotion to the latter had been the object of his life."_
 >
-> — **Harvey Cushing**, The Life of Sir William Osler (1925)
+> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
 
 
 ### Merriam-Webster
 
-**putative** _adjective_ • /PYOO-tuh-tiv/
+**Erin go bragh** _phrase_ • /air-un-guh-BRAW/
 
-Putative is a formal word used to describe something that is generally believed, supposed, or assumed to be something specified. It is always used before a noun.
+Erin go bragh is an Irish phrase that means “Ireland forever.”
 
-> _The group's putative leader was conspicuously absent from the meeting._
+> _They proudly waved the Irish flag during the parade, shouting “Erin go bragh!”_
 >
 
-> "... the painting is swept up in questions of identity, provenance, authenticity and putative value." — Manohla Dargis, The New York Times, 31 Oct. 2025
+> “Dressed in full Irish regalia, Fitzgerald rode his horse, Jack, through the streets of Clinton every St. Patrick’s Day. Jack was also dressed for the occasion, with green ribbons on his mane and a green blanket with gold lettering, ‘Erin Go Bragh.’” — Craig S. Semon, The Worcester (Massachusetts) Telegram & Gazette, 22 Dec. 2025
 
-_There's no need to make assumptions about the root behind putative—we know it comes from a form  of the Latin verb putare, which means "to consider" or "to think." Putative is a rather formal word that has been part of English since the 15th century. Like apparent, presumed, and ostensible, it leaves room for a smidgen of doubt: a putative ally will very probably be there for you, and a putative successor is very likely to be the next one in charge, but life offers no guarantees in either case._
+_March 17th is the feast day of the patron saint of Ireland, St. Patrick. In the United States, it is also the day of shamrocks, leprechauns, and green beer (and green everything else). Blue was once the color traditionally associated with St. Patrick, but the color green has several links to Ireland, including its use on Ireland’s flag in the form of a stripe, its symbolism of Irish nationalism and the country’s religious history, and its connection to Ireland’s nickname, The Emerald Isle. On St. Patrick’s Day, people turn to their dictionary to look up Erin go bragh, which means “Ireland forever.” The original Irish phrase was Erin go brách (or go bráth), which translates literally as “Ireland till doomsday.” It’s an expression of loyalty and devotion that first appeared in English during the late 18th-century Irish rebellion against the British._
 
