@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-18 11:54:17 UTC_
+_Updated: 2026-03-19 11:47:46 UTC_
 
-### Cygnus and the Solitary Tree
+### Launch Plume: SpaceX Jellyfish
 
-![Cygnus and the Solitary Tree](https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg)
+![Launch Plume: SpaceX Jellyfish](https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg)
 
-A lone tree stands in a quiet meadow in Guadalajara, Spain, silhouetted against the Cygnus region rising above like flames in the night sky.  This deep night skyscape is a composite of exposures that reveals a range of brightness and color human eyes can't quite see on their own. Spanning over a thousand times the angular size of the full moon, Cygnus sets the sky afire with active star formation where clouds of gas and dust collapse under gravity until nuclear fusion ignites and new stars are born. These stars  ionize the surrounding hydrogen gas, causing it to glow crimson, while tendrils of interstellar dust absorb some of that light and cast dark shadows across the sky. Cygnus is a trove of celestial treasures, notably the Veil, Crescent, and Pelican nebulae, as well as  Cygnus X-1, the first confirmed black hole.  Cygnus continues to yield fresh science, including a new three-dimensional model of the Cygnus Loop made possible by the Chandra X-ray Observatory.   Almost Hyperspace: Random APOD Generator
+ven if you live with your head in the clouds, you won’t find a jellyfish like this one very often. The featured image shows a SpaceX Falcon 9 rocket launch from Cape Canaveral in Florida on March 4. The launch happened 52 minutes before sunrise, and the second stage rocket exhaust plume was high enough in the sky to catch the light of the rising sun, while the photographer was still in the dark. This combination of light and shadow, possible at dawn or dusk, makes the exhaust, mostly water vapor and carbon dioxide, appear as a glowing cloud. It only looks like it's going down, as the rocket follows the curvature of the Earth on its way to space. A related effect is the twilight phenomenon, which causes colorful contrails sometimes mistaken for UFOs. But, in case you are wondering: real jellyfish were sent to space by NASA in the 1990s as part of a science experiment.
 
 
 ---
@@ -15,47 +15,45 @@ A lone tree stands in a quiet meadow in Guadalajara, Spain, silhouetted against 
 
 ### Dictionary.com
 
-**pericope** _noun_ • /[puh-rik-uh-pee]/
+**incommunicado** _adjective_ • /[in-kuh-myoo-ni-kah-doh]/
 
-a selection or extract from a book
+deprived of any communication with others
 
-A pericope is an excerpt from a book meant to be considered on its own. You might see the word in religious or scholarly contexts, where selected passages are studied or recited in isolation. Every meaningful pericope offers its own world of insight.
+When someone is incommunicado, they're completely cut off from communication, whether by choice or circumstance. Maybe their phone died, or maybe they just need a break. Either way, they're incommunicado until contact is restored.
 
-> _For the week's reading assignment, the professor assigned a brief pericope from the philosophical treatise._
+> _After leaving her phone with her husband, she went happily incommunicado on her meditation retreat._
 
 
 ### Britannica
 
-**serene** _adjective_ • //səˈriːn//
+**cornucopia** _noun_
 
-Calm, peaceful, and untroubled; free from agitation or disturbance.
+A symbol of abundance, typically a horn overflowing with fruits, flowers, and grain; by extension, an overflowing supply or source of something.
 
-> _The lake was perfectly serene in the early morning light, reflecting the sky like a mirror._
+> _The autumn festival featured a cornucopia of seasonal produce, from pumpkins to apples._
 >
-> _Despite the chaos around her, she maintained a serene composure, never losing her temper._
+> _Her latest novel offers a cornucopia of intriguing characters and unexpected plot twists._
 >
-> _He found a serene joy in simply watching the clouds drift by._
+> _The museum's new exhibit is a cornucopia of ancient artifacts, each telling a unique story._
 >
 
-_Similar: calm, tranquil, peaceful_  •  _Opposite: agitated, turbulent, disturbed_
+_Similar: abundance, plenty, profusion_  •  _Opposite: scarcity, dearth, lack_
 
-> _"What little town by river or sea shore, Or mountain-built with serene citadel, Is emptied of this folk, this pious morn?"_
+> _"The table was loaded with good cheer, and presented a perfect cornucopia of abundance."_
 >
-> — **John Keats**, Ode on a Grecian Urn (1819)
+> — **Washington Irving**, The Sketch Book of Geoffrey Crayon, Gent. (1819-1820)
 
 
 ### Merriam-Webster
 
-**jejune** _adjective_ • /jih-JOON/
+**nadir** _noun_ • /NAY-deer/
 
-Jejune is a formal word that means "uninteresting" or "boring." It is also used as a synonym of juvenile to describe things (such as behaviors, attitudes, etc.) that are immature, childish, or simplistic.
+Nadir refers to the lowest or worst point of something. When used in astronomy, nadir describes the point of the celestial sphere that is directly opposite the zenith and vertically downward from the observer.
 
-> _The movie adaptation employed surreal visual effects to tell the story, making the plot, jejune in the novel, archetypal rather than artless._
->
-> _The professor made rude and jejune remarks about the students' artwork._
+> _Only once the novel’s protagonist reaches her nadir does she arouse the reader’s empathy, and we root for her to climb back to respectability._
 >
 
-> "While [author Helen] Garner has journaled most of her life, she burned her early diaries in a bonfire having deemed them too embarrassing or jejune." — The Irish Times, 29 Mar. 2025
+> “Sacrament dives right into the nadir of the 2020 health crisis, following a group of nurses who have moved into makeshift housing near a California hospital, to isolate from their families during the height of the case surge.” — James Folta, LitHub.com, 1 July 2025
 
-_Starved for excitement? You won't get it from something jejune. The term comes to us from the Latin word jejunus, which means "empty of food," "hungry," or "meager." When English speakers first used jejune back in the 1600s, they applied it in ways that mirrored the meaning of its Latin parent, lamenting "jejune appetites" and "jejune morsels." Something that is meager rarely satisfies, and before long jejune was being used not only for meager meals or hunger, but also for things lacking in intellectual or emotional substance. It's possible that the word gained its now-popular "juvenile" or "childish" sense when people confused it with the look-alike French word jeune, which means "young."_
+_Nadir is part of the galaxy of scientific words that have come to us from Arabic, a language that has made important contributions to the English lexicon especially in the fields of mathematics, astronomy, medicine, and chemistry. The source of nadir is naḍhīr, meaning “opposite”—the opposite, that is, of the zenith, the highest point of the celestial sphere which is positioned vertically above the observer. (The word zenith itself is a modification of another Arabic word that means “the way over one’s head.”) Though born of the heavens, both words are called upon to refer to earthy things too, especially a significant point or period of time, be it a high point or low one._
 
