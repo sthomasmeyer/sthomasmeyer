@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-20 11:40:40 UTC_
+_Updated: 2026-03-21 11:33:09 UTC_
 
-### Spring Equinox at Teide Observatory
+### Galaxies in the River: NGC 1300 and NGC 1297
 
-![Spring Equinox at Teide Observatory](https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc_1087c.jpg)
+![Galaxies in the River: NGC 1300 and NGC 1297](https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg)
 
-The defining astronomical moment of the equinox today is at 14:46 UTC (March 20). That's when the Sun crosses the celestial equator moving north in its yearly journey through planet Earth's sky, marking the beginning of spring for our fair planet in the northern hemisphere and fall in the southern hemisphere.  Then, day and night are nearly equal around the globe. In fact, both day and nighttime exposures from a spring equinox at the Observatorio del Teide in Tenerife, Canary Islands, Spain, are used in this composited skyscape. Over 1,000 images were taken with a fisheye lens and merged in the ambitious equinox project. The apparent motion of the Sun setting along the celestial equator on the equinox date follows the bright linear, diagonal track from the sequence of daytime exposures taken over 6 hours. After sunset, nighttime exposures recorded startrails, with the celestial equator as a linear track and concentric arcs circling the north celestial pole near Polaris at upper right and the south celestial pole beyond the lower left edge (and below the Teide horizon). The foreground includes the distant Teide volcano peak and the observatory's pyramid-shaped solar laboratory building.
+Spiral NGC 1300 and elliptical NGC 1297 are galaxies that lie on the banks of the southern constellation Eridanus (The River). At 70 million light-years distant or more, both are members of the Eridanus Galaxy Cluster. About 100,000 light-years across, at lower left in this sharp, galaxy group photo NGC 1300 is seen face-on with a prominent central bar and grand, sweeping spiral arms. Like other spiral galaxies, including our own barred spiral Milky Way Galaxy, NGC 1300 is thought to have a supermassive central black hole. A contrast in appearance and slightly more distant, NGC 1297 is the roughly spherical large elliptical galaxy near the top of the frame. With little active star formation, elliptical galaxies are composed of older populations of stars and are likely he result of multiple collisions and mergers with spirals.
 
 
 ---
@@ -15,45 +15,45 @@ The defining astronomical moment of the equinox today is at 14:46 UTC (March 20)
 
 ### Dictionary.com
 
-**floriferous** _adjective_ • /[flaw-rif-er-uhs]/
+**vainglory** _noun_ • /[veyn-glawr-ee]/
 
-producing blossoms or bearing flowers
+excessive pride for one's own achievements
 
-Floriferous describes something that bears flowers, especially when they're abundant or particularly striking. A meadow in full bloom, a window box bursting with color, or even a houseplant showing off its first buds can all be called floriferous. It's a great word to celebrate spring flowers.
+There's a fine line between confidence and vainglory, which is the kind of boastful pride that draws more eye rolls than admiration. Think of a humblebrag that lost the "humble" or an acceptance speech that's more gloating than glowing. True success speaks for itself and doesn't call for vainglory.
 
-> _Every spring, her garden becomes a floriferous display of purple, yellow, and red._
+> _His constant boasting about winning the award was pure vainglory._
 
 
 ### Britannica
 
-**protocol** _noun_
+**endorse** _verb_ • /in-DORS, en-DORS/
 
-A system of rules that explain the correct conduct and procedures to be followed in formal situations.
+To publicly or officially declare support or approval for someone or something.
 
-> _Adhering to the strict diplomatic protocol, the ambassador presented his credentials to the head of state._
+> _The influential newspaper decided to endorse the incumbent candidate for re-election._
 >
-> _The scientific team developed a a new protocol for testing the efficacy of the experimental drug._
+> _Many consumers are more likely to buy products that celebrities endorse._
 >
-> _Understanding the proper social protocol is key to navigating formal events gracefully._
+> _Before you can deposit a check, you must endorse it by signing the back._
 >
 
-_Similar: etiquette, decorum, procedure_  •  _Opposite: impropriety, informality, rudeness_
+_Similar: support, approve, sanction_  •  _Opposite: oppose, reject, condemn_
 
-> _"The Soviet Government has been meticulous in observing the protocol of our agreements and has shown a punctilious regard for the rights and interests of the Polish people."_
+> _"I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live up to what light I have. I must stand with anybody that stands right, stand with him while he is right, and part with him when he goes wrong."_
 >
-> — **Winston Churchill**, Speech to the House of Commons (December 15, 1944)
+> — **Abraham Lincoln**, Speech at Peoria, Illinois (October 16, 1854)
 
 
 ### Merriam-Webster
 
-**eureka** _adjective_ • /yoo-REE-kuh/
+**scrutinize** _verb_ • /SKROO-tuh-nyze/
 
-As an interjection, eureka is used to express excitement when a discovery has been made. When used as an adjective, eureka describes something (typically a moment) that is characterized by a usually sudden triumphant discovery.
+To scrutinize something is to examine it carefully especially in a critical way.
 
-> _After years of trying to piece together a concrete business idea, I had a eureka moment and everything made sense._
+> _I closely scrutinized my opponent's moves before making my own._
 >
 
-> “Back in 2020, Trautmann and fellow college student Max Steitz were lamenting the unrelenting loss of Louisiana wetlands, while sharing a bottle of wine. It was a eureka moment, as Trautmann and Steitz realized that by crushing wine bottles and other disposable glass into sand, they could relieve pressure on landfills and simultaneously help fend off coastal erosion.” — Doug MacCash, nola.com (New Orleans, Louisiana), 5 Dec. 2025
+> "The governor proposes a balanced budget, and the General Assembly scrutinizes every line." — J.B. Jennings, The Baltimore Sun, 5 Feb. 2026
 
-_When people exclaim “Eureka!” they are harking back to a legendary event in the life of the Greek mathematician and inventor Archimedes. While wrestling with the problem of how to determine the purity of gold, he had the sudden realization that the buoyancy of an object placed in water is equal in magnitude to the weight of the water the object displaces. According to one popular version of the legend, he made his discovery at a public bathhouse, whereupon he leapt out of his bath, exclaiming in Greek “Heurēka! Heurēka!” (“I have found it!”), and ran home naked through the streets. The absence of a contemporary source for this anecdote has done nothing to diminish its popularity over the centuries. The English word eureka, which of course hails from heurēka, has also retained its popularity; its use as an interjection dates to the early 17th century, and it gained a brand-new use in the early 20th century as an adjective describing moments of discovery or epiphany._
+_Scrutinize the history of scrutinize far back enough and you wind up sifting through trash: the word comes from Latin scrutari, which means "to search, to examine," and scrutari likely comes from scruta, meaning "trash." The etymology evokes one who searches through trash for anything of value. The noun scrutiny preceded scrutinize in English, and in its earliest 15th century use referred to a formal vote, and later to an official examination of votes. Scrutinize was established in the 17th century with its familiar "to examine closely" meaning, but retained reference to voting with the specific meaning "to examine votes" at least into the 18th century. (Votes are still commonly said to be scrutinized in the general sense of the word.) And while the term scrutineer can be a general term referring to someone who examines something, it is also sometimes used in British English specifically as a term for someone who takes or counts votes._
 
