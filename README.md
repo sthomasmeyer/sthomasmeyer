@@ -57,3 +57,54 @@ To scrutinize something is to examine it carefully especially in a critical way.
 
 _Scrutinize the history of scrutinize far back enough and you wind up sifting through trash: the word comes from Latin scrutari, which means "to search, to examine," and scrutari likely comes from scruta, meaning "trash." The etymology evokes one who searches through trash for anything of value. The noun scrutiny preceded scrutinize in English, and in its earliest 15th century use referred to a formal vote, and later to an official examination of votes. Scrutinize was established in the 17th century with its familiar "to examine closely" meaning, but retained reference to voting with the specific meaning "to examine votes" at least into the 18th century. (Votes are still commonly said to be scrutinized in the general sense of the word.) And while the term scrutineer can be a general term referring to someone who examines something, it is also sometimes used in British English specifically as a term for someone who takes or counts votes._
 
+
+---
+
+## Words of the Day
+
+### Dictionary.com
+
+**expiscate** _verb_ • /[ek-spuh-skeyt]/
+
+to find out by thorough and detailed investigation
+
+To expiscate is to uncover information through deep, careful inquiry. The word shares a conceptual link with "fishing," suggesting you are "fishing out" information from a sea of secrets. A curious mind will always find a way to expiscate the facts.
+
+> _After weeks of review, the auditors finally expiscated a hidden pattern of fraud from the records._
+
+
+### Britannica
+
+**demonstrator** _noun_
+
+A person who takes part in a public protest or demonstration, often to express support for or opposition to a particular cause or policy.
+
+> _Thousands of peaceful demonstrators gathered in the city square to advocate for environmental protection._
+>
+> _The police maintained a respectful distance from the demonstrators, ensuring their right to free speech._
+>
+> _As a seasoned demonstrator, she knew the importance of staying calm and organized during protests._
+>
+
+_Similar: protester, activist, marcher_  •  _Opposite: bystander, observer_
+
+> _"I had hoped that the white moderate would understand that the law enforcement agency has a duty to protect the nonviolent demonstrator. As I have looked at the events in Birmingham, it is clear that the police have used nonviolent means to protect the status quo."_
+>
+> — **Martin Luther King Jr.**, Letter from Birmingham Jail (April 16, 1963)
+
+
+### Merriam-Webster
+
+**apotheosis** _noun_ • /uh-pah-thee-OH-sis/
+
+Apotheosis refers to the perfect form or example of something, or to the highest or best part of something. It can also mean “elevation to divine status; deification.” It is usually singular, but the plural form is apotheoses.
+
+> _Some consider (however ironically) french fries to be the apotheosis of U.S. cuisine._
+>
+> _Their music reached its creative apotheosis in the late 2010s, which is also when they won two Grammys._
+>
+
+> “At its simplest level, Canada appears in American literature as a wilderness escape from a more urbanized United States. ... The apotheosis of this view of Canada as a wilderness getaway might be Sylvia Plath’s poem ‘Two Campers in Cloud Country,’ subtitled ‘Rock Lake, Canada’ and written about a camping trip she and her husband Ted Hughes took through Canada and the northeastern US in 1959.” — Brooke Clark, LitHub.com, 17 Apr. 2025
+
+_Among the ancient Greeks, it was sometimes thought fitting to grant someone “god” status. Hence the word apothéōsis, from the verb apotheóō or apotheoûn, meaning “to deify.” (All are rooted in the Greek word theós, meaning “god,” which we can also thank for such religion-related terms as theology and atheism.) There’s not a lot of literal apotheosizing to be had in modern English, but apotheosis is thriving in the 21st century. It can refer to the highest or best part of something, as in “the celebration reaches its apotheosis in an elaborate feast,” or to a perfect example or ultimate form, as in “a movie that is the apotheosis of the sci-fi genre.”_
+
