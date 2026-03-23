@@ -22,6 +22,11 @@ jobs:
         # This prebuilt GitHub action checks-out your repository so your workflow can access it.
         uses: actions/checkout@v4
 
+      - name: Clear Existing README
+        # We start with a clean slate each day to prevent appending to yesterday's content
+        # if other steps conditionally skip writing.
+        run: rm -f README.md
+
       - name: Check Date
         id: date-check # The [id] makes this step accessible in later steps for referencing outputs or status.
         run: |
