@@ -1,50 +1,59 @@
-# Words of the Day
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-24 11:52:55 UTC_
+_Updated: 2026-03-25 11:51:55 UTC_
+
+### The Guardians of Rapa Nui beneath the Milky Way
+
+![The Guardians of Rapa Nui beneath the Milky Way](https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg)
+
+In the words of today's astrophotographer, Rositsa Dimitrova, What have these silent sentinels watched pass across the sky? The volcanic mo'ai (meaning statue) of Ahu Tongariki stand guard over Rapa Nui (Isla de Pascua, Easter Island), a Polynesian island (annexed by Chile in 1888) located thousands of kilometers off the coast of South America in the Pacific Ocean. Due to the island's remoteness, the mo'ai, with their backs to the dark ocean, are able to gaze upon a clear and vibrant night sky. Pictured, these larger-than-life statues stare at the bright band of the Milky Way, partly obscured by interstellar dust and blurred by Earth's clouds. Under such clear night skies, the Rapa Nui created observatories and used astronomical observations for navigation, calendar calibration, celebrations, and more. Images like this one remind us of the importance of dark skies, protecting the land underneath them, and preserving the culture that they inspire.
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**puckish** _adjective_ • /[puhk-ish]/
+**harangue** _noun_ • /[huh-rang]/
 
-mischievous or impish
+a long, pompous speech
 
-Puckish describes a kind of mischief that isn't mean-spirited; it's clever, sly, and maybe even a little bit charming. The word draws its name from the prank-loving fairy Puck in A Midsummer Night's Dream, and it still carries a sense of playful troublemaking.
+Whether it's a rant at a town hall or a tirade in a drama, a harangue tends to leave its audience more annoyed than enlightened. The word was used for centuries to describe any public address, but over time, it picked up a sharper edge. Today, if someone launches into a harangue, you're probably in for a lecture, not a dialogue.
 
-> _The boy's puckish grin gave away that he had just replaced all the table salt with sugar._
+> _The politician delivered a lengthy, self-important harangue to the bored and dwindling crowd._
 
 
 ### Britannica
 
-**solidarity** _noun_ • /ˌsɑləˈdɛrəti/
+**makeshift** _adjective_
 
-A feeling of unity or agreement among people with a common interest, goal, or purpose, often involving mutual support within a group.
+Serving as a temporary and often improvised substitute for something else.
 
-> _The workers showed strong solidarity by refusing to cross the picket line._
+> _A large box served as a makeshift table._
 >
-> _International solidarity is crucial for addressing global challenges like climate change._
+> _They used old blankets and branches to create a makeshift shelter from the storm._
 >
-> _Despite their differences, the nations found common ground and acted in solidarity._
+> _The stranded hikers fashioned a makeshift stretcher from their jackets and two sturdy poles._
 >
 
-_Similar: unity, cohesion, accord_  •  _Opposite: discord, division, disunity_
+_Similar: temporary, improvised, provisional_  •  _Opposite: permanent, established, fixed_
 
-> _"Solidarity is not a matter of sentiment but a fact of life, which, if ignored, can lead to disaster."_
+> _"We made a sort of makeshift camp in the ruins of a house, and there we spent the night, listening to the distant booming and the occasional crash of falling masonry."_
 >
-> — **Lech Wałęsa**, Nobel Lecture (December 11, 1983)
+> — **H.G. Wells**, The War of the Worlds (1898)
 
 
 ### Merriam-Webster
 
-**cadence** _noun_ • /KAY-dunss/
+**undulate** _verb_ • /UN-juh-layt/
 
-Cadence is used to refer to various rhythmic or repeated motions, activities, or patterns of sound, or to the way a person's voice changes by gently rising and falling while they are speaking.
+Undulate is a formal word that means “to move or be shaped like waves.”
 
-> _Ivy relaxed at the beach, listening to the cadence of the surf._
->
-> _He speaks with a soft Southern cadence._
+> _On the approach to the tulip festival, visitors are greeted by a large field of the colorful flowers undulating in the wind._
 >
 
-> “Urged by a fast-talking auctioneer and his familiar cadence, paddles shot up as bids climbed into the four- and five-figure range.” — Lily Moayeri, Rolling Stone, 29 Jan. 2026
+> “When sufficiently heated, the fresh cheese contracts, sweating whey from the curds that provides liquid to cook the dough, which will plump up and undulate slightly as it expands.” — Karima Moyer-Nocchi, The Epic History of Macaroni and Cheese: From Ancient Rome to Modern America, 2026
 
-_A cadence is a rhythm, or a flow of words or music, in a sequence that is regular (or steady as it were). But lest we be mistaken, cadence also lends its meaning to the sounds of Mother Nature (such as birdsong) to be sure. Cadence comes from Middle English borrowed from Medieval Latin’s own cadentia, a lovely word that means “rhythm in verse.” (You may also recognize a cadence cousin, sweet cadenza, as a word that is familiar in the opera universe.) And from there our cadence traces just a little further backward to the Latin verb cadere “to sound rhythmically, to fall.” Praise the rising and the falling of the lilting in our language, whether singing songs or rhyming or opining on it all._
+_Undulate and inundate (“to cover something with a flood of water”) are word cousins that flow from unda, the Latin word for “wave.” No surprise there. But would you have guessed that abound, surround, and redound are also unda offspring? While their modern definitions have nothing to do with waves or water, at some point in their early histories, they all meant “to overflow,” and caught a wave from there._
 
