@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-25 11:51:55 UTC_
+_Updated: 2026-03-26 11:56:36 UTC_
 
-### The Guardians of Rapa Nui beneath the Milky Way
+### Black Holes and Neutron Stars: 218 Mergers and Counting
 
-![The Guardians of Rapa Nui beneath the Milky Way](https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg)
+![Black Holes and Neutron Stars: 218 Mergers and Counting](https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg)
 
-In the words of today's astrophotographer, Rositsa Dimitrova, What have these silent sentinels watched pass across the sky? The volcanic mo'ai (meaning statue) of Ahu Tongariki stand guard over Rapa Nui (Isla de Pascua, Easter Island), a Polynesian island (annexed by Chile in 1888) located thousands of kilometers off the coast of South America in the Pacific Ocean. Due to the island's remoteness, the mo'ai, with their backs to the dark ocean, are able to gaze upon a clear and vibrant night sky. Pictured, these larger-than-life statues stare at the bright band of the Milky Way, partly obscured by interstellar dust and blurred by Earth's clouds. Under such clear night skies, the Rapa Nui created observatories and used astronomical observations for navigation, calendar calibration, celebrations, and more. Images like this one remind us of the importance of dark skies, protecting the land underneath them, and preserving the culture that they inspire.
+What is the sound of two black holes merging in deep space? Sound waves don't propagate in vacuum, but gravitational waves do. In 2015 we were able to hear them for the first time and confirm one of Albert Einstein's theoretical predictions. Each square on the grid of the featured image represents one of the gravitational wave detections announced so far by the LIGO-VIRGO-KAGRA Collaboration. These plots show how the binary pair accelerates in their orbit around each other towards merger: the rising frequency effect is called a chirp. Although there are significantly more neutron stars than black holes, most of the detections are binary black hole mergers. That happens because black holes are heavier and their signals are louder and can be seen farther away, resulting in more detections. These events are rare, and we don't expect to see one close by in our Galaxy any time soon. But they are happening continuously throughout the cosmos.
 
 
 ---
@@ -15,45 +15,45 @@ In the words of today's astrophotographer, Rositsa Dimitrova, What have these si
 
 ### Dictionary.com
 
-**harangue** _noun_ • /[huh-rang]/
+**lapidify** _verb_ • /[luh-pid-uh-fahy]/
 
-a long, pompous speech
+to turn into stone
 
-Whether it's a rant at a town hall or a tirade in a drama, a harangue tends to leave its audience more annoyed than enlightened. The word was used for centuries to describe any public address, but over time, it picked up a sharper edge. Today, if someone launches into a harangue, you're probably in for a lecture, not a dialogue.
+To lapidify is to turn into stone or cause something else to become stone. The word is as comfortable in geology as it is in ancient legends — think of lava cooling into rock, or statues forming from mythic curses. There's no turning back when something lapidifies.
 
-> _The politician delivered a lengthy, self-important harangue to the bored and dwindling crowd._
+> _The magical spring water was said to have the power to lapidify any living creature that touched it._
 
 
 ### Britannica
 
-**makeshift** _adjective_
+**transition** _noun_
 
-Serving as a temporary and often improvised substitute for something else.
+The process or a period of changing from one state or condition to another.
 
-> _A large box served as a makeshift table._
+> _The company is currently in a period of transition as it adapts to new market demands._
 >
-> _They used old blankets and branches to create a makeshift shelter from the storm._
+> _Moving from high school to college can be a challenging transition for many young adults._
 >
-> _The stranded hikers fashioned a makeshift stretcher from their jackets and two sturdy poles._
+> _The architect designed the building with a smooth transition between the indoor and outdoor spaces._
 >
 
-_Similar: temporary, improvised, provisional_  •  _Opposite: permanent, established, fixed_
+_Similar: change, shift, transformation_  •  _Opposite: stasis, continuity, permanence_
 
-> _"We made a sort of makeshift camp in the ruins of a house, and there we spent the night, listening to the distant booming and the occasional crash of falling masonry."_
+> _"As natural selection acts solely by accumulating slight, successive, and profitable variations, it can produce no great or sudden modifications; it can act only by short and slow steps. Hence the term, 'natural selection,' implies that each new form is produced by a slow and gradual process of transition."_
 >
-> — **H.G. Wells**, The War of the Worlds (1898)
+> — **Charles Darwin**, On the Origin of Species (1859)
 
 
 ### Merriam-Webster
 
-**undulate** _verb_ • /UN-juh-layt/
+**zany** _adjective_ • /ZAY-nee/
 
-Undulate is a formal word that means “to move or be shaped like waves.”
+Zany describes people or things that are very strange and silly.
 
-> _On the approach to the tulip festival, visitors are greeted by a large field of the colorful flowers undulating in the wind._
+> _The cartoon series centers around two zany characters, best friends who also happen to be space aliens, constantly amusing each other with outrageous antics._
 >
 
-> “When sufficiently heated, the fresh cheese contracts, sweating whey from the curds that provides liquid to cook the dough, which will plump up and undulate slightly as it expands.” — Karima Moyer-Nocchi, The Epic History of Macaroni and Cheese: From Ancient Rome to Modern America, 2026
+> “The fourth and final episode centers on a birthday party for The Cat in the Hat. ... Seeing where the clues lead, the friends embark on a joyous adventure of songs, dances, silly challenges, and plenty of zany energy from their wacky striped friend.” — Sarah Scott, Parents, 22 Dec. 2025
 
-_Undulate and inundate (“to cover something with a flood of water”) are word cousins that flow from unda, the Latin word for “wave.” No surprise there. But would you have guessed that abound, surround, and redound are also unda offspring? While their modern definitions have nothing to do with waves or water, at some point in their early histories, they all meant “to overflow,” and caught a wave from there._
+_The oddballs among us are likely familiar with zany as an adjective, meaning “eccentric.” But did you know the word originated as a noun—one that has withstood the test of time? Zanies have been theatrical buffoons since the heyday of the Italian commedia dell’arte, in which a “zanni” was a stock servant character, often an intelligent and proud valet with abundant common sense and a love of practical jokes. Zanni comes from a dialect nickname for Giovanni, the Italian form of John. The character quickly spread throughout European theater circles, inspiring such familiar characters as Pierrot and Harlequin, and by the late 1500s an anglicized version of the noun zany was introduced to English. The adjective appeared within decades, and eventually both adopted more general meanings to refer to or describe those of us who are quipsters and weirdos._
 
