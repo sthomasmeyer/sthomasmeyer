@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-26 11:56:36 UTC_
+_Updated: 2026-03-27 11:51:23 UTC_
 
-### Black Holes and Neutron Stars: 218 Mergers and Counting
+### Hickson 44 in Leo
 
-![Black Holes and Neutron Stars: 218 Mergers and Counting](https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg)
+![Hickson 44 in Leo](https://apod.nasa.gov/apod/image/2603/NGC3190-APOD1024.jpg)
 
-What is the sound of two black holes merging in deep space? Sound waves don't propagate in vacuum, but gravitational waves do. In 2015 we were able to hear them for the first time and confirm one of Albert Einstein's theoretical predictions. Each square on the grid of the featured image represents one of the gravitational wave detections announced so far by the LIGO-VIRGO-KAGRA Collaboration. These plots show how the binary pair accelerates in their orbit around each other towards merger: the rising frequency effect is called a chirp. Although there are significantly more neutron stars than black holes, most of the detections are binary black hole mergers. That happens because black holes are heavier and their signals are louder and can be seen farther away, resulting in more detections. These events are rare, and we don't expect to see one close by in our Galaxy any time soon. But they are happening continuously throughout the cosmos.
+Scanning the skies for galaxies, Canadian astronomer Paul Hickson and colleagues identified some 100 compact groups of galaxies, now appropriately called Hickson Compact Groups. The four prominent galaxies seen in this intriguing telescopic skyscape are one such group, Hickson 44. The Hickson 44 galaxy group is about 100 million light-years distant, far beyond the foreground Milky Way stars, toward the northern springtime constellation Leo. The two spiral galaxies in the center of the image are edge-on NGC 3190 with distinctive, warped dust lanes, and S-shaped NGC 3187. Along with the bright elliptical, NGC 3193 (left) they are also known as Arp 316. The spiral toward the lower right corner is NGC 3185, the 4th member of the Hickson group. Like other galaxies in Hickson groups, these show signs of distortion and enhanced star formation, evidence of a gravitational tug of war that will eventually result in galaxy mergers on a cosmic timescale. The merger process is now understood to be a normal part of the evolution of galaxies, including our own Milky Way. For scale, NGC 3190 is about 75,000 light-years across at the estimated distance of Hickson 44.
 
 
 ---
@@ -15,45 +15,45 @@ What is the sound of two black holes merging in deep space? Sound waves don't pr
 
 ### Dictionary.com
 
-**lapidify** _verb_ • /[luh-pid-uh-fahy]/
+**williwaw** _noun_ • /[wil-ee-waw]/
 
-to turn into stone
+a violent squall that blows in near-polar latitudes
 
-To lapidify is to turn into stone or cause something else to become stone. The word is as comfortable in geology as it is in ancient legends — think of lava cooling into rock, or statues forming from mythic curses. There's no turning back when something lapidifies.
+A williwaw is a sudden, violent squall that whips down from coastal mountains toward the sea in near-polar regions like Alaska or Tierra del Fuego. These fierce gusts can arise without warning, often under clear skies, making them a hazard for ships and small aircraft. A williwaw can test the mettle of even experienced captains.
 
-> _The magical spring water was said to have the power to lapidify any living creature that touched it._
+> _The sailors quickly prepared for the williwaw that tore across the cold waters._
 
 
 ### Britannica
 
-**transition** _noun_
+**engaging** _adjective_ • /in-ˈgā-jiŋ/
 
-The process or a period of changing from one state or condition to another.
+Very attractive or pleasing in a way that captures and holds one's attention.
 
-> _The company is currently in a period of transition as it adapts to new market demands._
+> _Her engaging personality made her an instant favorite at the party._
 >
-> _Moving from high school to college can be a challenging transition for many young adults._
+> _The professor's engaging lectures always kept students eager to learn more._
 >
-> _The architect designed the building with a smooth transition between the indoor and outdoor spaces._
+> _Despite the complex subject matter, the author presented it in an engaging and accessible style._
 >
 
-_Similar: change, shift, transformation_  •  _Opposite: stasis, continuity, permanence_
+_Similar: charming, captivating, appealing_  •  _Opposite: boring, dull, uninteresting_
 
-> _"As natural selection acts solely by accumulating slight, successive, and profitable variations, it can produce no great or sudden modifications; it can act only by short and slow steps. Hence the term, 'natural selection,' implies that each new form is produced by a slow and gradual process of transition."_
+> _"He was a man of engaging manners, and I had always found him a pleasant companion."_
 >
-> — **Charles Darwin**, On the Origin of Species (1859)
+> — **Arthur Conan Doyle**, The Adventure of the Speckled Band (from The Adventures of Sherlock Holmes) (1892)
 
 
 ### Merriam-Webster
 
-**zany** _adjective_ • /ZAY-nee/
+**dross** _noun_ • /DRAHSS/
 
-Zany describes people or things that are very strange and silly.
+Something referred to as "dross" is of low value or quality. Dross may also be used as a technical term to refer to unwanted material that is removed from a mineral to make it better.
 
-> _The cartoon series centers around two zany characters, best friends who also happen to be space aliens, constantly amusing each other with outrageous antics._
+> _He's a skilled editor who has a talent for turning literary dross into gold._
 >
 
-> “The fourth and final episode centers on a birthday party for The Cat in the Hat. ... Seeing where the clues lead, the friends embark on a joyous adventure of songs, dances, silly challenges, and plenty of zany energy from their wacky striped friend.” — Sarah Scott, Parents, 22 Dec. 2025
+> "Hollywood optimists argue that AI's greatest weakness will be originality. After all, viewers already complain of being deluged with formulaic, low-budget dross churned out by streaming platforms because an algorithm deems it popular." — Tom Leonard, The Scottish Daily Mail, 23 Feb. 2026
 
-_The oddballs among us are likely familiar with zany as an adjective, meaning “eccentric.” But did you know the word originated as a noun—one that has withstood the test of time? Zanies have been theatrical buffoons since the heyday of the Italian commedia dell’arte, in which a “zanni” was a stock servant character, often an intelligent and proud valet with abundant common sense and a love of practical jokes. Zanni comes from a dialect nickname for Giovanni, the Italian form of John. The character quickly spread throughout European theater circles, inspiring such familiar characters as Pierrot and Harlequin, and by the late 1500s an anglicized version of the noun zany was introduced to English. The adjective appeared within decades, and eventually both adopted more general meanings to refer to or describe those of us who are quipsters and weirdos._
+_Dross has been a part of the English language since Anglo-Saxon times. It comes from the Old English word drōs, meaning "dregs," those solid materials that fall to the bottom of a container full of a liquid such as coffee or wine. While dross today is used to refer to anything of low value or quality, its earliest use is technical: dross is a metallurgy term referring to solid scum that forms on the surface of a metal when it is molten or melting—remove the dross to improve the metal. The metallurgical sense of the word is often hinted at in its general use, with dross set in contrast to gold, as when 19th century British poet Christina Rossetti wrote "Besides, those days were golden days, / Whilst these are days of dross."_
 
