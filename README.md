@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-27 11:51:23 UTC_
+_Updated: 2026-03-28 11:37:41 UTC_
 
-### Hickson 44 in Leo
+### Robert Goddard and Nell
 
-![Hickson 44 in Leo](https://apod.nasa.gov/apod/image/2603/NGC3190-APOD1024.jpg)
+![Robert Goddard and Nell](https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_800.jpg)
 
-Scanning the skies for galaxies, Canadian astronomer Paul Hickson and colleagues identified some 100 compact groups of galaxies, now appropriately called Hickson Compact Groups. The four prominent galaxies seen in this intriguing telescopic skyscape are one such group, Hickson 44. The Hickson 44 galaxy group is about 100 million light-years distant, far beyond the foreground Milky Way stars, toward the northern springtime constellation Leo. The two spiral galaxies in the center of the image are edge-on NGC 3190 with distinctive, warped dust lanes, and S-shaped NGC 3187. Along with the bright elliptical, NGC 3193 (left) they are also known as Arp 316. The spiral toward the lower right corner is NGC 3185, the 4th member of the Hickson group. Like other galaxies in Hickson groups, these show signs of distortion and enhanced star formation, evidence of a gravitational tug of war that will eventually result in galaxy mergers on a cosmic timescale. The merger process is now understood to be a normal part of the evolution of galaxies, including our own Milky Way. For scale, NGC 3190 is about 75,000 light-years across at the estimated distance of Hickson 44.
+Robert H. Goddard, considered the father of modern rocketry, was born in Worcester Massachusetts in 1882. As a 16 year old, Goddard read H.G. Wells' science fiction classic War Of The Worlds and dreamed of space flight. By 1926 he had designed, built, and flown the world's first liquid fuel rocket. Launched 100 years ago, on March 16, 1926 from his aunt Effie's farm in Auburn Massachusetts, the rocket dubbed Nell, rose to an altitude of 41 feet in a flight that lasted about 2 1/2 seconds. In this posed photo Goddard stands next to the 10 foot tall rocket, holding the launch stand frame. To achieve a stable flight without the need for fins, the rocket's heavy motor was located at the top, fed by lines from liquid oxygen and gasoline fuel tanks at the bottom. Widely recognized as a gifted experimenter and engineering genius, his rockets were many years ahead of their time. Goddard was awarded over 200 patents in rocket technology, most of them after his death in 1945. A liquid fuel rocket constructed on principles developed by Goddard landed humans on the Moon in 1969.
 
 
 ---
@@ -15,45 +15,45 @@ Scanning the skies for galaxies, Canadian astronomer Paul Hickson and colleagues
 
 ### Dictionary.com
 
-**williwaw** _noun_ • /[wil-ee-waw]/
+**quiescent** _adjective_ • /[kwee-es-uhnt]/
 
-a violent squall that blows in near-polar latitudes
+inactive or motionless
 
-A williwaw is a sudden, violent squall that whips down from coastal mountains toward the sea in near-polar regions like Alaska or Tierra del Fuego. These fierce gusts can arise without warning, often under clear skies, making them a hazard for ships and small aircraft. A williwaw can test the mettle of even experienced captains.
+Quiescent describes a state of temporary calm or inactivity, more like a pause than an end. Group chats, social movements, and even volcanoes can enter quiescent phases, marked by silence but not absence. After all, not everything that's still is stagnant.
 
-> _The sailors quickly prepared for the williwaw that tore across the cold waters._
+> _The brown bear remained quiescent in its den throughout the long, cold winter._
 
 
 ### Britannica
 
-**engaging** _adjective_ • /in-ˈgā-jiŋ/
+**lavish with** _phrasal verb_
 
-Very attractive or pleasing in a way that captures and holds one's attention.
+To give someone or something a large amount of something, often generously or excessively.
 
-> _Her engaging personality made her an instant favorite at the party._
+> _The benevolent queen would often lavish her subjects with feasts and celebrations._
 >
-> _The professor's engaging lectures always kept students eager to learn more._
+> _Despite his modest income, he always managed to lavish his grandchildren with thoughtful gifts._
 >
-> _Despite the complex subject matter, the author presented it in an engaging and accessible style._
+> _The director was lavish with praise for the cast's exceptional performance._
 >
 
-_Similar: charming, captivating, appealing_  •  _Opposite: boring, dull, uninteresting_
+_Similar: bestow upon, shower with, deluge with_  •  _Opposite: deprive of, withhold from, stint on_
 
-> _"He was a man of engaging manners, and I had always found him a pleasant companion."_
+> _"She was a vain woman, extremely fond of her daughters, but without much real affection for them; her chief delight was in lavishing money on their dress."_
 >
-> — **Arthur Conan Doyle**, The Adventure of the Speckled Band (from The Adventures of Sherlock Holmes) (1892)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
 
 ### Merriam-Webster
 
-**dross** _noun_ • /DRAHSS/
+**fiscal** _adjective_ • /FISS-kul/
 
-Something referred to as "dross" is of low value or quality. Dross may also be used as a technical term to refer to unwanted material that is removed from a mineral to make it better.
+Fiscal is used to describe things relating to money and especially to the money a government, business, or organization earns, spends, and owes.
 
-> _He's a skilled editor who has a talent for turning literary dross into gold._
+> _The recent change in leadership was essential for addressing the fiscal health of the university._
 >
 
-> "Hollywood optimists argue that AI's greatest weakness will be originality. After all, viewers already complain of being deluged with formulaic, low-budget dross churned out by streaming platforms because an algorithm deems it popular." — Tom Leonard, The Scottish Daily Mail, 23 Feb. 2026
+> “The Town of Java [New York] ... has received exemplary audits from the State Comptroller’s Office, while continuing to streamline government and demonstrate fiscal responsibility.” — The Daily News (Batavia, New York), 13 Feb. 2026
 
-_Dross has been a part of the English language since Anglo-Saxon times. It comes from the Old English word drōs, meaning "dregs," those solid materials that fall to the bottom of a container full of a liquid such as coffee or wine. While dross today is used to refer to anything of low value or quality, its earliest use is technical: dross is a metallurgy term referring to solid scum that forms on the surface of a metal when it is molten or melting—remove the dross to improve the metal. The metallurgical sense of the word is often hinted at in its general use, with dross set in contrast to gold, as when 19th century British poet Christina Rossetti wrote "Besides, those days were golden days, / Whilst these are days of dross."_
+_Fiscal comes from the Latin noun fiscus, meaning “basket” or “treasury.” In ancient Rome, fiscus was the term for the treasury controlled by the emperor, where the money was literally stored in baskets and was collected primarily in the form of revenue from the provinces. Fiscus also gave English confiscate, which is most familiar as a verb meaning “to seize by or as if by authority,” but can additionally refer to the forfeiting of private property to public use. Today, we often encounter fiscal in “fiscal year,” a 12-month accounting period not necessarily coinciding with the calendar year._
 
