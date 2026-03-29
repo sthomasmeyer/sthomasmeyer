@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-03-28 11:37:41 UTC_
+_Updated: 2026-03-29 11:38:35 UTC_
 
-### Robert Goddard and Nell
+### A Message from Earth
 
-![Robert Goddard and Nell](https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_800.jpg)
+![A Message from Earth](https://apod.nasa.gov/apod/image/2603/Message_Arecibo_960.jpg)
 
-Robert H. Goddard, considered the father of modern rocketry, was born in Worcester Massachusetts in 1882. As a 16 year old, Goddard read H.G. Wells' science fiction classic War Of The Worlds and dreamed of space flight. By 1926 he had designed, built, and flown the world's first liquid fuel rocket. Launched 100 years ago, on March 16, 1926 from his aunt Effie's farm in Auburn Massachusetts, the rocket dubbed Nell, rose to an altitude of 41 feet in a flight that lasted about 2 1/2 seconds. In this posed photo Goddard stands next to the 10 foot tall rocket, holding the launch stand frame. To achieve a stable flight without the need for fins, the rocket's heavy motor was located at the top, fed by lines from liquid oxygen and gasoline fuel tanks at the bottom. Widely recognized as a gifted experimenter and engineering genius, his rockets were many years ahead of their time. Goddard was awarded over 200 patents in rocket technology, most of them after his death in 1945. A liquid fuel rocket constructed on principles developed by Goddard landed humans on the Moon in 1969.
+What are these Earthlings trying to tell us?  The featured message was broadcast from Earth towards the globular star cluster M13 in 1974.  During the dedication of an upgrade to the Arecibo Observatory - then the largest single radio telescope in the world - a string of 1's and 0's representing the diagram was sent.  This attempt at extraterrestrial communication was mostly ceremonial - humanity regularly broadcasts radio and television signals out into space accidentally.  Even were this message received, M13 is so far away we would have to wait almost 50,000 years to hear an answer.  The featured message gives a few simple facts about humanity and its knowledge: from left to right are numbers from one to ten, atoms including hydrogen and carbon, some interesting molecules, DNA, a human with description, basics of our Solar System, and basics of the sending telescope.  Several searches for extraterrestrial intelligence are currently underway.   Explore the Universe: Random APOD Generator
 
 
 ---
@@ -15,45 +15,47 @@ Robert H. Goddard, considered the father of modern rocketry, was born in Worcest
 
 ### Dictionary.com
 
-**quiescent** _adjective_ • /[kwee-es-uhnt]/
+**fervent** _adjective_ • /[fur-vuhnt]/
 
-inactive or motionless
+having or showing great warmth or enthusiasm
 
-Quiescent describes a state of temporary calm or inactivity, more like a pause than an end. Group chats, social movements, and even volcanoes can enter quiescent phases, marked by silence but not absence. After all, not everything that's still is stagnant.
+When a person feels fervent about something, their passion comes through loud and clear. The word traces back to Latin roots meaning "to boil," and over time it came to describe emotions that feel like they're bubbling up from deep within. If you advocate for something with fervent energy, listeners feel the intensity.
 
-> _The brown bear remained quiescent in its den throughout the long, cold winter._
+> _The entire crowd erupted in fervent cheers when the lead singer appeared onstage._
 
 
 ### Britannica
 
-**lavish with** _phrasal verb_
+**bonus** _noun_
 
-To give someone or something a large amount of something, often generously or excessively.
+Something good that is more than what was expected or required; an extra benefit or payment.
 
-> _The benevolent queen would often lavish her subjects with feasts and celebrations._
+> _Receiving an unexpected day off was a welcome bonus after a long week._
 >
-> _Despite his modest income, he always managed to lavish his grandchildren with thoughtful gifts._
+> _The beautiful weather was an added bonus to our already perfect picnic._
 >
-> _The director was lavish with praise for the cast's exceptional performance._
+> _The company announced a year-end bonus for all employees due to exceptional performance._
 >
 
-_Similar: bestow upon, shower with, deluge with_  •  _Opposite: deprive of, withhold from, stint on_
+_Similar: perk, extra, dividend_  •  _Opposite: penalty, deduction, loss_
 
-> _"She was a vain woman, extremely fond of her daughters, but without much real affection for them; her chief delight was in lavishing money on their dress."_
+> _"We have also been able to give a substantial bonus to the miners, which I hope will be helpful."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Winston S. Churchill**, Speech to the House of Commons (October 27, 1943)
 
 
 ### Merriam-Webster
 
-**fiscal** _adjective_ • /FISS-kul/
+**cadge** _verb_ • /KAJ/
 
-Fiscal is used to describe things relating to money and especially to the money a government, business, or organization earns, spends, and owes.
+To cadge something is to persuade someone to give it to you for free. Cadge can also mean “to take, use, or borrow (something) without acknowledgment.”
 
-> _The recent change in leadership was essential for addressing the fiscal health of the university._
+> _I don’t know how, but my brother always manages to cadge an extra scoop of ice cream on his sundaes._
+>
+> _The last line of the poem is cadged from Shelley’s “Ozymandias.”_
 >
 
-> “The Town of Java [New York] ... has received exemplary audits from the State Comptroller’s Office, while continuing to streamline government and demonstrate fiscal responsibility.” — The Daily News (Batavia, New York), 13 Feb. 2026
+> “How could a convenient route between housing estates—and friends’ homes—be an issue? Let me explain—it was all Sherlock Holmes’ fault. Him and his terrifying Hound Of The Baskervilles. … There were occasions when my imagination took over completely and I ended up going the long way round through the busier, better-lit roads of the village. Those beasties wouldn't dare to come off the greens and into the gardens. I never admitted this to any of my friends, not even those brave enough to cadge a lift from me on occasion.” — Mary-Jane Duncan, The Press and Journal (Scotland), 18 Oct. 2025
 
-_Fiscal comes from the Latin noun fiscus, meaning “basket” or “treasury.” In ancient Rome, fiscus was the term for the treasury controlled by the emperor, where the money was literally stored in baskets and was collected primarily in the form of revenue from the provinces. Fiscus also gave English confiscate, which is most familiar as a verb meaning “to seize by or as if by authority,” but can additionally refer to the forfeiting of private property to public use. Today, we often encounter fiscal in “fiscal year,” a 12-month accounting period not necessarily coinciding with the calendar year._
+_Long ago, peddlers traveled the British countryside, each with a packhorse or a horse and cart—first carrying produce from rural farms to town markets, then returning with small wares to sell to country folk. The Middle English word for such traders was cadgear; Scottish dialects rendered the term as cadger. The verb cadge was created as a back-formation of cadger (which is to say, it was formed by removal of the “-er” suffix). At its most general, cadger meant “carrier,” and the verb cadge meant “to carry.” More specifically, the verb meant to go about as a cadger or peddler. By the 1800s, it was used when someone who posed as a peddler turned out to be more of a beggar, from which arose the present-day use of the verb cadge for the action of trying to get something for free by persuading or imposing on another person._
 
