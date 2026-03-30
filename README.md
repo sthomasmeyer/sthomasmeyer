@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of March 30th Past: Vincent van Gogh (1853)
 
-_Updated: 2026-03-29 11:38:35 UTC_
+_Updated: 2026-03-30 12:01:36 UTC_
 
-### A Message from Earth
+Today we celebrate Vincent van Gogh (1853 - 1890), a Dutch Post-Impressionist painter whose bold colors and expressive brushwork left a lasting mark on Western art.
 
-![A Message from Earth](https://apod.nasa.gov/apod/image/2603/Message_Arecibo_960.jpg)
 
-What are these Earthlings trying to tell us?  The featured message was broadcast from Earth towards the globular star cluster M13 in 1974.  During the dedication of an upgrade to the Arecibo Observatory - then the largest single radio telescope in the world - a string of 1's and 0's representing the diagram was sent.  This attempt at extraterrestrial communication was mostly ceremonial - humanity regularly broadcasts radio and television signals out into space accidentally.  Even were this message received, M13 is so far away we would have to wait almost 50,000 years to hear an answer.  The featured message gives a few simple facts about humanity and its knowledge: from left to right are numbers from one to ten, atoms including hydrogen and carbon, some interesting molecules, DNA, a human with description, basics of our Solar System, and basics of the sending telescope.  Several searches for extraterrestrial intelligence are currently underway.   Explore the Universe: Random APOD Generator
+---
+
+## NASA Astronomy Picture of the Day
+
+### Peculiar Elliptical Galaxy Centaurus A
+
+![Peculiar Elliptical Galaxy Centaurus A](https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg)
+
+What's happened to the center of this galaxy?  Dramatic dust lanes run across the center of unusual elliptical galaxy Centaurus A. These dust lanes are so thick they almost completely obscure the galaxy's center in visible light.  This is particularly unusual as Cen A's older stars and oval shape are characteristic of a giant elliptical galaxy, a galaxy type typically low in dark dust.  Pictured in this deep image is a complex network of foreground gas and dust, as well as shells of dim stars and a jet projecting to the upper right.  Also known as NGC 5128, Cen A is surely the result of a galactic collision where many young dust-creating stars were formed.  However, details of the creation of Cen A's unusually active center and iconic central dust lanes are still being researched.  Cen A lies only 13 million light years away, making it the closest active galaxy.    Jigsaw Galaxy: Astronomy Puzzle of the Day
 
 
 ---
@@ -15,47 +22,47 @@ What are these Earthlings trying to tell us?  The featured message was broadcast
 
 ### Dictionary.com
 
-**fervent** _adjective_ • /[fur-vuhnt]/
+**divagate** _verb_ • /[dahy-vuh-geyt]/
 
-having or showing great warmth or enthusiasm
+to wander or stray
 
-When a person feels fervent about something, their passion comes through loud and clear. The word traces back to Latin roots meaning "to boil," and over time it came to describe emotions that feel like they're bubbling up from deep within. If you advocate for something with fervent energy, listeners feel the intensity.
+To divagate is to drift away from the main path. Maybe you branch off onto a new hiking trail, lose your train of thought mid-sentence, or suddenly decide on a new career trajectory. If you think you need a new direction, there's always the option to divagate.
 
-> _The entire crowd erupted in fervent cheers when the lead singer appeared onstage._
+> _The speaker began to divagate from the main topic, confusing the audience._
 
 
 ### Britannica
 
-**bonus** _noun_
+**pounce** _verb_
 
-Something good that is more than what was expected or required; an extra benefit or payment.
+To suddenly jump or spring forward, especially to seize or attack something.
 
-> _Receiving an unexpected day off was a welcome bonus after a long week._
+> _The cat crouched low, ready to pounce on the unsuspecting mouse._
 >
-> _The beautiful weather was an added bonus to our already perfect picnic._
+> _Investors are waiting for the market to dip before they pounce on new opportunities._
 >
-> _The company announced a year-end bonus for all employees due to exceptional performance._
+> _She had to pounce on the chance to work with such a renowned director._
 >
 
-_Similar: perk, extra, dividend_  •  _Opposite: penalty, deduction, loss_
+_Similar: spring, leap, lunge_  •  _Opposite: retreat, withdraw, recoil_
 
-> _"We have also been able to give a substantial bonus to the miners, which I hope will be helpful."_
+> _"He would pounce upon the boy and drag him back; and, as often as he did so, he would grip him in his iron grasp, and shake him roughly from side to side."_
 >
-> — **Winston S. Churchill**, Speech to the House of Commons (October 27, 1943)
+> — **Charles Dickens**, Oliver Twist (1838)
 
 
 ### Merriam-Webster
 
-**cadge** _verb_ • /KAJ/
+**oblivion** _noun_ • /uh-BLIV-ee-un/
 
-To cadge something is to persuade someone to give it to you for free. Cadge can also mean “to take, use, or borrow (something) without acknowledgment.”
+Oblivion can refer to the state of something that is not remembered or thought about any more, or to the state of being unconscious or unaware. It also sometimes refers to the state of being destroyed.
 
-> _I don’t know how, but my brother always manages to cadge an extra scoop of ice cream on his sundaes._
+> _After so many days of exhaustingly difficult work, he longed for the oblivion of sleep._
 >
-> _The last line of the poem is cadged from Shelley’s “Ozymandias.”_
+> _The sandcastles of summer had long since been swept into oblivion by the ocean waves._
 >
 
-> “How could a convenient route between housing estates—and friends’ homes—be an issue? Let me explain—it was all Sherlock Holmes’ fault. Him and his terrifying Hound Of The Baskervilles. … There were occasions when my imagination took over completely and I ended up going the long way round through the busier, better-lit roads of the village. Those beasties wouldn't dare to come off the greens and into the gardens. I never admitted this to any of my friends, not even those brave enough to cadge a lift from me on occasion.” — Mary-Jane Duncan, The Press and Journal (Scotland), 18 Oct. 2025
+> “... automobiles with manual transmission appear to be on a road to oblivion as technology transforms cars into computers on wheels.” — Michael Diedtke, The Columbian (Vancouver, Washington), 3 Jan. 2026
 
-_Long ago, peddlers traveled the British countryside, each with a packhorse or a horse and cart—first carrying produce from rural farms to town markets, then returning with small wares to sell to country folk. The Middle English word for such traders was cadgear; Scottish dialects rendered the term as cadger. The verb cadge was created as a back-formation of cadger (which is to say, it was formed by removal of the “-er” suffix). At its most general, cadger meant “carrier,” and the verb cadge meant “to carry.” More specifically, the verb meant to go about as a cadger or peddler. By the 1800s, it was used when someone who posed as a peddler turned out to be more of a beggar, from which arose the present-day use of the verb cadge for the action of trying to get something for free by persuading or imposing on another person._
+_Oblivion asks forgetfulness of us in both its meaning and etymology. The word’s Latin source, oblīvīscī, means “to forget, to put out of mind,” and since its 14th century adoption into English, oblivion has hewed close to meanings having to do with forgetting. The word has also long had an association with the River Lethe which according to Greek myth flowed through the Underworld and caused anyone who drank its water to forget their past; 17th century poet John Milton wrote about “Lethe the River of Oblivion” in Paradise Lost. The adjective oblivious (“lacking remembrance, memory, or mindful attention”) followed oblivion a century later, but not into oblivion—both words have proved obdurate against the erosive currents of time._
 
