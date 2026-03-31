@@ -1,19 +1,19 @@
-# Days of March 30th Past: Vincent van Gogh (1853)
+# Days of March 31st Past: Johann Sebastian Bach (1685)
 
-_Updated: 2026-03-30 12:01:36 UTC_
+_Updated: 2026-03-31 11:56:45 UTC_
 
-Today we celebrate Vincent van Gogh (1853 - 1890), a Dutch Post-Impressionist painter whose bold colors and expressive brushwork left a lasting mark on Western art.
+
 
 
 ---
 
 ## NASA Astronomy Picture of the Day
 
-### Peculiar Elliptical Galaxy Centaurus A
+### Uranus's Largest Moon: Titania
 
-![Peculiar Elliptical Galaxy Centaurus A](https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg)
+![Uranus's Largest Moon: Titania](https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg)
 
-What's happened to the center of this galaxy?  Dramatic dust lanes run across the center of unusual elliptical galaxy Centaurus A. These dust lanes are so thick they almost completely obscure the galaxy's center in visible light.  This is particularly unusual as Cen A's older stars and oval shape are characteristic of a giant elliptical galaxy, a galaxy type typically low in dark dust.  Pictured in this deep image is a complex network of foreground gas and dust, as well as shells of dim stars and a jet projecting to the upper right.  Also known as NGC 5128, Cen A is surely the result of a galactic collision where many young dust-creating stars were formed.  However, details of the creation of Cen A's unusually active center and iconic central dust lanes are still being researched.  Cen A lies only 13 million light years away, making it the closest active galaxy.    Jigsaw Galaxy: Astronomy Puzzle of the Day
+Titania's tortured terrain is a mix of canyons, cliffs, and craters.  NASA's interplanetary robot spacecraft Voyager 2 passed the largest moon of Uranus in 1986 and took the feature picture. That the trenches of Titania resemble those on another moon of Uranus, Ariel, indicate that Titania underwent some violent surface event possibly related to water freezing and expanding in its distant past.  Although Titania is Uranus's largest moon, it is only about half the radius of Triton - the largest moon of Uranus's sister planet Neptune, which itself is slightly smaller than Earth's Moon.  Titania, discovered by William Herschel in 1787, is essentially a large dirty iceball that is composed of about half water-ice and half rock.  There is recent speculation that radioactive heating melts some underground ice into oceans.
 
 
 ---
@@ -22,47 +22,45 @@ What's happened to the center of this galaxy?  Dramatic dust lanes run across th
 
 ### Dictionary.com
 
-**divagate** _verb_ • /[dahy-vuh-geyt]/
+**infomania** _noun_ • /[in-fuh-mey-nee-uh]/
 
-to wander or stray
+excessive enthusiasm for gaining knowledge
 
-To divagate is to drift away from the main path. Maybe you branch off onto a new hiking trail, lose your train of thought mid-sentence, or suddenly decide on a new career trajectory. If you think you need a new direction, there's always the option to divagate.
+Infomania describes an intense craving for knowledge, or just for staying constantly updated. It might start with a single search and spiral into hours of research. Curiosity is healthy, but infomania can blur the line between interest and obsession.
 
-> _The speaker began to divagate from the main topic, confusing the audience._
+> _The professor's infomania caused him to stay up late reading articles instead of sleeping._
 
 
 ### Britannica
 
-**pounce** _verb_
+**inconspicuous** _adjective_
 
-To suddenly jump or spring forward, especially to seize or attack something.
+Not readily noticeable; attracting little attention or blending in with surroundings.
 
-> _The cat crouched low, ready to pounce on the unsuspecting mouse._
+> _The detective wore an inconspicuous hat and trench coat to blend into the crowd._
 >
-> _Investors are waiting for the market to dip before they pounce on new opportunities._
+> _Despite her talent, she preferred to remain inconspicuous, letting her work speak for itself._
 >
-> _She had to pounce on the chance to work with such a renowned director._
+> _The entrance to the secret garden was so inconspicuous that many walked past it without noticing._
 >
 
-_Similar: spring, leap, lunge_  •  _Opposite: retreat, withdraw, recoil_
+_Similar: unobtrusive, unnoticeable, hidden_  •  _Opposite: conspicuous, prominent, noticeable_
 
-> _"He would pounce upon the boy and drag him back; and, as often as he did so, he would grip him in his iron grasp, and shake him roughly from side to side."_
+> _"He was a thin, inconspicuous man, with a quiet voice and a habit of looking at his shoes."_
 >
-> — **Charles Dickens**, Oliver Twist (1838)
+> — **Harper Lee**, To Kill a Mockingbird (1960)
 
 
 ### Merriam-Webster
 
-**oblivion** _noun_ • /uh-BLIV-ee-un/
+**genteel** _adjective_ • /jen-TEEL/
 
-Oblivion can refer to the state of something that is not remembered or thought about any more, or to the state of being unconscious or unaware. It also sometimes refers to the state of being destroyed.
+Genteel means “of or relating to people who have high social status” and can be used as a somewhat old-fashioned synonym of aristocratic. It can also be used to describe something with a quietly appealing or polite quality, as in “genteel manners.”
 
-> _After so many days of exhaustingly difficult work, he longed for the oblivion of sleep._
->
-> _The sandcastles of summer had long since been swept into oblivion by the ocean waves._
+> _Their genteel upbringing shaped the way they viewed the world._
 >
 
-> “... automobiles with manual transmission appear to be on a road to oblivion as technology transforms cars into computers on wheels.” — Michael Diedtke, The Columbian (Vancouver, Washington), 3 Jan. 2026
+> “The duo met at Oxford and were briefly bankers. They understand the genteel, often mysterious (at least to Americans) mores of the British upper class ...” — Jacqueline Cutler, The Daily Beast, 28 Jan. 2026
 
-_Oblivion asks forgetfulness of us in both its meaning and etymology. The word’s Latin source, oblīvīscī, means “to forget, to put out of mind,” and since its 14th century adoption into English, oblivion has hewed close to meanings having to do with forgetting. The word has also long had an association with the River Lethe which according to Greek myth flowed through the Underworld and caused anyone who drank its water to forget their past; 17th century poet John Milton wrote about “Lethe the River of Oblivion” in Paradise Lost. The adjective oblivious (“lacking remembrance, memory, or mindful attention”) followed oblivion a century later, but not into oblivion—both words have proved obdurate against the erosive currents of time._
+_In A History of the Novel (1975), David Freedman wrote of Theodore Dreiser, “Certainly there was nothing genteel about Dreiser, either as a man or novelist.” Indeed, few of the many uses of the adjective genteel would seem to apply to the author. When it comes to the use of genteel to describe people or things of or related to the upper class of society, for example, Dreiser doesn’t fit the bill: unlike many of his contemporaries, including Edith Wharton, Dreiser came from poverty. His novels, too, are hardly genteel in the sense of “striving to maintain the appearance of superior or middle-class social status or respectability.” Sister Carrie, his best known work, features a heroine who goes unpunished for her transgressions against conventional sexual morality. In fact, the book so troubled the genteel (“polite”) sensibilities of Dreiser’s publishers that they limited the book’s advertising, and it initially sold fewer than 500 copies. Sister Carrie is now considered a masterpiece, and Dreiser, according to Freedman, “the supreme poet of the squalid” who “felt the terror, the pity, and the beauty underlying the American Dream.”_
 
