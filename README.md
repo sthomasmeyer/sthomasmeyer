@@ -1,19 +1,19 @@
-# Days of March 31st Past: Johann Sebastian Bach (1685)
+# Days of April 1st Past: Otto von Bismark (1815) and Apple Computer, Inc. (1976)
 
-_Updated: 2026-03-31 11:56:45 UTC_
+_Updated: 2026-04-01 11:58:13 UTC_
 
-
+Steve Jobs, Steve Wozniak, and Ronald Wayne founded Apple on this day in 1976.
 
 
 ---
 
 ## NASA Astronomy Picture of the Day
 
-### Uranus's Largest Moon: Titania
+### The Claw and Bubble Nebulae
 
-![Uranus's Largest Moon: Titania](https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg)
+![The Claw and Bubble Nebulae](https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg)
 
-Titania's tortured terrain is a mix of canyons, cliffs, and craters.  NASA's interplanetary robot spacecraft Voyager 2 passed the largest moon of Uranus in 1986 and took the feature picture. That the trenches of Titania resemble those on another moon of Uranus, Ariel, indicate that Titania underwent some violent surface event possibly related to water freezing and expanding in its distant past.  Although Titania is Uranus's largest moon, it is only about half the radius of Triton - the largest moon of Uranus's sister planet Neptune, which itself is slightly smaller than Earth's Moon.  Titania, discovered by William Herschel in 1787, is essentially a large dirty iceball that is composed of about half water-ice and half rock.  There is recent speculation that radioactive heating melts some underground ice into oceans.
+What unexpected things do you see when you look up at the night sky? Today’s image resembles an abstract painting, with large swaths of color strewn across a cosmic canvas seemingly without design. Despite the image's abstract nature, the human mind finds patterns, identifying a large claw reaching up towards a floating bubble. Embedded within these seemingly random structures are the physical laws that govern how light and matter interact. The Claw (Sh2-157) and Bubble (NGC 7635) Nebulae glow colors that are mapped to the yellow and blue shown, indicating the presence of hydrogen and oxygen ionized by the intense light emitted from stars several times the mass of the Sun. This image depicts both the chaos and structure of astronomical processes, showing that a common thread between art and science is to look for the unexpected.
 
 
 ---
@@ -22,45 +22,47 @@ Titania's tortured terrain is a mix of canyons, cliffs, and craters.  NASA's int
 
 ### Dictionary.com
 
-**infomania** _noun_ • /[in-fuh-mey-nee-uh]/
+**taradiddle** _noun_ • /[tar-uh-did-l]/
 
-excessive enthusiasm for gaining knowledge
+a small lie or fib
 
-Infomania describes an intense craving for knowledge, or just for staying constantly updated. It might start with a single search and spiral into hours of research. Curiosity is healthy, but infomania can blur the line between interest and obsession.
+A taradiddle is a little fib that's more amusing than harmful. Kids, storytellers, and gossipers all have their share of taradiddles. The word's whimsical sound hints that even deceit can be playful sometimes.
 
-> _The professor's infomania caused him to stay up late reading articles instead of sleeping._
+> _The child told a small taradiddle when asked if he ate the ice cream._
 
 
 ### Britannica
 
-**inconspicuous** _adjective_
+**fictitious** _adjective_ • //fɪkˈtɪʃəs//
 
-Not readily noticeable; attracting little attention or blending in with surroundings.
+Not real or true; imagined or invented.
 
-> _The detective wore an inconspicuous hat and trench coat to blend into the crowd._
+> _The author created a fictitious world where animals could speak and fly._
 >
-> _Despite her talent, she preferred to remain inconspicuous, letting her work speak for itself._
+> _To avoid detection, the spy used a fictitious identity and a made-up backstory._
 >
-> _The entrance to the secret garden was so inconspicuous that many walked past it without noticing._
+> _The company's financial reports contained fictitious figures, leading to an investigation._
 >
 
-_Similar: unobtrusive, unnoticeable, hidden_  •  _Opposite: conspicuous, prominent, noticeable_
+_Similar: imaginary, invented, fabricated_  •  _Opposite: real, true, factual_
 
-> _"He was a thin, inconspicuous man, with a quiet voice and a habit of looking at his shoes."_
+> _"I had imagined that he would have been at once on the track of the real murderer, and not wasting his time over a fictitious one."_
 >
-> — **Harper Lee**, To Kill a Mockingbird (1960)
+> — **Arthur Conan Doyle**, A Study in Scarlet (1887)
 
 
 ### Merriam-Webster
 
-**genteel** _adjective_ • /jen-TEEL/
+**shenanigans** _plural noun_ • /shuh-NAN-ih-gunz/
 
-Genteel means “of or relating to people who have high social status” and can be used as a somewhat old-fashioned synonym of aristocratic. It can also be used to describe something with a quietly appealing or polite quality, as in “genteel manners.”
+Shenanigans is an informal word used to refer to activity or behavior that is either not honest or proper, or is mischievous or high-spirited. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.”
 
-> _Their genteel upbringing shaped the way they viewed the world._
+> _The CEO resigned amid accusations of financial shenanigans and dubious deals._
+>
+> _The tween sleepover shenanigans involved goofy hats, fake mustaches, and giggles galore but everyone eventually fell asleep._
 >
 
-> “The duo met at Oxford and were briefly bankers. They understand the genteel, often mysterious (at least to Americans) mores of the British upper class ...” — Jacqueline Cutler, The Daily Beast, 28 Jan. 2026
+> “Do you remember what it was like to be bored—like really bored? As a Gen Xer, I didn’t grow up scrolling social media or playing endless hours of ‘Minecraft’ to keep me busy; instead, I spent a fair amount of my free time after school crafting the perfect prank call. ... In retrospect, it was time well spent. Well, maybe. Some shenanigans may have gone too far.” — Elana Rabinowitz, The Los Angeles Times, 10 Feb. 2026
 
-_In A History of the Novel (1975), David Freedman wrote of Theodore Dreiser, “Certainly there was nothing genteel about Dreiser, either as a man or novelist.” Indeed, few of the many uses of the adjective genteel would seem to apply to the author. When it comes to the use of genteel to describe people or things of or related to the upper class of society, for example, Dreiser doesn’t fit the bill: unlike many of his contemporaries, including Edith Wharton, Dreiser came from poverty. His novels, too, are hardly genteel in the sense of “striving to maintain the appearance of superior or middle-class social status or respectability.” Sister Carrie, his best known work, features a heroine who goes unpunished for her transgressions against conventional sexual morality. In fact, the book so troubled the genteel (“polite”) sensibilities of Dreiser’s publishers that they limited the book’s advertising, and it initially sold fewer than 500 copies. Sister Carrie is now considered a masterpiece, and Dreiser, according to Freedman, “the supreme poet of the squalid” who “felt the terror, the pity, and the beauty underlying the American Dream.”_
+_Fool us once, shame on you; fool us twice, shame on us. Either way, we call it shenanigans, employing a word whose history is as slippery as the monkey business it names. We know that the word likely first appeared in print in the 1850s in the western United States. But most theories of its genesis assert that it was born in the British Isles, with potential origin words referring to such things as silly behavior, feigned illness, and a sweet rum-beer libation.  Although the “underhanded trick” sense of the word is oldest, the most common senses in use now are those referring to the dishonest or improper activity of “political shenanigans,” or to the high-spirited or mischievous behavior of “youthful shenanigans.”_
 
