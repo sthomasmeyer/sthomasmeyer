@@ -1,19 +1,12 @@
-# Days of April 1st Past: Otto von Bismark (1815) and Apple Computer, Inc. (1976)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-04-01 11:58:13 UTC_
+_Updated: 2026-04-02 11:54:03 UTC_
 
-Steve Jobs, Steve Wozniak, and Ronald Wayne founded Apple on this day in 1976.
+### Liftoff! Returning to the Moon
 
+![Liftoff! Returning to the Moon](https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg)
 
----
-
-## NASA Astronomy Picture of the Day
-
-### The Claw and Bubble Nebulae
-
-![The Claw and Bubble Nebulae](https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg)
-
-What unexpected things do you see when you look up at the night sky? Today’s image resembles an abstract painting, with large swaths of color strewn across a cosmic canvas seemingly without design. Despite the image's abstract nature, the human mind finds patterns, identifying a large claw reaching up towards a floating bubble. Embedded within these seemingly random structures are the physical laws that govern how light and matter interact. The Claw (Sh2-157) and Bubble (NGC 7635) Nebulae glow colors that are mapped to the yellow and blue shown, indicating the presence of hydrogen and oxygen ionized by the intense light emitted from stars several times the mass of the Sun. This image depicts both the chaos and structure of astronomical processes, showing that a common thread between art and science is to look for the unexpected.
+We are one small step closer to returning to the Moon. A new chapter in human exploration began yesterday when NASA's Artemis II launched aboard the Space Launch System (SLS) from Kennedy Space Center. Carrying four astronauts, the Orion spacecraft's planned lunar flyby will be the first in over half a century. This historic test flight, echoing the legacy of Apollo while pushing beyond it, will carry its crew farther from Earth than any humans since 1972, looping around the Moon before returning home. During the approximately ten-day journey, Orion's systems--from life support to navigation--will be tested in deep space, while astronauts observe the lunar surface, including shadowed regions of the far side rarely seen with such perspective. After looping around the Moon, the astronauts will return to Earth, ending their journey with a Pacific Ocean splashdown.
 
 
 ---
@@ -22,47 +15,47 @@ What unexpected things do you see when you look up at the night sky? Today’s i
 
 ### Dictionary.com
 
-**taradiddle** _noun_ • /[tar-uh-did-l]/
+**lagniappe** _noun_ • /[lan-yap]/
 
-a small lie or fib
+a small gift given with a purchase to a customer
 
-A taradiddle is a little fib that's more amusing than harmful. Kids, storytellers, and gossipers all have their share of taradiddles. The word's whimsical sound hints that even deceit can be playful sometimes.
+A lagniappe is a little something extra a customer receives with a purchase. It could be a brownie slipped into the takeout bag or a handwritten thank-you note. In Louisiana, giving a lagniappe is a cherished tradition that shows how small gestures can make a big impression.
 
-> _The child told a small taradiddle when asked if he ate the ice cream._
+> _The baker added a free cupcake to my order as a sweet lagniappe._
 
 
 ### Britannica
 
-**fictitious** _adjective_ • //fɪkˈtɪʃəs//
+**excavate** _verb_ • //ˈɛkskəˌveɪt//
 
-Not real or true; imagined or invented.
+To dig or hollow out (ground, a site, etc.), especially to uncover archaeological remains, or to remove material from it.
 
-> _The author created a fictitious world where animals could speak and fly._
+> _Archaeologists carefully began to excavate the ancient burial site._
 >
-> _To avoid detection, the spy used a fictitious identity and a made-up backstory._
+> _The construction crew will excavate the foundation for the new building next week._
 >
-> _The company's financial reports contained fictitious figures, leading to an investigation._
+> _It took days for them to excavate the trapped miner from the collapsed tunnel._
 >
 
-_Similar: imaginary, invented, fabricated_  •  _Opposite: real, true, factual_
+_Similar: dig, unearth, uncover_  •  _Opposite: bury, fill, cover_
 
-> _"I had imagined that he would have been at once on the track of the real murderer, and not wasting his time over a fictitious one."_
+> _"She began to dig and excavate and pull up weeds, and she was so absorbed that she did not notice how the time flew."_
 >
-> — **Arthur Conan Doyle**, A Study in Scarlet (1887)
+> — **Frances Hodgson Burnett**, The Secret Garden (1911)
 
 
 ### Merriam-Webster
 
-**shenanigans** _plural noun_ • /shuh-NAN-ih-gunz/
+**fawn** _verb_ • /FAWN/
 
-Shenanigans is an informal word used to refer to activity or behavior that is either not honest or proper, or is mischievous or high-spirited. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.”
+To fawn over or on someone (usually someone important or powerful) is to try to get their approval through praise, special attention, or flattery. Fawn is also sometimes used—especially but not exclusively of dogs—to mean “to show affection.”
 
-> _The CEO resigned amid accusations of financial shenanigans and dubious deals._
+> _Still new to celebrity, the musician blushed at the restaurant staff fawning over her during her recent hometown visit._
 >
-> _The tween sleepover shenanigans involved goofy hats, fake mustaches, and giggles galore but everyone eventually fell asleep._
+> _I’d only been gone five minutes but the puppy fawned on me like I’d been away for hours._
 >
 
-> “Do you remember what it was like to be bored—like really bored? As a Gen Xer, I didn’t grow up scrolling social media or playing endless hours of ‘Minecraft’ to keep me busy; instead, I spent a fair amount of my free time after school crafting the perfect prank call. ... In retrospect, it was time well spent. Well, maybe. Some shenanigans may have gone too far.” — Elana Rabinowitz, The Los Angeles Times, 10 Feb. 2026
+> “Around my Paddington patch, my ragdoll cat, Runty the Magnificent, is a street celebrity—a magnet for residents and passersby to fawn over and photograph.” — Olivia Stewart, The Sydney (Australia) Morning Herald, 10 Feb. 2026
 
-_Fool us once, shame on you; fool us twice, shame on us. Either way, we call it shenanigans, employing a word whose history is as slippery as the monkey business it names. We know that the word likely first appeared in print in the 1850s in the western United States. But most theories of its genesis assert that it was born in the British Isles, with potential origin words referring to such things as silly behavior, feigned illness, and a sweet rum-beer libation.  Although the “underhanded trick” sense of the word is oldest, the most common senses in use now are those referring to the dishonest or improper activity of “political shenanigans,” or to the high-spirited or mischievous behavior of “youthful shenanigans.”_
+_Language lovers, rejoice! If you’re the sort of person who fawns over etymology (one of the best sorts of people, in our opinion), then you’ll be glad to know the story of fawn: it comes ultimately from the Old English adjective fægen or fagan, meaning “glad,” by way of the Old English verb fagnian, meaning “to rejoice.” Hooray! But we’re not finished yet, my dear. Note that this fawn is not, despite appearances, related to the noun fawn that refers to a young deer. For that we can thank the Latin noun fetus, meaning “offspring.”_
 
