@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of April 4th Past: Microsoft (1975)
 
-_Updated: 2026-04-03 11:48:56 UTC_
+_Updated: 2026-04-04 11:38:11 UTC_
 
-### Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula
+Bill Gates and Paul Allen founded Microsoft on this day in 1975.
 
-![Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula](https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg)
 
-How can we see what is invisible? Black holes are not easy to see in the dark cosmic night, but astronomers can find them by analyzing their gravitational effects on matter, light and spacetime. The featured image shows an illustration that combines a simulation of a black hole binary system in its final death-dance with an astrophotography image of the Tarantula Nebula in the background. Even though black holes don't emit light, they distort the path of light rays, acting like a gravitational lens. As a result, the nebula appears extremely distorted, forming Einstein rings and multiple images.  Tarantula Nebula lies in the Large Magellanic Cloud, a dwarf galaxy that is one of the satellite galaxies of the Milky Way, 160,000 light-years away. That is more than 1,000 times closer than any of the binary black hole mergers detected so far. We'll probably never detect a merger so close to home!
+---
+
+## NASA Astronomy Picture of the Day
+
+### Hello World
+
+![Hello World](https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg)
+
+From pole to pole our fair planet is captured in this snapshot from space, an evocative image from a window of the Orion spacecraft Integrity. From the spacecraft's perspective the Sun is moving behind Earth's bright limb along the lower right. Africa and the Iberian peninsula are in view on the pale blue planet's surface, while aurorae crown Earth's south and north poles at top right and bottom left. Commander Reid Wiseman took the historic picture on Artemis II mission flight day 2 (April 2), after the completion of the planned translunar injection burn. That burn boosted the spacecraft out of Earth orbit, sending Integrity and crew on a trajectory that will take them around the Moon and back again. That's a journey humans last made over 50 years ago.
 
 
 ---
@@ -15,45 +22,45 @@ How can we see what is invisible? Black holes are not easy to see in the dark co
 
 ### Dictionary.com
 
-**Lucullan** _adjective_ • /[loo-kuhl-uhn]/
+**reify** _verb_ • /[ree-uh-fahy]/
 
-marked by lavishness and richness; sumptuous
+to convert into or regard as a concrete thing
 
-Lucullan describes something lavish or indulgently rich. The word hails from Lucullus, a Roman general famous for throwing feasts so extravagant that they became legendary. Looking for a word to describe that fancy restaurant or five-star hotel? Try Lucullan.
+To reify is to make something abstract feel real. The word comes from a Latin root meaning "thing," emphasizing the act of turning thought into substance. We might talk about an economy as "healthy" or "unhealthy," as though it were a person rather than an invisible network of complex forces. That's reifying something!
 
-> _The guests were amazed by the Lucullan feast served at the billionaire's wedding reception._
+> _Through vivid storytelling, the novelist reified the notion of memory, making it feel almost tangible._
 
 
 ### Britannica
 
-**eatery** _noun_
+**deteriorate** _verb_
 
-A usually small and informal restaurant.
+To become progressively worse in quality, condition, or character; to decline.
 
-> _We found a charming little eatery tucked away on a side street._
+> _The old bridge began to deteriorate rapidly after years of neglect._
 >
-> _The new eatery on the corner serves delicious vegan options._
+> _Without proper care, the ancient manuscript would surely deteriorate beyond repair._
 >
-> _After the concert, we looked for a casual eatery to grab a late dinner._
+> _His health started to deteriorate after the prolonged illness._
 >
 
-_Similar: restaurant, cafe, diner_
+_Similar: worsen, decline, degenerate_  •  _Opposite: improve, flourish, strengthen_
 
-> _"I found a small, clean eatery, where the coffee was strong and the bacon crisp, and the waitress, a large, cheerful woman, called me 'honey'."_
+> _"Her mind was less difficult to develop. She was a woman of strong understanding, and her temper, though it might be ruffled, could not easily deteriorate."_
 >
-> — **John Steinbeck**, Travels with Charley: In Search of America (1962)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
 
 ### Merriam-Webster
 
-**adroit** _adjective_ • /uh-DROYT/
+**wiseacre** _noun_ • /WYZE-ay-ker/
 
-Adroit describes someone or something that has or shows skill, cleverness, or resourcefulness in handling situations.
+A wiseacre is someone who says or does things that are funny but annoying. Wiseacre is an informal and old-fashioned word, as well as a synonym of smart aleck.
 
-> _We marveled at how adroit the puppeteers were, the marionettes responding to each precise shift of their hands, each flick of their wrists._
+> _Some wiseacre in the audience kept heckling the comedian throughout the performance._
 >
 
-> “She offers here the most invigorating of performances, technically adroit but also informed by equal measures of artistry and youth, and there’s a humility to her singing, along with a sense of her character’s smallness in the face of life’s travails and machinations …” — Chris Jones, The Chicago Tribune, 2 Feb. 2026
+> "In 1982's hit action comedy 48 Hours, a young Eddie Murphy plays a wiseacre criminal on parole in order to help a veteran cop, played by Nick Nolte, solve a case." — Pete Hammond, Deadline, 4 Aug. 2025
 
-_The meaning and history of adroit is straightforward, so we’ll get right to the point. English speakers borrowed the word with its meaning from French in the mid 1600s, but the word’s ultimate source is the Latin adjective directus, meaning “straight, direct.” Adroit entered English as a means for describing physically skillful sorts, but it came to be applied to those known for their expertise, cleverness, and resourcefulness too. Today, adroit most often describes things people do especially well._
+_Given the spelling and definition of wiseacre, you might guess that the word was formed directly from the familiar adjective wise. And you might be wise to think so—a wiseacre, after all, is someone who thinks or pretends they're wiser (more crafty or knowing) than they are. But you would, alas, also be wrong. Unlike wisecrack and wisenheimer, wiseacre came to English not from wise but from the Middle Dutch word wijssegger, meaning "soothsayer." Wiseacre first appeared in English way back in the 16th century, while all those other wise words appeared centuries later. The etymologies of wiseacre and wise are not completely distinct, however; the ancestors of wiseacre are loosely tied to the same Old English root that gave us wise._
 
