@@ -1,19 +1,12 @@
-# Days of April 4th Past: Microsoft (1975)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-04-04 11:38:11 UTC_
+_Updated: 2026-04-05 11:39:39 UTC_
 
-Bill Gates and Paul Allen founded Microsoft on this day in 1975.
+### NGC 3310: A Starburst Spiral Galaxy
 
+![NGC 3310: A Starburst Spiral Galaxy](https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg)
 
----
-
-## NASA Astronomy Picture of the Day
-
-### Hello World
-
-![Hello World](https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg)
-
-From pole to pole our fair planet is captured in this snapshot from space, an evocative image from a window of the Orion spacecraft Integrity. From the spacecraft's perspective the Sun is moving behind Earth's bright limb along the lower right. Africa and the Iberian peninsula are in view on the pale blue planet's surface, while aurorae crown Earth's south and north poles at top right and bottom left. Commander Reid Wiseman took the historic picture on Artemis II mission flight day 2 (April 2), after the completion of the planned translunar injection burn. That burn boosted the spacecraft out of Earth orbit, sending Integrity and crew on a trajectory that will take them around the Moon and back again. That's a journey humans last made over 50 years ago.
+The party is still going on in spiral galaxy NGC 3310.  Roughly 100 million years ago, NGC 3310 likely collided with a smaller galaxy causing the large spiral galaxy to light up with a tremendous burst of star formation.  The changing gravity during the collision created density waves that compressed existing clouds of gas and triggered the star-forming party.  The featured image from the Gemini North Telescope shows the galaxy in great detail, color-coded so that pink highlights gas while white and blue highlight stars.  Some of the star clusters in the galaxy are quite young, indicating that starburst galaxies may remain in star-burst mode for quite some time.  NGC 3310 spans about 50,000 light years, lies about 50 million light years away, and is visible with a small telescope towards the constellation of Great Bear Ursa Major.
 
 
 ---
@@ -22,45 +15,45 @@ From pole to pole our fair planet is captured in this snapshot from space, an ev
 
 ### Dictionary.com
 
-**reify** _verb_ • /[ree-uh-fahy]/
+**palimpsest** _noun_ • /[pal-imp-sest]/
 
-to convert into or regard as a concrete thing
+a surface from which writing has been erased to make room for another text
 
-To reify is to make something abstract feel real. The word comes from a Latin root meaning "thing," emphasizing the act of turning thought into substance. We might talk about an economy as "healthy" or "unhealthy," as though it were a person rather than an invisible network of complex forces. That's reifying something!
+A palimpsest is a surface rewritten over time, where earlier layers have been erased but still faintly show through. Old manuscripts with edits, historic documents on parchment, or walls with layered graffiti can be palimpsests. From a Greek term meaning "scraped again," the word is about both memory and reinvention.
 
-> _Through vivid storytelling, the novelist reified the notion of memory, making it feel almost tangible._
+> _Faint traces of old writing appeared beneath the new ink on the ancient palimpsest._
 
 
 ### Britannica
 
-**deteriorate** _verb_
+**precipitation** _noun_
 
-To become progressively worse in quality, condition, or character; to decline.
+Water that falls from the atmosphere to the Earth's surface in the form of rain, snow, sleet, or hail.
 
-> _The old bridge began to deteriorate rapidly after years of neglect._
+> _Heavy precipitation is expected throughout the region this weekend, potentially leading to localized flooding._
 >
-> _Without proper care, the ancient manuscript would surely deteriorate beyond repair._
+> _Farmers eagerly awaited the winter precipitation to replenish the dry soil._
 >
-> _His health started to deteriorate after the prolonged illness._
+> _The meteorologist warned of a mix of frozen precipitation, advising commuters to drive carefully._
 >
 
-_Similar: worsen, decline, degenerate_  •  _Opposite: improve, flourish, strengthen_
+_Similar: rainfall, snowfall, sleet_  •  _Opposite: drought, aridity_
 
-> _"Her mind was less difficult to develop. She was a woman of strong understanding, and her temper, though it might be ruffled, could not easily deteriorate."_
+> _"The amount of precipitation in the form of rain and snow is considerable, and the ground is often covered with a deep snow for several months."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Henry David Thoreau**, Walden; or, Life in the Woods (1854)
 
 
 ### Merriam-Webster
 
-**wiseacre** _noun_ • /WYZE-ay-ker/
+**verdant** _adjective_ • /VER-dunt/
 
-A wiseacre is someone who says or does things that are funny but annoying. Wiseacre is an informal and old-fashioned word, as well as a synonym of smart aleck.
+Verdant describes something that is green in tint or color, or green because it is covered with growing plants. Verdant can also describe a person who is inexperienced or has not yet developed good judgment.
 
-> _Some wiseacre in the audience kept heckling the comedian throughout the performance._
+> _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._
 >
 
-> "In 1982's hit action comedy 48 Hours, a young Eddie Murphy plays a wiseacre criminal on parole in order to help a veteran cop, played by Nick Nolte, solve a case." — Pete Hammond, Deadline, 4 Aug. 2025
+> “On the other side, the lusher Santa Cruz Mountains, a place of dank redwood forests, organic farming communes, and uppity vineyards, form a verdant curtain between the Valley and the ocean.” — Brian Barth, Front Street: Resistance and Rebirth in the Tent Cities of Techlandia, 2025
 
-_Given the spelling and definition of wiseacre, you might guess that the word was formed directly from the familiar adjective wise. And you might be wise to think so—a wiseacre, after all, is someone who thinks or pretends they're wiser (more crafty or knowing) than they are. But you would, alas, also be wrong. Unlike wisecrack and wisenheimer, wiseacre came to English not from wise but from the Middle Dutch word wijssegger, meaning "soothsayer." Wiseacre first appeared in English way back in the 16th century, while all those other wise words appeared centuries later. The etymologies of wiseacre and wise are not completely distinct, however; the ancestors of wiseacre are loosely tied to the same Old English root that gave us wise._
+_English speakers have been using verdant as a ripe synonym of green since at least the 16th century, and as a descriptive term for inexperienced or naive people since the 19th century. (By contrast, the more experienced green has colored our language since well before the 12th century, and was first applied to inexperienced people in the 16th century.) Verdant traces back to the Old French word for “green,” vert, which itself is from the Latin word  viridis. Some lesser-known words for shades of green in English include prasine (“having the green color of a leek”), smaragdine (“yellowish green in color like an emerald”), and another viridis descendent, viridescent (“slightly green”)._
 
