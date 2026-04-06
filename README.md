@@ -1,59 +1,52 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-04-05 11:39:39 UTC_
-
-### NGC 3310: A Starburst Spiral Galaxy
-
-![NGC 3310: A Starburst Spiral Galaxy](https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg)
-
-The party is still going on in spiral galaxy NGC 3310.  Roughly 100 million years ago, NGC 3310 likely collided with a smaller galaxy causing the large spiral galaxy to light up with a tremendous burst of star formation.  The changing gravity during the collision created density waves that compressed existing clouds of gas and triggered the star-forming party.  The featured image from the Gemini North Telescope shows the galaxy in great detail, color-coded so that pink highlights gas while white and blue highlight stars.  Some of the star clusters in the galaxy are quite young, indicating that starburst galaxies may remain in star-burst mode for quite some time.  NGC 3310 spans about 50,000 light years, lies about 50 million light years away, and is visible with a small telescope towards the constellation of Great Bear Ursa Major.
-
-
----
-
-## Words of the Day
+_Updated: 2026-04-06 11:56:00 UTC_
 
 ### Dictionary.com
 
-**palimpsest** _noun_ • /[pal-imp-sest]/
+**boondoggle** _noun_ • /[boon-dog-uhl]/
 
-a surface from which writing has been erased to make room for another text
+work of little or no value done merely to keep or look busy
 
-A palimpsest is a surface rewritten over time, where earlier layers have been erased but still faintly show through. Old manuscripts with edits, historic documents on parchment, or walls with layered graffiti can be palimpsests. From a Greek term meaning "scraped again," the word is about both memory and reinvention.
+A boondoggle is busywork dressed up as meaningful effort. Anyone who's ever been involved with a pointless work task or project knows the feeling. If you want a word that's all show and no substance, go for boondoggle.
 
-> _Faint traces of old writing appeared beneath the new ink on the ancient palimpsest._
+> _The three-hour meeting to discuss the company's free coffee policy felt like a complete boondoggle._
 
 
 ### Britannica
 
-**precipitation** _noun_
+**applicant** _noun_
 
-Water that falls from the atmosphere to the Earth's surface in the form of rain, snow, sleet, or hail.
+A person who formally requests or applies for something, such as a job, admission to an institution, or a grant.
 
-> _Heavy precipitation is expected throughout the region this weekend, potentially leading to localized flooding._
+> _The university received thousands of applications, but only a few hundred applicants were accepted._
 >
-> _Farmers eagerly awaited the winter precipitation to replenish the dry soil._
+> _Each applicant for the scholarship was required to submit an essay and two letters of recommendation._
 >
-> _The meteorologist warned of a mix of frozen precipitation, advising commuters to drive carefully._
+> _The hiring manager carefully reviewed the qualifications of every applicant before scheduling interviews._
 >
 
-_Similar: rainfall, snowfall, sleet_  •  _Opposite: drought, aridity_
+_Similar: candidate, petitioner, aspirant_  •  _Opposite: recipient, grantee_
 
-> _"The amount of precipitation in the form of rain and snow is considerable, and the ground is often covered with a deep snow for several months."_
+> _"The applicant, Allan Bakke, a white male, applied for admission to the medical school of the University of California at Davis in both 1973 and 1974."_
 >
-> — **Henry David Thoreau**, Walden; or, Life in the Woods (1854)
+> — **Justice Lewis F. Powell Jr.**, Regents of the University of California v. Bakke, 438 U.S. 265 (1978)
 
 
 ### Merriam-Webster
 
-**verdant** _adjective_ • /VER-dunt/
+**cotton** _verb_ • /KAH-tun/
 
-Verdant describes something that is green in tint or color, or green because it is covered with growing plants. Verdant can also describe a person who is inexperienced or has not yet developed good judgment.
+The verb cotton is used with on or on to to mean “to begin to understand something; to catch on.” Cotton used with to alone means “to begin to like someone or something.”
 
-> _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._
+> _It took a while, but they are finally starting to cotton on._
+>
+> _She quickly cottoned on to why her friend was nudging her, and stopped talking just before their teacher entered the room._
+>
+> _We cottoned to our new neighbors right away._
 >
 
-> “On the other side, the lusher Santa Cruz Mountains, a place of dank redwood forests, organic farming communes, and uppity vineyards, form a verdant curtain between the Valley and the ocean.” — Brian Barth, Front Street: Resistance and Rebirth in the Tent Cities of Techlandia, 2025
+> “An insatiable reader, he enjoyed a wide range of literary acquaintances, some of whom—Rudyard Kipling, Owen Wister, and Joel Chandler Harris—became personal friends, and others, including Mark Twain (“a man wholly without cultivation”) ... he never quite cottoned to.” — David S. Brown, In the Arena: Theodore Roosevelt in War, Peace, and Revolution, 2025
 
-_English speakers have been using verdant as a ripe synonym of green since at least the 16th century, and as a descriptive term for inexperienced or naive people since the 19th century. (By contrast, the more experienced green has colored our language since well before the 12th century, and was first applied to inexperienced people in the 16th century.) Verdant traces back to the Old French word for “green,” vert, which itself is from the Latin word  viridis. Some lesser-known words for shades of green in English include prasine (“having the green color of a leek”), smaragdine (“yellowish green in color like an emerald”), and another viridis descendent, viridescent (“slightly green”)._
+_The noun cotton, from the Arabic word quṭun or quṭn, first appeared in English in the 14th century. The substance and the word that named it were soon both culturally prominent, so English did a very English thing to do—it created a verb from the noun. By the late 15th century, cotton could mean “to form a fuzzy or downy surface on (cloth).” This verb sense (as well as other cotton-related verb meanings) is a lexical dust bunny at this point, but our modern-day uses spun from it. By the mid 16th century cotton could mean “to go on prosperously, to develop well, to succeed.” The metaphor is not difficult to see, as cotton cloth with a nice nap has indeed developed well. By the early 17th century, the verb had shifted again, and cottoning was, as it still often is, about taking a liking to someone or something. It wasn’t until the early 20th century that someone who cottoned to or on to something had come to understand it._
 
