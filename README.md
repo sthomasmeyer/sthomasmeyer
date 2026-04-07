@@ -1,52 +1,66 @@
-# Words of the Day
+# Days of April 7th Past: Bob Metcalfe (1946)
 
-_Updated: 2026-04-06 11:56:00 UTC_
+_Updated: 2026-04-07 11:59:18 UTC_
+
+
+
+
+---
+
+## NASA Astronomy Picture of the Day
+
+### IC 4592: The Blue Horsehead Reflection Nebula
+
+![IC 4592: The Blue Horsehead Reflection Nebula](https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg)
+
+Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars just below the image center.  The featured picture was taken from  Sawda Natheel in  Qatar.   Jigsaw Nebula: Astronomy Puzzle of the Day
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**boondoggle** _noun_ • /[boon-dog-uhl]/
+**caparison** _verb_ • /[kuh-par-uh-suhn]/
 
-work of little or no value done merely to keep or look busy
+to dress richly
 
-A boondoggle is busywork dressed up as meaningful effort. Anyone who's ever been involved with a pointless work task or project knows the feeling. If you want a word that's all show and no substance, go for boondoggle.
+To caparison is to dress someone or decorate something with flair and extravagance. The word can even refer to placing ceremonial coverings on horses. Whether for people, rooms, or animals, to caparison is to adorn with style.
 
-> _The three-hour meeting to discuss the company's free coffee policy felt like a complete boondoggle._
+> _The knights began to caparison their horses with silk and gold before the royal parade._
 
 
 ### Britannica
 
-**applicant** _noun_
+**reminisce** _verb_ • //ˌrɛmɪˈnɪs//
 
-A person who formally requests or applies for something, such as a job, admission to an institution, or a grant.
+To recall and share pleasant memories of the past.
 
-> _The university received thousands of applications, but only a few hundred applicants were accepted._
+> _During the family reunion, grandparents love to reminisce about their childhood adventures._
 >
-> _Each applicant for the scholarship was required to submit an essay and two letters of recommendation._
+> _She often reminisces about her college days, filled with late-night study sessions and impromptu road trips._
 >
-> _The hiring manager carefully reviewed the qualifications of every applicant before scheduling interviews._
+> _The old friends gathered to reminisce over coffee, sharing stories and laughter from decades past._
 >
 
-_Similar: candidate, petitioner, aspirant_  •  _Opposite: recipient, grantee_
+_Similar: recall, recollect, remember_  •  _Opposite: forget, ignore, disregard_
 
-> _"The applicant, Allan Bakke, a white male, applied for admission to the medical school of the University of California at Davis in both 1973 and 1974."_
+> _"And then they would sit and reminisce about their school days, and Anne would tell them about her college experiences, and Diana would talk about her children, and Jane about her husband, and Ruby about her beaux."_
 >
-> — **Justice Lewis F. Powell Jr.**, Regents of the University of California v. Bakke, 438 U.S. 265 (1978)
+> — **L.M. Montgomery**, Anne of Green Gables (1908)
 
 
 ### Merriam-Webster
 
-**cotton** _verb_ • /KAH-tun/
+**laudable** _adjective_ • /LAW-duh-bul/
 
-The verb cotton is used with on or on to to mean “to begin to understand something; to catch on.” Cotton used with to alone means “to begin to like someone or something.”
+Laudable is a somewhat formal word used to describe something as worthy of praise. It is a synonym of commendable.
 
-> _It took a while, but they are finally starting to cotton on._
->
-> _She quickly cottoned on to why her friend was nudging her, and stopped talking just before their teacher entered the room._
->
-> _We cottoned to our new neighbors right away._
+> _Thanks to the laudable efforts of dozens of volunteers, the town's Spring Festival was an enjoyable event for everyone._
 >
 
-> “An insatiable reader, he enjoyed a wide range of literary acquaintances, some of whom—Rudyard Kipling, Owen Wister, and Joel Chandler Harris—became personal friends, and others, including Mark Twain (“a man wholly without cultivation”) ... he never quite cottoned to.” — David S. Brown, In the Arena: Theodore Roosevelt in War, Peace, and Revolution, 2025
+> "Fair and equal access to higher education, regardless of socioeconomic status or geographical location, is a laudable aim." — The Irish Times, 2 July 2025
 
-_The noun cotton, from the Arabic word quṭun or quṭn, first appeared in English in the 14th century. The substance and the word that named it were soon both culturally prominent, so English did a very English thing to do—it created a verb from the noun. By the late 15th century, cotton could mean “to form a fuzzy or downy surface on (cloth).” This verb sense (as well as other cotton-related verb meanings) is a lexical dust bunny at this point, but our modern-day uses spun from it. By the mid 16th century cotton could mean “to go on prosperously, to develop well, to succeed.” The metaphor is not difficult to see, as cotton cloth with a nice nap has indeed developed well. By the early 17th century, the verb had shifted again, and cottoning was, as it still often is, about taking a liking to someone or something. It wasn’t until the early 20th century that someone who cottoned to or on to something had come to understand it._
+_Let's have a hearty round of applause for laudable, a word that never fails to celebrate the positive. Laudable comes ultimately from Latin laud- or laus, meaning "praise," as does laudatory. Take care, however, to consider the differences between the pair: laudable means "deserving praise" or "praiseworthy"; it is typically used to describe things people try to do or achieve ("a laudable goal/aim") or the work they expend to do so ("laudable efforts"). Meanwhile, laudatory means "giving praise" or "expressing praise"; it is almost always used to describe a favorable response to something, as in "laudatory remarks," and "laudatory media coverage."_
 
