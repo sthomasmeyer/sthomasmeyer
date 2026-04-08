@@ -1,66 +1,48 @@
-# Days of April 7th Past: Bob Metcalfe (1946)
+# Words of the Day
 
-_Updated: 2026-04-07 11:59:18 UTC_
-
-
-
-
----
-
-## NASA Astronomy Picture of the Day
-
-### IC 4592: The Blue Horsehead Reflection Nebula
-
-![IC 4592: The Blue Horsehead Reflection Nebula](https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg)
-
-Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars just below the image center.  The featured picture was taken from  Sawda Natheel in  Qatar.   Jigsaw Nebula: Astronomy Puzzle of the Day
-
-
----
-
-## Words of the Day
+_Updated: 2026-04-08 11:59:57 UTC_
 
 ### Dictionary.com
 
-**caparison** _verb_ • /[kuh-par-uh-suhn]/
+**land of Nod** _noun_ • /[land uhv nod]/
 
-to dress richly
+the mythical land of sleep
 
-To caparison is to dress someone or decorate something with flair and extravagance. The word can even refer to placing ceremonial coverings on horses. Whether for people, rooms, or animals, to caparison is to adorn with style.
+The land of Nod isn't on any map, but it's where your imagination wanders at night. Sleep, dreams, and the quiet drift from alert to unconscious all belong here. Its biblical and literary roots give the phrase a whimsical, timeless quality.
 
-> _The knights began to caparison their horses with silk and gold before the royal parade._
+> _The exhausted toddler finally drifted off to the land of Nod after a long day._
 
 
 ### Britannica
 
-**reminisce** _verb_ • //ˌrɛmɪˈnɪs//
+**plumage** _noun_
 
-To recall and share pleasant memories of the past.
+The entire covering of feathers on a bird.
 
-> _During the family reunion, grandparents love to reminisce about their childhood adventures._
+> _The peacock has colorful plumage._
 >
-> _She often reminisces about her college days, filled with late-night study sessions and impromptu road trips._
+> _The rare bird was admired for its vibrant plumage._
 >
-> _The old friends gathered to reminisce over coffee, sharing stories and laughter from decades past._
+> _The male bird's elaborate plumage is often used to attract a mate._
 >
 
-_Similar: recall, recollect, remember_  •  _Opposite: forget, ignore, disregard_
+_Similar: feathers, feathering, down_
 
-> _"And then they would sit and reminisce about their school days, and Anne would tell them about her college experiences, and Diana would talk about her children, and Jane about her husband, and Ruby about her beaux."_
+> _"The plumage generally on the upper surface of this bird is of a rich scarlet, and the head, throat, and breast are of a delicate fawn-colour."_
 >
-> — **L.M. Montgomery**, Anne of Green Gables (1908)
+> — **Charles Darwin**, The Descent of Man, and Selection in Relation to Sex (1871)
 
 
 ### Merriam-Webster
 
-**laudable** _adjective_ • /LAW-duh-bul/
+**panache** _noun_ • /puh-NAHSH/
 
-Laudable is a somewhat formal word used to describe something as worthy of praise. It is a synonym of commendable.
+In simplest terms, panache refers to lively grace and style; it appears in contexts in which words like verve and flair are also applied.
 
-> _Thanks to the laudable efforts of dozens of volunteers, the town's Spring Festival was an enjoyable event for everyone._
+> _The cast of the play was excellent—even those playing supporting characters acted with great panache._
 >
 
-> "Fair and equal access to higher education, regardless of socioeconomic status or geographical location, is a laudable aim." — The Irish Times, 2 July 2025
+> “The star appeared as an airline pilot, twirling her way through baggage reclaim while shrugging off a bevy of useless men—a surgeon, a priest, a magician, an astronaut. It made absolutely no sense, but she delivered it with such panache that it barely mattered—even when she ended the performance by pulling a dove out of a top hat.” — Mark Savage et al., BBC, 2 Feb. 2026
 
-_Let's have a hearty round of applause for laudable, a word that never fails to celebrate the positive. Laudable comes ultimately from Latin laud- or laus, meaning "praise," as does laudatory. Take care, however, to consider the differences between the pair: laudable means "deserving praise" or "praiseworthy"; it is typically used to describe things people try to do or achieve ("a laudable goal/aim") or the work they expend to do so ("laudable efforts"). Meanwhile, laudatory means "giving praise" or "expressing praise"; it is almost always used to describe a favorable response to something, as in "laudatory remarks," and "laudatory media coverage."_
+_Few literary characters can match the panache of French poet and soldier Cyrano de Bergerac, from Edmond Rostand’s 1897 play of the same name. In his dying moments, Cyrano declares that the one thing left to him is his panache, and that assertion at once demonstrates the meaning of the word and draws upon its history. In both French and English, panache (which traces back to Late Latin pinnaculum, “small wing”) originally referred to a showy, feathery plume on a hat or helmet. Our familiar figurative sense debuted in the first English translation of Rostand’s play, which made the literal plume a metaphor for Cyrano’s unflagging verve even in death. In a 1903 speech Rostand himself described panache: “A little frivolous perhaps, most certainly a little theatrical, panache is nothing but a grace which is so difficult to retain in the face of death, a grace which demands so much strength that, all the same, it is a grace … which I wish for all of us.”_
 
