@@ -1,48 +1,48 @@
 # Words of the Day
 
-_Updated: 2026-04-08 11:59:57 UTC_
+_Updated: 2026-04-09 12:00:55 UTC_
 
 ### Dictionary.com
 
-**land of Nod** _noun_ • /[land uhv nod]/
+**perpend** _verb_ • /[per-pend]/
 
-the mythical land of sleep
+to consider
 
-The land of Nod isn't on any map, but it's where your imagination wanders at night. Sleep, dreams, and the quiet drift from alert to unconscious all belong here. Its biblical and literary roots give the phrase a whimsical, timeless quality.
+To perpend is to pause and take something into consideration. Planners and careful decision-makers perpend options before taking action. The word comes from a Latin term meaning "to weigh carefully," emphasizing deliberation over haste. Perpend before you decide!
 
-> _The exhausted toddler finally drifted off to the land of Nod after a long day._
+> _The architect took a moment to perpend the complex blueprints before starting the project._
 
 
 ### Britannica
 
-**plumage** _noun_
+**extravagant** _adjective_
 
-The entire covering of feathers on a bird.
+Exceeding the bounds of what is reasonable, necessary, or appropriate, often implying excessive cost, elaborateness, or display.
 
-> _The peacock has colorful plumage._
+> _Her taste in jewelry was rather extravagant, favoring large diamonds and intricate designs._
 >
-> _The rare bird was admired for its vibrant plumage._
+> _The politician made extravagant promises during his campaign that were impossible to keep._
 >
-> _The male bird's elaborate plumage is often used to attract a mate._
+> _They celebrated their anniversary with an extravagant dinner at a Michelin-starred restaurant._
 >
 
-_Similar: feathers, feathering, down_
+_Similar: lavish, excessive, prodigal_  •  _Opposite: modest, frugal, restrained_
 
-> _"The plumage generally on the upper surface of this bird is of a rich scarlet, and the head, throat, and breast are of a delicate fawn-colour."_
+> _"Elinor, though she wished to make a proper return to the kindness of her friends, felt that it would be an extravagant waste of time to remain much longer at Barton."_
 >
-> — **Charles Darwin**, The Descent of Man, and Selection in Relation to Sex (1871)
+> — **Jane Austen**, Sense and Sensibility (1811)
 
 
 ### Merriam-Webster
 
-**panache** _noun_ • /puh-NAHSH/
+**decry** _verb_ • /dih-KRY/
 
-In simplest terms, panache refers to lively grace and style; it appears in contexts in which words like verve and flair are also applied.
+To decry something is to express strong disapproval of it.
 
-> _The cast of the play was excellent—even those playing supporting characters acted with great panache._
+> _The editorial decried the shuttering of the movie theater, which has been a local landmark for many years._
 >
 
-> “The star appeared as an airline pilot, twirling her way through baggage reclaim while shrugging off a bevy of useless men—a surgeon, a priest, a magician, an astronaut. It made absolutely no sense, but she delivered it with such panache that it barely mattered—even when she ended the performance by pulling a dove out of a top hat.” — Mark Savage et al., BBC, 2 Feb. 2026
+> “Twenty years ago, I wrote a book about the branding of youth culture called Branded: The Buying and Selling of Teenagers. As a parent, I have come to understand that raising a child who rejects luxury goods and influencer-touted-lip gloss is harder than raising a child who will eagerly decry the concept of capitalism at the dinner table.” — Alissa Quart, LitHub.com, 12 May 2025
 
-_Few literary characters can match the panache of French poet and soldier Cyrano de Bergerac, from Edmond Rostand’s 1897 play of the same name. In his dying moments, Cyrano declares that the one thing left to him is his panache, and that assertion at once demonstrates the meaning of the word and draws upon its history. In both French and English, panache (which traces back to Late Latin pinnaculum, “small wing”) originally referred to a showy, feathery plume on a hat or helmet. Our familiar figurative sense debuted in the first English translation of Rostand’s play, which made the literal plume a metaphor for Cyrano’s unflagging verve even in death. In a 1903 speech Rostand himself described panache: “A little frivolous perhaps, most certainly a little theatrical, panache is nothing but a grace which is so difficult to retain in the face of death, a grace which demands so much strength that, all the same, it is a grace … which I wish for all of us.”_
+_Decry has several synonyms in English, among them disparage and belittle. Decry suggests an open condemnation that makes it the best choice for cases in which criticism is not at all veiled. The forthrightness expressed by the word is an echo from its ancestry: decry was borrowed in the 17th century from the French verb décrier, meaning “to discredit, to lower in honor or esteem,”  and the crier in that word is related to the Anglo-French crier, source of the English verb cry, the oldest meaning of which is “to utter loudly; shout.” Be careful not to confuse decry with the similar-looking (and possibly related) verb descry, meaning “to catch sight of” or “to reveal.”_
 
