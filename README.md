@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-04-11 11:39:38 UTC_
+_Updated: 2026-04-12 11:45:33 UTC_
 
-### Artemis II: Flight Day 6
+### Comet R3 (PanSTARRS) Brightens
 
-![Artemis II: Flight Day 6](https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg)
+![Comet R3 (PanSTARRS) Brightens](https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg)
 
-On flight day 6 (April 6) the Artemis II mission achieved a historic lunar flyby. Rounding the lunar far side, the deep space maneuver marked humanity's first venture to the Moon since Apollo 17 in 1972. The Orion spacecraft Integrity reached a maximum distance of nearly 407,000 kilometers, and the Artemis II crew, Reid Wiseman, Victor Glover, and Christina Koch, and Jeremy Hansen, set the record for the farthest distance from Earth traveled by any human since the Apollo 13 crew in 1970. From behind the Moon on flight day 6, a solar array wing camera recorded this space age selfie, framing the spacecraft and lunar far side. Planet Earth, home to the Artemis II crew, is the small, bright crescent beyond the lunar limb. The crew safely returned home on Artemis II mission flight day 10.   Artemis II: Splashdown
+Comet R3 is brightening rapidly -- will it survive?  C/2025 R3 (PanSTARRS) has been slowly brightening and extending an ion tail since its discovery last year.  This shedding mountain of dirty ice puts on its best sky show this month, though, because it passes its closest to both the Sun (April 19) and the Earth (April 25).  The featured image, showing R3 already sporting a tail extending over 10 degrees, was taken two nights ago from Sion, Switzerland with the big mountain Bietschhorn on the left.  Comet R3 will be visible during mid-April before sunrise. Although the future brightness of any comet is hard to predict, the brightness of R3 makes it already a good camera comet and it may become visible to the unaided eye in the next week.  Comet R3's physical future is also unknown because, like Comet A1 (MAPS) earlier this month, it may disintegrate when it passes its closest to the Sun.  Or it may live to leave the Solar System.    Growing Gallery: Comet R3 in 2026
 
 
 ---
@@ -15,45 +15,47 @@ On flight day 6 (April 6) the Artemis II mission achieved a historic lunar flyby
 
 ### Dictionary.com
 
-**erstwhile** _adverb_ • /[urst-wahyl]/
+**uitwaaien** _noun_ • /[out-vahyn]/
 
-former; of times past
+the Dutch practice of jogging or walking into the wind
 
-Erstwhile conjures memories of the past, but in a fancy way. It might be a colleague, love interest, or era from days gone by that you think about. Want a poetic way to talk about nostalgia? Go with erstwhile.
+Uitwaaien is the Dutch tradition of heading into the wind to boost your mood and health. This can involve walking, jogging, or simply feeling the breeze. Whatever exercise you decide on, uitwaaien is an invitation to refresh the senses and leave your worries behind.
 
-> _Before the meeting began, the manager warmly greeted a colleague who had erstwhile been his rival._
+> _After a stressful week at work, she went to the coast to enjoy some uitwaaien._
 
 
 ### Britannica
 
-**ripple** _noun_ • /ˈrɪpəl/
+**splurge** _verb_
 
-A small wave or series of waves on the surface of a liquid, or a similar undulating effect.
+To spend more money than usual on something for oneself.
 
-> _The gentle breeze created tiny ripples across the calm surface of the pond._
+> _After receiving her bonus, she decided to splurge on a luxurious weekend getaway._
 >
-> _A ripple of laughter spread through the audience as the comedian delivered his punchline._
+> _They rarely eat out, but for their anniversary, they chose to splurge on a five-star restaurant._
 >
-> _She smoothed the fabric, trying to remove every ripple from the tablecloth._
+> _It's important to save, but sometimes a small splurge can boost your spirits._
 >
 
-_Similar: wave, undulation, tremor_  •  _Opposite: stillness, calm, smoothness_
+_Similar: indulge, lavish, overspend_  •  _Opposite: economize, save, hoard_
 
-> _"The vast, calm, and, as it were, everlasting Pacific, with its endless, measured ripple, was now before them."_
+> _"The only way to get rid of a temptation is to yield to it. Resist it, and your soul grows sick with longing for the things it has forbidden to itself, with desire for what its unlawful laws have made unlawful. You remember that fatal splurge that ruined your life."_
 >
-> — **Herman Melville**, Moby Dick; or, The Whale (1851)
+> — **Oscar Wilde**, The Picture of Dorian Gray (1890)
 
 
 ### Merriam-Webster
 
-**subterfuge** _noun_ • /SUB-ter-fyooj/
+**recondite** _adjective_ • /REK-un-dyte/
 
-Subterfuge is a formal word that refers to the use of tricks to hide, avoid, or get something.
+Recondite is a formal word used to describe something that is difficult to understand or that is not known by many people.
 
-> _They obtained the documents by subterfuge._
+> _The text addresses a technical subject using recondite vocabulary, which makes it very difficult to read._
+>
+> _The candy has the perfect balance of sweet and tart, but what delights me most are the recondite facts printed inside the wrapper._
 >
 
-> “Despite her difficult childhood, Mavis [Gallant] persevered, through grit, bloody-mindedness, an absence of self-pity, and an ironic sense of humor. Lunch with her was always hilarious and often horrifying: the tales she told about her life exceeded in unlikely gruesomeness even her own fiction. She certainly had the ‘cold eye’ that Yeats recommended for writers, and she saw through subterfuge, no matter who was trying it on.” — Margaret Atwood, The New Yorker, 6 Apr. 2025
+> “Each medical school has variations in its prerequisites, but all require a strong foundation in the sciences. This includes courses such as the notoriously recondite organic chemistry as well as biology, general chemistry, and physics.” — Richard Menger, Forbes, 18 Aug. 2025
 
-_Though subterfuge is a synonym of deception, fraud, double-dealing, and trickery, there’s nothing tricky about the word’s etymology. English borrowed the word with its meaning from the Late Latin noun subterfugium, which in turn comes from the Latin verb subterfugere, meaning “to escape, evade.” That word combines the prefix subter-, meaning “secretly” (from the adverb subter, meaning “underneath”) with the verb fugere, which means “to flee” and which is also the source of words such as fugitive and refuge, among others._
+_Recondite is one of those underused but useful words that’s always a boon to one’s vocabulary. Though it describes something difficult to understand, there is nothing recondite about the word’s history. It dates to the early 1600s, when it was coined from the Latin word reconditus, the past participle of recondere, “to conceal.” (“Concealed” is also a meaning of recondite, albeit an obscure one today.) Remove the re- of recondite and you get something even more obscure: condite, an obsolete verb meaning both “to pickle or preserve” and “to embalm.” Add the prefix in- to that quirky charmer and we get incondite, which means “badly put together,” as in “incondite prose.” All three words have the Latin word condere at their root; that verb is translated variously as “to put or bring together” and “to put up or store”—as in, perhaps, some pickles or preserves._
 
