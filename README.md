@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-04-12 11:45:33 UTC_
+_Updated: 2026-04-13 12:08:00 UTC_
 
-### Comet R3 (PanSTARRS) Brightens
+### NGC 602 and Beyond
 
-![Comet R3 (PanSTARRS) Brightens](https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg)
+![NGC 602 and Beyond](https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg)
 
-Comet R3 is brightening rapidly -- will it survive?  C/2025 R3 (PanSTARRS) has been slowly brightening and extending an ion tail since its discovery last year.  This shedding mountain of dirty ice puts on its best sky show this month, though, because it passes its closest to both the Sun (April 19) and the Earth (April 25).  The featured image, showing R3 already sporting a tail extending over 10 degrees, was taken two nights ago from Sion, Switzerland with the big mountain Bietschhorn on the left.  Comet R3 will be visible during mid-April before sunrise. Although the future brightness of any comet is hard to predict, the brightness of R3 makes it already a good camera comet and it may become visible to the unaided eye in the next week.  Comet R3's physical future is also unknown because, like Comet A1 (MAPS) earlier this month, it may disintegrate when it passes its closest to the Sun.  Or it may live to leave the Solar System.    Growing Gallery: Comet R3 in 2026
+The clouds may look like an oyster, and the stars like pearls, but look beyond. Near the outskirts of the Small Magellanic Cloud, a satellite galaxy some 200 thousand light-years distant, lies 5 million year young star cluster NGC 602. Surrounded by natal gas and dust, NGC 602 is featured in this stunning Hubble image of the region. Fantastic ridges and swept back shapes strongly suggest that energetic radiation and shock waves from NGC 602's massive young stars have eroded the dusty material and triggered a progression of star formation moving away from the cluster's center. At the estimated distance of the Small Magellanic Cloud, the featured picture spans about 200 light-years, but a tantalizing assortment of background galaxies are also visible in this sharp multi-colored view. The background galaxies are hundreds of millions of light-years or more beyond NGC 602.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
 
 ---
@@ -15,47 +15,45 @@ Comet R3 is brightening rapidly -- will it survive?  C/2025 R3 (PanSTARRS) has b
 
 ### Dictionary.com
 
-**uitwaaien** _noun_ • /[out-vahyn]/
+**impetrate** _verb_ • /[im-pi-treyt]/
 
-the Dutch practice of jogging or walking into the wind
+to obtain by pleading or begging
 
-Uitwaaien is the Dutch tradition of heading into the wind to boost your mood and health. This can involve walking, jogging, or simply feeling the breeze. Whatever exercise you decide on, uitwaaien is an invitation to refresh the senses and leave your worries behind.
+To impetrate is to secure something through persistent asking, whether it's a favor, permission, or small indulgence. Think of it as persuasion, but with pleading instead of clever arguments. When you really need something done, don't just ask — impetrate.
 
-> _After a stressful week at work, she went to the coast to enjoy some uitwaaien._
+> _The humble monk traveled to the capital to impetrate a pardon for the prisoner._
 
 
 ### Britannica
 
-**splurge** _verb_
+**repulsive** _adjective_ • /ri-PUL-siv/
 
-To spend more money than usual on something for oneself.
+Causing a strong feeling of dislike, disgust, or aversion.
 
-> _After receiving her bonus, she decided to splurge on a luxurious weekend getaway._
+> _The smell emanating from the abandoned building was utterly repulsive._
 >
-> _They rarely eat out, but for their anniversary, they chose to splurge on a five-star restaurant._
+> _She found his arrogant and condescending attitude to be quite repulsive._
 >
-> _It's important to save, but sometimes a small splurge can boost your spirits._
+> _The artist's latest sculpture, with its grotesque figures, was designed to be intentionally repulsive._
 >
 
-_Similar: indulge, lavish, overspend_  •  _Opposite: economize, save, hoard_
+_Similar: disgusting, revolting, odious_  •  _Opposite: attractive, alluring, pleasant_
 
-> _"The only way to get rid of a temptation is to yield to it. Resist it, and your soul grows sick with longing for the things it has forbidden to itself, with desire for what its unlawful laws have made unlawful. You remember that fatal splurge that ruined your life."_
+> _"I had desired it with an ardor that far exceeded moderation; but now that I had finished, the beauty of the dream vanished, and breathless horror and disgust filled my heart. Unable to endure the aspect of the being I had created, I rushed out of the room, and continued a long time traversing my bed-chamber, unable to compose my mind to sleep. A mummy again endued with animation could not be so hideous as that wretch."_
 >
-> — **Oscar Wilde**, The Picture of Dorian Gray (1890)
+> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
 
 
 ### Merriam-Webster
 
-**recondite** _adjective_ • /REK-un-dyte/
+**kibitzer** _noun_ • /KIB-it-ser/
 
-Recondite is a formal word used to describe something that is difficult to understand or that is not known by many people.
+A kibitzer is someone who watches other people and makes unwanted comments about what they are doing.
 
-> _The text addresses a technical subject using recondite vocabulary, which makes it very difficult to read._
->
-> _The candy has the perfect balance of sweet and tart, but what delights me most are the recondite facts printed inside the wrapper._
+> _It wasn't long after they bought their house that the couple heard from neighborhood kibitzers offering tips on landscaping and remodeling._
 >
 
-> “Each medical school has variations in its prerequisites, but all require a strong foundation in the sciences. This includes courses such as the notoriously recondite organic chemistry as well as biology, general chemistry, and physics.” — Richard Menger, Forbes, 18 Aug. 2025
+> "During the chess games, the telegraph operators occasionally asked each other how many people were in the room. At times, a dozen kibitzers looked on. At others, only the rotating cast of chess players and telegraph operators was present." — Greg Uyeno, IEEE Spectrum, 11 Dec. 2025
 
-_Recondite is one of those underused but useful words that’s always a boon to one’s vocabulary. Though it describes something difficult to understand, there is nothing recondite about the word’s history. It dates to the early 1600s, when it was coined from the Latin word reconditus, the past participle of recondere, “to conceal.” (“Concealed” is also a meaning of recondite, albeit an obscure one today.) Remove the re- of recondite and you get something even more obscure: condite, an obsolete verb meaning both “to pickle or preserve” and “to embalm.” Add the prefix in- to that quirky charmer and we get incondite, which means “badly put together,” as in “incondite prose.” All three words have the Latin word condere at their root; that verb is translated variously as “to put or bring together” and “to put up or store”—as in, perhaps, some pickles or preserves._
+_The Yiddish language has given English some particularly piquant terms over the years, and kibitzer (or kibbitzer) is one such word. Kibitzer came into English—by way of the Yiddish kibitser—from the German word kiebitzen, meaning "to look on (at a card game)." (Like its ancestor, kibitzer was originally, and sometimes still is, applied to vocal observers of cards as well as other games.) Although kibitzer usually implies the imparting of unwanted advice, there is a respectable body of evidence for a kibitzer as a person simply making comments or even just shooting the breeze._
 
