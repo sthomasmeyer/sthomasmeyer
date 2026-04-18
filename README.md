@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-04-17 12:00:22 UTC_
+_Updated: 2026-04-18 11:46:49 UTC_
 
-### M82: Starburst Galaxy with a Superwind
+### PanSTARRS and Planets
 
-![M82: Starburst Galaxy with a Superwind](https://apod.nasa.gov/apod/image/2604/M82_V3_1024.jpg)
+![PanSTARRS and Planets](https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg)
 
-Messier 82 is a starburst galaxy with a superwind. In fact, through supernova explosions and powerful winds from massive stars, the burst of star formation in M82 is driving a prodigious outflow. Evidence for the superwind from the galaxy's central regions is clear in the sharp telescopic portrait. The composite image includes 33 hours of narrowband data, highlighting emission from long outflow filaments of atomic hydrogen gas in reddish hues. Some of the gas in the superwind, enriched in heavy elements forged in the massive stars, will eventually escape into intergalactic space. Triggered by a close encounter with nearby large galaxy M81, the furious burst of star formation in M82 should last about 100 million years or so. Also known as the Cigar Galaxy for its elongated visual appearance, M82 is about 30,000 light-years across. It lies 12 million light-years away near the northern boundary of Ursa Major.
+Near the eastern horizon before sunrise, Comet C/2025 R3 PanSTARRS is getting brighter. Readily visible in binoculars and small telescopes, the comet may be just on the verge of naked-eye visibility from dark sky sites. Though it was not quite apparent to the eye, PanSTARRS is still easy to spot in this camera image taken on April 16. In the view from a volcanic peak overlooking France's Reunion Island, planet Earth, the comet shares eastern predawn skies with naked-eye planets Mars and Mercury and fainter Neptune. Saturn is hiding behind the low cloudbank that doesn't quite hide an old crescent Moon. This is a good weekend for northern hemisphere comet watchers to try to catch PanSTARRS an hour or so before sunrise, as the comet grows brighter approaching its perihelion on April 19. On April 26 the comet makes its closest approach to our fair planet but by then will be difficult to see in the solar glare. Good views of this comet PanSTARRS in late April and early May will be from the southern hemisphere.
 
 
 ---
@@ -15,45 +15,45 @@ Messier 82 is a starburst galaxy with a superwind. In fact, through supernova ex
 
 ### Dictionary.com
 
-**praxis** _noun_ • /[prak-sis]/
+**ramshackle** _adjective_ • /[ram-shak-uhl]/
 
-practice, as distinguished from theory
+loosely made or held together; shaky
 
-Praxis is the practical application of a theory or skill, as distinguished from the book-learning behind it. The word highlights the difference between thinking something through and actually doing it. Educators and activists alike know that learning is one thing, but praxis brings ideas to life.
+A ramshackle structure is probably worn down and maybe even a bit shaky. The word might bring to mind wobbly shacks or cars that are one pothole away from falling apart. But hey, just because something is ramshackle doesn't mean it can't have character.
 
-> _The medical student moved from studying textbooks to the praxis of treating patients._
+> _The traveler decided not to stay in the ramshackle cabin because the porch was partially collapsed._
 
 
 ### Britannica
 
-**zombie** _noun_
+**goofball** _noun_ • /ˈɡuːfbɔːl/
 
-A dead person who is able to move because of magic according to some religions and in stories, movies, etc.
+A silly, foolish, or eccentric person, often one who behaves in an amusingly awkward or unconventional way.
 
-> _The old horror movie featured shambling zombies emerging from their graves._
+> _My little brother is such a goofball; he's always making funny faces._
 >
-> _In the game, players had to fight off hordes of ravenous zombies._
+> _Despite his serious demeanor at work, he's a real goofball with his friends._
 >
-> _She spent the night reading a graphic novel about a zombie apocalypse._
+> _The comedian's act was full of physical humor, solidifying his reputation as a lovable goofball._
 >
 
-_Similar: undead, reanimated corpse_  •  _Opposite: living, human_
+_Similar: clown, joker, eccentric_  •  _Opposite: intellectual, serious, sage_
 
-> _"The zombie, then, is a soulless human corpse, still dead, but taken from the grave and endowed by sorcery with a mechanical semblance of life—it is a dead body which is made to walk and act and do the bidding of the sorcerer, but is without its soul."_
+> _"He's a goofball, but he's a good kid."_
 >
-> — **William Buehler Seabrook**, The Magic Island (1929)
+> — **Stephen King**, Needful Things (1991)
 
 
 ### Merriam-Webster
 
-**postulate** _verb_ • /PAHSS-chuh-layt/
+**hiatus** _noun_ • /hye-AY-tus/
 
-Postulate is a formal word used to mean “to suggest something, such as an idea or theory, especially in order to start or continue a discussion.”
+In general contexts, hiatus usually refers to a period of time when something, such as an activity or program, is suspended. In biology, hiatus describes a gap or passage in an anatomical part or organ, and in linguistics, it refers to the occurrence of two vowel sounds without pause or intervening consonantal sound.
 
-> _Scientists have postulated the existence of water on the planet’s largest moon._
+> _The actor, who’s been on hiatus for several years, will be starring in a new film._
 >
 
-> “Based on their findings, researchers postulate that Homo sapiens reacted better to lead exposure evolutionarily than Neanderthals, a species that were close relatives to Homo sapiens and that went extinct around 40,000 years ago.” — Mason Leath, ABC News, 16 Oct. 2025
+> “Following its return in 2025 after a nearly three-year hiatus, the 52nd American Music Awards are heading back to Las Vegas to be broadcast live from a new venue, the MGM Grand Garden Arena.” — Steven J. Horowitz, Variety, 10 Mar. 2026
 
-_When you postulate an idea or theory you suggest that it is true especially for the purposes of an argument or discussion. The word postulate is mostly at home in formal and academic contexts, but don’t let that stop you from postulating, for example, that takeout for dinner makes sense given the cook’s delayed return home from work, or that a thunderstorm is imminent given the cumulonimbus building on the horizon. This “hypothesize” sense of postulate emerged in the early 18th century, but the verb first appeared in English centuries earlier in ecclesiastical contexts, as recorded in our Unabridged dictionary. To postulate someone, according to this sense of the word, was to request that a higher authority in the church sanction their promotion even though they would otherwise be disqualified by church rules or regulations._
+_This brief hiatus in your day is brought to you by, well, hiatus. While the word now most often refers to a temporary pause, hiatus originally referred to a physical opening in something, such as the mouth of a cave, or, as the 18th century British novelist Laurence Sterne would have it, a sartorial gap: in the wildly experimental novel Tristram Shandy, Sterne wrote of “the hiatus in Phutatorius’s breeches.”  Hiatus comes from the Latin verb hiare, meaning “to yawn,” which makes it a distant relation of both yawn and chasm. And that’s all we have for now—you may resume your regular activities._
 
