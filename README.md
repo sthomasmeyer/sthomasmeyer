@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-04-19 11:47:39 UTC_
+_Updated: 2026-04-20 12:10:50 UTC_
 
-### Eye on the Milky Way
+### Comet R3 PanSTARRS over a Himalayan Valley
 
-![Eye on the Milky Way](https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg)
+![Comet R3 PanSTARRS over a Himalayan Valley](https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg)
 
-Have you ever had stars in your eyes? It appears that the eye on the left does, and moreover, it appears to be gazing at even more stars. The featured 27-frame mosaic was taken in 2019 from Ojas de Salar in the Atacama Desert of Chile.  The eye is actually a small lagoon captured reflecting the dark night sky as the Milky Way Galaxy arched overhead. The seemingly smooth band of the Milky Way is really composed of billions of stars, but decorated with filaments of light-absorbing dust and red-glowing nebulas. Additionally, both Jupiter (slightly left the galactic arch) and Saturn (slightly to the right) are visible.  The lights of small towns dot the unusual vertical horizon.  The rocky terrain around the lagoon appears to some more like the surface of Mars than our Earth.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+The best way to see comet R3 PanSTARRS’s long tail is with a camera. This week, the recently brightened comet appears in northern skies to the east just before dawn, but is only barely visible to the unaided eye. The many-degree ion tail captured on long duration camera exposures is not unusual for a comet - it is primarily due to the Earth's nearly sideways view of the tail as it points away from the Sun.  In the featured image taken last week, Comet C/2025 R3 (PanSTARRS) showed off its flowing tail through a valley between two peaks in the Himalayan mountains of India.   The comet passed its closest to the Sun yesterday. As it nears its closest approach to Earth next week, a bushy dust tail may become visible.  The comet is slowly moving out of northern skies and by the end of the month will be visible after sunset in southern skies as it fades and leaves our Solar System.    Growing Gallery: Comet R3 PanSTARRS in 2026
 
 
 ---
@@ -15,47 +15,45 @@ Have you ever had stars in your eyes? It appears that the eye on the left does, 
 
 ### Dictionary.com
 
-**purlieu** _noun_ • /[pur-loo]/
+**futz** _verb_ • /[fuhts]/
 
-a place where one may range at large
+to pass time in idleness
 
-A purlieu is a place where someone can roam freely. It's somewhere comfortably familiar, where you know your way around and feel at ease. Wandering around your purlieu might be just the decompression you need.
+To futz is to waste time, often by fussing over minor things instead of tackling something important. The word has a casual, humorous feel that's not as judgy as "procrastination." If you're figuring out the perfect arrangement of the tchotchkes on your desk instead of actually working, you're probably futzing around.
 
-> _The vast meadow served as a quiet purlieu where the horses could roam all day._
+> _Instead of starting his chores, he decided to futz with his collection of old coins._
 
 
 ### Britannica
 
-**awkward** _adjective_
+**partisan** _adjective_ • /PAR-tuh-zuhn/
 
-Lacking grace or skill in movement or behavior; causing embarrassment or difficulty.
+Strongly and often uncritically committed to a particular party, faction, or cause.
 
-> _The young dancer felt awkward during her first performance, stumbling over a few steps._
+> _The debate quickly devolved into partisan bickering, with neither side willing to compromise._
 >
-> _He found himself in an awkward silence after accidentally insulting his host._
+> _Her reporting was criticized for its partisan bias, favoring one political candidate over another._
 >
-> _Carrying the oversized package through the narrow doorway proved to be an awkward task._
+> _Despite the partisan divide, a few senators managed to find common ground on the issue._
 >
 
-_Similar: clumsy, ungainly, uncomfortable_  •  _Opposite: graceful, elegant, smooth_
+_Similar: biased, prejudiced, factional_  •  _Opposite: impartial, unbiased, neutral_
 
-> _"The first part of Mr. Bingley's conversation with Jane, however, was not awkward."_
+> _"The true object of a partisan war is not to conquer, but to harass, to wear out, to exhaust the enemy."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Carl von Clausewitz**, On War (1832)
 
 
 ### Merriam-Webster
 
-**nugatory** _adjective_ • /NOO-guh-tor-ee/
+**indoctrinate** _verb_ • /in-DAHK-truh-nayt/
 
-Something described as nugatory is of little or no consequence. In law, nugatory describes something (such as a statute or agreement) without operative legal effect.
+To indoctrinate someone is to teach them to fully accept the ideas, opinions, and beliefs of a particular group while categorically rejecting other ideas, opinions, and beliefs.
 
-> _Most of the criticism of the film in the weeks since its release has been nugatory nonsense._
->
-> _This new contract renders the previous agreement nugatory._
+> _The video series attempts to indoctrinate younger audiences with ahistorical and unscientific ideas._
 >
 
-> “Public outrage, fanned by the press, did not engage with the work but focused instead on taxpayers’ money having been squandered on a worthless ‘pile of bricks.’ In fact, the purchase price of [pounds sterling] 2,297 was nugatory, but the issue was never really about price but about rejecting the new and the challenging in art.” — Art Monthly, 1 Dec. 2025
+> "They worry about being 'cut off' from poetry, particularly by the jobs that they need to sustain their daily lives and that they fear may quietly indoctrinate them into a contrary value system." — Katy Waldman, The New Yorker, 2 Feb. 2026
 
-_Just because nugatory isn’t the most common word in the English language doesn’t mean it’s trifling. Rather, nugatory is literally trifling because the two words are synonymous, as in “comments too nugatory to merit attention.” Nugatory first appeared in English in the 17th century; it comes from the Latin adjective nugatorius, which can mean not only “trifling” or “frivolous” but also “futile.” This sense carried over into English as well, and so in some contexts nugatory means “ineffective” or “having no force,” as when Pulitzer Prize-winning novelist Marilynne Robinson invoked “the nugatory value of the contemporary penny.” Nugatory may mean little to some, but we think it’s worth a pretty penny._
+_Indoctrinate means "brainwash" in most contexts today, but its meaning wasn't always so negative. When the verb first appeared in English in the 17th century, it simply meant "to teach"—a meaning linked closely to its source, the Latin verb docēre, which also means "to teach." (Other offspring of docēre include docile, doctor, document, and, of course, doctrine). By the 19th century, indoctrinate was being used in the sense of teaching someone to fully accept only the ideas, opinions, and beliefs of a particular group._
 
