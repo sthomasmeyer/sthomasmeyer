@@ -1,59 +1,48 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-04-21 12:06:51 UTC_
-
-### Three Sky Arches over Snowy Alps
-
-![Three Sky Arches over Snowy Alps](https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg)
-
-Why are there three arches across the sky instead of two? Last month, after being dropped off by a helicopter at a high mountain peak in the Alps near the Swiss Italian border, an adventurous astrophotographer expected two arches of our Milky Way galaxy to be visible during the night. These were the inner arch looking in toward the center of our galaxy on the left, visible just before sunrise, and the outer arch on the right visible just after sunset.  But there were three arches. The surprised astrophotographer soon realized that the sky was so dark that an entire arc of faint zodiacal light was also noticeable -- sunlight scattered by inner Solar System dust.  And it artfully connected the two Milky Way arches!  The next morning a helicopter picked the astrophotographer back up, and after 40 hours of processing and combining that night's images, the featured triple-arch 360-degree panorama resulted.    Jigsaw Vistas: Astronomy Puzzle of the Day
-
-
----
-
-## Words of the Day
+_Updated: 2026-04-22 12:06:02 UTC_
 
 ### Dictionary.com
 
-**braird** _noun_ • /[braird]/
+**precocious** _adjective_ • /[pri-koh-shuhs]/
 
-the first sprouts or shoots of grass, corn, or other crops
+unusually advanced or mature in development
 
-Braird refers to the first tender shoots that appear when grass or crops begin to grow. Farmers watch for these early green blades as a sign that seeds have taken root. When a field shows its first braird, the growing season is officially underway.
+Precocious describes someone who shows surprising maturity earlier than expected. You're especially likely to see this word used for children who display remarkable talent or insight at a young age. Be warned that a precocious kid might ask questions that leave grownups scrambling for answers.
 
-> _The delicate braird of barley began to emerge from the damp soil a few days after the rain._
+> _The precocious child spoke with a level of maturity that surprised all the adults present._
 
 
 ### Britannica
 
-**condemn** _verb_
+**inflation** _noun_
 
-To express strong disapproval of; to censure or denounce as wrong or evil.
+A general and sustained increase in the prices of goods and services in an economy over a period of time, leading to a decrease in the purchasing power of currency.
 
-> _The human rights organization issued a statement to condemn the government's actions against peaceful protestors._
+> _The central bank implemented new policies to combat the persistent inflation affecting consumer goods._
 >
-> _Many critics condemned the new novel for its perceived historical inaccuracies._
+> _During periods of high inflation, the cost of living can rise dramatically, impacting household budgets._
 >
-> _The mayor publicly condemned the vandalism that occurred in the city park._
+> _Economists closely monitor the inflation rate to assess the health and stability of the national economy._
 >
 
-_Similar: denounce, censure, criticize_  •  _Opposite: praise, approve, commend_
+_Similar: rising prices, price increases, cost escalation_  •  _Opposite: deflation, price stability, disinflation_
 
-> _"I have been condemned to death for having loved you."_
+> _"Inflation is always and everywhere a monetary phenomenon."_
 >
-> — **Victor Hugo**, Les Misérables (1862)
+> — **Milton Friedman**, Inflation: Causes and Consequences (1963)
 
 
 ### Merriam-Webster
 
-**orthography** _noun_ • /or-THAH-gruh-fee/
+**tantamount** _adjective_ • /TAN-tuh-mount/
 
-Orthography refers to the way in which the words of a language are spelled, or to the art of writing words with the proper letters according to standard usage.
+Something may be described as tantamount to something else if it is equal in value, meaning, or effect.
 
-> _As the winner of several spelling bees, she impressed her teachers with her exceptional grasp of orthography._
+> _The pop star’s fans see any criticism of her music as tantamount to a crime._
 >
 
-> “Ormin, a medieval monk, sought to bring order to English orthography by addinng morre letterrs to worrds. August Thibaudin, a London professor, tried 9dding n3mbers. Our ideas for simplifying spelling have ranged from the rashonal to the redikulus to the döunnryt ubsërrd, and with each whimsical solution we seem to get further away from cognitive stability.” — Gabe Henry, Enough is Enuf: Our Failed Attempts to Make English Eezier to Spell, 2025
+> “... conducting requires more than merely gesturing with a baton—some pieces of music are tantamount to 80 minutes of hard cardio ...” — Mark Shanahan, The Boston Globe, 15 Mar. 2026
 
-_The concept of orthography (a term that comes from the Greek words orthos, meaning “right or true,” and graphein, meaning “to write”) was not something that really concerned English speakers until the introduction of the printing press in England during the 15th century. From that point on, English spelling became progressively more uniform. Our orthography has been relatively stable since the 1755 publication of Samuel Johnson’s A Dictionary of the English Language, with the notable exception of certain spelling reforms, such as the change of musick to music. Incidentally, many of these reforms were championed by Merriam-Webster’s own Noah Webster._
+_Although tantamount (from the Anglo-French phrase tant amunter, meaning “to amount to as much”) was used three different ways in the early 17th century—as a noun, verb, and adjective—the adjective form has since proven paramount to English users: it’s still in use while the noun and verb are obsolete. This is not to say that the adjective hasn’t experienced change over the years. While it was once acceptable to use tantamount in a variety of different sentence structures, nowadays it is almost always followed by the word to. And to use it before a noun, as in “the two old friends exchanged tantamount greetings,” would now be considered, er, tantamount to riding a penny-farthing or boneshaker onto the expressway._
 
