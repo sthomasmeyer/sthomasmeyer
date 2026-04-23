@@ -1,48 +1,55 @@
-# Words of the Day
+# Days of April 23rd Past: William Shakespeare (1564)
 
-_Updated: 2026-04-22 12:06:02 UTC_
+_Updated: 2026-04-23 12:06:14 UTC_
+
+
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**precocious** _adjective_ • /[pri-koh-shuhs]/
+**appetence** _noun_ • /[ap-i-tuhns]/
 
-unusually advanced or mature in development
+intense desire; strong natural craving
 
-Precocious describes someone who shows surprising maturity earlier than expected. You're especially likely to see this word used for children who display remarkable talent or insight at a young age. Be warned that a precocious kid might ask questions that leave grownups scrambling for answers.
+Appetence refers to a powerful inner urge or longing. The word suggests a deep pull toward something that feels essential or even irresistible. Just make sure you are in control of your appetences and not the other way around.
 
-> _The precocious child spoke with a level of maturity that surprised all the adults present._
+> _His appetence for adventure led him to explore the most remote corners of the globe._
 
 
 ### Britannica
 
-**inflation** _noun_
+**geyser** _noun_ • /ˈɡaɪzər/
 
-A general and sustained increase in the prices of goods and services in an economy over a period of time, leading to a decrease in the purchasing power of currency.
+A natural hot spring that intermittently ejects a column of water and steam into the air.
 
-> _The central bank implemented new policies to combat the persistent inflation affecting consumer goods._
+> _The tourists watched in awe as the geyser erupted, sending a towering plume of water skyward._
 >
-> _During periods of high inflation, the cost of living can rise dramatically, impacting household budgets._
+> _Yellowstone National Park is famous worldwide for its numerous active geysers._
 >
-> _Economists closely monitor the inflation rate to assess the health and stability of the national economy._
+> _The ground trembled slightly before the geyser's powerful spray burst forth from the earth._
 >
 
-_Similar: rising prices, price increases, cost escalation_  •  _Opposite: deflation, price stability, disinflation_
+_Similar: hot spring, fumarole_
 
-> _"Inflation is always and everywhere a monetary phenomenon."_
+> _"The geysers of the Yellowstone are without a doubt the grandest on the continent, and probably in the world. The geyser, after a few preliminary gurgles, began to throw up a column of water and steam to a height of 100 feet or more."_
 >
-> — **Milton Friedman**, Inflation: Causes and Consequences (1963)
+> — **Ferdinand Vandeveer Hayden**, Preliminary Report of the United States Geological Survey of Montana and Portions of Adjacent Territories (1872)
 
 
 ### Merriam-Webster
 
-**tantamount** _adjective_ • /TAN-tuh-mount/
+**fortitude** _noun_ • /FOR-tuh-tood/
 
-Something may be described as tantamount to something else if it is equal in value, meaning, or effect.
+Fortitude is a formal word that refers to the strength of mind that enables someone to encounter danger or to bear pain or adversity with courage. Less formal words with similar meanings include grit, fiber, and pluck.
 
-> _The pop star’s fans see any criticism of her music as tantamount to a crime._
+> _To reach the summit of the mountain requires not only great physical strength and training but the fortitude to persevere no matter the challenge._
 >
 
-> “... conducting requires more than merely gesturing with a baton—some pieces of music are tantamount to 80 minutes of hard cardio ...” — Mark Shanahan, The Boston Globe, 15 Mar. 2026
+> “Managing is never a one-size-fits-all process. Personality, fortitude, and experience all matter, as does context.” — Gary Deer, The Daily Gazette (Xenia, Ohio), 28 Mar. 2026
 
-_Although tantamount (from the Anglo-French phrase tant amunter, meaning “to amount to as much”) was used three different ways in the early 17th century—as a noun, verb, and adjective—the adjective form has since proven paramount to English users: it’s still in use while the noun and verb are obsolete. This is not to say that the adjective hasn’t experienced change over the years. While it was once acceptable to use tantamount in a variety of different sentence structures, nowadays it is almost always followed by the word to. And to use it before a noun, as in “the two old friends exchanged tantamount greetings,” would now be considered, er, tantamount to riding a penny-farthing or boneshaker onto the expressway._
+_Fortitude comes from the Latin word fortis, meaning “strong,” and in English it has always been used primarily to describe strength of mind. For a time, the word was also used to mean “physical strength”; William Shakespeare used it that way in Henry VI, Part 1: “Coward of France! How much he wrongs his fame / Despairing of his own arm’s fortitude.” But despite use by the famous bard, that meaning languished and is now considered obsolete. Even the familiar phrase “intestinal fortitude” is just a humorous way to refer to someone’s courage or mental stamina, not the literal strength of their digestive system. (If you’re looking to describe a mighty gastrointestinal tract, we might suggest “iron stomach.”)_
 
