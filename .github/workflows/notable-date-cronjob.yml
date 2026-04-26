@@ -106,8 +106,13 @@ jobs:
         # This is where we bring the universe to the README.
         # We only include the universe when it's a visual feast (images).
         # Videos are omitted to maintain a clean, intentional README focus.
+        env:
+          NASA_TITLE: ${{ steps.nasa-fetch.outputs.nasa_title }}
+          NASA_URL: ${{ steps.nasa-fetch.outputs.nasa_url }}
+          NASA_EXPLANATION: ${{ steps.nasa-fetch.outputs.nasa_explanation }}
+          NASA_MEDIA_TYPE: ${{ steps.nasa-fetch.outputs.nasa_media_type }}
         run: |
-          if [[ "${{ steps.nasa-fetch.outputs.nasa_media_type }}" == "image" ]]; then
+          if [[ "$NASA_MEDIA_TYPE" == "image" ]]; then
             IS_NOTABLE="${{ steps.date-check.outputs.is_notable_date }}"
 
             if [[ "$IS_NOTABLE" == "true" ]]; then
@@ -124,14 +129,14 @@ jobs:
             fi
 
             echo "" >> README.md
-            echo "### ${{ steps.nasa-fetch.outputs.nasa_title }}" >> README.md
+            echo "### $NASA_TITLE" >> README.md
             echo "" >> README.md
 
             # Design is not just what it looks like, but how it works. 
-            echo "![${{ steps.nasa-fetch.outputs.nasa_title }}](${{ steps.nasa-fetch.outputs.nasa_url }})" >> README.md
+            echo "![$NASA_TITLE]($NASA_URL)" >> README.md
 
             echo "" >> README.md
-            echo "${{ steps.nasa-fetch.outputs.nasa_explanation }}" >> README.md
+            echo "$NASA_EXPLANATION" >> README.md
             echo "" >> README.md
           fi
 
