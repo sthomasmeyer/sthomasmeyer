@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of April 26th Past: Marcus Aurelius (121 AD)
 
-_Updated: 2026-04-25 11:49:12 UTC_
+_Updated: 2026-04-26 11:50:51 UTC_
 
-### The Persistence of Sunlight
 
-![The Persistence of Sunlight](https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg)
 
-This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shifting and fluid appearance as it nears the horizon is caused as refraction along the line of sight changes and creates distorted images or mirages of the reddened solar disk. The changes in atmospheric refraction correspond to atmospheric layers with sharply different temperatures and densities. Another famous but fleeting effect of atmospheric refraction produced by a long sight-line to the setting (or rising) Sun is often called the green flash.
+
+---
+
+## NASA Astronomy Picture of the Day
+
+### Mystic Mountain Monster being Destroyed
+
+![Mystic Mountain Monster being Destroyed](https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg)
+
+Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bursting out partly by ejecting opposing beams of energetic particles called Herbig-Haro jets.  Located about 7,500 light years away in the Carina Nebula and known informally as Mystic Mountain, the appearance of these pillars is dominated by dark dust even though they are composed mostly of clear hydrogen gas.  The featured image was taken with the Hubble Space Telescope. All over these pillars, the energetic light and winds from massive newly formed stars are evaporating and dispersing the dusty stellar nurseries in which they formed.  Within a few million years, the head of this giant, as well as most of its body, will have been completely evaporated by internal and surrounding stars.
 
 
 ---
@@ -15,45 +22,47 @@ This seaside sunset offered a surreal experience, captured in a sea and skyscape
 
 ### Dictionary.com
 
-**operose** _adjective_ • /[op-uh-rohs]/
+**klatsch** _noun_ • /[klahch]/
 
-done with or involving much labor
+a casual gathering of people
 
-Operose describes something that requires a great deal of work. The word might appear when a project demands a lot of manual labor or unrelenting focus. An operose task may be difficult, but it's usually worth it in the end.
+A klatsch is an informal get-together where people chat, catch up, and maybe even gossip a little. A klatsch usually has a relaxed vibe, like friends swapping stories over coffee. Your phone might be full of group texts, but there's still nothing better than a good klatsch.
 
-> _Planting a dozen new shrubs in her yard by herself was an operose undertaking, but she was pleased with the result._
+> _The new mothers met for a monthly klatsch to share stories and trade tips._
 
 
 ### Britannica
 
-**conflict** _noun_ • /ˈkɒnflɪkt/
+**horizon** _noun_
 
-A struggle for power, property, or a strong disagreement between people or groups, often resulting in angry argument or opposition.
+The apparent line where the earth or sea seems to meet the sky.
 
-> _The ongoing conflict in the region has displaced thousands of families._
+> _As the ship sailed further, the distant island slowly disappeared below the horizon._
 >
-> _She found herself in a deep inner conflict about her career choices._
+> _We watched the sun dip below the western horizon, painting the sky in fiery hues._
 >
-> _The committee tried to resolve the conflict between the two departments._
+> _The vast, flat plains offered an uninterrupted view to the horizon in every direction._
 >
 
-_Similar: struggle, dispute, clash_  •  _Opposite: harmony, agreement, peace_
+_Similar: skyline, vista, view_
 
-> _"The history of all hitherto existing society is the history of class struggles. Freeman and slave, patrician and plebeian, lord and serf, guild-master and journeyman, in a word, oppressor and oppressed, stood in constant opposition to one another, carried on an uninterrupted, now hidden, now open fight, a fight that each time ended, either in a revolutionary reconstitution of society at large, or in the common ruin of the contending classes. The modern bourgeois society that has sprouted from the ruins of feudal society has not done away with class antagonisms. It has but established new classes, new conditions of oppression, new forms of struggle in place of the old ones. Our epoch, the epoch of the bourgeoisie, possesses, however, this distinct feature: it has simplified class antagonisms. Society as a whole is more and more splitting up into two great hostile camps, into two great classes directly facing each other—Bourgeoisie and Proletariat."_
+> _"The Nautilus, after having passed the Straits of Torres, was now in the Pacific. The horizon was clear, and the sea calm."_
 >
-> — **Karl Marx and Friedrich Engels**, The Communist Manifesto (1848)
+> — **Jules Verne**, Twenty Thousand Leagues Under the Seas (1870)
 
 
 ### Merriam-Webster
 
-**juxtapose** _verb_ • /JUK-stuh-pohz/
+**onerous** _adjective_ • /AH-nuh-rus/
 
-To juxtapose things is to place them together in order to create an interesting effect or to show how they are the same or different.
+Onerous means "involving, imposing, or constituting a burden." It typically describes something that is difficult and unpleasant to do or deal with.
 
-> _The local museum’s new exhibit juxtaposes modern art with classical art._
+> _They were assigned the onerous task of post-show cleanup._
+>
+> _The government imposed onerous taxes on imports._
 >
 
-> “... on ‘Murder Most Foul’ [Bob] Dylan thwarts readymade nostalgia, an easy revisiting of the storybook sixties and his golden ‘spokesman’ moment. Instead, mixing and juxtaposing voices, lingos, and tones, he traces the decline of America over the trajectory of his own lifetime ...” — Robert Polito, After the Flood: Inside Bob Dylan’s Memory Palace, 2026
+> "Morton professed joy at relinquishing politics and announced his intention to retire to his country estate, where he would henceforth be occupied with nothing more onerous than straightening out the pathways in his beautiful gardens." — Gareth Russell, The Six Loves of James I, 2025
 
-_Although it doesn’t feature the word juxtapose, a classic segment from a 1969 episode of Sesame Street perfectly illustrates the essence of the verb. In it, the character Bob (as played by actor Bob McGrath) sings the catchy song “One of These Things (Is Not Like the Others)” in front of a display that juxtaposes—that is, places near one another for comparison—four items: an apple, an ice cream cone, a hamburger, and a mitten. The song asks its audience to consider their similarities and differences before deciding which is the most different (spoiler alert: it’s the mitten). The word juxtapose is likely a back-formation of the noun juxtaposition, which appropriately enough combines the Latin adjective juxta meaning “near” with the English word position. The use of juxtapose isn’t limited to tangible objects, however—images, ideas, concepts, and more are frequently juxtaposed._
+_The story behind onerous is at once straightforward and, dare we say, poetic. But perhaps that's putting the cart before the horse. Onerous rolled into the English language during the 14th century, via Middle French, from the Latin adjective onerosus, "burdensome." That word, in turn, was hitched to the noun onus, meaning "burden" (source too of our word onus, which usually refers to a burden or responsibility). Onus shares an ancient root with the Sanskrit word anas, meaning "cart." So although onerous stresses a sense of laboriousness and often figurative heaviness (especially because something is distasteful, e.g. "the onerous task of cleaning up the mess"), it has a deep connection with a literal weight borne by a person, horse, or other beast of burden._
 
