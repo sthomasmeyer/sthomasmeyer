@@ -1,19 +1,12 @@
-# Days of April 26th Past: Marcus Aurelius (121 AD)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-04-26 11:50:51 UTC_
+_Updated: 2026-04-27 12:22:18 UTC_
 
+### Comet R3 PanSTARRS Behind Satellite Trails
 
+![Comet R3 PanSTARRS Behind Satellite Trails](https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_960.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### Mystic Mountain Monster being Destroyed
-
-![Mystic Mountain Monster being Destroyed](https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg)
-
-Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bursting out partly by ejecting opposing beams of energetic particles called Herbig-Haro jets.  Located about 7,500 light years away in the Carina Nebula and known informally as Mystic Mountain, the appearance of these pillars is dominated by dark dust even though they are composed mostly of clear hydrogen gas.  The featured image was taken with the Hubble Space Telescope. All over these pillars, the energetic light and winds from massive newly formed stars are evaporating and dispersing the dusty stellar nurseries in which they formed.  Within a few million years, the head of this giant, as well as most of its body, will have been completely evaporated by internal and surrounding stars.
+Can you find the comet? Somewhere through this web of satellite trails is Comet C/2025 R3 (PanSTARRS), a bright visitor passing through the inner Solar System. Now, the orbiting satellites themselves only appear as streaks because of the long camera exposure, over 10 minutes in this case. On the contrary, to the eye, satellites appear as points that drift slowly across the night sky and shine by reflecting sunlight -- primarily just after sunset and before sunrise.  The featured image was taken just before sunrise two weeks ago from Bavaria, Germany.  Presently, Comet R3 PanSTARRS is hard to see for even another reason -- because it is so (angularly) close to the Sun. As the comet rounds the Sun, it will be best seen in coming weeks from southern hemispheree skies, although then it will be heading out to interstellar space and fading. If you haven't yet found the comet, don't despair; please take a closer look just above the image center.
 
 
 ---
@@ -22,47 +15,45 @@ Inside the head of this interstellar monster is a star that is slowly destroying
 
 ### Dictionary.com
 
-**klatsch** _noun_ • /[klahch]/
+**birr** _verb_ • /[bur]/
 
-a casual gathering of people
+to move with or make a whirring sound
 
-A klatsch is an informal get-together where people chat, catch up, and maybe even gossip a little. A klatsch usually has a relaxed vibe, like friends swapping stories over coffee. Your phone might be full of group texts, but there's still nothing better than a good klatsch.
+To birr is to make a whirring sound, especially if it's created through some kind of rapid motion. Thanks to English's quirky spelling, it's pronounced the same as "burr" or even "brr!" Something birring might even produce a bit of vibration.
 
-> _The new mothers met for a monthly klatsch to share stories and trade tips._
+> _The remote-control helicopter began to birr as its spinning blades lifted it into the air._
 
 
 ### Britannica
 
-**horizon** _noun_
+**symmetry** _noun_
 
-The apparent line where the earth or sea seems to meet the sky.
+The quality of having parts that correspond in size, shape, and arrangement on opposite sides of a dividing line or plane, or around a central point; a sense of harmonious and beautiful proportion and balance.
 
-> _As the ship sailed further, the distant island slowly disappeared below the horizon._
+> _The architect designed the building with perfect symmetry, reflecting its classical influences._
 >
-> _We watched the sun dip below the western horizon, painting the sky in fiery hues._
+> _The intricate snowflake displayed a remarkable six-fold symmetry, a marvel of natural design._
 >
-> _The vast, flat plains offered an uninterrupted view to the horizon in every direction._
+> _In mathematics, understanding the symmetry of a function can simplify complex problems._
 >
 
-_Similar: skyline, vista, view_
+_Similar: balance, proportion, harmony_  •  _Opposite: asymmetry, imbalance, disproportion_
 
-> _"The Nautilus, after having passed the Straits of Torres, was now in the Pacific. The horizon was clear, and the sea calm."_
+> _"Symmetry is a proper agreement between the members of the work itself, and relation between the different parts and the whole general scheme, in accordance with a certain part selected as standard."_
 >
-> — **Jules Verne**, Twenty Thousand Leagues Under the Seas (1870)
+> — **Vitruvius**, De architectura (Ten Books on Architecture) (c. 15 BC)
 
 
 ### Merriam-Webster
 
-**onerous** _adjective_ • /AH-nuh-rus/
+**boondoggle** _noun_ • /BOON-dah-gul/
 
-Onerous means "involving, imposing, or constituting a burden." It typically describes something that is difficult and unpleasant to do or deal with.
+A boondoggle is an expensive and wasteful project usually paid for with public money. Boondoggle is also a word for a braided cord worn by Boy Scouts as a neckerchief slide, hatband, or ornament.
 
-> _They were assigned the onerous task of post-show cleanup._
->
-> _The government imposed onerous taxes on imports._
+> _Critics say the dam is a complete boondoggle—over budget, behind schedule, and unnecessary._
 >
 
-> "Morton professed joy at relinquishing politics and announced his intention to retire to his country estate, where he would henceforth be occupied with nothing more onerous than straightening out the pathways in his beautiful gardens." — Gareth Russell, The Six Loves of James I, 2025
+> "A controversial proposal to construct a new bridge from Bridgeport to Long Island is either a bold, visionary step into the future or an unaffordable boondoggle that could cost more than $50 billion." — Christopher Keating, The Hartford (Connecticut) Courant, 8 Mar. 2026
 
-_The story behind onerous is at once straightforward and, dare we say, poetic. But perhaps that's putting the cart before the horse. Onerous rolled into the English language during the 14th century, via Middle French, from the Latin adjective onerosus, "burdensome." That word, in turn, was hitched to the noun onus, meaning "burden" (source too of our word onus, which usually refers to a burden or responsibility). Onus shares an ancient root with the Sanskrit word anas, meaning "cart." So although onerous stresses a sense of laboriousness and often figurative heaviness (especially because something is distasteful, e.g. "the onerous task of cleaning up the mess"), it has a deep connection with a literal weight borne by a person, horse, or other beast of burden._
+_When boondoggle popped up in the early 1900s, lots of people tried to explain where the word came from. One theory traced it to an Ozarkian word for "gadget," while another related it to the Tagalog word that gave us boondocks. Another hypothesis suggested that boondoggle came from the name of leather toys Daniel Boone supposedly made for his dog. But the only theory that is supported by evidence is much simpler. In the 1920s, Robert Link, a scoutmaster for the Boy Scouts of America, apparently coined the word to name the braided leather cords made and worn by scouts. The word came to prominence when such a boondoggle was presented to the Prince of Wales at the 1929 World Jamboree, and it's been with us ever since. Over time, it developed the additional sense describing a wasteful or impractical project._
 
