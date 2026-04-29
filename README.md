@@ -1,19 +1,19 @@
-# Days of April 28th Past: Kurt Gödel (1906)
+# Days of April 29th Past: Paul Baran (1926) and CERN (1954)
 
-_Updated: 2026-04-28 12:55:48 UTC_
+_Updated: 2026-04-29 12:21:11 UTC_
 
-
+Paul Baran, computer technologist and entrepreneur was responsible for one of the fundamental concepts that enable today's advanced computer networking systems: digital packet-switching.
 
 
 ---
 
 ## NASA Astronomy Picture of the Day
 
-### CG 30: Cometary Globules
+### The Moon, Venus, and the Pleiades
 
-![CG 30: Cometary Globules](https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg)
+![The Moon, Venus, and the Pleiades](https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg)
 
-They're like mountain peaks, but they are forming stars. Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Puppis and Vela. Composed of interstellar gas and  dust, the grouping of light-year sized cometary globules is about 1300 light-years distant. Energetic ultraviolet light from nearby hot stars has molded the globules and ionized their bright rims. The globules also stream away from the Vela supernova remnant which may have influenced their swept-back shapes. Within them, cores of cold gas and dust are likely collapsing to form low mass stars whose formation will ultimately cause the globules to disperse. In fact, cometary globule CG 30 (upper right in the group) sports a small reddish glow inside its head, a telltale sign of energetic jets from a star in the early stages of formation.
+No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit" each other once per month due to the Pleiades' location in the ecliptic plane. April 2026 saw the celestial alignment of their visit with Venus.  About six stars in the Pleiades cluster (Messier 45) are typically visible with the unaided eye. Due to the cluster’s visibility across the world, there are many myths and legends across cultures associated with the Pleiades. The Haudenosaunee people of North America, for example, say that seven boys danced so enthusiastically that they lifted off into the sky. Astronomers recently found thousands more Pleiades members, showing that after thousands of years of gazing upon this cluster, there is yet more to learn about the Pleiades.
 
 
 ---
@@ -22,45 +22,47 @@ They're like mountain peaks, but they are forming stars. Bright-rimmed, flowing 
 
 ### Dictionary.com
 
-**armadillo** _noun_ • /[ahr-muh-dil-oh]/
+**temperance** _noun_ • /[tem-per-uhns]/
 
-a burrowing mammal with strong claws and a hard, bony exterior
+moderation or self-control in actions, statements, etc.
 
-An armadillo is an unusual mammal known for its distinctive armored shell and creative self-defense. The name comes from Spanish and means "little armored one," a fitting description for a creature built like a walking shield. When threatened, armadillos curl up tightly into a well-protected ball. Look up a video and watch it for yourself!
+Temperance describes moderation and restraint, especially when emotions or impulses run high. It's one of the four cardinal virtues in classical philosophy, alongside prudence, justice, and courage. Always remember the value of temperance before saying something you might regret later.
 
-> _The armadillo suddenly rolled into a tight ball, leaving only its hard exterior exposed._
+> _The athlete showed great temperance by staying calm and respectful despite the referee's unfair call._
 
 
 ### Britannica
 
-**marathon** _noun_ • //ˈmærəˌθɒn//
+**diversity** _noun_
 
-An event or activity that lasts an extremely long time or requires great effort and endurance.
+The quality or state of having a wide variety of forms, types, or ideas; the inclusion of different types of people (such as people of different races or cultures) in a group or organization.
 
-> _Training for the marathon required months of dedicated running and strict discipline._
+> _The university actively promotes diversity in its student body to enrich the learning environment._
 >
-> _The team pulled an all-night marathon session to finish the project before the deadline._
+> _The natural park is celebrated for its incredible diversity of ecosystems, from wetlands to forests._
 >
-> _The charity organized a 24-hour gaming marathon to raise funds for local shelters._
+> _A diversity of opinions often leads to more robust and well-considered decisions._
 >
 
-_Similar: endurance test, long haul, ordeal_  •  _Opposite: sprint, brief effort, short burst_
+_Similar: variety, multifariousness, heterogeneity_  •  _Opposite: uniformity, homogeneity, sameness_
 
-> _"They were all there, the usual crowd, the ones who came to watch the dance marathon, to see the human wreckage, to feel superior for a few hours."_
+> _"The diversity in the faculties of men, from which the rights of property originate, is not less an insuperable obstacle to a uniformity of interests, than the protection of these faculties is the first object of government."_
 >
-> — **Horace McCoy**, They Shoot Horses, Don't They? (1935)
+> — **James Madison**, The Federalist Papers, No. 10 (November 23, 1787)
 
 
 ### Merriam-Webster
 
-**evanescent** _adjective_ • /ev-uh-NESS-unt/
+**speculate** _verb_ • /SPEK-yuh-layt/
 
-Evanescent is a formal and literary word that describes something that only lasts a very short time.
+In general contexts, speculate means "to form ideas or theories about something usually when there are many things not known about it." In contexts relating to business or finance, it means "to invest money in ways that could produce a large profit but that also involve a lot of risk."
 
-> _Our acting coach always reminded us that fame is evanescent, and that we should pursue a life in the theater purely for the love of the art._
+> _Scientists speculate that the newly discovered exoplanet could host liquid water._
+>
+> _Their research explores the implications of so many people speculating on the stock market in the years leading up to the Great Depression._
 >
 
-> "Franklin once sternly confiscated a customer's espresso and refunded his money because he took too long sipping it and thus allowed the evanescent flavors to dissipate." — Kirkus Reviews, 8 Jan. 2026
+> "Bad Bunny wore an all-cream ensemble consisting of a collared shirt and tie, chinos and a sport-inspired jersey bearing the name "Ocasio"—his surname—and the number 64. The significance of the number was not confirmed, but fans were quick to speculate that it referenced his mother's birth year." — Lara Owen, The Independent (United Kingdom), 9 Feb. 2026
 
-_Evanescent didn't appear in the English language out of thin air; it comes from a form of the Latin verb evanescere, which means "to fade away" or "to disappear." (Evanescere is also the ultimate source of vanish.) Given the similarity in spelling and meaning between the two words, you might expect evaporate to trace back to evanescere  as well, but its source is another steamy Latin root, evaporare. While today evanescent is used to describe things that last only a short time, the word could formerly also describe the incalculably small. That use is now archaic, meaning it has almost blown away on the breeze._
+_It might be said that what separates our species from others is our tendency "to meditate on or ponder a subject." That's the original 16th century meaning of speculate. It's a use not too distant from today's most common sense, which also involves the mind and thinking: when someone speculates about something, they think and make guesses about it, often forming unsubstantiated ideas or theories. But the origins of speculate lie not in thinking but in looking—the word comes from Latin specere, meaning "to look," or "to look at." We don't have to look far to find other specere descendants, and we'll point them out here with some italics: a cursory inspection reveals spectacle, spectrum, specimen, and perspective. Less conspicuous are despise, prospect, and species._
 
