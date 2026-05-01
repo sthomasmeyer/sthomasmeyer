@@ -1,8 +1,12 @@
-# Days of April 30th Past: Claude Shannon (1916)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-04-30 12:20:29 UTC_
+_Updated: 2026-05-01 12:03:52 UTC_
 
-Today we celebrate Claude Shannon (1916-2001), the father of information theory.
+### Markarian's Chain
+
+![Markarian's Chain](https://apod.nasa.gov/apod/image/2605/M84andM86_1024.png)
+
+Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markarian's Chain stretches across this telescopic field of view. Anchored in the frame at bottom right by prominent lenticular galaxies, M84 (bottom) and M86, you can follow the chain's gentle arc up and toward the left. Near center you'll spot the pair of interacting galaxies NGC 4438 and NGC 4435, known to some as Markarian's Eyes. An estimated 50 million light-years distant, the Virgo Cluster itself is the nearest galaxy cluster. With up to about 2,000 member galaxies, it has a noticeable gravitational influence on our own Local Group of Galaxies. Within the Virgo Cluster at least seven galaxies in Markarian's Chain  appear to move coherently, while others may appear to be part of the chain by chance.
 
 
 ---
@@ -11,45 +15,45 @@ Today we celebrate Claude Shannon (1916-2001), the father of information theory.
 
 ### Dictionary.com
 
-**lampoon** _verb_ • /[lam-poon]/
+**idoneous** _adjective_ • /[ahy-doh-nee-uhs]/
 
-to mock or ridicule with satire
+appropriate, fit, or suitable
 
-To lampoon is to mock or ridicule using satirical humor. Think of a late-night monologue where exaggeration and humor sharpen a critique. A simple parody can be mostly innocent, but lampooning usually stings a bit.
+When something is idoneous, it's especially well-suited to the task at hand. The word comes from a Latin term meaning "fit" or "suitable," and it can apply to everything from a qualified job candidate to an ideal solution. If it's idoneous, it feels exactly right.
 
-> _The columnist lampooned the mayor's never-ending excuses for the city's traffic problems._
+> _The committee found her to be an idoneous candidate for the position of head librarian._
 
 
 ### Britannica
 
-**decompress** _verb_
+**magenta** _noun_
 
-To relax and unwind, especially after a period of stress or intense activity.
+A vivid purplish-red color, named after a synthetic aniline dye first produced in 1859.
 
-> _After a long week of meetings, she just wanted to decompress with a good book._
+> _The fashion designer used a striking magenta fabric for the evening gown._
 >
-> _Taking a walk in nature helps him decompress and clear his mind._
+> _The artist blended crimson and violet to achieve the perfect magenta for the abstract painting._
 >
-> _The team went out for dinner to decompress after successfully launching the new project._
+> _Her garden was a riot of color, with roses in shades of pink, fuchsia, and deep magenta._
 >
 
-_Similar: unwind, relax, destress_  •  _Opposite: stress, tense, agitate_
+_Similar: fuchsia, purplish-red_  •  _Opposite: dull_
 
-> _"They would decompress, as the saying went, after a long flight, by going to the Officers' Club and drinking."_
+> _"The motor car with its blinds drawn and an elderly lady and a gentleman in it, advanced at six miles an hour, and when it came to the corner of Church Street, it stopped, and a small crowd of people gathered to look at it, and a small boy in a magenta shirt ran out and threw a stone at it."_
 >
-> — **Tom Wolfe**, The Right Stuff (1979)
+> — **Virginia Woolf**, Mrs Dalloway (1925)
 
 
 ### Merriam-Webster
 
-**interlocutor** _noun_ • /in-ter-LAH-kyuh-ter/
+**Beltane** _noun_ • /BEL-tayn/
 
-Interlocutor is a formal word that means “one who takes part in dialogue or conversation.”
+Beltane refers to the Celtic May Day festival.
 
-> _It is crucial in our age of email scams to verify the validity of one’s online interlocutors before sharing sensitive information._
+> _Beltane falls each year approximately halfway between the spring equinox and the summer solstice._
 >
 
-> “I remember sitting alone on the train platform, and then on the train, with no interlocutor but the poem. I read it once. I read it again. And in the blank spaces between the verses, I started to translate.” — Hannah Kauders, LitHub.com, 3 Dec. 2025
+> “On May 1, we celebrate what began as the ancient Celtic holiday of Beltane. ... It started at sundown April 30, when, according to Celtic lore, the evil spirits that had wreaked havoc on humans since Halloween had a last fling before the dawning of May 1 cast them into their annual six-month exile. The night of April 30 is still celebrated, especially abroad, with bonfires and revelry.” — Deane Morrison, The Owatonna (Minnesota) People’s Press, 26 Mar. 2026
 
-_It may not necessarily be grandiloquence to use the word interlocutor in casual speech, but if your interlocutors—that is, the people with whom you are speaking—are using it, your conversation is likely a formal one. Interlocutor is one of many English words that comes from the Latin verb loqui, “to speak,” including loquacious (“talkative”), eloquent (“capable of fluent or vivid speech”), and grandiloquence  (“extravagant or pompous speech”). In interlocutor, loqui was joined to inter- forming a Latin word meaning “to speak between” or “to issue an interlocutory decree.” An interlocutory decree is a judicial decision that isn’t final, or that deals with a point other than the principal subject matter of the dispute._
+_To the ancient Celts, May Day marked the start of summer, and a critical time when the boundaries between the human and supernatural worlds were removed, requiring that people take special measures to protect themselves against enchantments. The Beltane fire festival originated in a summer ritual in which cattle were herded between two huge bonfires to protect them from evil and disease. The word Beltane has been used in English since the 15th century, but the earliest known instance of the word in print—as well as the description of that summer ritual—appears in an Irish glossary commonly attributed to Cormac, a king and bishop who lived in the south of Ireland near the end of the first millennium._
 
