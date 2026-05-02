@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-01 12:03:52 UTC_
+_Updated: 2026-05-02 11:54:50 UTC_
 
-### Markarian's Chain
+### Seeing Titan
 
-![Markarian's Chain](https://apod.nasa.gov/apod/image/2605/M84andM86_1024.png)
+![Seeing Titan](https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg)
 
-Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markarian's Chain stretches across this telescopic field of view. Anchored in the frame at bottom right by prominent lenticular galaxies, M84 (bottom) and M86, you can follow the chain's gentle arc up and toward the left. Near center you'll spot the pair of interacting galaxies NGC 4438 and NGC 4435, known to some as Markarian's Eyes. An estimated 50 million light-years distant, the Virgo Cluster itself is the nearest galaxy cluster. With up to about 2,000 member galaxies, it has a noticeable gravitational influence on our own Local Group of Galaxies. Within the Virgo Cluster at least seven galaxies in Markarian's Chain  appear to move coherently, while others may appear to be part of the chain by chance.
+Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying eyes. Still, Titan's surface is better imaged at infrared wavelengths, where scattering is weaker and atmospheric absorption is reduced. Arrayed around this visible light image (center) of Titan are some of the clearest global infrared views of the tantalizing moon so far. In false color, the six panels present a consistent processing of 13 years of infrared image data from the Visual and Infrared Mapping Spectrometer (VIMS) on board the Cassini spacecraft orbiting Saturn from 2004 to 2017. They offer a stunning comparison with Cassini's visible light view. NASA's revolutionary rotorcraft mission to Titan's surface is due to launch no earlier than July, 2028.
 
 
 ---
@@ -15,45 +15,45 @@ Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markar
 
 ### Dictionary.com
 
-**idoneous** _adjective_ • /[ahy-doh-nee-uhs]/
+**odoriferous** _adjective_ • /[oh-duh-rif-er-uhs]/
 
-appropriate, fit, or suitable
+yielding or diffusing an odor
 
-When something is idoneous, it's especially well-suited to the task at hand. The word comes from a Latin term meaning "fit" or "suitable," and it can apply to everything from a qualified job candidate to an ideal solution. If it's idoneous, it feels exactly right.
+If it's odoriferous, it gives off a noticeable smell — and usually not a pleasant one. Maybe it's an overflowing garbage can or a crowded subway car. Whatever the case, you can't spell odoriferous without odor.
 
-> _The committee found her to be an idoneous candidate for the position of head librarian._
+> _An odoriferous trace of bleach hung in the air after they cleaned the bathroom._
 
 
 ### Britannica
 
-**magenta** _noun_
+**sparkling** _adjective_ • /ˈspɑːrk.lɪŋ/
 
-A vivid purplish-red color, named after a synthetic aniline dye first produced in 1859.
+Shining brightly with numerous small flashes of light, or characterized by liveliness, brilliance, or excellence.
 
-> _The fashion designer used a striking magenta fabric for the evening gown._
+> _The fresh snow on the mountain peaks was sparkling under the winter sun._
 >
-> _The artist blended crimson and violet to achieve the perfect magenta for the abstract painting._
+> _Her sparkling wit and engaging conversation made her a delightful dinner guest._
 >
-> _Her garden was a riot of color, with roses in shades of pink, fuchsia, and deep magenta._
+> _The team delivered a truly sparkling performance, securing an unexpected victory._
 >
 
-_Similar: fuchsia, purplish-red_  •  _Opposite: dull_
+_Similar: gleaming, radiant, effervescent_  •  _Opposite: dull, flat, dim_
 
-> _"The motor car with its blinds drawn and an elderly lady and a gentleman in it, advanced at six miles an hour, and when it came to the corner of Church Street, it stopped, and a small crowd of people gathered to look at it, and a small boy in a magenta shirt ran out and threw a stone at it."_
+> _"She had a lively, playful disposition, which delighted in anything ridiculous. The idea of Mr. Collins, with all his solemnity and self-importance, being in love with Elizabeth, was a notion that had often made her laugh. And now, to see him actually proposing, with such a mixture of absurdity and earnestness, was a scene that, to her sparkling eyes, was irresistibly comic."_
 >
-> — **Virginia Woolf**, Mrs Dalloway (1925)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
 
 ### Merriam-Webster
 
-**Beltane** _noun_ • /BEL-tayn/
+**exasperate** _verb_ • /ig-ZASS-puh-rayt/
 
-Beltane refers to the Celtic May Day festival.
+To exasperate someone is to cause them irritation or annoyance, or to make them angry.
 
-> _Beltane falls each year approximately halfway between the spring equinox and the summer solstice._
+> _We were all exasperated by the delays._
 >
 
-> “On May 1, we celebrate what began as the ancient Celtic holiday of Beltane. ... It started at sundown April 30, when, according to Celtic lore, the evil spirits that had wreaked havoc on humans since Halloween had a last fling before the dawning of May 1 cast them into their annual six-month exile. The night of April 30 is still celebrated, especially abroad, with bonfires and revelry.” — Deane Morrison, The Owatonna (Minnesota) People’s Press, 26 Mar. 2026
+> "My tendency to throw remote historical observations into a conversation exasperates my wife and often results in chuckles and eye rolls from friends." — Angus Scott, The Niagara Falls (Ontario) Review, 28 Mar. 2026
 
-_To the ancient Celts, May Day marked the start of summer, and a critical time when the boundaries between the human and supernatural worlds were removed, requiring that people take special measures to protect themselves against enchantments. The Beltane fire festival originated in a summer ritual in which cattle were herded between two huge bonfires to protect them from evil and disease. The word Beltane has been used in English since the 15th century, but the earliest known instance of the word in print—as well as the description of that summer ritual—appears in an Irish glossary commonly attributed to Cormac, a king and bishop who lived in the south of Ireland near the end of the first millennium._
+_Exasperate is frequently confused with exacerbate, and with good reason. Not only do these words resemble one another in spelling and pronunciation, they also at one time held exceedingly similar meanings. Exasperate is today most commonly used as a synonym of annoy, but for several hundred years it also had the meanings "to make more grievous" and "to make harsh or harsher." Exacerbate is now the more common choice when one seeks to indicate that something is becoming increasingly bitter, violent, or unpleasant. It comes in part from the Latin word acer, meaning "sharp," whereas exasperate is from asper, the Latin word for "rough." The latter is also the source of the English asperity, which can refer to the roughness of a surface or the roughness of someone's temper._
 
