@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-02 11:54:50 UTC_
+_Updated: 2026-05-03 11:54:27 UTC_
 
-### Seeing Titan
+### Trifid Pillars and Jets
 
-![Seeing Titan](https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg)
+![Trifid Pillars and Jets](https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg)
 
-Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying eyes. Still, Titan's surface is better imaged at infrared wavelengths, where scattering is weaker and atmospheric absorption is reduced. Arrayed around this visible light image (center) of Titan are some of the clearest global infrared views of the tantalizing moon so far. In false color, the six panels present a consistent processing of 13 years of infrared image data from the Visual and Infrared Mapping Spectrometer (VIMS) on board the Cassini spacecraft orbiting Saturn from 2004 to 2017. They offer a stunning comparison with Cassini's visible light view. NASA's revolutionary rotorcraft mission to Titan's surface is due to launch no earlier than July, 2028.
+Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebula (M20), punctuated by a smaller pillar pointing up and an unusual jet pointing to the upper left.  Many of the bright dots are newly formed stars. A star near the small pillar's end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the top of the image.  The jet extends nearly a light-year and would not be visible without external illumination.  As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.   Explore the Universe: Random APOD Generator
 
 
 ---
@@ -15,45 +15,45 @@ Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is 
 
 ### Dictionary.com
 
-**odoriferous** _adjective_ • /[oh-duh-rif-er-uhs]/
+**sciolism** _noun_ • /[sahy-uh-liz-uhm]/
 
-yielding or diffusing an odor
+superficial knowledge
 
-If it's odoriferous, it gives off a noticeable smell — and usually not a pleasant one. Maybe it's an overflowing garbage can or a crowded subway car. Whatever the case, you can't spell odoriferous without odor.
+Sciolism is what happens when someone knows just enough to sound informed, but not enough to go deep. It's the intellectual equivalent of reading the plot synopsis and then jumping into a lively book discussion like you read the whole thing. If someone speaks with confidence but the knowledge behind it is thin, that's sciolism in action.
 
-> _An odoriferous trace of bleach hung in the air after they cleaned the bathroom._
+> _The critic's sciolism was revealed when he confused the basic facts of the historical event._
 
 
 ### Britannica
 
-**sparkling** _adjective_ • /ˈspɑːrk.lɪŋ/
+**charity** _noun_ • //tʃærɪti//
 
-Shining brightly with numerous small flashes of light, or characterized by liveliness, brilliance, or excellence.
+The act of giving money, food, or other forms of aid to those in need, or an organization established for this purpose.
 
-> _The fresh snow on the mountain peaks was sparkling under the winter sun._
+> _The community organized a large event to raise money for local charities._
 >
-> _Her sparkling wit and engaging conversation made her a delightful dinner guest._
+> _Her lifelong commitment to charity work inspired many to contribute to the cause._
 >
-> _The team delivered a truly sparkling performance, securing an unexpected victory._
+> _He believed that true charity begins with understanding and compassion, not just financial donations._
 >
 
-_Similar: gleaming, radiant, effervescent_  •  _Opposite: dull, flat, dim_
+_Similar: benevolence, philanthropy, almsgiving_  •  _Opposite: selfishness, greed, avarice_
 
-> _"She had a lively, playful disposition, which delighted in anything ridiculous. The idea of Mr. Collins, with all his solemnity and self-importance, being in love with Elizabeth, was a notion that had often made her laugh. And now, to see him actually proposing, with such a mixture of absurdity and earnestness, was a scene that, to her sparkling eyes, was irresistibly comic."_
+> _"And now abideth faith, hope, charity, these three; but the greatest of these is charity."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Paul the Apostle**, The Holy Bible, King James Version (c. 1611)
 
 
 ### Merriam-Webster
 
-**exasperate** _verb_ • /ig-ZASS-puh-rayt/
+**métier** _noun_ • /MET-yay/
 
-To exasperate someone is to cause them irritation or annoyance, or to make them angry.
+Métier, sometimes styled metier, is a formal word that refers to something that a person does very well.
 
-> _We were all exasperated by the delays._
+> _After trying several careers, she found her true métier in computer science._
 >
 
-> "My tendency to throw remote historical observations into a conversation exasperates my wife and often results in chuckles and eye rolls from friends." — Angus Scott, The Niagara Falls (Ontario) Review, 28 Mar. 2026
+> “Turning from his father’s trade of corset-making, [Thomas] Paine tried his hand at business, met and impressed Benjamin Franklin in London, sailed to America, and there found his true metier as a pamphleteer and radical.” — Matthew Redmond, The Conversation, 9 Oct. 2025
 
-_Exasperate is frequently confused with exacerbate, and with good reason. Not only do these words resemble one another in spelling and pronunciation, they also at one time held exceedingly similar meanings. Exasperate is today most commonly used as a synonym of annoy, but for several hundred years it also had the meanings "to make more grievous" and "to make harsh or harsher." Exacerbate is now the more common choice when one seeks to indicate that something is becoming increasingly bitter, violent, or unpleasant. It comes in part from the Latin word acer, meaning "sharp," whereas exasperate is from asper, the Latin word for "rough." The latter is also the source of the English asperity, which can refer to the roughness of a surface or the roughness of someone's temper._
+_Over the centuries, English has borrowed several French words related in some way to work or working, among them oeuvre (“a substantial body of work of a writer, an artist, or a composer”) and travail (“work of a laborious nature, toil”). Métier (pronounced /MET-yay/) is another. It is sometimes translated from its original French as “job” or “career” but in that language it more accurately refers to the trade or profession in which one works (it traces back to the Old French mistier, meaning “duty, craft, profession”). In English we tend toward a narrower meaning for métier, referring either to a job for which one is perfectly suited or a particular field in which one is extremely skilled. This makes it a synonym of another French borrowing, forte._
 
