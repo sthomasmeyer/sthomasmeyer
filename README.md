@@ -1,59 +1,52 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-05-03 11:54:27 UTC_
-
-### Trifid Pillars and Jets
-
-![Trifid Pillars and Jets](https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg)
-
-Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebula (M20), punctuated by a smaller pillar pointing up and an unusual jet pointing to the upper left.  Many of the bright dots are newly formed stars. A star near the small pillar's end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the top of the image.  The jet extends nearly a light-year and would not be visible without external illumination.  As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.   Explore the Universe: Random APOD Generator
-
-
----
-
-## Words of the Day
+_Updated: 2026-05-04 12:23:16 UTC_
 
 ### Dictionary.com
 
-**sciolism** _noun_ • /[sahy-uh-liz-uhm]/
+**querulous** _adjective_ • /[kwer-uh-luhs]/
 
-superficial knowledge
+full of complaints
 
-Sciolism is what happens when someone knows just enough to sound informed, but not enough to go deep. It's the intellectual equivalent of reading the plot synopsis and then jumping into a lively book discussion like you read the whole thing. If someone speaks with confidence but the knowledge behind it is thin, that's sciolism in action.
+Someone who's querulous tends to complain (a lot!) and can turn even small inconveniences into full-blown grievances. It's not a word you hear much these days; most people would simply call a querulous person "grouchy."
 
-> _The critic's sciolism was revealed when he confused the basic facts of the historical event._
+> _The querulous customer spent the afternoon grumbling about the long lines and high prices._
 
 
 ### Britannica
 
-**charity** _noun_ • //tʃærɪti//
+**concrete** _noun_
 
-The act of giving money, food, or other forms of aid to those in need, or an organization established for this purpose.
+A hard, strong building material made by mixing cement, sand, gravel, and water, which then hardens into a stone-like mass.
 
-> _The community organized a large event to raise money for local charities._
+> _The new skyscraper's foundation was poured with tons of reinforced concrete._
 >
-> _Her lifelong commitment to charity work inspired many to contribute to the cause._
+> _Children often draw with chalk on the smooth concrete sidewalks._
 >
-> _He believed that true charity begins with understanding and compassion, not just financial donations._
+> _The brutalist architecture featured large, exposed slabs of concrete._
 >
 
-_Similar: benevolence, philanthropy, almsgiving_  •  _Opposite: selfishness, greed, avarice_
+_Similar: cement, pavement_
 
-> _"And now abideth faith, hope, charity, these three; but the greatest of these is charity."_
+> _"The flat was a single room, with a window looking out on a grimy courtyard where a concrete path ran round a patch of rank grass."_
 >
-> — **Paul the Apostle**, The Holy Bible, King James Version (c. 1611)
+> — **George Orwell**, Nineteen Eighty-Four (1949)
 
 
 ### Merriam-Webster
 
-**métier** _noun_ • /MET-yay/
+**scrupulous** _adjective_ • /SKROO-pyuh-lus/
 
-Métier, sometimes styled metier, is a formal word that refers to something that a person does very well.
+Scrupulous describes someone who is very careful about doing something correctly, or something marked by such carefulness. Scrupulous can also describe someone who is careful about doing what is honest and morally right.
 
-> _After trying several careers, she found her true métier in computer science._
+> _She was always scrupulous about her work._
+>
+> _Being an editor requires scrupulous attention to detail._
+>
+> _Less scrupulous companies find ways to evade the law._
 >
 
-> “Turning from his father’s trade of corset-making, [Thomas] Paine tried his hand at business, met and impressed Benjamin Franklin in London, sailed to America, and there found his true metier as a pamphleteer and radical.” — Matthew Redmond, The Conversation, 9 Oct. 2025
+> “Scrupulous directors make sure that the sound of their movies is grossly efficient, so that the dramatic meaning of a scene is apparent even in the worst theatre or home system in the country …” — David Denby, The New Yorker, 9 Mar. 2026
 
-_Over the centuries, English has borrowed several French words related in some way to work or working, among them oeuvre (“a substantial body of work of a writer, an artist, or a composer”) and travail (“work of a laborious nature, toil”). Métier (pronounced /MET-yay/) is another. It is sometimes translated from its original French as “job” or “career” but in that language it more accurately refers to the trade or profession in which one works (it traces back to the Old French mistier, meaning “duty, craft, profession”). In English we tend toward a narrower meaning for métier, referring either to a job for which one is perfectly suited or a particular field in which one is extremely skilled. This makes it a synonym of another French borrowing, forte._
+_People described as scrupulous might feel discomfort if their work is not executed with a sharp attention to detail. Such discomfort might present itself as a nagging feeling, much as a sharp pebble in a shoe might nag a walker intent on getting somewhere. And we are getting somewhere. The origin of scrupulous is founded in just such a pebble. Scrupulous and its close relative scruple (“a feeling that prevents you from doing something that you think is wrong”) both come from the Latin noun scrupulus, “a small sharp stone,” the diminutive of scrupus, “a sharp stone.” Scrupus has a metaphorical meaning too: “a source of anxiety or uneasiness.” When the adjective scrupulous entered the English language in the 15th century, it described someone careful about preserving their moral integrity, but it now is also commonly used for someone who is careful in how they execute tasks._
 
