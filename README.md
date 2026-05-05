@@ -1,52 +1,66 @@
-# Words of the Day
+# Days of May 5th Past: Gladiator (2000)
 
-_Updated: 2026-05-04 12:23:16 UTC_
+_Updated: 2026-05-05 12:10:00 UTC_
+
+
+
+
+---
+
+## NASA Astronomy Picture of the Day
+
+### Orion over Mount Teide
+
+![Orion over Mount Teide](https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg)
+
+Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For contrast, it also helps to have a volcano on the foreground, in this case the Teide volcano on Tenerife on the Canary Islands of Spain.  But if you want your Teide volcano snow-covered, you also need good timing -- because that only happens, typically, for a few days each year.  Good timing also includes waiting for Orion to appear just behind Teide, which occurred late last year after sunset.  The featured image is the result of a series of images taken consecutively with the same camera from the same location.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**querulous** _adjective_ • /[kwer-uh-luhs]/
+**clowder** _noun_ • /[klou-der]/
 
-full of complaints
+a group or cluster of cats
 
-Someone who's querulous tends to complain (a lot!) and can turn even small inconveniences into full-blown grievances. It's not a word you hear much these days; most people would simply call a querulous person "grouchy."
+A clowder is a delightfully specific term for a group of cats. The word is thought to be related to "clutter," a more general term for a disorderly group. Whether the felines are lounging in the sun or catching mice, clowder captures their collective charm (and mischief).
 
-> _The querulous customer spent the afternoon grumbling about the long lines and high prices._
+> _The clowder of neighborhood cats gathered on the porch every evening to wait for their food._
 
 
 ### Britannica
 
-**concrete** _noun_
+**ceramic** _adjective_ • //səˈræmɪk//
 
-A hard, strong building material made by mixing cement, sand, gravel, and water, which then hardens into a stone-like mass.
+Made from clay or similar inorganic materials, hardened permanently by heat.
 
-> _The new skyscraper's foundation was poured with tons of reinforced concrete._
+> _The artist meticulously painted the ceramic vase._
 >
-> _Children often draw with chalk on the smooth concrete sidewalks._
+> _Ancient civilizations crafted durable ceramic pottery for daily use._
 >
-> _The brutalist architecture featured large, exposed slabs of concrete._
+> _The new engine features ceramic components designed to withstand extreme temperatures._
 >
 
-_Similar: cement, pavement_
+_Similar: earthenware, pottery, clay-based_  •  _Opposite: metallic, plastic, organic_
 
-> _"The flat was a single room, with a window looking out on a grimy courtyard where a concrete path ran round a patch of rank grass."_
+> _"The ship was a sleek, black, highly polished vessel, with a single, large, circular window at the front. It looked as if it had been carved from a single block of highly polished black ceramic."_
 >
-> — **George Orwell**, Nineteen Eighty-Four (1949)
+> — **Douglas Adams**, The Restaurant at the End of the Universe (1980)
 
 
 ### Merriam-Webster
 
-**scrupulous** _adjective_ • /SKROO-pyuh-lus/
+**augur** _verb_ • /AW-gur/
 
-Scrupulous describes someone who is very careful about doing something correctly, or something marked by such carefulness. Scrupulous can also describe someone who is careful about doing what is honest and morally right.
+To augur is to show or suggest, especially from omens, that something might happen in the future. Used most often in formal speech or writing, augur is often followed by an adverb, such as well.
 
-> _She was always scrupulous about her work._
->
-> _Being an editor requires scrupulous attention to detail._
->
-> _Less scrupulous companies find ways to evade the law._
+> _The downturn augurs badly for the success of the business._
 >
 
-> “Scrupulous directors make sure that the sound of their movies is grossly efficient, so that the dramatic meaning of a scene is apparent even in the worst theatre or home system in the country …” — David Denby, The New Yorker, 9 Mar. 2026
+> "Last March, almost exactly two decades after his ghost church appeared at the Whitney, [Banks] Violette put another destroyed structure on display: the canopy of an abandoned gas station split in half. ... This wreckage could only augur doom." — Rachel Wetzler, Artforum, 1 Feb. 2026
 
-_People described as scrupulous might feel discomfort if their work is not executed with a sharp attention to detail. Such discomfort might present itself as a nagging feeling, much as a sharp pebble in a shoe might nag a walker intent on getting somewhere. And we are getting somewhere. The origin of scrupulous is founded in just such a pebble. Scrupulous and its close relative scruple (“a feeling that prevents you from doing something that you think is wrong”) both come from the Latin noun scrupulus, “a small sharp stone,” the diminutive of scrupus, “a sharp stone.” Scrupus has a metaphorical meaning too: “a source of anxiety or uneasiness.” When the adjective scrupulous entered the English language in the 15th century, it described someone careful about preserving their moral integrity, but it now is also commonly used for someone who is careful in how they execute tasks._
+_In ancient Rome, augurs were official diviners whose function it was to divine whether the gods approved of a proposed undertaking, such as a military move. They did so by various means, among them observing the behavior of birds and examining the entrails of sacrificed animals. We doubt the Romans predicted that their verb augurāre, meaning "to foretell by augury," would evolve into an English verb meaning "presage or foretell," but in retrospect, augur's path must have been in the stars._
 
