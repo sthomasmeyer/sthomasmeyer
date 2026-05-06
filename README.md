@@ -1,19 +1,12 @@
-# Days of May 5th Past: Gladiator (2000)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-05 12:10:00 UTC_
+_Updated: 2026-05-06 12:59:12 UTC_
 
+### The Retrograde Dance of Saturn and Neptune
 
+![The Retrograde Dance of Saturn and Neptune](https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### Orion over Mount Teide
-
-![Orion over Mount Teide](https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg)
-
-Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For contrast, it also helps to have a volcano on the foreground, in this case the Teide volcano on Tenerife on the Canary Islands of Spain.  But if you want your Teide volcano snow-covered, you also need good timing -- because that only happens, typically, for a few days each year.  Good timing also includes waiting for Orion to appear just behind Teide, which occurred late last year after sunset.  The featured image is the result of a series of images taken consecutively with the same camera from the same location.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+What does it mean for Saturn and Neptune to be in retrograde? Featured is a composite of images taken over 34 nights from May 2025 to February 2026 tracing Saturn (brighter, foreground) and Neptune (dimmer, background). Over that time, the two planets exhibited retrograde motion, meaning they appeared to move backward in the sky. This apparent backwards motion occurs when Earth overtakes the slower outer planets as they orbit the Sun. Imagine the Solar System is a running track. Earth "runs" faster along the inside of the track compared to the outer planets. As Earth approaches, aligns, and then "laps" the outer planets, they change position from ahead to behind from the Earth's perspective. This perspective shift is what causes the outer planets to change position in the night sky. An animation corresponding to today’s image shows Saturn and Neptune’s months-long dance across the northern night sky. Saturn stepped from the Pisces constellation into Aquarius and back again while Neptune remained in Pisces. This is the closest Saturn and Neptune have been in the sky since their last conjunction in 1989.
 
 
 ---
@@ -22,45 +15,45 @@ Orion is rarely seen like this.  To achieve this majestic vista, you need a came
 
 ### Dictionary.com
 
-**clowder** _noun_ • /[klou-der]/
+**lickety-split** _adverb_ • /[lik-i-tee-split]/
 
-a group or cluster of cats
+at great speed; rapidly
 
-A clowder is a delightfully specific term for a group of cats. The word is thought to be related to "clutter," a more general term for a disorderly group. Whether the felines are lounging in the sun or catching mice, clowder captures their collective charm (and mischief).
+Need it fast? Do it lickety-split. This informal phrase means "at great speed," evoking the idea of a split second. It's the kind of phrase you use when there's no time to dawdle. So hurry up and read this message lickety-split!
 
-> _The clowder of neighborhood cats gathered on the porch every evening to wait for their food._
+> _The kids cleaned their messy playroom lickety-split when their mother said there was no ice cream allowed until they finished._
 
 
 ### Britannica
 
-**ceramic** _adjective_ • //səˈræmɪk//
+**artifact** _noun_
 
-Made from clay or similar inorganic materials, hardened permanently by heat.
+An object made by a human being, typically an item of cultural or historical interest.
 
-> _The artist meticulously painted the ceramic vase._
+> _Archaeologists carefully unearthed ancient artifacts from the burial site._
 >
-> _Ancient civilizations crafted durable ceramic pottery for daily use._
+> _The museum's new exhibit features a collection of Roman artifacts, including pottery and tools._
 >
-> _The new engine features ceramic components designed to withstand extreme temperatures._
+> _Even a simple stone tool can be a significant artifact, revealing much about early human ingenuity._
 >
 
-_Similar: earthenware, pottery, clay-based_  •  _Opposite: metallic, plastic, organic_
+_Similar: relic, vestige, remnant_  •  _Opposite: natural object, phenomenon_
 
-> _"The ship was a sleek, black, highly polished vessel, with a single, large, circular window at the front. It looked as if it had been carved from a single block of highly polished black ceramic."_
+> _"The first artifacts that unequivocally prove the existence of human culture are about 70,000 years old."_
 >
-> — **Douglas Adams**, The Restaurant at the End of the Universe (1980)
+> — **Yuval Noah Harari**, Sapiens: A Brief History of Humankind (2014)
 
 
 ### Merriam-Webster
 
-**augur** _verb_ • /AW-gur/
+**flamboyant** _adjective_ • /flam-BOY-ant/
 
-To augur is to show or suggest, especially from omens, that something might happen in the future. Used most often in formal speech or writing, augur is often followed by an adverb, such as well.
+Someone or something described as flamboyant has a very noticeable quality that attracts a lot of attention. Such a person or thing is often strikingly elaborate or colorful in their behavior or display.
 
-> _The downturn augurs badly for the success of the business._
+> _Reality television attracts millions of viewers for its depictions of flamboyant, larger-than-life personalities living equally flamboyant lifestyles._
 >
 
-> "Last March, almost exactly two decades after his ghost church appeared at the Whitney, [Banks] Violette put another destroyed structure on display: the canopy of an abandoned gas station split in half. ... This wreckage could only augur doom." — Rachel Wetzler, Artforum, 1 Feb. 2026
+> “[Helen] McCrory’s flamboyant and perfectly drawn portrayal of Polly was the show’s real treasure, a steel-willed matriarch unusually attuned to the mysticism of the Shelby family’s Romani roots who also served as a ruthlessly pragmatic consigliere. ... McCrory’s Polly was so electric that the show remained totally riveting any time she was onscreen.” — Jack Hamilton, Slate, 20 Mar. 2026
 
-_In ancient Rome, augurs were official diviners whose function it was to divine whether the gods approved of a proposed undertaking, such as a military move. They did so by various means, among them observing the behavior of birds and examining the entrails of sacrificed animals. We doubt the Romans predicted that their verb augurāre, meaning "to foretell by augury," would evolve into an English verb meaning "presage or foretell," but in retrospect, augur's path must have been in the stars._
+_Associate the word flamboyant with bananas flambé and the word’s fiery etymology will be seared in your mind. Flamboyant, which was borrowed into English from French in the 19th century, can be traced back to the Old French word flambe, meaning “flame.” In its earliest uses flamboyant referred to an ornate style of Gothic architecture popular in France and Spain, which featured waving curves suggestive of flames. Eventually, the word developed a more general second sense for anything eye-catching or showy. And of course, flambe is also the origin of the English adjective flambé, which describes food flamboyantly dressed or served with flaming liquor._
 
