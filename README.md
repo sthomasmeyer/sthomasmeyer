@@ -1,12 +1,8 @@
-# NASA Astronomy Picture of the Day
+# Days of May 7th Past: Liverpool vs. Barcelona (2019)
 
-_Updated: 2026-05-06 12:59:12 UTC_
+_Updated: 2026-05-07 13:00:47 UTC_
 
-### The Retrograde Dance of Saturn and Neptune
 
-![The Retrograde Dance of Saturn and Neptune](https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg)
-
-What does it mean for Saturn and Neptune to be in retrograde? Featured is a composite of images taken over 34 nights from May 2025 to February 2026 tracing Saturn (brighter, foreground) and Neptune (dimmer, background). Over that time, the two planets exhibited retrograde motion, meaning they appeared to move backward in the sky. This apparent backwards motion occurs when Earth overtakes the slower outer planets as they orbit the Sun. Imagine the Solar System is a running track. Earth "runs" faster along the inside of the track compared to the outer planets. As Earth approaches, aligns, and then "laps" the outer planets, they change position from ahead to behind from the Earth's perspective. This perspective shift is what causes the outer planets to change position in the night sky. An animation corresponding to today’s image shows Saturn and Neptune’s months-long dance across the northern night sky. Saturn stepped from the Pisces constellation into Aquarius and back again while Neptune remained in Pisces. This is the closest Saturn and Neptune have been in the sky since their last conjunction in 1989.
 
 
 ---
@@ -15,45 +11,45 @@ What does it mean for Saturn and Neptune to be in retrograde? Featured is a comp
 
 ### Dictionary.com
 
-**lickety-split** _adverb_ • /[lik-i-tee-split]/
+**tiffin** _verb_ • /[tif-in]/
 
-at great speed; rapidly
+to eat a light midday meal; lunch
 
-Need it fast? Do it lickety-split. This informal phrase means "at great speed," evoking the idea of a split second. It's the kind of phrase you use when there's no time to dawdle. So hurry up and read this message lickety-split!
+To tiffin is to have a light midday meal — essentially, to eat a small lunch. The word comes from the British colonial period in India, likely from the English slang "tiffing," meaning "to take a little drink." Tiffin suggests something casual, quick, and pleasantly nourishing.
 
-> _The kids cleaned their messy playroom lickety-split when their mother said there was no ice cream allowed until they finished._
+> _After finishing the morning meeting, the colleagues decided to tiffin at the cafe next door._
 
 
 ### Britannica
 
-**artifact** _noun_
+**sashay** _verb_
 
-An object made by a human being, typically an item of cultural or historical interest.
+To walk or move in a showy, confident, or exaggerated manner, often with a swaying motion.
 
-> _Archaeologists carefully unearthed ancient artifacts from the burial site._
+> _The performer sashayed onto the stage, soaking in the applause from the eager crowd._
 >
-> _The museum's new exhibit features a collection of Roman artifacts, including pottery and tools._
+> _He tried to sashay past the security guard, hoping his confident stride would distract from his lack of a pass._
 >
-> _Even a simple stone tool can be a significant artifact, revealing much about early human ingenuity._
+> _With a playful grin, she would often sashay through the kitchen, humming a cheerful tune._
 >
 
-_Similar: relic, vestige, remnant_  •  _Opposite: natural object, phenomenon_
+_Similar: strut, glide, prance_  •  _Opposite: stumble, trudge, shuffle_
 
-> _"The first artifacts that unequivocally prove the existence of human culture are about 70,000 years old."_
+> _"She had come in there with her head up and her eyes shining and her dress sashaying around her like a flag."_
 >
-> — **Yuval Noah Harari**, Sapiens: A Brief History of Humankind (2014)
+> — **Zora Neale Hurston**, Their Eyes Were Watching God (1937)
 
 
 ### Merriam-Webster
 
-**flamboyant** _adjective_ • /flam-BOY-ant/
+**dudgeon** _noun_ • /DUJ-un/
 
-Someone or something described as flamboyant has a very noticeable quality that attracts a lot of attention. Such a person or thing is often strikingly elaborate or colorful in their behavior or display.
+Dudgeon is typically used in the phrase “in high dudgeon” to describe someone who is angry and offended by something they perceive to be unfair or wrong.
 
-> _Reality television attracts millions of viewers for its depictions of flamboyant, larger-than-life personalities living equally flamboyant lifestyles._
+> _The customer stormed out of the store in high dudgeon after the manager refused to give them a refund for their purchase._
 >
 
-> “[Helen] McCrory’s flamboyant and perfectly drawn portrayal of Polly was the show’s real treasure, a steel-willed matriarch unusually attuned to the mysticism of the Shelby family’s Romani roots who also served as a ruthlessly pragmatic consigliere. ... McCrory’s Polly was so electric that the show remained totally riveting any time she was onscreen.” — Jack Hamilton, Slate, 20 Mar. 2026
+> “She was in high dudgeon because her expensive lunch was punctuated by noise from a child ‘a real menace’ whose parents, she said, appeared oblivious to the noise while staff …  played with and entertained the tot. If the parents could afford the bill for a place like that, they could afford a babysitter, she snipped.” — Rachel Moore, The Eastern Daily Press (Norwich, England), 6 Feb. 2026
 
-_Associate the word flamboyant with bananas flambé and the word’s fiery etymology will be seared in your mind. Flamboyant, which was borrowed into English from French in the 19th century, can be traced back to the Old French word flambe, meaning “flame.” In its earliest uses flamboyant referred to an ornate style of Gothic architecture popular in France and Spain, which featured waving curves suggestive of flames. Eventually, the word developed a more general second sense for anything eye-catching or showy. And of course, flambe is also the origin of the English adjective flambé, which describes food flamboyantly dressed or served with flaming liquor._
+_Dudgeon is today most often used in the phrase “in high dudgeon” to describe someone in a fit of pique, or more colloquially, in a snit: they are angry and offended because of something they perceive as unfair or wrong. The word has been a part of the English language since at least the late 1500s, but its origins are a mystery. Conjectures connecting dudgeon to a Welsh word, dygen, meaning “malice,” have no basis. Also, there does not appear to be any connection to an even older dudgeon—a term once used for a dagger or a kind of wood out of which dagger handles were made._
 
