@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-08 12:16:02 UTC_
+_Updated: 2026-05-09 11:57:02 UTC_
 
-### Comet R3 PanSTARRS Before Rigel
+### Messier Craters in Stereo
 
-![Comet R3 PanSTARRS Before Rigel](https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg)
+![Messier Craters in Stereo](https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg)
 
-Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the image, because that is Rigel, which, being far in the background, is unrelated to the comet. Not through the nebula in the image middle, because that is the Witch Head Nebula and it, too, is far in the distance -- but not far from Rigel.  Not into northern skies because over the past week Comet C/2025 R3 (PanSTARRS) has moved into southern skies and is now best visible in Earth's Southern Hemisphere toward the west after sunset.  Angularly, Comet R3 PanSTARRS is slowly moving toward the upper right, night by night, and will soon be in the constellation Orion. Spatially, the comet is now headed out of our Solar System but should remain visible to cameras in southern skies for about a week.  The featured image was captured last week near Cerro Paranal in Chile.   Growing Gallery: Comet R3 PanSTARRS in 2026
+Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecunditatis, Messier (left) and Messier A have dimensions of 15 by 8 and 16 by 11 kilometers respectively. Their elongated shapes are explained by the extremely shallow-angle trajectory followed by an impactor, moving left to right, that gouged out the craters. The shallow impact also resulted in two bright rays of material extending along the surface to the right, beyond the picture. Intended to be viewed with red/blue glasses (red for the left eye), this striking stereo picture of the crater pair was recently created from high resolution scans of two images (AS11-42-6304, AS11-42-6305) taken during the Apollo 11 mission to the Moon.
 
 
 ---
@@ -15,45 +15,45 @@ Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the im
 
 ### Dictionary.com
 
-**halcyon** _adjective_ • /[hal-see-uhn]/
+**idioglossia** _noun_ • /[id-ee-uh-glos-ee-uh]/
 
-happy; blissful; carefree
+a language invented by an individual or small group
 
-Halcyon describes a time that's calm, happy, and worry-free. It often calls to mind the golden days of the past — those seasons we remember as simpler and sweeter. If a chapter of your life glows with fond memories, they might be your halcyon days.
+Idioglossia is a private language created and used by a person or a small group. Often formed between children, it turns everyday communication into something secretive and inventive. Think of it as part code, part creativity.
 
-> _The retired couple enjoyed the halcyon days of summer lounging by the quiet, sun-drenched lake._
+> _The preschoolers developed a complex idioglossia that their parents could not understand._
 
 
 ### Britannica
 
-**distinguished** _adjective_
+**stellar** _adjective_ • /ˈstɛlər/
 
-Known by many people because of notable quality, achievement, or excellence.
+Exceptionally good; outstanding or excellent.
 
-> _The professor delivered a distinguished lecture on quantum physics, captivating the entire audience._
+> _The young scientist delivered a stellar presentation on her groundbreaking research._
 >
-> _Her distinguished career in public service earned her numerous accolades and widespread respect._
+> _Despite the challenging conditions, the team's performance was truly stellar, securing them the championship._
 >
-> _The old library housed a collection of distinguished first editions, each a treasure in its own right._
+> _Her stellar reputation as a compassionate leader preceded her, making her a popular choice for the role._
 >
 
-_Similar: eminent, renowned, prominent_  •  _Opposite: obscure, unknown, undistinguished_
+_Similar: excellent, outstanding, superb_  •  _Opposite: mediocre, poor, inferior_
 
-> _"Mr. Darcy soon afterwards entered the room. He was a tall, handsome man, with a noble mien; and, though he had but just turned one and twenty, had already a very distinguished air."_
+> _"The stellar system of Copernicus, which places the sun in the centre, and makes the earth and planets revolve around it, is now universally received by all those who pretend to have any knowledge of astronomy."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Adam Smith**, The Wealth of Nations (1776)
 
 
 ### Merriam-Webster
 
-**wistful** _adjective_ • /WIST-ful/
+**gallivant** _verb_ • /GAL-uh-vant/
 
-To be wistful is to have sad thoughts and feelings about something that you want to have or do, and especially about something that made you happy in the past. Wistful can also describe something, such as a smile or sigh, that shows or communicates such feelings.
+To gallivant is to go or travel to many different places for pleasure. Gallivant is a somewhat informal word that is often applied when the user of the word does not approve of such pleasurable traveling.
 
-> _As the car pulled away, Lea cast one last wistful glance at the house where she'd spent so many happy years._
+> _They’ve been gallivanting all over town instead of studying for their finals._
 >
 
-> "Postcards have always been an object of fascination for me. I remember flipping through photo albums as a young girl and coming across those sent to my parents, from people I had never met. When I asked who these people were, I would hear wistful stories." — Minoli Wijetunga, The Guardian (London), 10 Jan. 2026
+> “These days, she can be found gallivanting around the Upper West Side, catching the latest Broadway shows and occasionally hopping onstage to belt show tunes with the waitstaff at her beloved Times Square restaurant, where she remains hands-on with the business.” — McKenzie Beard, The New York Post, 18 Feb. 2026
 
-_We see you there, dear reader, gazing silently up at the moon, heart aching to know the history of wistful, as if it could be divined on the lunar surface. And we'd like to ease your melancholy by telling you that the knowledge you seek—nay, pine for—is closer at hand. The word wistful comes from wistly, a now-obsolete word meaning "intently," and the similar-sounding wishful. Wistly, in turn, likely comes from whist, an old term meaning "silent." What's more certain is that our modern wistful is a great word to describe someone full of pensive yearning, or something inspiring such yearning._
+_Back in the 14th century, gallant, a noun borrowed from the French word galant, referred to a fashionable young man. By the middle of the next century, it was being used more specifically to refer to such a man who was attentive to, and had a fondness for, the company of women. In the late 17th century, this “ladies’ man” sense gave rise to the verb gallant to describe the process a suitor used to win a lady’s heart, and “gallanting” became synonymous with “courting.” It’s this verb gallant that is the likely source of gallivant, which originally meant “to act as a gallant” or “to go about usually ostentatiously or indiscreetly with members of the opposite sex.” Today, however, gallivant is more likely to describe pleasurable wandering than romancing._
 
