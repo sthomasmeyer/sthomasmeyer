@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-09 11:57:02 UTC_
+_Updated: 2026-05-10 11:59:27 UTC_
 
-### Messier Craters in Stereo
+### Comet R3 PanSTARRS and Orion
 
-![Messier Craters in Stereo](https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg)
+![Comet R3 PanSTARRS and Orion](https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg)
 
-Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecunditatis, Messier (left) and Messier A have dimensions of 15 by 8 and 16 by 11 kilometers respectively. Their elongated shapes are explained by the extremely shallow-angle trajectory followed by an impactor, moving left to right, that gouged out the craters. The shallow impact also resulted in two bright rays of material extending along the surface to the right, beyond the picture. Intended to be viewed with red/blue glasses (red for the left eye), this striking stereo picture of the crater pair was recently created from high resolution scans of two images (AS11-42-6304, AS11-42-6305) taken during the Apollo 11 mission to the Moon.
+Orion never had a sword like this. As Comet C/2025 R3 (PanSTARRS) heads out of the inner Solar System, it is putting on quite a show for long exposure cameras.  Currently seen toward the constellation of Orion the Hunter, the distant Orion Nebula is visible on the upper right. Comet R3 PanSTARRS is now showing two distinct tails: a short dust tail pointing toward the top of the image and a long and wavy ion tail trailing off toward the upper left.  The ion tail points away from the Sun and glows blue from excited carbon monoxide.  Large particles in the dust tail somewhat resist the radiation pressure that push them away from the Sun and so retain a bit of the comet's orbit.  The dust tail shines by reflected sunlight. The featured image was taken a few days ago from France's Reunion Island in the southern Indian Ocean.   Growing Gallery: Comet R3 PanSTARRS in 2026
 
 
 ---
@@ -15,45 +15,45 @@ Many bright nebulae and star clusters in planet Earth's sky are associated with 
 
 ### Dictionary.com
 
-**idioglossia** _noun_ • /[id-ee-uh-glos-ee-uh]/
+**matrilineal** _adjective_ • /[ma-truh-lin-ee-uhl]/
 
-a language invented by an individual or small group
+relating to descent through the female line
 
-Idioglossia is a private language created and used by a person or a small group. Often formed between children, it turns everyday communication into something secretive and inventive. Think of it as part code, part creativity.
+When something is matrilineal, it traces descent through the female line. The term combines Latin roots meaning "mother" and "line," highlighting systems where ancestry and inheritance flow through mothers rather than fathers.
 
-> _The preschoolers developed a complex idioglossia that their parents could not understand._
+> _The community uses a matrilineal system where property and titles are inherited from the mother._
 
 
 ### Britannica
 
-**stellar** _adjective_ • /ˈstɛlər/
+**bonus** _noun_
 
-Exceptionally good; outstanding or excellent.
+An extra payment or gift, typically given as a reward or incentive, beyond what is expected or required.
 
-> _The young scientist delivered a stellar presentation on her groundbreaking research._
+> _The company offered a generous bonus to employees who exceeded their sales targets._
 >
-> _Despite the challenging conditions, the team's performance was truly stellar, securing them the championship._
+> _Receiving a surprise bonus at the end of the year was a welcome financial boost._
 >
-> _Her stellar reputation as a compassionate leader preceded her, making her a popular choice for the role._
+> _The free dessert was an unexpected bonus after an already delicious meal._
 >
 
-_Similar: excellent, outstanding, superb_  •  _Opposite: mediocre, poor, inferior_
+_Similar: premium, gratuity, incentive_  •  _Opposite: penalty, deduction, fine_
 
-> _"The stellar system of Copernicus, which places the sun in the centre, and makes the earth and planets revolve around it, is now universally received by all those who pretend to have any knowledge of astronomy."_
+> _"I had a bonus of a thousand pounds for every new invention I introduced."_
 >
-> — **Adam Smith**, The Wealth of Nations (1776)
+> — **Mark Twain**, A Connecticut Yankee in King Arthur's Court (1889)
 
 
 ### Merriam-Webster
 
-**gallivant** _verb_ • /GAL-uh-vant/
+**halcyon** _adjective_ • /HAL-see-un/
 
-To gallivant is to go or travel to many different places for pleasure. Gallivant is a somewhat informal word that is often applied when the user of the word does not approve of such pleasurable traveling.
+Halcyon is most often used to describe a happy and successful time in the past that is remembered as being better than today. It can also mean “calm, peaceful” or “prosperous, affluent.”
 
-> _They’ve been gallivanting all over town instead of studying for their finals._
+> _She does not regret retiring, but looks back fondly on the halcyon years of her career._
 >
 
-> “These days, she can be found gallivanting around the Upper West Side, catching the latest Broadway shows and occasionally hopping onstage to belt show tunes with the waitstaff at her beloved Times Square restaurant, where she remains hands-on with the business.” — McKenzie Beard, The New York Post, 18 Feb. 2026
+> “The first half of Alice Winn’s bestselling In Memoriam is set at Preshute, an English boys’ boarding school in the early twentieth century. It is here, in the idyllic countryside, where the boys discuss poetry and get up to all sorts of high-jinks and japes, and where two students, Gaunt and Ellwood, fall in love. Then the boys are ejected into the horror and abyss of WWI trenches. When they are reunited, mentally and physically scarred, Preshute is but a dream and their adolescent love, a halcyon place that can only be returned to in memory.” — Madeleine Dunnigan, LitHub.com, 16 Jan. 2026
 
-_Back in the 14th century, gallant, a noun borrowed from the French word galant, referred to a fashionable young man. By the middle of the next century, it was being used more specifically to refer to such a man who was attentive to, and had a fondness for, the company of women. In the late 17th century, this “ladies’ man” sense gave rise to the verb gallant to describe the process a suitor used to win a lady’s heart, and “gallanting” became synonymous with “courting.” It’s this verb gallant that is the likely source of gallivant, which originally meant “to act as a gallant” or “to go about usually ostentatiously or indiscreetly with members of the opposite sex.” Today, however, gallivant is more likely to describe pleasurable wandering than romancing._
+_Halcyon has drifted along contentedly in English for centuries, but it hatched from a tumultuous story. According to Greek mythology, Alkyone, the daughter of the god of the winds, became so distraught over her husband Ceyx’s death at sea that she threw herself into the ocean to join him. The gods were moved by the couple’s love, and took pity on them by turning them into halcyon birds, a bird identified with the kingfisher. (Kingfishers are known for plunging into water after prey.) According to the legend, the birds built their nests on the sea, which so charmed Alkyone’s father that he created a period of unusual calm that lasted until the birds’ eggs hatched. Our word halcyon reflects the story in multiple ways. When halcyon was first used in English in the 14th century it was as a noun referring to the mythical bird, and later to actual kingfishers as well. Adjective use developed in the 16th century and now most often evokes those calm waters: the word typically describes an idyllic time in the past._
 
