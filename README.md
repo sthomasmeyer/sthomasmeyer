@@ -1,8 +1,12 @@
-# Days of May 11th Past: Richard Feynman (1918)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-11 13:49:42 UTC_
+_Updated: 2026-05-12 13:09:19 UTC_
 
-Celebrating the life of Richard Feynman (1918-1988), renowned physicist and educator.
+### The Conjunction of Comet R3 PanSTARRS and the Orion Nebula
+
+![The Conjunction of Comet R3 PanSTARRS and the Orion Nebula](https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg)
+
+Today’s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It’s bright extended ion tail glows blue  as the gas escaping the comet’s core is ionized by sunlight. Astronomers are fascinated by comets for all sorts of reasons: comet compositions are untouched time capsules containing the building blocks of Solar System planets; comets may have delivered water to the young Earth; the behavior of cometary tails shed light on solar wind and radiation interactions. The background mosaic, featuring the Orion Nebula (M42), was taken over two nights of observation with the comet captured on the third night. The Orion Nebula is our nearest stellar nursery and, at about 2 million years old, is our something (relatively) new! Now at around 127.5 million kilometers from Earth, we wave goodbye to the borrowed Comet R3 PanSTARRS as it leaves the Solar System.   Growing Gallery: Comet R3 in 2026
 
 
 ---
@@ -11,45 +15,45 @@ Celebrating the life of Richard Feynman (1918-1988), renowned physicist and educ
 
 ### Dictionary.com
 
-**scupper** _verb_ • /[skuhp-er]/
+**rigmarole** _noun_ • /[rig-muh-rohl]/
 
-to prevent from happening or succeeding
+an elaborate or complicated procedure
 
-To scupper something is to derail it, whether that means it's ruined, postponed, or canceled outright. In nautical language, a scupper is an opening on a ship used to drain water. In everyday use, though, it refers to plans that suddenly go off course. If your event gets scuppered, remain calm!
+Rigmarole refers to an overly complicated process that's full of unnecessary steps or tedious detail. It's thought to be an alteration of "ragman roll," the name of a long legal document in the 13th century. If there are lots of forms to fill out, hoops to jump through, and your patience is wearing thin, it's probably a rigmarole.
 
-> _The rainy weather threatened to scupper our plans for a hike through the canyon._
+> _We had to go through a long rigmarole just to get a simple library card._
 
 
 ### Britannica
 
-**commendable** _adjective_ • //kəˈmɛndəbəl//
+**pedagogical** _adjective_ • //ˌpɛdəˈɡɒdʒɪkəl//
 
-Deserving of praise, approval, or admiration.
+Of or relating to teachers, teaching, or education.
 
-> _The team's commendable effort led to a surprising victory._
+> _The professor's pedagogical approach emphasized active learning and student participation._
 >
-> _It is commendable that she dedicates so much time to volunteering for charitable causes._
+> _Developing effective pedagogical strategies is crucial for improving educational outcomes._
 >
-> _His honesty in admitting his mistake was truly commendable._
+> _Her research focused on the pedagogical implications of digital tools in the classroom._
 >
 
-_Similar: praiseworthy, laudable, admirable_  •  _Opposite: blameworthy, reprehensible, objectionable_
+_Similar: educational, instructional, didactic_  •  _Opposite: uninstructive, uneducational_
 
-> _"Her self-command was commendable, and Elinor felt a sincere pleasure in observing it."_
+> _"The problem of instruction is thus that of finding material which will engage a person in an activity having a purpose or aim of its own, and dealing with things not as gymnastic appliances but as conditions for the attainment of ends. The pedagogical problem is to find the materials and methods that will make this interaction most fruitful."_
 >
-> — **Jane Austen**, Sense and Sensibility (1811)
+> — **John Dewey**, Democracy and Education (1916)
 
 
 ### Merriam-Webster
 
-**paragon** _noun_ • /PAIR-uh-gahn/
+**catercorner** _adverb or adjective_ • /KAT-ee-kor-ner/
 
-Paragon is a formal word that refers to a person or thing that is perfect or excellent in some way and should be considered a model or example to be copied.
+Catercorner is used to describe two things that are located across from each other on opposite corners. It is a less common variant of kitty-corner.
 
-> _In Arthurian legend, Sir Galahad is depicted as a paragon of virtue._
+> _The store is catercorner from the park, making it the perfect location to grab snacks for our picnic._
 >
 
-> "With a bar staff locally renowned for its cocktails, curated French cuisine, an extensive champagne menu and immaculately stylish atmosphere ... Claude is the local paragon of elegance." — Elijah Decious, The Gazette (Cedar Rapids, Iowa), 18 Feb. 2026
+> “Positioned on balconies catercorner from each other, Tom Brady completed a pass across Bourbon Street to Rob Gronkowski, proving they’ve still got it. Gronk promptly spiked the football on the fan-filled street below.” — Rebecca Cohen and Greg Rosenstein, NBC News, 9 Feb. 2025
 
-_Paragon comes from the Old Italian word paragone, which literally means "touchstone." A touchstone is a black stone that was formerly used to judge the purity of gold or silver. The metal was rubbed on the stone and the color of the streak it left indicated its quality. In modern English, both touchstone and paragon have come to signify a standard against which something should be judged. Ultimately, paragon comes from the Greek verb parakonan, meaning "to sharpen," from the prefix para- ("alongside of") and akonē, meaning "whetstone."_
+_Catercorner gets its first element from the Middle French noun quatre, meaning “four,” which English speakers modified to cater and applied to the four-dotted side of a die—a side important in several winning combinations in dice games. Perhaps because the four spots on a die can suggest an X, cater eventually came to be used dialectically as a verb meaning “to place, move, or cut across diagonally”; cater was later combined with corner to form catercorner to describe things positioned diagonally from each other. (In one early usage from an 1825 magazine article, the author marvels at an “ancient Roman fresco painting, in which a luxurious table is represented as groaning under (among other choice dishes …) four peacocks, with their tails set, cater-corner!”) Eventually the variants kitty-corner and catty-corner, which are now the more common forms, developed. Despite all appearances, these terms bear no etymological relation to our feline friends._
 
