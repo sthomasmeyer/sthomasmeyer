@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of May 15th Past: Shrek 2 (2004)
 
-_Updated: 2026-05-14 13:01:31 UTC_
+_Updated: 2026-05-15 13:01:24 UTC_
 
-### Messier Catalog at Uniform Scale
+Shrek 2 (2004) Premiers at Cannes Film Festival
 
-![Messier Catalog at Uniform Scale](https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg)
 
-What are some of the most interesting astronomical objects you can see in the night sky?   Armed with a good pair of binoculars or a small telescope, if you live in the Northern Hemisphere, you can look for the very popular objects in the Messier Catalog.   Most of them, but not all, are also visible from the southern half of the Earth.   The featured image shows all 110 objects in the catalog at uniform scale -- the same magnification.   Charles Messier created the catalog in the 18th century.   He was interested in comets, and his catalog was a list of known comet-like "objects to avoid" in the sky when observing or hunting for comets.   The deep sky objects in the catalog include a supernova remnant (the Crab Nebula, M1), other galaxies (such as Andromeda, M31), nebulae (e.g. the Orion Nebula, M42, a star-forming region) and stellar clusters (such as the Pleiades, M45, a bright young open cluster).
+---
+
+## NASA Astronomy Picture of the Day
+
+### R3 PanSTARRS: An Orion Comet
+
+![R3 PanSTARRS: An Orion Comet](https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg)
+
+Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion, including  Lovejoy in 2015, Hale-Bopp in 1997, and the Great Comet of 1264.  Best visible in long duration exposures, the featured image was captured last week from the Craigieburn Mountain Range in New Zealand.  Visible in the deep background image are the Orion Nebula, Barnard's Loop, and through R3's tail, the bright star Saiph, the sixth brightest star in the constellation of Orion. Comet R3 PanSTARRS continues to fade as it moves further south, passing into the constellation of the Unicorn (Monoceros) in the next few days.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
 
 ---
@@ -15,45 +22,47 @@ What are some of the most interesting astronomical objects you can see in the ni
 
 ### Dictionary.com
 
-**comestible** _adjective_ • /[kuh-mes-tuh-buhl]/
+**aglet** _noun_ • /[ag-lit]/
 
-suitable to be eaten; edible
+a metal or plastic tag at the end of a lace
 
-If something is comestible, it's fit to be eaten, plain and simple. Comestible doesn't necessarily mean it will be delicious, but it will at least be edible!
+Did you know that the small plastic or metal tip at the end of your shoelace actually has a name? It's an aglet. Beyond preventing fraying, it makes it easier to tie your shoes. This small detail on your laces has a surprisingly important job!
 
-> _The survival guide helps backpackers distinguish between poisonous berries and those that are comestible._
+> _He struggled to thread his shoelace because the plastic aglet had fallen off the tip._
 
 
 ### Britannica
 
-**predecessor** _noun_
+**festive** _adjective_
 
-A person who held a position or office before the current incumbent.
+Cheerful and exciting; suited to a celebration or holiday.
 
-> _The new CEO quickly implemented changes, departing from the strategies of her predecessor._
+> _The town square was adorned with lights and banners, creating a truly festive atmosphere for the annual fair._
 >
-> _Many historians compare the current political climate to that experienced by the nation's predecessors centuries ago._
+> _Her festive spirit was contagious, making everyone around her feel joyful and ready to celebrate._
 >
-> _While the new software offers many improvements, its basic architecture is clearly derived from its predecessor._
+> _They planned a festive dinner party to mark the end of the year._
 >
 
-_Similar: forerunner, precursor, antecedent_  •  _Opposite: successor, descendant_
+_Similar: jovial, merry, celebratory_  •  _Opposite: somber, doleful, gloomy_
 
-> _"The present King hath so directly inverted the constitution of England, and set up himself in such a manner, as to render him, and not his predecessor, the object of the present controversy."_
+> _"It was a great surprise to Scrooge, to hear Tiny Tim, who had never been a strong child, utter a strong voice in a festive song."_
 >
-> — **Thomas Paine**, Common Sense (1776)
+> — **Charles Dickens**, A Christmas Carol (1843)
 
 
 ### Merriam-Webster
 
-**imbroglio** _noun_ • /im-BROHL-yoh/
+**tortuous** _adjective_ • /TOR-chuh-wus/
 
-Imbroglio is a formal word that refers to a complex dispute or argument.
+Tortuous describes something that has many literal or figurative twists and turns.
 
-> _Much of the sisters’ text thread involves the the latest imbroglios on their favorite reality show—who’s mad at who for what, and why._
+> _The tortuous mountain path rewards climbers with a stunning view of the town below._
+>
+> _Getting approval for a project of this magnitude is a tortuous process._
 >
 
-> “A tangled web of interpersonal feuds, played out in letters to the local newspaper, in social media posts and via legal filings in county court, has left the town with no clear path out of a situation that’s not covered by state law. The imbroglio has even reached the state Capitol ...” — Seth Klamann and Sam Tabachnik, The Denver Post, 8 Mar. 2026
+> “Christopher Nolan’s latest epic is an adaptation of the ancient Greek epic poem, The Odyssey. ...  Homer’s poem is centered on Greek hero King Odysseus ... and his tortuous, 10-year journey home to Ithaca after the Trojan War.” — Lexy Perez, The Hollywood Reporter, 4 Jan. 2026
 
-_Ever noticed how an imbroglio embroils people in controversy? There’s a reason for that—an etymological one, anyway. Both the noun imbroglio (referring to, among other things, a scandal or bitter argument) and verb embroil (“to involve in conflicts or difficulties”) come from the Middle French word embrouiller, a combination of the prefix en- and brouiller, meaning “to jumble,” though they took slightly different paths. Embroil’s was direct, passing from Middle French through French and into English around the turn of the 16th century. Italians altered embrouiller to form imbrogliare, meaning “to entangle,” which spawned the noun imbroglio that English speakers embraced in the mid-18th century. English imbroglio first referred to a confused mass, and later expanded to cover confusing social situations such as complicated disputes, misunderstandings, and scandals._
+_Be careful not to confuse tortuous with torturous. These two words are relatives—both ultimately come from the Latin verb torquēre, which means “to twist,” “to wind,” or “to wrench”—but tortuous means “winding” or “crooked,” whereas torturous means “painfully unpleasant.” (Its oldest meaning is “causing torture.”) Something tortuous, such as a twisting mountain road, might also be torturous (if, for example, you have to ride up that road on a bicycle), but that doesn’t make these words synonyms. The twists and turns that mark a tortuous thing can be literal (“a tortuous path” or “a tortuous river”) or figurative (“a tortuous argument” or “a tortuous explanation”), but you should veer away from using the term if no implication of winding or crookedness is present._
 
