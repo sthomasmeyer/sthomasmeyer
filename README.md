@@ -1,19 +1,12 @@
-# Days of May 15th Past: Shrek 2 (2004)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-15 13:01:24 UTC_
+_Updated: 2026-05-16 12:00:47 UTC_
 
-Shrek 2 (2004) Premiers at Cannes Film Festival
+### Aurora Slathers Up the Sky
 
+![Aurora Slathers Up the Sky](https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg)
 
----
-
-## NASA Astronomy Picture of the Day
-
-### R3 PanSTARRS: An Orion Comet
-
-![R3 PanSTARRS: An Orion Comet](https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg)
-
-Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion, including  Lovejoy in 2015, Hale-Bopp in 1997, and the Great Comet of 1264.  Best visible in long duration exposures, the featured image was captured last week from the Craigieburn Mountain Range in New Zealand.  Visible in the deep background image are the Orion Nebula, Barnard's Loop, and through R3's tail, the bright star Saiph, the sixth brightest star in the constellation of Orion. Comet R3 PanSTARRS continues to fade as it moves further south, passing into the constellation of the Unicorn (Monoceros) in the next few days.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature colors of excited molecules and atoms at the low densities found at extreme altitudes. Emission from atomic oxygen dominates this view. The tantalizing glow is green at lower altitudes, but rarer reddish bands extend above the space station's horizon. The orbital scene was captured while passing over a point south and east of Australia, with stars above the horizon at the right belonging to the constellation Canis Major, Orion's big dog. Sirius, alpha star of Canis Major, is the brightest star near the Earth's limb.
 
 
 ---
@@ -22,47 +15,45 @@ Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is 
 
 ### Dictionary.com
 
-**aglet** _noun_ • /[ag-lit]/
+**terra firma** _noun_ • /[ter-uh fur-muh]/
 
-a metal or plastic tag at the end of a lace
+firm or solid earth; dry land
 
-Did you know that the small plastic or metal tip at the end of your shoelace actually has a name? It's an aglet. Beyond preventing fraying, it makes it easier to tie your shoes. This small detail on your laces has a surprisingly important job!
+Terra firma refers to dry, solid land, as opposed to water or air. But it's often used as a metaphor for any stable foundation in a world that can feel fluid. Even daring explorers eventually find themselves longing for the safety of terra firma.
 
-> _He struggled to thread his shoelace because the plastic aglet had fallen off the tip._
+> _The exhausted sailors were grateful to leave the boat and stand on terra firma._
 
 
 ### Britannica
 
-**festive** _adjective_
+**canister** _noun_ • //ˈkænɪstər//
 
-Cheerful and exciting; suited to a celebration or holiday.
+A cylindrical metal or plastic container, typically with a lid, used for storing dry goods or other materials.
 
-> _The town square was adorned with lights and banners, creating a truly festive atmosphere for the annual fair._
+> _The chef kept various spices in clearly labeled canisters on the kitchen counter._
 >
-> _Her festive spirit was contagious, making everyone around her feel joyful and ready to celebrate._
+> _She carefully placed the exposed film into a light-tight canister before developing it._
 >
-> _They planned a festive dinner party to mark the end of the year._
+> _During the protest, police deployed tear gas canisters to disperse the crowd._
 >
 
-_Similar: jovial, merry, celebratory_  •  _Opposite: somber, doleful, gloomy_
+_Similar: container, tin, jar_
 
-> _"It was a great surprise to Scrooge, to hear Tiny Tim, who had never been a strong child, utter a strong voice in a festive song."_
+> _"He took a small tin canister from his pocket, and from it he shook out a handful of white powder."_
 >
-> — **Charles Dickens**, A Christmas Carol (1843)
+> — **Arthur Conan Doyle**, A Scandal in Bohemia (The Adventures of Sherlock Holmes) (1891)
 
 
 ### Merriam-Webster
 
-**tortuous** _adjective_ • /TOR-chuh-wus/
+**kiki** _noun_ • /KEE-kee/
 
-Tortuous describes something that has many literal or figurative twists and turns.
+Kiki is a slang term used for an informal gathering among close friends, especially to share lively gossip or frank conversation. It can also refer more broadly to gossipy conversation. Kiki is especially used in and associated with LGBTQ+ and Black communities.
 
-> _The tortuous mountain path rewards climbers with a stunning view of the town below._
->
-> _Getting approval for a project of this magnitude is a tortuous process._
+> _The performers had a kiki backstage before the show._
 >
 
-> “Christopher Nolan’s latest epic is an adaptation of the ancient Greek epic poem, The Odyssey. ...  Homer’s poem is centered on Greek hero King Odysseus ... and his tortuous, 10-year journey home to Ithaca after the Trojan War.” — Lexy Perez, The Hollywood Reporter, 4 Jan. 2026
+> “The year 2024 will long be remembered in pop culture as the year of #bratsummer, christened, of course, by the early-June release of an instantly-iconic pop album, Charli XCX’s Brat. It was the cultural equivalent of the hippies’ summer of love in 1967, but for the girls and gays a singular moment in time when every day offered the chance of a kiki and every night flirted with throwing a rave.” — Vanessa Quilantan, The Dallas Observer, 26 Aug. 2025
 
-_Be careful not to confuse tortuous with torturous. These two words are relatives—both ultimately come from the Latin verb torquēre, which means “to twist,” “to wind,” or “to wrench”—but tortuous means “winding” or “crooked,” whereas torturous means “painfully unpleasant.” (Its oldest meaning is “causing torture.”) Something tortuous, such as a twisting mountain road, might also be torturous (if, for example, you have to ride up that road on a bicycle), but that doesn’t make these words synonyms. The twists and turns that mark a tortuous thing can be literal (“a tortuous path” or “a tortuous river”) or figurative (“a tortuous argument” or “a tortuous explanation”), but you should veer away from using the term if no implication of winding or crookedness is present._
+_Let’s chitchat about the word kiki, a fun word for a fun, gossipy gathering. While its exact origins are unclear, we know that kiki has roots in the ballroom community, a primarily Black and Latino drag subculture that spread in US cities especially in the 1980s–90s. In the early 2000s, a movement emerged within ball culture that was often referred to as the kiki scene. This involved support groups and social services for LGBTQ+ youth, and provided opportunities to socialize, including in the form of so-called kiki balls, or festive, party-like drag performances. This scene was notably captured in the 2016 documentary Kiki, popularly considered a sequel to 1990’s Paris is Burning. Kiki is also used as a verb meaning “to share lively gossip or frank conversation”—in other words, “to have a kiki.”_
 
