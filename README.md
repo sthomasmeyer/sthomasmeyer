@@ -1,19 +1,12 @@
-# Days of May 17th Past: Alan Kay (1940) and Random Access Memories (2013)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-17 12:03:22 UTC_
+_Updated: 2026-05-18 14:36:46 UTC_
 
+### Unraveling NGC 3169
 
+![Unraveling NGC 3169](https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### NGC 1300: Barred Spiral Galaxy
-
-![NGC 1300: Barred Spiral Galaxy](https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg)
-
-Across the center of this spiral galaxy is a bar.  And at the center of this bar is smaller spiral.  And at the center of that spiral is a supermassive black hole.  This all happens in the big, beautiful, barred spiral galaxy cataloged as NGC 1300, a galaxy that lies some 70 million light-years away toward the constellation of the river Eridanus. This Hubble Space Telescope composite view of the gorgeous island universe is one of the most detailed Hubble images ever made of a complete galaxy.  NGC 1300 spans over 100,000 light-years and the Hubble image reveals striking details of the galaxy's dominant central bar and majestic spiral arms. How the giant bar formed, how it remains, and how it affects star formation remains an active topic of research.   Jigsaw Universe: Astronomy Puzzle of the Day
+Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group's estimated distance, and includes smaller, bluish NGC 3165 to the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.
 
 
 ---
@@ -22,47 +15,47 @@ Across the center of this spiral galaxy is a bar.  And at the center of this bar
 
 ### Dictionary.com
 
-**nacreous** _adjective_ • /[ney-kree-uhs]/
+**blatherskite** _noun_ • /[blath-er-skahyt]/
 
-lustrous; pearly
+a person who speaks rapidly but says little of substance
 
-Nacreous describes something that's lustrous or pearly, often possessing a shifting, iridescent quality. The word is derived from "nacre," a more formal name for the glimmering mother-of-pearl found inside some mollusk shells. A photo of a sunset can't compare to the nacreous shimmer of a cloud on the horizon right as the sun goes down.
+A blatherskite talks quickly and confidently, yet leaves you wondering what was actually said. You know the type who fills every pause with chatter but never quite lands a point. The word has Scottish roots and has been poking fun at empty talkers since the 1600s. A conversation with a blatherskite can leave you more exhausted than informed.
 
-> _The nacreous shell shimmered with soft, rainbow colors._
+> _The blatherskite talked for an hour without mentioning the actual project we needed to discuss._
 
 
 ### Britannica
 
-**initiate** _verb_ • //ɪˈnɪʃiˌeɪt//
+**applaud** _verb_
 
-To cause something to begin; to set in motion or originate.
+To show approval or praise by striking the hands together repeatedly, or to express approval or support for someone or something.
 
-> _The new CEO decided to initiate a comprehensive review of all departmental budgets._
+> _The entire theater rose to its feet to applaud the breathtaking performance._
 >
-> _After years of planning, the city council will finally initiate the construction of the new public library._
+> _We should applaud the efforts of those working tirelessly for social justice._
 >
-> _To foster community engagement, the local residents' association plans to initiate a series of neighborhood clean-up events._
+> _Even a small gesture of kindness deserves to be applauded._
 >
 
-_Similar: start, begin, commence_  •  _Opposite: finish, conclude, terminate_
+_Similar: praise, commend, cheer_  •  _Opposite: boo, hiss, criticize_
 
-> _"It is true that the legislature may be so constituted as to initiate and execute with dispatch, but this is not the primary function of a legislative body."_
+> _"I confess that I have often been tempted to applaud the man who, having nothing to say, yet says it with such an air of importance as to make us believe he has said something."_
 >
-> — **Alexander Hamilton**, The Federalist Papers, No. 70 (1788)
+> — **Joseph Addison**, The Spectator, No. 1 (1711)
 
 
 ### Merriam-Webster
 
-**affable** _adjective_ • /AF-uh-bul/
+**vindicate** _verb_ • /VIN-duh-kayt/
 
-Affable describes someone who is friendly and easy to talk to. It can also describe something, such as someone’s personality, that is characterized by ease and friendliness.
+To vindicate someone is to show that they are not guilty. Vindicate can also mean “to show that someone or something that has been criticized or doubted is correct, true, or reasonable.”
 
-> _The restaurant’s affable owner can be seen most nights welcoming his guests and making light conversation._
+> _A series of testimonies helped vindicate the defendant._
 >
-> _In the hallways, the principal has an affable demeanor; however, when called to her office, students know she is all about business._
+> _Their much-maligned approach to the problem has now been vindicated by these positive results._
 >
 
-> “Ray Naranjo is a Native American chef from Santa Clara Pueblo in northern New Mexico. He’s a big, affable man with a wide, warm smile, built more for a football field than his food truck, Manko.” — Michael Shaikh, The Last Sweet Bite: Stories and Recipes of Culinary Heritage Lost and Found, 2025
+> “He [Bob Dylan] never expressed embarrassment over the dismal commercial failure of his would-be cinematic masterpiece, Renaldo and Clara, even after the film’s financers, Warner Bros., warned Dylan that the film’s nearly five hour running time would ensure its failure (which would prove true). Dylan insisted that the film needed every frame. And who knows, art history may vindicate him.” — Ron Rosenbaum, Bob Dylan: Things Have Changed, 2025
 
-_There is nothing in the meaning of affable (“friendly and easy to talk to”), nor in its etymology (the word traces back to the Latin verb affārī, meaning “to speak to, address”), to suggest it is more properly applied to men than to women, but English-speaking people behave as though it is. This was not always true; in the 16th through the 19th centuries, it was not uncommon to see the word describing women, but no more. We once surveyed all the cases in which a single newspaper used affable over a 12-month period. The word occurred in 102 articles, and in 4 occurrences it described women, while in 85 occurrences it described men (in the other cases affable was used to describe a conga line, email, musical compositions by Robert Ward, cats in general, and one male dog). None of this need affect your use of the term. You should feel free to apply it in whatever way seems suitable. Think of this more as a reminder that the currents of our language are deep and occasionally mysterious, gently nudging us along paths we don’t even see._
+_It’s hard not to marvel at the rich history of vindicate. Vindicate, which has been used in English since at least the mid-16th century, comes from a form of the Latin verb vindicare, meaning “to set free, avenge, or lay claim to.” Vindicare, in turn, comes from vindex, a noun meaning “claimant” or “avenger.” Truly, vindex has proven to be an incredible hulk of a word progenitor over the centuries. Other descendants of this “avenger” assembled in English include avenge itself, revenge, vengeance, vendetta, and vindictive._
 
