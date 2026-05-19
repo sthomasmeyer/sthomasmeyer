@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-18 14:36:46 UTC_
+_Updated: 2026-05-19 14:04:58 UTC_
 
-### Unraveling NGC 3169
+### NGC 2170: The Angel Nebula
 
-![Unraveling NGC 3169](https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg)
+![NGC 2170: The Angel Nebula](https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg)
 
-Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group's estimated distance, and includes smaller, bluish NGC 3165 to the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.
+Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission region, many dark absorption nebulae, and a backdrop of colorful stars. Like the common household items that abstract painters often choose for their subjects, the clouds of gas, dust, and hot stars featured here are also commonly found in a setting like this one --  a massive, star-forming molecular cloud in the constellation of the Unicorn (Monoceros). The giant molecular cloud Mon R2, is impressively close, estimated to be only 2,400 light-years or so away. At that distance, this canvas would be over 60 light-years across.   Almost Hyperspace: Random APOD Generator
 
 
 ---
@@ -15,47 +15,45 @@ Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lie
 
 ### Dictionary.com
 
-**blatherskite** _noun_ • /[blath-er-skahyt]/
+**whilom** _adjective_ • /[wahy-luhm]/
 
-a person who speaks rapidly but says little of substance
+former; in the past
 
-A blatherskite talks quickly and confidently, yet leaves you wondering what was actually said. You know the type who fills every pause with chatter but never quite lands a point. The word has Scottish roots and has been poking fun at empty talkers since the 1600s. A conversation with a blatherskite can leave you more exhausted than informed.
+If something is described as whilom, it belongs to an earlier time or a former role that has since changed. You might come across it in older or literary writing, where it can add a wistful tone. Once common in Middle English, whilom has largely faded from everyday use, but it's still standing by to add a poetic flourish to your musings.
 
-> _The blatherskite talked for an hour without mentioning the actual project we needed to discuss._
+> _I have fond memories of that whilom library, which was torn down last year for new construction._
 
 
 ### Britannica
 
-**applaud** _verb_
+**deserted** _adjective_ • /dɪˈzɜːrtɪd/
 
-To show approval or praise by striking the hands together repeatedly, or to express approval or support for someone or something.
+Left empty, abandoned, or forsaken.
 
-> _The entire theater rose to its feet to applaud the breathtaking performance._
+> _The old lighthouse stood deserted on the rocky promontory, a silent sentinel against the crashing waves._
 >
-> _We should applaud the efforts of those working tirelessly for social justice._
+> _After the gold rush ended, many once-bustling mining towns were left completely deserted._
 >
-> _Even a small gesture of kindness deserves to be applauded._
+> _She felt a pang of sadness walking through the deserted halls of her childhood home._
 >
 
-_Similar: praise, commend, cheer_  •  _Opposite: boo, hiss, criticize_
+_Similar: abandoned, empty, desolate_  •  _Opposite: populated, crowded, lively_
 
-> _"I confess that I have often been tempted to applaud the man who, having nothing to say, yet says it with such an air of importance as to make us believe he has said something."_
+> _"I was a poor, helpless, miserable wretch; I knew, and could distinguish, nothing; but feeling pain invade me on all sides, I started up, and fled from my tormentor, who, I afterwards found, was the very being I had so dearly cherished. I was deserted, and alone."_
 >
-> — **Joseph Addison**, The Spectator, No. 1 (1711)
+> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
 
 
 ### Merriam-Webster
 
-**vindicate** _verb_ • /VIN-duh-kayt/
+**demeanor** _noun_ • /dih-MEE-ner/
 
-To vindicate someone is to show that they are not guilty. Vindicate can also mean “to show that someone or something that has been criticized or doubted is correct, true, or reasonable.”
+Demeanor refers to someone’s outward manner and behavior toward others.
 
-> _A series of testimonies helped vindicate the defendant._
->
-> _Their much-maligned approach to the problem has now been vindicated by these positive results._
+> _The teacher’s calm demeanor put the classroom at ease._
 >
 
-> “He [Bob Dylan] never expressed embarrassment over the dismal commercial failure of his would-be cinematic masterpiece, Renaldo and Clara, even after the film’s financers, Warner Bros., warned Dylan that the film’s nearly five hour running time would ensure its failure (which would prove true). Dylan insisted that the film needed every frame. And who knows, art history may vindicate him.” — Ron Rosenbaum, Bob Dylan: Things Have Changed, 2025
+> “At home, your demeanor impacts your family more than you realize. Your kids feed off your energy. If you’re engaged, positive, and present, they feel it.” — Brandon Brigman, The Rockdale Citizen (Conyers, Georgia), 30 Mar. 2026
 
-_It’s hard not to marvel at the rich history of vindicate. Vindicate, which has been used in English since at least the mid-16th century, comes from a form of the Latin verb vindicare, meaning “to set free, avenge, or lay claim to.” Vindicare, in turn, comes from vindex, a noun meaning “claimant” or “avenger.” Truly, vindex has proven to be an incredible hulk of a word progenitor over the centuries. Other descendants of this “avenger” assembled in English include avenge itself, revenge, vengeance, vendetta, and vindictive._
+_The history of demeanor begins with a threat: the word has its roots in Latin minārī, meaning “to threaten.” A form of that word was used in contexts having to do with driving animals—that is, impelling them to move—and from this word came more recent French ancestors having to do with leading, guiding, and behaving. By the 14th century, English had adopted a word out of this lineage: the verb demean meaning “to conduct or behave (oneself) usually in a proper manner.” (Another demean, defined as “to lower in character, status, or reputation,” entered the language later by way of the mean that has to do with being cruel.) The noun demeanor was formed in the following century through the addition of the suffix -or._
 
