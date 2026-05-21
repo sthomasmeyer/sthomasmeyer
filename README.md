@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-20 13:44:31 UTC_
+_Updated: 2026-05-21 14:16:19 UTC_
 
-### The Dark Wolf Nebula
+### A Collision of Galaxy Clusters
 
-![The Dark Wolf Nebula](https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg)
+![A Collision of Galaxy Clusters](https://apod.nasa.gov/apod/image/2605/a2029.jpg)
 
-A dark wolf lies in gum. No, this isn’t a riddle! Today's image features the Dark Wolf Nebula (Sandqvist–Lindroos 17), a spooky dust cloud embedded within the Gum 55 (RCW 113) Nebula in the Scorpius constellation. While dust is a pest to us, it serves a vital role in creating the necessary conditions for stars to be born. The Dark Wolf absorbs the intense ultraviolet and visible light emitted by young stars in Gum 55 and re-emits it at longer, mainly infrared, wavelengths. This prevents the higher energy light from heating up the gas in the region. When a region of gas is cool enough, gravity takes over and causes the gas to collapse into a star. Not only does dust act as an interstellar thermostat, but it is also the meet-cute for single hydrogen atoms forming molecular hydrogen, the building block for stars. The seemingly sinister Dark Wolf is actually a harbinger of cosmic life.
+This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.   It belongs to Abell 2029, a galaxy cluster one billion light-years away.   (To see only the galaxies, hover your cursor over the image, or follow this link.)      Galaxy clusters are the largest structures in the universe that are supported by gravity.     Abell 2029 is formed by thousands of galaxies, surrounded by a huge cloud of hot gas and the equivalent of hundreds of trillions times the mass of the Sun in dark matter.     The spiral is made of gas, mostly hydrogen and helium, heated to tens of millions of degrees.     It was found in a recent study that used data from NASA's Chandra X-ray Observatory to show that Abell 2029 had a collision with a smaller cluster four billion years ago.     The collision affected the gravitational field and caused the intracluster gas to slosh, like wine moving in a wine glass, shaping the spiral.
 
 
 ---
@@ -15,45 +15,47 @@ A dark wolf lies in gum. No, this isn’t a riddle! Today's image features the D
 
 ### Dictionary.com
 
-**pother** _noun_ • /[poth-er]/
+**sodality** _noun_ • /[soh-dal-i-tee]/
 
-commotion; uproar
+an association or society
 
-A pother is a burst of noisy commotion, often over something small. The word dates back to Shakespearean times. And while pother doesn't appear in Much Ado About Nothing, it's a title that, fittingly, could almost describe a pother itself. Do you think we should work ourselves into a pother over that missed opportunity?
+A sodality is a group formed around a shared purpose or common bond. The word is suggestive of a higher calling that creates a stronger sense of unity than a "club" or "association." There's power in a sodality where members come together for the same cause.
 
-> _The small bird flying inside the store caused a great pother among the shoppers._
+> _The local farmers formed a sodality to support each other and improve their crops._
 
 
 ### Britannica
 
-**profusion** _noun_ • /prəˈfjuːʒən/
+**cascade** _verb_ • //kæˈskeɪd//
 
-An abundance or large quantity of something.
+To flow or fall rapidly and in large quantities.
 
-> _The spring garden was a riot of color, with a profusion of tulips and daffodils._
+> _The waterfall's powerful currents cascade into the river below._
 >
-> _Despite the profusion of information available online, finding accurate details can still be a challenge._
+> _Her laughter seemed to cascade through the quiet room, bringing joy to everyone._
 >
-> _The artist used a profusion of vibrant hues to capture the energy of the bustling market._
+> _When the market crashed, the effects cascaded through the global economy._
 >
 
-_Similar: abundance, plenty, plethora_  •  _Opposite: scarcity, dearth, lack_
+_Similar: pour, gush, tumble_  •  _Opposite: collect, gather_
 
-> _"The park was of a reasonable extent, and contained a tolerable good house, very well fitted up, and with a profusion of roses, and they were all in bloom."_
+> _"The rain, which had been falling in a steady drizzle, now began to cascade down in sheets."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Charlotte Brontë**, Jane Eyre (1847)
 
 
 ### Merriam-Webster
 
-**cordial** _adjective_ • /KOR-jul/
+**lacuna** _noun_ • /luh-KOO-nuh/
 
-Cordial describes someone or something that is politely pleasant and friendly.
+Lacuna is a formal word that refers to a gap or blank space in something—in other words, a missing part. When used with respect to biology, lacuna also refers to a small cavity, pit, or discontinuity in an anatomical structure.
 
-> _All the guests were assembled and given a cordial greeting by the host._
+> _The absence of hemlock pollen from one stretch of the fossil record is a notable lacuna that suggests the tree may have once suffered from some type of blight that nearly wiped out the species._
+>
+> _An osteocyte is a cell that is isolated in a lacuna of bone._
 >
 
-> “The Burnside post office is a small one-­room wooden building profusely planted with flowers all around it. ... One enters a tiny vestibule and pushes a buzzer, which brings Christine out of the house, brushing by you into the ‘office’ proper, where she opens the counter window and, with a smile and a toss of her hair, says, in a cordial tone, ‘Now, my dear, what can I do for you?’” — Robert Finch, Summers in Squid Tickle: A Newfoundland Odyssey, 2025
+> “At the heart of every biography ... lies a lacuna—something unknowable, no matter how candid or heavily documented the subject, no matter how familiar or diligent the biographer.” — Casey Cep, The New Yorker, 14 Apr. 2025
 
-_The Latin root cord- (or cor) is at the heart of the connection between cordial, concord (meaning “harmony”), and discord (meaning “conflict”). Cord- means “heart,” and each of these cord- descendants has something to do with the heart, at least figuratively. Concord, which comes from com- (meaning “together” or “with”) plus -cord, suggests that one heart is with another. Discord combines the prefix dis- (meaning “apart”) with -cord to imply that hearts are apart. Hundreds of years ago, cordial could mean simply “of or relating to the (literal) heart” (the -ial is simply an adjective suffix) but today anything described as cordial—be it a friendly welcome, a compliment, or an agreement—comes from the heart in a figurative sense. Cordial is also used as a noun to refer to a usually sweet liqueur, the name being inspired by the idea that a cordial invigorates the heart._
+_If you find yourself drawing a blank when it comes to the definition of lacuna, it might help to imagine drawing water instead, ideally from a lake or lagoon. Lacuna, lake, and lagoon all come ultimately from lacus, the Latin word for “lake.” Latin speakers modified lacus into lacuna to form a word meaning “pit,” “gap,” or “pool.” When English speakers borrowed the term in the 17th century, they used it to refer to a figurative gap in or missing portion of something, such as information or text. (Note that lacuna comes with two plural options: the Latin lacunae \luh-KYOO-nee\ or \luh-KOO-nye\, or the anglicized lacunas \luh-KOO-nuz\.) Lagoon, meanwhile, hewed closer to the Latin lacuna, referring first to a shallow sound, channel, or pond near or connected to a larger body of water, and later to a shallow artificial pool or pond._
 
