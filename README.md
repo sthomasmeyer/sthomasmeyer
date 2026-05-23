@@ -1,19 +1,12 @@
-# Days of May 22nd Past: Ethernet (1973)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-22 13:34:51 UTC_
+_Updated: 2026-05-23 12:04:28 UTC_
 
+### Messier 2
 
+![Messier 2](https://apod.nasa.gov/apod/image/2605/potw1913aM2_1024.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### The Nebulous Realm of WR 134
-
-![The Nebulous Realm of WR 134](https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg)
-
-This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas. Embedded in the region's expanse of interstellar clouds, the complex, glowing arcs are sections of shells of material swept up by the wind from Wolf-Rayet star WR 134, the brightest star near image center. Distance estimates put WR 134 about 6,000 light-years away, making this telescopic frame over 100 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end their final phase of massive star evolution in a spectacular supernova. Their stellar winds and final supernova explosion enrich the interstellar material with heavy elements to be incorporated in future generations of stars.
+After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a nebula without stars, this stunning Hubble image resolves stars across the cluster's central 40 light-years. Its population of stars numbers close to 150,000, concentrated within a total diameter of around 175 light-years. About 55,000 light-years distant toward the constellation Aquarius, this ancient denizen of the Milky Way, also known as NGC 7089, is 13 billion years old. An extended stellar debris stream, a signature of past gravitational tidal disruption, was recently found to be associated with Messier 2.
 
 
 ---
@@ -22,47 +15,45 @@ This cosmic snapshot covers a field of view over twice as wide as the full Moon 
 
 ### Dictionary.com
 
-**exhort** _verb_ • /[ig-zawrt]/
+**erinaceous** _adjective_ • /[er-uh-ney-shuhs]/
 
-to urge strongly
+of the hedgehog family
 
-To exhort is to urge someone toward a specific course of action, often by appealing to their better nature. The word shows up in speeches, sermons, and heartfelt appeals where simply suggesting something isn't enough. If you want to really inspire action, you can take it to the next level by exhorting.
+If something is erinaceous, it has spiky, hedgehog-like qualities — or it might just be a hedgehog, plain and simple. The word might look a bit odd, but the Latin word for "hedgehog" is erinaceus, so erinaceous isn't so mysterious after all. Keep it handy for prickly subjects!
 
-> _The coach began to exhort his players to give their best effort during the final minutes._
+> _The erinaceous creature curled into a tight ball of sharp spines to protect its belly._
 
 
 ### Britannica
 
-**thermos** _noun_
+**gooey** _adjective_ • //ˈɡuːi//
 
-A container designed to keep liquids hot or cold for extended periods, typically by means of a vacuum between an inner and outer wall.
+Wet and sticky; often used figuratively to describe something excessively sentimental or cloying.
 
-> _He always packed his lunch in a thermos, ensuring his soup stayed warm until noon._
+> _The melted cheese on the pizza was wonderfully gooey, stretching with every bite._
 >
-> _On their winter hike, they shared hot cocoa from a large thermos._
+> _She found the overly sweet and sentimental romantic comedy to be a bit too gooey for her taste._
 >
-> _The construction worker relied on his sturdy thermos to keep his coffee piping hot through the morning chill._
+> _After baking, the brownies were perfectly gooey in the center, a delightful treat._
 >
 
-_Similar: vacuum flask, flask, insulated bottle_  •  _Opposite: open container_
+_Similar: sticky, viscous, cloying_  •  _Opposite: firm, solid, dry_
 
-> _"She had a thermos full of hot milk and a basket of sandwiches, and she ate them with a good appetite."_
+> _"The chocolate was melting and becoming all gooey."_
 >
-> — **Frances Hodgson Burnett**, The Secret Garden (1911)
+> — **Roald Dahl**, Charlie and the Chocolate Factory (1964)
 
 
 ### Merriam-Webster
 
-**fraught** _adjective_ • /FRAWT/
+**expedite** _verb_ • /EK-spuh-dyte/
 
-Fraught describes something that causes or involves a lot of emotional stress or worry. When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.”
+To expedite something is to cause it to happen faster.
 
-> _The siblings had a fraught relationship._
->
-> _The paper was poorly researched and fraught with errors._
+> _We’ll do what we can to expedite the processing of your application._
 >
 
-> "We might think replicating one of these ideas will deliver that perfectly walkable, equitable, sustainable and prosperous city of our hopeful imagination. Not likely. Many of these were hard wins, often fraught and contested in their local context." — Gia Biagi, The Chicago Tribune, 5 Apr. 2026
+> “The new task force ... is required to submit an initial report in 60 days and final report in 90 days with recommendations to simplify, improve and expedite hiring.” — Blake Paterson, NOLA.com (New Orleans, Louisiana), 7 Apr. 2026
 
-_An early instance of the word fraught occurs in the 14th century poem Richard Coer de Lyon, about England's King Richard I, aka Richard the Lionheart. The line "The drowmound was so hevy fraught / That unethe myght it saylen aught" describes a large fast-sailing ship so heavily fraught—that is, loaded—that it can barely sail. The poet's use of fraught is typical for the time; originally, something that was fraught was laden with freight. For centuries, fraught continued to be used in relation to loaded ships, but that use is now considered archaic. These days, fraught is used in reference to situations that are heavy with tension, emotion, or some other weighty characteristic._
+_Need someone to do something in a hurry? You can tell that person to step on it, or you can tell them to expedite it. Figurative feet are involved in both cases, though less obviously in the second choice. Expedite comes from the Latin verb expedire, meaning “to free from entanglement or difficulty.” The feet come in at that word’s root: it traces back to Latin ped- or pes, meaning “foot.” Expedient and expedition also stepped into English by way of expedire._
 
