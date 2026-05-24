@@ -1,59 +1,48 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-05-23 12:04:28 UTC_
-
-### Messier 2
-
-![Messier 2](https://apod.nasa.gov/apod/image/2605/potw1913aM2_1024.jpg)
-
-After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a nebula without stars, this stunning Hubble image resolves stars across the cluster's central 40 light-years. Its population of stars numbers close to 150,000, concentrated within a total diameter of around 175 light-years. About 55,000 light-years distant toward the constellation Aquarius, this ancient denizen of the Milky Way, also known as NGC 7089, is 13 billion years old. An extended stellar debris stream, a signature of past gravitational tidal disruption, was recently found to be associated with Messier 2.
-
-
----
-
-## Words of the Day
+_Updated: 2026-05-24 12:08:18 UTC_
 
 ### Dictionary.com
 
-**erinaceous** _adjective_ • /[er-uh-ney-shuhs]/
+**sprezzatura** _noun_ • /[sprets-uh-toor-uh]/
 
-of the hedgehog family
+seemingly effortless stylishness
 
-If something is erinaceous, it has spiky, hedgehog-like qualities — or it might just be a hedgehog, plain and simple. The word might look a bit odd, but the Latin word for "hedgehog" is erinaceus, so erinaceous isn't so mysterious after all. Keep it handy for prickly subjects!
+Sprezzatura is a kind of grace where skill and style appear to come easily. But don't be fooled; looking effortlessly stylish might actually take a lot of work! The idea was popularized in Baldassare Castiglione's The Book of the Courtier, which stressed that sprezzatura is essential at a royal court. Curtsy or bow when you've mastered this word!
 
-> _The erinaceous creature curled into a tight ball of sharp spines to protect its belly._
+> _The handsome actor had a certain sprezzatura that captivated everyone at the gala._
 
 
 ### Britannica
 
-**gooey** _adjective_ • //ˈɡuːi//
+**foliage** _noun_ • //ˈfoʊliɪdʒ//
 
-Wet and sticky; often used figuratively to describe something excessively sentimental or cloying.
+The collective leaves of plants, especially when dense or abundant.
 
-> _The melted cheese on the pizza was wonderfully gooey, stretching with every bite._
+> _The vibrant autumn foliage painted the hillsides in shades of red and gold._
 >
-> _She found the overly sweet and sentimental romantic comedy to be a bit too gooey for her taste._
+> _Tropical rainforests are known for their incredibly dense and diverse foliage._
 >
-> _After baking, the brownies were perfectly gooey in the center, a delightful treat._
+> _She carefully pruned the overgrown foliage around the rose bushes to let more light in._
 >
 
-_Similar: sticky, viscous, cloying_  •  _Opposite: firm, solid, dry_
+_Similar: leaves, greenery, vegetation_
 
-> _"The chocolate was melting and becoming all gooey."_
+> _"The ivy was so thick upon the walls that in some places it covered them entirely, and the heavy, dark green foliage hung in masses."_
 >
-> — **Roald Dahl**, Charlie and the Chocolate Factory (1964)
+> — **Frances Hodgson Burnett**, The Secret Garden (1911)
 
 
 ### Merriam-Webster
 
-**expedite** _verb_ • /EK-spuh-dyte/
+**onus** _noun_ • /OH-nuss/
 
-To expedite something is to cause it to happen faster.
+Onus is a formal word typically used to refer to a responsibility, obligation, or burden. It is usually preceded by the word the.
 
-> _We’ll do what we can to expedite the processing of your application._
+> _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._
 >
 
-> “The new task force ... is required to submit an initial report in 60 days and final report in 90 days with recommendations to simplify, improve and expedite hiring.” — Blake Paterson, NOLA.com (New Orleans, Louisiana), 7 Apr. 2026
+> “The [London Book Fair] comes the week before the government is due to deliver its progress report on AI and copyright, after proposals for a relaxation of existing laws caused outrage last year. Philippa Gregory, the novelist, described the plans for an ‘opt-out’ policy, which puts the onus on writers to refuse permission for their work to be trawled, as akin to putting a sign on your front door asking burglars to pass by.” — The Guardian (London), 13 Mar. 2026
 
-_Need someone to do something in a hurry? You can tell that person to step on it, or you can tell them to expedite it. Figurative feet are involved in both cases, though less obviously in the second choice. Expedite comes from the Latin verb expedire, meaning “to free from entanglement or difficulty.” The feet come in at that word’s root: it traces back to Latin ped- or pes, meaning “foot.” Expedient and expedition also stepped into English by way of expedire._
+_Understanding the etymology of onus shouldn’t be a burden; it’s as simple as knowing that English borrowed the word—spelling, meaning, and all—from Latin in the 17th century. Onus is also a distant relative of the Sanskrit word anas, meaning cart (as in, a wheeled wagon or vehicle that carries a burden). English isn’t exactly loaded with words that come from Latin onus, but onerous (“difficult and unpleasant to do or deal with”) is one, which is fitting since in addition to being synonymous with “burden,” onus has also long been used to refer to obligations and responsibilities that one may find annoying, taxing, disagreeable, or distasteful._
 
