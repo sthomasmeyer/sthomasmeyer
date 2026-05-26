@@ -1,19 +1,12 @@
-# Days of May 25th Past: The Miracle of Istanbul (2005)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-25 14:15:33 UTC_
+_Updated: 2026-05-26 14:08:45 UTC_
 
+### NGC 3660 and Burçin's Galaxy
 
+![NGC 3660 and Burçin's Galaxy](https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### Thackeray's Globules
-
-![Thackeray's Globules](https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg)
-
-What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constellation of the Centaur (Centaurus). The largest of these  dark globules, first spotted by A. D. Thackeray in 1950 using a telescope in South Africa, is likely two separate but overlapping clouds, each more than one light-year wide. Along with other data, the featured Hubble palette image from the El Sauce Observatory in Chile, indicates that Thackeray's globules are fractured and churning as a result of intense ultraviolet radiation from young, hot stars already energizing and heating the bright emission nebula. These and similar dark globules known to be associated with other star forming regions may ultimately be dissipated by their hostile environment -- like cosmic lumps of butter in a hot frying pan.   Interstellar Jigsaw: Astronomy Puzzle of the Day
+The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and colorful image, surprisingly, is SN 2026cff, a supernova found just to the right of the central bar.  Farther in the distance is the bottom galaxy, known informally as Burçin’s galaxy, but formally cataloged as LEDA 1000714. The center of this galaxy appears to be an old elliptical galaxy, but it is strangely surrounded by not one but two rings of stars.  What created Burçin's galaxy is a mystery and remains a continuing topic of research, but it likely involves the accretion of one or more smaller galaxies.
 
 
 ---
@@ -22,45 +15,45 @@ What are these strange space globs?  Situated in rich star fields and glowing hy
 
 ### Dictionary.com
 
-**poignant** _adjective_ • /[poin-yuhnt]/
+**tarry** _verb_ • /[tar-ee]/
 
-affecting or moving the emotions
+to delay in coming or going; linger
 
-Poignant describes something that deeply affects you emotionally, sometimes with a dash of bittersweetness thrown in. It traces back to a Latin word meaning "to prick," the same root that gives us "puncture." This linguistic history suggests that a poignant moment doesn't just wash over you; it pierces your emotional defenses.
+To tarry is to linger or delay when you might otherwise move on. Though less common in everyday speech now, the word still appeals to people who like its measured, nonjudgmental tone. Just remember that there's a difference between tarrying and procrastinating!
 
-> _The movie’s ending was so poignant that many people in the theater were crying._
+> _Don't tarry too long at the library, or you will miss the bus home._
 
 
 ### Britannica
 
-**condiment** _noun_ • //ˈkɒndɪmənt//
+**apathy** _noun_
 
-A substance, such as a sauce, spice, or preparation, added to food to enhance its flavor or to complement it.
+A lack of interest, enthusiasm, or concern; indifference.
 
-> _A dash of hot sauce is my favorite condiment for scrambled eggs._
+> _The widespread apathy among the electorate led to a historically low voter turnout._
 >
-> _The restaurant offered an array of exotic condiments to accompany the main course._
+> _Despite the urgent pleas, a sense of apathy seemed to grip the community, preventing any collective action._
 >
-> _Salt and pepper are universal condiments found on almost every dining table._
+> _His initial passion for the project slowly faded into apathy as he faced repeated setbacks._
 >
 
-_Similar: seasoning, relish, sauce_
+_Similar: indifference, unconcern, detachment_  •  _Opposite: enthusiasm, passion, concern_
 
-> _"The art of seasoning, or of employing condiments, is one of the most important branches of cookery."_
+> _"I felt a coldness and a feeling of apathy, which I vainly endeavoured to overcome."_
 >
-> — **Jean Anthelme Brillat-Savarin**, The Physiology of Taste (1825)
+> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
 
 
 ### Merriam-Webster
 
-**sacrosanct** _adjective_ • /SAK-roh-sankt/
+**Gordian knot** _noun_ • /GOR-dee-un-NAHT/
 
-Sacrosanct is a formal word that describes something too important and respected to be changed or criticized. It can also mean "most sacred or holy."
+Gordian knot refers to a complicated and difficult problem. It is often used in the phrase cut the Gordian knot, which means “to solve a difficult problem in a very direct way by doing something forceful or extreme.”
 
-> _While the family's new matriarch aimed to maintain the familiar traditions of the holidays, she did not consider the details of their celebration to be sacrosanct._
+> _The organization’s change in leadership is being widely applauded as a step toward stability, but many are less than optimistic about the new director’s ability to cut the Gordian knot at the center of its troubles._
 >
 
-> "Sen. Paul Strommen of Sidney ... said there's no appetite among senators to empty the Veterans Aid Fund. 'There's certain things that are kind of sacrosanct, and veterans' aid is one of those things.'" — Todd von Kampen, The North Platte (Nebraska) Telegraph, 7 Mar. 2026
+> “Meanwhile, officials are having high-level conversations about the long-term effectiveness of Michigan’s aging dam infrastructure and the growing need for effective flood mitigation measures. Whitmer noted a Gordian knot of complexity around the state’s dams, many of which are operated through murky public-private arrangements.” — Byron McCauley, The Holland (Michigan) Sentinel, 23 Apr. 2026
 
-_Contrary to the beliefs of some, language is not sacrosanct; rather, it is subject to constant modification based on the needs, experiences, and even whims of those who use it. Take the word sacrosanct itself, which likely comes from the Latin phrase sacro sanctus meaning "made holy by a sacred rite." There's a definite semantic softening from that to the "too important and respected to be changed or criticized" meaning of sacrosanct. But holy moly, has sanctus led to a whole bunch of other English words with a truly pious flavor, from saint and sanctimony to sanctify and sanctuary. Sacrum ("a sacred rite"), source of the sacro in sacro sanctus, is no slouch either, living on in English anatomy as the name for our pelvic vertebrae—a shortening of os sacrum, which translates literally as "holy bone."_
+_According to legend, when the peasant Gordius became king of Gordium, capital of the ancient district of Phrygia (in what is now modern Türkiye), he fastened the yoke of his wagon to a beam with a very complex knot. Centuries later, when Alexander the Great arrived on the scene, he was told that he couldn’t conquer and rule Asia unless he proved himself worthy by untying the knot. Alexander quickly solved his problem—and gained a new kingdom—by slicing the knot in half with his sword. Since then, Gordian knot has been a term for a difficult problem, and the phrase “cut the Gordian knot” has been a way to describe a direct and forceful solution to an apparently insurmountable difficulty._
 
