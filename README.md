@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-26 14:08:45 UTC_
+_Updated: 2026-05-27 14:31:48 UTC_
 
-### NGC 3660 and Burçin's Galaxy
+### PK 164 +31.1: The Headphone Nebula
 
-![NGC 3660 and Burçin's Galaxy](https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg)
+![PK 164 +31.1: The Headphone Nebula](https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg)
 
-The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and colorful image, surprisingly, is SN 2026cff, a supernova found just to the right of the central bar.  Farther in the distance is the bottom galaxy, known informally as Burçin’s galaxy, but formally cataloged as LEDA 1000714. The center of this galaxy appears to be an old elliptical galaxy, but it is strangely surrounded by not one but two rings of stars.  What created Burçin's galaxy is a mystery and remains a continuing topic of research, but it likely involves the accretion of one or more smaller galaxies.
+What is a pair of headphones doing in the sky? Today’s image features the Headphone Nebula, also known as PK 164 +31.1 or Jones-Emberson 1. This planetary nebula, the remnant of a dying Sun-like star, faintly occupies an angular region of the Lynx constellation about 1/5th the diameter of the full moon. The red and blue-ish green colors trace hydrogen and oxygen atoms, respectively, that have been excited and ionized by the nebula's central white dwarf. The headphone shape, where two lobes of hydrogen puncture the inner region of oxygen, adds this object to a long list of oddly shaped nebulae. The morphology of such strange nebulae hint at the presence of a stellar or planetary companion, which can stir the material flowing out from the dying star. You can listen to Hubble and JWST sonifications of planetary nebulae through your very own headphones!
 
 
 ---
@@ -15,45 +15,47 @@ The upper galaxy might be more photogenic, but the lower galaxy is more unusual.
 
 ### Dictionary.com
 
-**tarry** _verb_ • /[tar-ee]/
+**swivet** _noun_ • /[swiv-it]/
 
-to delay in coming or going; linger
+a state of nervous excitement, haste, or anxiety
 
-To tarry is to linger or delay when you might otherwise move on. Though less common in everyday speech now, the word still appeals to people who like its measured, nonjudgmental tone. Just remember that there's a difference between tarrying and procrastinating!
+A swivet is a heightened state of nervousness, the kind that sends you rushing or even spiraling, but often over something small. The word tends to show up in the phrase "in a swivet," and it has a playful sound that softens the feeling it describes. It's easy to find yourself in a swivet, so have a mental escape plan ready for when it happens.
 
-> _Don't tarry too long at the library, or you will miss the bus home._
+> _She was in a swivet trying to find the right pasta shape for the pasta salad she planned to bring to the potluck._
 
 
 ### Britannica
 
-**apathy** _noun_
+**versatile** _adjective_
 
-A lack of interest, enthusiasm, or concern; indifference.
+Able to adapt or be adapted to many different functions or activities; capable of doing many different things competently.
 
-> _The widespread apathy among the electorate led to a historically low voter turnout._
+> _A truly versatile artist, she excelled in painting, sculpture, and music._
 >
-> _Despite the urgent pleas, a sense of apathy seemed to grip the community, preventing any collective action._
+> _The new software proved incredibly versatile, handling everything from data analysis to graphic design._
 >
-> _His initial passion for the project slowly faded into apathy as he faced repeated setbacks._
+> _His versatile skills made him an invaluable member of the team, capable of tackling any challenge._
 >
 
-_Similar: indifference, unconcern, detachment_  •  _Opposite: enthusiasm, passion, concern_
+_Similar: adaptable, flexible, multifaceted_  •  _Opposite: limited, inflexible, specialized_
 
-> _"I felt a coldness and a feeling of apathy, which I vainly endeavoured to overcome."_
+> _"The novel alone is a versatile enough form to express the complexity of modern life."_
 >
-> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
+> — **Virginia Woolf**, A Room of One's Own (1929)
 
 
 ### Merriam-Webster
 
-**Gordian knot** _noun_ • /GOR-dee-un-NAHT/
+**benevolent** _adjective_ • /buh-NEV-uh-lunt/
 
-Gordian knot refers to a complicated and difficult problem. It is often used in the phrase cut the Gordian knot, which means “to solve a difficult problem in a very direct way by doing something forceful or extreme.”
+Benevolent can describe someone or something that is kind and generous or something that is organized for the purpose of doing good.
 
-> _The organization’s change in leadership is being widely applauded as a step toward stability, but many are less than optimistic about the new director’s ability to cut the Gordian knot at the center of its troubles._
+> _The event's reception was courtesy of a benevolent donor who's chosen to remain anonymous._
+>
+> _They belong to several benevolent societies and charitable organizations._
 >
 
-> “Meanwhile, officials are having high-level conversations about the long-term effectiveness of Michigan’s aging dam infrastructure and the growing need for effective flood mitigation measures. Whitmer noted a Gordian knot of complexity around the state’s dams, many of which are operated through murky public-private arrangements.” — Byron McCauley, The Holland (Michigan) Sentinel, 23 Apr. 2026
+> "The Community Service Award is presented at the local, state and national levels to individuals and groups who have made outstanding voluntary, civil, heroic or benevolent contributions to their communities." — Devin Weeks, The Coeur d'Alene (Idaho) Press, 24 Dec. 2025
 
-_According to legend, when the peasant Gordius became king of Gordium, capital of the ancient district of Phrygia (in what is now modern Türkiye), he fastened the yoke of his wagon to a beam with a very complex knot. Centuries later, when Alexander the Great arrived on the scene, he was told that he couldn’t conquer and rule Asia unless he proved himself worthy by untying the knot. Alexander quickly solved his problem—and gained a new kingdom—by slicing the knot in half with his sword. Since then, Gordian knot has been a term for a difficult problem, and the phrase “cut the Gordian knot” has been a way to describe a direct and forceful solution to an apparently insurmountable difficulty._
+_One who is benevolent genuinely wishes other people well, a meaning reflected clearly in the word's Latin roots: benevolent comes from bene, meaning "good," and velle, meaning "to wish." Other descendants of velle in English include volition, which refers to the power to make one's own choices or decisions, and voluntary, as well as the rare velleity, meaning either "the lowest degree of volition" or "a slight wish or tendency." A more familiar velle descendant stands directly opposed to benevolent: malevolent describes someone or something having or showing a desire to cause harm to another person._
 
