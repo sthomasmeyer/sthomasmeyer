@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-28 14:43:25 UTC_
+_Updated: 2026-05-29 14:13:20 UTC_
 
-### NGC 1514: The Crystal Ball Nebula
+### Messier 104
 
-![NGC 1514: The Crystal Ball Nebula](https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg)
+![Messier 104](https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg)
 
-What do you see in this crystal ball?   The featured image shows NGC 1514, known as the Crystal Ball Nebula, observed by the Gemini North telescope on Maunakea, in Hawai'i.   NGC 1514 is 1,500 light-years away and was discovered by William Herschel in 1790.   This planetary nebula is formed when a star becomes a red giant and ejects its outer gas layers.   The ejected shell of gas is heated up by the core of the star to temperatures hotter than the surface of our Sun: that makes the gas shine, creating beautiful images like this one.       The slightly asymmetrical shape of the Crystal Ball Nebula reveals a secret: the bright star in the center has a companion.   As the two stars orbit each other with a period of about nine years, they shape the gas around them.   In about 10,000 - 25,000 years the nebula will be dissipated by their stellar winds.
+A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular moniker, the Sombrero Galaxy. Also known as NGC 4594, the Sombrero galaxy can be seen across the spectrum and is host to a central supermassive black hole. About 50,000 light-years across and 28 million light-years away, M104 is one of the largest galaxies at the southern edge of the Virgo Galaxy Cluster. Still, the spiky foreground stars in this field of view lie well within our own Milky Way. This broad view of the well-known galaxy was processed to reveal M104's extended halo, as well as a faint tidal stellar stream. It was captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the Cerro Tololo Inter-American Observatory.
 
 
 ---
@@ -15,47 +15,45 @@ What do you see in this crystal ball?   The featured image shows NGC 1514, known
 
 ### Dictionary.com
 
-**mercurial** _adjective_ • /[mer-kyoor-ee-uhl]/
+**flâneur** _noun_ • /[flah-nur]/
 
-volatile; fickle; erratic
+an idler or loafer
 
-Someone described as mercurial tends to shift quickly from one mood or direction to another. The word descends directly from Mercury, the Roman messenger god known for his speed and unpredictability. That sense of quick change carries through today, keeping life full of surprises.
+A flâneur is a leisurely wanderer, someone who idly strolls about with no particular destination in mind. The word comes out of 19th-century France and evokes the luxury of having time to do nothing at all. In an age of GPS and hyper-efficiency, there's something refreshing about adopting the aimless, unhurried pace of a flâneur.
 
-> _His mercurial personality meant he was laughing with us one minute and arguing the next._
+> _The flâneur spent his afternoon walking through the city streets, observing the bustling crowds with no destination in mind._
 
 
 ### Britannica
 
-**immense** _adjective_
+**aesthetic** _noun_ • //ɛsˈθɛtɪk//
 
-Extremely large in size, amount, or degree; vast.
+A set of principles concerned with the nature and appreciation of beauty, especially in art.
 
-> _The immense mountain range stretched across the horizon, its peaks touching the clouds._
+> _The minimalist design reflected a modern aesthetic, emphasizing clean lines and functionality._
 >
-> _She felt an immense sense of relief when she finally completed the challenging project._
+> _She developed a unique personal aesthetic that blended vintage fashion with contemporary trends._
 >
-> _The discovery of the ancient city revealed an immense wealth of historical artifacts._
+> _The architect's aesthetic prioritized sustainability and harmony with the natural environment._
 >
 
-_Similar: enormous, colossal, vast_  •  _Opposite: tiny, minute, minuscule_
+_Similar: style, taste, sensibility_
 
-> _"I was surprised, when I first saw him, to see how immense his stature was, and how much he exceeded in size the common proportions of humanity."_
+> _"Aesthetic criticism, in its highest form, is as much a creative art as pure creation itself."_
 >
-> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
+> — **Oscar Wilde**, The Critic as Artist (1891)
 
 
 ### Merriam-Webster
 
-**ingratiate** _verb_ • /in-GRAY-shee-ayt/
+**cohort** _noun_ • /KOH-hort/
 
-To ingratiate yourself with others is to gain their favor or approval by deliberately doing or saying things they will like. Ingratiate is usually used with with, and is often (though not always) used disapprovingly.
+Cohort refers to a group or band of individuals, as in “a cohort of supporters.” It can also be used for a group of individuals who have a statistical factor (such as age) in common in a demographic study, as in “a cohort of people born in the 1980s.” Cohort can be used for individuals too, as for a friend, companion, or colleague, but it is almost always used in its plural form.
 
-> _Scam artists often have an uncanny ability to ingratiate themselves with their victims using subtle flattery that only seems obvious in retrospect._
->
-> _Although she was nervous to be the new girl in school, Emma quickly ingratiated herself with her classmates through her effortless charm and kind demeanor._
+> _I wouldn’t have made it through graduate school without the help of my supportive cohort._
 >
 
-> “In ever greater numbers, Elizabeth’s subjects flocked north to ingratiate themselves with the Queen’s likely successor.” — Tracy Borman, The Stolen Crown: Treachery, Deceit, and the Death of the Tudor Dynasty, 2025
+> “By the time Rosie emerged ... for her afternoon meet-and-greet, the line of guests eager to hold the famed tarantula had already wrapped around the room and into the hallway. ... Tarantulas need to be at least 10 years old to be handled, so rearing a new cohort of Rosies could take up to a decade.” — Laura Penington, The Denver Post, 18 Aug. 2025
 
-_When you ingratiate yourself, you put yourself in someone’s good graces in order to gain their approval or favor. While the word ingratiate does not necessarily imply that your behavior is obsequious or otherwise improper, the word may be used disapprovingly by those who distrust your motives. The word entered English in the early 1600s from the combining of the Latin noun gratia, meaning “grace” or “favor,” with the English prefix in-. Gratia comes from the adjective gratus, meaning “pleasing, grateful.” Gratus has, over the centuries, ingratiated itself well with the English language as the ancestor of a whole host of words including gratuitous, congratulate, and grace._
+_In ancient times, a cohort was a military unit, one of ten divisions in a Roman legion. The term passed into English in the 15th century, when it was used in translations and writings about Roman history. Once cohort became established in our language, its meaning was extended, first to refer to any body of troops, then to any group of individuals with something in common (as in “a cohort of law students” or “a cohort of people who were born in the same year”), and later to a single companion. Some writers on usage have objected to this last sense because it can be hard to tell whether the plural refers to different individuals or different groups. The “companion” sense is well established in standard use, however, and its meaning is clear enough in such sentences as “her cohorts came along with her to the game.”_
 
