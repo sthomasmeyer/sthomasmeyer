@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-29 14:13:20 UTC_
+_Updated: 2026-05-30 12:11:37 UTC_
 
-### Messier 104
+### Supermoon Versus Micromoon
 
-![Messier 104](https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg)
+![Supermoon Versus Micromoon](https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg)
 
-A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular moniker, the Sombrero Galaxy. Also known as NGC 4594, the Sombrero galaxy can be seen across the spectrum and is host to a central supermassive black hole. About 50,000 light-years across and 28 million light-years away, M104 is one of the largest galaxies at the southern edge of the Virgo Galaxy Cluster. Still, the spiky foreground stars in this field of view lie well within our own Milky Way. This broad view of the well-known galaxy was processed to reveal M104's extended halo, as well as a faint tidal stellar stream. It was captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the Cerro Tololo Inter-American Observatory.
+What is so micro about tonight's blue micromoon?  Just after sunset, a full moon will appear slightly smaller and dimmer than usual.  The reason is that the Moon's fully illuminated phase occurs within a short time of apogee - when the Moon is farthest from the Earth in its elliptical orbit.  In fact, tonight's micromoon will be the farthest, smallest, and dimmest Moon this year.  But tonight's micromoon is notable for yet another reason: it is also a blue moon, meaning that it is the second full moon in the same month (moon-th).  Pictured here, a supermoon -- when the full moon appears near its largest -- is compared to a micromoon as photographed from Kolkata, India in May and December of 2021.  Although the next micromoon occurs next month, and the next blue moon at the end of 2028, the next blue micromoon will not occur until 2053.
 
 
 ---
@@ -15,45 +15,47 @@ A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile f
 
 ### Dictionary.com
 
-**flâneur** _noun_ • /[flah-nur]/
+**brummagem** _adjective_ • /[bruhm-uh-juhm]/
 
-an idler or loafer
+showy but inferior and worthless
 
-A flâneur is a leisurely wanderer, someone who idly strolls about with no particular destination in mind. The word comes out of 19th-century France and evokes the luxury of having time to do nothing at all. In an age of GPS and hyper-efficiency, there's something refreshing about adopting the aimless, unhurried pace of a flâneur.
+Something brummagem may catch your eye at first, but it ultimately falls short in quality or substance. The word comes from a nickname for Birmingham, England, once known for producing imitation goods that mimicked more expensive items. Look out for those brummagem items when you're shopping!
 
-> _The flâneur spent his afternoon walking through the city streets, observing the bustling crowds with no destination in mind._
+> _The brummagem watch looked expensive at the flea market but stopped working the next day._
 
 
 ### Britannica
 
-**aesthetic** _noun_ • //ɛsˈθɛtɪk//
+**culinary** _adjective_
 
-A set of principles concerned with the nature and appreciation of beauty, especially in art.
+Relating to cooking or the kitchen.
 
-> _The minimalist design reflected a modern aesthetic, emphasizing clean lines and functionality._
+> _The chef attended a prestigious culinary school to hone his skills._
 >
-> _She developed a unique personal aesthetic that blended vintage fashion with contemporary trends._
+> _Her culinary creations were always a delight, blending traditional flavors with modern techniques._
 >
-> _The architect's aesthetic prioritized sustainability and harmony with the natural environment._
+> _Exploring the local markets is a fantastic way to discover new culinary traditions._
 >
 
-_Similar: style, taste, sensibility_
+_Similar: gastronomic, kitchen-related_
 
-> _"Aesthetic criticism, in its highest form, is as much a creative art as pure creation itself."_
+> _"The first thing to be considered in culinary matters is the quality of the ingredients."_
 >
-> — **Oscar Wilde**, The Critic as Artist (1891)
+> — **Hannah Glasse**, The Art of Cookery Made Plain and Easy (1747)
 
 
 ### Merriam-Webster
 
-**cohort** _noun_ • /KOH-hort/
+**unctuous** _adjective_ • /UNK-chuh-wus/
 
-Cohort refers to a group or band of individuals, as in “a cohort of supporters.” It can also be used for a group of individuals who have a statistical factor (such as age) in common in a demographic study, as in “a cohort of people born in the 1980s.” Cohort can be used for individuals too, as for a friend, companion, or colleague, but it is almost always used in its plural form.
+Unctuous is a word that’s undergone change in recent years. It now often describes food that is fatty and oily, especially in a pleasing way. Formerly it was more typically applied as a formal adjective describing someone who is figuratively oily—that is, overly or insincerely flattering. Both uses can be found today.
 
-> _I wouldn’t have made it through graduate school without the help of my supportive cohort._
+> _Braising chicken thighs with their skins on creates a rich, unctuous sauce that can be spooned back over the finished dish._
+>
+> _The mayor’s unctuous assistant was making the rounds at the fundraiser, chatting up those known to have the biggest bank accounts._
 >
 
-> “By the time Rosie emerged ... for her afternoon meet-and-greet, the line of guests eager to hold the famed tarantula had already wrapped around the room and into the hallway. ... Tarantulas need to be at least 10 years old to be handled, so rearing a new cohort of Rosies could take up to a decade.” — Laura Penington, The Denver Post, 18 Aug. 2025
+> “The thinly sliced pork belly is shaved into curlicues and cooks up super quickly and crisply, so it’s great for an impatient group or as a first round. Thick slices are more akin to what you’d find at Korean BBQ restaurants nowadays; they’ll cook and sizzle in their own fat … resulting in juicy, unctuous bites.” — Irene Yoo, Soju Party: How to Drink (and Eat!) Like a Korean, 2025
 
-_In ancient times, a cohort was a military unit, one of ten divisions in a Roman legion. The term passed into English in the 15th century, when it was used in translations and writings about Roman history. Once cohort became established in our language, its meaning was extended, first to refer to any body of troops, then to any group of individuals with something in common (as in “a cohort of law students” or “a cohort of people who were born in the same year”), and later to a single companion. Some writers on usage have objected to this last sense because it can be hard to tell whether the plural refers to different individuals or different groups. The “companion” sense is well established in standard use, however, and its meaning is clear enough in such sentences as “her cohorts came along with her to the game.”_
+_Unctuous is a slippery word in multiple ways. Its ultimate source is a Latin word meaning “to anoint; to smear or rub with oil or an oily substance,” and this oily character was key to the word’s meaning when it first appeared in the 14th century, as when  John Trevisa wrote “Þe fruit of olyue is ful of liȝt, likynge, and vnctuous” (in modern English: “the olive fruit is bright, delicious, and unctuous”). Unctuous here means “fatty” or “oily,” as did its immediate Medieval Latin predecessor unctuosus. This same use of unctuous is quite prominent today, as the word often describes deliciously fatty foods and the sensation of such foods on the palate (as in “an unctuous mouthfeel”). But come across unctuous in literature of the 19th or 20th century and you’re more likely to see a less pleasant application, with the word describing a person or behavior that is figuratively oily—that is, overly or insincerely flattering._
 
