@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-05-30 12:11:37 UTC_
+_Updated: 2026-05-31 12:17:22 UTC_
 
-### Supermoon Versus Micromoon
+### Eagle Nebula Pillars in Infrared from Hubble
 
-![Supermoon Versus Micromoon](https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg)
+![Eagle Nebula Pillars in Infrared from Hubble](https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg)
 
-What is so micro about tonight's blue micromoon?  Just after sunset, a full moon will appear slightly smaller and dimmer than usual.  The reason is that the Moon's fully illuminated phase occurs within a short time of apogee - when the Moon is farthest from the Earth in its elliptical orbit.  In fact, tonight's micromoon will be the farthest, smallest, and dimmest Moon this year.  But tonight's micromoon is notable for yet another reason: it is also a blue moon, meaning that it is the second full moon in the same month (moon-th).  Pictured here, a supermoon -- when the full moon appears near its largest -- is compared to a micromoon as photographed from Kolkata, India in May and December of 2021.  Although the next micromoon occurs next month, and the next blue moon at the end of 2028, the next blue micromoon will not occur until 2053.
+Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near infrared light, allows the viewer to see through much of the thick dust that makes the pillars opaque in visible light.  The giant structures are light years in length and dubbed informally the Pillars of Creation.  Associated with the open star cluster M16, the Eagle Nebula lies about 6,500 light years away.  The Eagle Nebula is a satisfying target for small telescopes in a nebula-rich part of the sky toward the split constellation Serpens Cauda (the tail of the snake).    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
 
 ---
@@ -15,47 +15,47 @@ What is so micro about tonight's blue micromoon?  Just after sunset, a full moon
 
 ### Dictionary.com
 
-**brummagem** _adjective_ • /[bruhm-uh-juhm]/
+**skirl** _noun_ • /[skurl]/
 
-showy but inferior and worthless
+the sound of bagpipes
 
-Something brummagem may catch your eye at first, but it ultimately falls short in quality or substance. The word comes from a nickname for Birmingham, England, once known for producing imitation goods that mimicked more expensive items. Look out for those brummagem items when you're shopping!
+A skirl is the high, piercing sound of bagpipes. You know, the kind that carries far and cuts through the Highland air. The word's sharp, almost onomatopoeic quality mirrors the sound it names. It's impossible to confuse a skirl for anything else.
 
-> _The brummagem watch looked expensive at the flea market but stopped working the next day._
+> _The sharp skirl of bagpipes filled the air as the parade drew near._
 
 
 ### Britannica
 
-**culinary** _adjective_
+**eavesdrop** _verb_ • //ˈiːvzdrɑːp//
 
-Relating to cooking or the kitchen.
+To listen secretly to what other people are saying.
 
-> _The chef attended a prestigious culinary school to hone his skills._
+> _She tried to eavesdrop on her brother's phone call, but he noticed her at the door._
 >
-> _Her culinary creations were always a delight, blending traditional flavors with modern techniques._
+> _It's rude to eavesdrop, even if the conversation sounds interesting._
 >
-> _Exploring the local markets is a fantastic way to discover new culinary traditions._
+> _The detective had to eavesdrop on the suspects' conversations to gather evidence._
 >
 
-_Similar: gastronomic, kitchen-related_
+_Similar: overhear, snoop, spy_  •  _Opposite: ignore, disregard_
 
-> _"The first thing to be considered in culinary matters is the quality of the ingredients."_
+> _"He was a boy who could not endure to be an eavesdropper, but he was human, and the temptation was strong."_
 >
-> — **Hannah Glasse**, The Art of Cookery Made Plain and Easy (1747)
+> — **Mark Twain**, The Adventures of Tom Sawyer (1876)
 
 
 ### Merriam-Webster
 
-**unctuous** _adjective_ • /UNK-chuh-wus/
+**permutation** _noun_ • /per-myoo-TAY-shun/
 
-Unctuous is a word that’s undergone change in recent years. It now often describes food that is fatty and oily, especially in a pleasing way. Formerly it was more typically applied as a formal adjective describing someone who is figuratively oily—that is, overly or insincerely flattering. Both uses can be found today.
+Permutation is a formal word for any one of the many different ways or forms in which something exists or can be arranged. It can also refer to a major or fundamental change in something based primarily on rearrangement of its existing elements. Permutation is usually used in its plural form.
 
-> _Braising chicken thighs with their skins on creates a rich, unctuous sauce that can be spooned back over the finished dish._
+> _Early permutations of the design look nothing like the final result._
 >
-> _The mayor’s unctuous assistant was making the rounds at the fundraiser, chatting up those known to have the biggest bank accounts._
+> _The system has gone through several permutations._
 >
 
-> “The thinly sliced pork belly is shaved into curlicues and cooks up super quickly and crisply, so it’s great for an impatient group or as a first round. Thick slices are more akin to what you’d find at Korean BBQ restaurants nowadays; they’ll cook and sizzle in their own fat … resulting in juicy, unctuous bites.” — Irene Yoo, Soju Party: How to Drink (and Eat!) Like a Korean, 2025
+> “Megadeth have weathered nearly all of metal’s generational permutations, only once deviating from their ... formula with 1999’s infamously confused country’n’industrial mish-mash, Risk.” — Eli Enis, Pitchfork, 26 Jan. 2026
 
-_Unctuous is a slippery word in multiple ways. Its ultimate source is a Latin word meaning “to anoint; to smear or rub with oil or an oily substance,” and this oily character was key to the word’s meaning when it first appeared in the 14th century, as when  John Trevisa wrote “Þe fruit of olyue is ful of liȝt, likynge, and vnctuous” (in modern English: “the olive fruit is bright, delicious, and unctuous”). Unctuous here means “fatty” or “oily,” as did its immediate Medieval Latin predecessor unctuosus. This same use of unctuous is quite prominent today, as the word often describes deliciously fatty foods and the sensation of such foods on the palate (as in “an unctuous mouthfeel”). But come across unctuous in literature of the 19th or 20th century and you’re more likely to see a less pleasant application, with the word describing a person or behavior that is figuratively oily—that is, overly or insincerely flattering._
+_“Ch-ch-changes!” David Bowie sang memorably in his classic (and appropriately titled) hit “Changes,” which concerns the phenomenon of artistic reinvention—something Bowie knew a lot about. In fact, he could have titled the song “Permutations,” though we admit that the word would have been a bit clunkier to sing. Permutation is, after all, all about change—specifically change (as in character or condition) of something based primarily on rearrangement of its existing elements. For example, Bowie’s artistic persona went through many permutations over the course of his career, from the alien rock star Ziggy Stardust to the aristocratic Thin White Duke, with the common denominator—the existing elements—being Bowie himself. (Permutation can also be used for a form or variety resulting from such changes, and can thus refer to Bowie’s individual personae as well.) Permutation, perhaps ironically, has not changed all that much since it was borrowed into Middle English from Anglo-French as permutacioun._
 
