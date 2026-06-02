@@ -1,50 +1,59 @@
-# Words of the Day
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-06-01 16:45:20 UTC_
+_Updated: 2026-06-02 15:02:58 UTC_
+
+### The Vela Supernova Remnant
+
+![The Vela Supernova Remnant](https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg)
+
+The explosion is over, but the consequences continue.  About twelve thousand years ago, a relatively normal star in the constellation Vela suddenly exploded, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image, taken piecemeal over 60 hours from the Khomas Region of Namibia, captures some of that filamentary and gigantic shock in visible light, with details highlighted by hydrogen (red) and oxygen (blue) emissions. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Explore the Universe: Random APOD Generator
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**hopscotch** _verb_ • /[hop-skoch]/
+**droll** _adjective_ • /[drohl]/
 
-to jump or leap from one place to another
+amusing in an odd way
 
-To hopscotch is to move by hopping or leaping from place to place, much like the playground game that inspired the word. A rabbit might hopscotch across a lawn, or a child might hopscotch over puddles after the rain. The word captures motion that feels lively, playful, and light on its feet.
+Someone who's droll is funny in an unusual or understated way, making you laugh with their deadpan remarks or awkward pauses. The word comes from a French term that refers to a jolly good fellow. And that's exactly the kind of charm a droll friend brings to your life!
 
-> _The mountain goat began to hopscotch between the narrow ledges to reach the high peak._
+> _The comedian's droll sense of humor had the entire audience chuckling at his unusual stories._
 
 
 ### Britannica
 
-**mischievous** _adjective_
+**swaddle** _verb_
 
-Showing a playful desire to cause trouble or minor annoyance.
+To wrap (especially a baby) tightly in cloth or blankets.
 
-> _The mischievous kitten delighted in batting at the dangling ornaments on the Christmas tree._
+> _The nurse gently swaddled the newborn, ensuring he felt secure and warm._
 >
-> _His mischievous grin suggested he had a secret plan to prank his older brother._
+> _In many cultures, infants are traditionally swaddled to promote a sense of calm._
 >
-> _Despite her mischievous nature, she never intended any real harm._
+> _She learned how to swaddle her baby from a video, making sure the technique was just right._
 >
 
-_Similar: playful, impish, roguish_  •  _Opposite: well-behaved, obedient, serious_
+_Similar: wrap, enfold, bundle_  •  _Opposite: unwrap, uncover, free_
 
-> _"Elizabeth, having rather expected to see him in his glory, and to receive his congratulations on the marriage of her eldest sister with a man of such importance, had by no means been prepared for such a solemnity. She knew not what to think, or how to account for it. They walked on, without speaking a word, for some time; till at length Elizabeth, unable to account for his mischievous silence, began to suspect him of some design."_
+> _"And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Luke**, The Gospel of Luke (c. 80-100 AD)
 
 
 ### Merriam-Webster
 
-**palatable** _adjective_ • /PAL-uh-tuh-bul/
+**crux** _noun_ • /KRUKS/
 
-Palatable describes something that has a pleasant or agreeable taste, or that is pleasant or acceptable to someone.
+Crux refers to the most important part of something (such as a problem, issue, or puzzle). It is often used in the phrase "the crux of."
 
-> _Our group was pleasantly surprised that the food options at the local fair were actually palatable this year._
->
-> _Given the traffic downtown, traveling by train is a palatable alternative to driving._
+> _The crux of the problem is that the project's budget is totally inadequate._
 >
 
-> “[Toni] Morrison’s work was not meant to be a palatable salve. Instead, surprise and provocation are the ingredients of her fiction.” — Edna Bonhomme, The New Republic, 6 Mar. 2026
+> "The new trees number in the thousands. ... What will become of this nursery in the wild in the next hundred years, or thousand, is the crux of a scientific and policy dispute. Starkly different visions of how the grove will recover in the long run have implications on how forest managers should act today." — Doug Smith, The Los Angeles Times, 15 Mar. 2026
 
-_It may be a coincidence that you can’t spell the word palatable without all of the letters in plate (the two words are etymologically unrelated), but this fact may help you remember that palatable is synonymous with a host of words that can describe an enjoyable meal, from tasty to toothsome. Alternatively, you could just stick your finger in your mouth and touch the roof of your mouth, aka your palate. As the palate was once considered the seat of one’s sense of taste, so the word palate eventually came to refer to both a literal and figurative sense of taste (as in “architecture too ornate for my palate”). The adjective palatable arose from palate (via the now-rare verb palate defined in our Unabridged dictionary as “to taste or relish”) in the 17th century, and functions similarly. Seasonings from adobo to za’atar make food more palatable, certainly, but ideas and advice can be made more palatable, too. As a wise woman once sang, a spoonful of sugar helps the medicine go down._
+_Latin speakers used crux to refer literally to an instrument of torture, often a cross or stake, and figuratively to the torture and misery inflicted by means of such an instrument. When English speakers adopted crux in the early 18th century, they used it to mean "a puzzling or difficult problem." In the late 19th century, crux developed a more specific use referring to an essential point of a legal case that required resolution before the case as a whole could be resolved. Today, the verdict on crux is that it can be used to refer to any important part of a problem or argument, inside or outside of the courtroom._
 
