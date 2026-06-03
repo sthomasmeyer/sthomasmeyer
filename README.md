@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-06-02 15:02:58 UTC_
+_Updated: 2026-06-03 15:51:47 UTC_
 
-### The Vela Supernova Remnant
+### Andromeda Through Gas and Dust
 
-![The Vela Supernova Remnant](https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg)
+![Andromeda Through Gas and Dust](https://apod.nasa.gov/apod/image/2606/andromeda_1024.png)
 
-The explosion is over, but the consequences continue.  About twelve thousand years ago, a relatively normal star in the constellation Vela suddenly exploded, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image, taken piecemeal over 60 hours from the Khomas Region of Namibia, captures some of that filamentary and gigantic shock in visible light, with details highlighted by hydrogen (red) and oxygen (blue) emissions. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Explore the Universe: Random APOD Generator
+Over 1000 years ago, Persian astronomer Abd al-Rahman al-Sufi published humanity’s oldest known record of the Andromeda Galaxy in "The Book of Fixed Stars" (Bodleian Library MS. Marsh 144 p. 167). 800 years later, Andromeda became the 31st entry in Charles Messier’s "Catalogue of Nebulae and Star Clusters". From “a small cloud” to “nebula” and now known to be our nearest major galaxy, Andromeda has remained a fundamental astronomical object. Today’s image, taken over 202 hours, shows how far we have come in our ability to observe our neighbor. The diffuse red and blue clouds are mostly foreground ionized hydrogen and oxygen well within our Milky Way. Pink-red clouds of hydrogen ionized by the energetic light of young stars trace the galaxy’s dusty spiral arms. M32 and M110 are satellite galaxies pictured orbiting the larger Andromeda. Despite its long history of observation through ancient unaided eyes to modern telescopes, Andromeda still holds countless secrets that astronomers will continue to search for, including how galaxies merge and evolve, as well as the nature of the dark matter that galaxies reside in.   Teachers! the NASA/IPAC Teacher Archive Research Program is officially open for applications!
 
 
 ---
@@ -15,45 +15,31 @@ The explosion is over, but the consequences continue.  About twelve thousand yea
 
 ### Dictionary.com
 
-**droll** _adjective_ • /[drohl]/
+**repose** _verb_ • /[ri-pohz]/
 
-amusing in an odd way
+to lie or be at rest after work or activity
 
-Someone who's droll is funny in an unusual or understated way, making you laugh with their deadpan remarks or awkward pauses. The word comes from a French term that refers to a jolly good fellow. And that's exactly the kind of charm a droll friend brings to your life!
+To repose is to lounge after doing something strenuous. Animals repose under the shade of a tree after running around, and tired minds repose after a long workday. The word has a calm, almost poetic stillness to it, as if it's gently inviting you to take it easy.
 
-> _The comedian's droll sense of humor had the entire audience chuckling at his unusual stories._
+> _After a long day of hiking, the tired travelers decided to repose by the campfire._
 
 
 ### Britannica
 
-**swaddle** _verb_
+**panorama** _noun_ • /pænəˈrɑːmə/
 
-To wrap (especially a baby) tightly in cloth or blankets.
+A comprehensive and wide-ranging view or survey of a subject, scene, or sequence of events.
 
-> _The nurse gently swaddled the newborn, ensuring he felt secure and warm._
+> _From the mountain peak, we enjoyed a breathtaking panorama of the entire valley._
 >
-> _In many cultures, infants are traditionally swaddled to promote a sense of calm._
+> _The documentary offered a fascinating panorama of 20th-century political movements._
 >
-> _She learned how to swaddle her baby from a video, making sure the technique was just right._
->
-
-_Similar: wrap, enfold, bundle_  •  _Opposite: unwrap, uncover, free_
-
-> _"And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn."_
->
-> — **Luke**, The Gospel of Luke (c. 80-100 AD)
-
-
-### Merriam-Webster
-
-**crux** _noun_ • /KRUKS/
-
-Crux refers to the most important part of something (such as a problem, issue, or puzzle). It is often used in the phrase "the crux of."
-
-> _The crux of the problem is that the project's budget is totally inadequate._
+> _The artist captured a vivid panorama of the bustling city market in her latest painting._
 >
 
-> "The new trees number in the thousands. ... What will become of this nursery in the wild in the next hundred years, or thousand, is the crux of a scientific and policy dispute. Starkly different visions of how the grove will recover in the long run have implications on how forest managers should act today." — Doug Smith, The Los Angeles Times, 15 Mar. 2026
+_Similar: vista, overview, sweep_  •  _Opposite: close-up, detail, fragment_
 
-_Latin speakers used crux to refer literally to an instrument of torture, often a cross or stake, and figuratively to the torture and misery inflicted by means of such an instrument. When English speakers adopted crux in the early 18th century, they used it to mean "a puzzling or difficult problem." In the late 19th century, crux developed a more specific use referring to an essential point of a legal case that required resolution before the case as a whole could be resolved. Today, the verdict on crux is that it can be used to refer to any important part of a problem or argument, inside or outside of the courtroom._
+> _"Marseilles, seen from the heights of Notre-Dame de la Garde, presents a magnificent panorama."_
+>
+> — **Alexandre Dumas**, The Count of Monte Cristo (1844)
 
