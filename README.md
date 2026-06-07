@@ -1,45 +1,34 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-06-06 12:13:32 UTC_
-
-### Charon: Moon of Pluto
-
-![Charon: Moon of Pluto](https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg)
-
-A darkened and mysterious north polar region known to some as Mordor Macula caps this premier view of Charon, Pluto's largest moon. The high-resolution image was captured by the interplanetary space probe New Horizons near its closest approach to distant Pluto on July 14, 2015. The combined blue, red, and infrared image data was processed to enhance colors and follow variations in Charon's surface properties with a resolution of about 2.9 kilometers (1.8 miles). A stunning image of Charon's Pluto-facing hemisphere, it also features a clear view of an apparently moon-girdling belt of fractures and canyons that seems to separate smooth southern plains from varied northern terrain. Charon is 1,214 kilometers (754 miles) across. That's about 1/10th the size of planet Earth but a whopping 1/2 the diameter of Pluto itself, and makes it the largest satellite relative to its parent body in the Solar System. Still, the moon appears as a small bump at about the 1 o'clock position on Pluto's disk in the grainy, negative, telescopic picture inset at upper left. That image was used by James Christy and Robert Harrington at the U.S. Naval Observatory in Flagstaff to discover Charon in June of 1978.
-
-
----
-
-## Words of the Day
+_Updated: 2026-06-07 12:47:08 UTC_
 
 ### Dictionary.com
 
-**admix** _verb_ • /[ad-miks]/
+**humdinger** _noun_ • /[huhm-ding-er]/
 
-to mingle with or add to something else
+a person, thing, action, or statement of remarkable excellence or effect
 
-To admix is to blend one thing into another. A chef might admix spices into a sauce, while a musician might admix jazz into a classical style. The word is often used in a technical sense for adding a secondary substance to a base, but it can also apply to something like a blend of emotions, such as bittersweetness. Add something extra and admix!
+A humdinger is something remarkable enough to leave a lasting impression. You might hear someone describe an outrageous story or an exciting game by saying, "That was a real humdinger!" Fittingly, the word itself sounds energetic and a little playful, matching the larger-than-life quality of whatever it describes. After all, a true humdinger doesn't just get noticed — it steals the whole show.
 
-> _She decided to admix a secret family ingredient into the simmering tomato sauce._
+> _The championship match was a real humdinger, with a last-second goal that left the crowd roaring._
 
 
 ### Britannica
 
-**surveillance** _noun_
+**hangdog** _adjective_
 
-The act of carefully watching someone or something, especially in order to prevent or detect a crime, or to monitor for a specific purpose.
+Exhibiting a dejected, guilty, or ashamed appearance; downcast.
 
-> _The security team maintained constant surveillance on the suspicious package._
+> _After being caught red-handed, the child wore a hangdog expression, knowing he was in trouble._
 >
-> _Modern technology allows for widespread surveillance, raising questions about privacy._
+> _The dog, having chewed up the sofa cushion, greeted its owner with a hangdog look and a wagging tail._
 >
-> _The detective placed the suspect under twenty-four-hour surveillance._
+> _Despite his hangdog demeanor, the salesman managed to close the deal with surprising ease._
 >
 
-_Similar: observation, monitoring, scrutiny_  •  _Opposite: disregard, inattention, neglect_
+_Similar: downcast, dejected, sheepish_  •  _Opposite: cheerful, confident, proud_
 
-> _"The most important single step in the control of any disease is surveillance, the keeping of watch over its incidence and spread."_
+> _"He had a hangdog look, and a shuffling manner, which might have been occasioned by the consciousness of being a stranger, or by the uncomfortableness of his new shoes, or by any one of a hundred other causes."_
 >
-> — **Rachel Carson**, Silent Spring (1962)
+> — **Charles Dickens**, Oliver Twist (1838)
 
