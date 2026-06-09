@@ -1,19 +1,12 @@
-# Days of June 8th Past: Tim Berners-Lee (1955)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-06-08 14:51:02 UTC_
+_Updated: 2026-06-09 13:46:23 UTC_
 
+### Thor's Helmet
 
+![Thor's Helmet](https://apod.nasa.gov/apod/image/2606/Thor_Drudis_960.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### Comet R3 PanSTARRS Through Time
-
-![Comet R3 PanSTARRS Through Time](https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg)
-
-What happens to a comet as it leaves our inner Solar System?  Now, the arrival of a comet into the inner Solar System is typically heralded with great fanfare and high hopes that the comet will become bright and photogenic. But on the way out, the comet's nucleus is less warmed by the Sun, less gas and dust are expelled, the bright coma around the nucleus shrinks and fades, and the tail length drops off. Many comets will then return to the outer Solar System and only return in hundreds or thousands of years. In contrast, some comets -- like Comet C/2025 R3 (PanSTARRS) -- receive a gravitational kick from the planets and so will never return. Pictured, Comet R3 PanSTARRs was imaged deeply many nights in early to mid-May near Cerro Paranal in Chile. Later images appear closer to the top and clearly show the shrinking ion tail.    Comet R3 Gallery: Comet R3 PanSTARRS in 2026
+Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown by a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This sharp image is a combination of deep images taken in light emitted by hydrogen (red) and oxygen (blue).  The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
 
 ---
@@ -22,31 +15,31 @@ What happens to a comet as it leaves our inner Solar System?  Now, the arrival o
 
 ### Dictionary.com
 
-**gudgeon** _noun_ • /[guhj-uhn]/
+**perforce** _adverb_ • /[per-fawrs]/
 
-a person who is easily duped or cheated
+of necessity; by force of circumstance
 
-A gudgeon is the kind of person who falls for every scam or trick in the book. The word originally referred to a small fish that was especially easy to catch, which explains how it came to describe a gullible person. If something sounds too good to be true, a gudgeon is the one who believes it anyway.
+When something happens perforce, it's because circumstances leave no alternative. A canceled flight may perforce leave travelers stranded overnight, or bad weather may perforce change barbecue plans. In such moments, choice falls away and necessity takes the lead.
 
-> _The smooth-talking salesman easily convinced the gudgeon to buy the car for an inflated price._
+> _With the main bridge closed for repairs, the travelers were perforce required to take the long detour._
 
 
 ### Britannica
 
-**passive** _adjective_
+**rustic** _adjective_ • //rʌˈstɪk//
 
-Used to describe someone who allows things to happen or who accepts what other people do or decide without trying to change anything.
+Pertaining to or characteristic of the countryside, often implying a simple, unsophisticated, or charmingly plain quality.
 
-> _She adopted a passive stance, letting her colleagues make all the decisions._
+> _The old cabin, with its rough-hewn logs and stone fireplace, had a wonderfully rustic charm._
 >
-> _His passive resistance to the new policy was evident in his lack of participation._
+> _They preferred a rustic lifestyle, growing their own food and living close to nature._
 >
-> _The audience remained passive throughout the lengthy, uninspiring lecture._
+> _The restaurant's decor featured rustic wooden tables and mismatched antique chairs._
 >
 
-_Similar: submissive, acquiescent, unresisting_  •  _Opposite: active, assertive, proactive_
+_Similar: rural, pastoral, simple_  •  _Opposite: urban, sophisticated, refined_
 
-> _"You may say the wisest thing you can, old man, you who have lived seventy years, not without honor of a kind, and I see very well the most encouraging of your words are but the passive acceptance of the irremediable. Most of your good is merely a private agreement with the devil."_
+> _"The little republic of which I was the head, and by long custom, became perfectly acquainted with the characters of its members, and had a rustic felicity not to be equalled by the most refined politeness."_
 >
-> — **Henry David Thoreau**, Walden; or, Life in the Woods (1854)
+> — **Oliver Goldsmith**, The Vicar of Wakefield (1766)
 
