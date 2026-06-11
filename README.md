@@ -1,34 +1,41 @@
-# Words of the Day
+# Days of June 11th Past: Michael Jordan (1997)
 
-_Updated: 2026-06-10 14:28:31 UTC_
+_Updated: 2026-06-11 14:50:36 UTC_
+
+
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**barnstorm** _verb_ • /[bahrn-stawrm]/
+**ubiquitous** _adjective_ • /[yoo-bik-wi-tuhs]/
 
-to tour small towns to stage theatrical performances
+being everywhere
 
-To barnstorm is to travel from town to town putting on shows, especially in smaller communities. The term first became popular with touring theater troupes and later with daredevil pilots performing aerial stunts and politicians who visited towns to speak. No matter the occasion, when you barnstorm it's bound to draw a crowd!
+Ubiquitous things seem to be everywhere at once. Some are so common you barely notice them until you stop and look: smartphones in people's hands, coffee shops on every corner, electric scooters zipping down city streets. If you can't escape it, it's probably ubiquitous.
 
-> _The traveling actors decided to barnstorm across the Midwest, performing their new play in several rural towns._
+> _QR codes have become a ubiquitous part of the shopping experience._
 
 
 ### Britannica
 
-**aspire** _verb_ • //əˈspaɪər//
+**TLC** _noun_
 
-To direct one's hopes or ambitions toward achieving something.
+Informal abbreviation for "tender loving care," referring to gentle, attentive care given to someone or something to improve their well-being or condition.
 
-> _Many young entrepreneurs aspire to build companies that change the world._
+> _After a long week, all she wanted was a quiet evening at home and a little TLC._
 >
-> _She has always aspired to travel the globe and experience diverse cultures._
+> _The antique doll needed careful restoration and a lot of TLC to bring it back to its original beauty._
 >
-> _Even in difficult times, it's important to aspire to a brighter future._
+> _With some TLC, the neglected garden began to flourish with vibrant flowers and healthy vegetables._
 >
 
-_Similar: desire, aim, hope_  •  _Opposite: despair, relinquish, abandon_
+_Similar: care, attention, nurturing_  •  _Opposite: neglect, indifference, abuse_
 
-> _"I have no ambition to govern men; no, that is a kingly office, and I am a private man. But I have a restless mind, and I aspire to be more than a private man, to be a discoverer of unknown regions, a creator of new worlds."_
+> _"The house was old, but with a little TLC, it could be a real showplace."_
 >
-> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
+> — **Erma Bombeck**, The Grass Is Always Greener Over the Septic Tank (1976)
 
