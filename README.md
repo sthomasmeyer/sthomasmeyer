@@ -1,45 +1,34 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-06-12 14:13:00 UTC_
-
-### Venus and Jupiter: Conjunction from Avebury
-
-![Venus and Jupiter: Conjunction from Avebury](https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury1024.jpg)
-
-To see Venus and Jupiter together this month, you won't need binoculars or even a telescope. Just look up after sunset and you'll find them emerging as the sky grows dark near the western horizon. In fact, on June 9 the two brightest planets were in close conjunction, separated on the sky by less than 2 degrees from our perspective. Since (brighter) inner planet Venus orbits the Sun faster than outer planet Jupiter, it catches up with and passes the outer planet along the ecliptic roughly every 13 months. But every three years or so their resulting conjunction can be viewed far enough from the Sun to be easily seen in Earth's twilight skies. On June 9, the two celestial beacon's close "cosmic kiss" was captured here next to the two large standing stones at the cove within a 4,000 year old stone circle at Avebury, UK. Larger than Stonehenge, the Avebury henge and stone circle complex is also recognized as one of the most significant neolithic ceremonial sites on planet Earth.
-
-
----
-
-## Words of the Day
+_Updated: 2026-06-13 12:56:33 UTC_
 
 ### Dictionary.com
 
-**postern** _noun_ • /[poh-stern]/
+**slapdash** _adjective_ • /[slap-dash]/
 
-a back door or gate
+careless, hasty, or haphazard
 
-A postern is a small back gate or side entrance, often tucked away from the main path. Medieval castles used posterns for discreet arrivals and escapes, giving the word an air of secrecy and strategy. Even today, it sounds like the entrance to some hidden place.
+Something slapdash is thrown together carelessly or in a hurry. Since the 19th century, the word has been used to describe anything marked by obvious haste, from a rushed paint job to a messy report. Did it need just a little more time and care? It's slapdash.
 
-> _The queen's supporters snuck her through an unguarded postern into the nearby forest._
+> _The contractor's slapdash work left the new kitchen cabinets crooked and difficult to open._
 
 
 ### Britannica
 
-**leonine** _adjective_
+**relieved** _adjective_
 
-Of, relating to, or resembling a lion.
+Feeling relaxed and happy because a difficult or unpleasant situation has ended, been avoided, or made easier; experiencing relief.
 
-> _The old general's leonine roar commanded immediate attention from his troops._
+> _She felt immensely relieved when the final exam was over._
 >
-> _With his thick, golden hair and commanding presence, he possessed a truly leonine appearance._
+> _The doctor's positive diagnosis left the family feeling deeply relieved._
 >
-> _Her leonine courage allowed her to face the challenge without fear._
+> _I was relieved to find my lost keys exactly where I had left them._
 >
 
-_Similar: lion-like, regal, powerful_  •  _Opposite: timid, mousey, meek_
+_Similar: eased, comforted, assuaged_  •  _Opposite: anxious, worried, stressed_
 
-> _"He had a face like a Florentine bronze, and a low, melodious voice. In his leonine head, with its leonine mane of dark hair, there was something of the untamed wildness of the animal."_
+> _"Elizabeth was relieved to find that she had mistaken his meaning, and that he had not been in the smallest degree offended by her refusal."_
 >
-> — **Oscar Wilde**, The Picture of Dorian Gray (1890)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
