@@ -1,34 +1,45 @@
-# Words of the Day
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-06-13 12:56:33 UTC_
+_Updated: 2026-06-14 13:01:49 UTC_
+
+### 10 Days of Venus and Jupiter
+
+![10 Days of Venus and Jupiter](https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg)
+
+Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to right, in the featured panels from Maharashtra, India. Near the western horizon, the evening sky colors and exposures used for each panel depend on the local conditions near sunset. At their closest on June 9, the celestial pair appeared to be only about three times the width of a full moon apart. Of course, on that date, the two planets were physically separated by over 600 million kilometers in their orbits around the Sun. In the coming days, Jupiter will slowly settle into the sunset glare, but Venus will continue to move farther from the Sun in the western sky to excel in its current role as the brilliant evening star.   Gallery: Venus - Jupiter Conjunction of 2026 June
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**slapdash** _adjective_ • /[slap-dash]/
+**hooly** _adverb_ • /[hoo-lee]/
 
-careless, hasty, or haphazard
+cautiously; gently
 
-Something slapdash is thrown together carelessly or in a hurry. Since the 19th century, the word has been used to describe anything marked by obvious haste, from a rushed paint job to a messy report. Did it need just a little more time and care? It's slapdash.
+To do something hooly is to do it gently, carefully, and without unnecessary force. It implies a kind of deliberate slowness where each step is taken with intention. If you want someone to slow down and avoid mistakes, you might tell them to go on hooly!
 
-> _The contractor's slapdash work left the new kitchen cabinets crooked and difficult to open._
+> _The mountain climber moved hooly across the wet rocks to avoid a dangerous fall._
 
 
 ### Britannica
 
-**relieved** _adjective_
+**intake** _noun_
 
-Feeling relaxed and happy because a difficult or unpleasant situation has ended, been avoided, or made easier; experiencing relief.
+The act of taking something, especially air or a substance, into the body.
 
-> _She felt immensely relieved when the final exam was over._
+> _A sudden intake of breath from the audience signaled their collective awe._
 >
-> _The doctor's positive diagnosis left the family feeling deeply relieved._
+> _The nutritionist emphasized the importance of a balanced daily intake of vitamins and minerals._
 >
-> _I was relieved to find my lost keys exactly where I had left them._
+> _He performed a series of deep intakes of air to prepare for his dive._
 >
 
-_Similar: eased, comforted, assuaged_  •  _Opposite: anxious, worried, stressed_
+_Similar: consumption, absorption, ingestion_  •  _Opposite: output, excretion, expulsion_
 
-> _"Elizabeth was relieved to find that she had mistaken his meaning, and that he had not been in the smallest degree offended by her refusal."_
+> _"He gave a sudden intake of breath, and his eyes stared blankly at me."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Arthur Conan Doyle**, The Adventures of Sherlock Holmes (1892)
 
