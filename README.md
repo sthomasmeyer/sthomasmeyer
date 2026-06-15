@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-06-14 13:01:49 UTC_
+_Updated: 2026-06-15 16:20:32 UTC_
 
-### 10 Days of Venus and Jupiter
+### Triple Shockwave from Sun Crossing Rocket
 
-![10 Days of Venus and Jupiter](https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg)
+![Triple Shockwave from Sun Crossing Rocket](https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_960.jpg)
 
-Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to right, in the featured panels from Maharashtra, India. Near the western horizon, the evening sky colors and exposures used for each panel depend on the local conditions near sunset. At their closest on June 9, the celestial pair appeared to be only about three times the width of a full moon apart. Of course, on that date, the two planets were physically separated by over 600 million kilometers in their orbits around the Sun. In the coming days, Jupiter will slowly settle into the sunset glare, but Venus will continue to move farther from the Sun in the western sky to excel in its current role as the brilliant evening star.   Gallery: Venus - Jupiter Conjunction of 2026 June
+What's happening to this Sun-crossing rocket?  The SpaceX Falcon 9 rocket, visible on the upper left, launched only about one minute before this amazing image was captured.  As it rose to low Earth orbit from Cape Canaveral, Florida, USA,  in late May, the rocket became supersonic before it crossed the disk of the distant Sun -- from the perspective of the well-placed photographer.  The spacecraft's high speed caused bow-shaped compressed-air shockwaves to form across leading surfaces, with at least three visible even outside the Sun's disk because they refract sunlight.  The trailing exhaust caused turbulence visible on the lower right. None of this was damaging to the robotic Starlink 10-53 mission, which delivered 29 communications satellites to low Earth orbit as planned.  And if that isn't amazing enough - the Sun had spots!    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
 
 ---
@@ -15,31 +15,31 @@ Venus and Jupiter may have caught your attention lately.  The  recent close conj
 
 ### Dictionary.com
 
-**hooly** _adverb_ • /[hoo-lee]/
+**auspicious** _adjective_ • /[aw-spish-uhs]/
 
-cautiously; gently
+prosperous; fortunate
 
-To do something hooly is to do it gently, carefully, and without unnecessary force. It implies a kind of deliberate slowness where each step is taken with intention. If you want someone to slow down and avoid mistakes, you might tell them to go on hooly!
+An auspicious event seems to promise success from the very start. A sunny wedding day, a job interview that immediately feels comfortable, or a first pitch that sails straight across the plate can all feel auspicious. The word traces back to ancient Rome, where augurs interpreted signs and omens to predict good fortune. You're in luck with auspicious!
 
-> _The mountain climber moved hooly across the wet rocks to avoid a dangerous fall._
+> _Finding the perfect apartment was an auspicious start to their new life in the city._
 
 
 ### Britannica
 
-**intake** _noun_
+**fleece** _noun_ • //ˈfliːs//
 
-The act of taking something, especially air or a substance, into the body.
+The dense, woolly coat of a sheep or similar animal.
 
-> _A sudden intake of breath from the audience signaled their collective awe._
+> _The shepherd carefully sheared the thick fleece from the sheep._
 >
-> _The nutritionist emphasized the importance of a balanced daily intake of vitamins and minerals._
+> _The soft, lanolin-rich fleece was destined to be spun into yarn._
 >
-> _He performed a series of deep intakes of air to prepare for his dive._
+> _After the shearing, the sheep looked much lighter without its heavy fleece._
 >
 
-_Similar: consumption, absorption, ingestion_  •  _Opposite: output, excretion, expulsion_
+_Similar: wool, coat, pelt_
 
-> _"He gave a sudden intake of breath, and his eyes stared blankly at me."_
+> _"There was a great oak, and on it the fleece was hung, all golden, and round it was coiled a serpent, a monstrous beast, with a thousand coils, that never slept, but watched the fleece with sleepless eyes."_
 >
-> — **Arthur Conan Doyle**, The Adventures of Sherlock Holmes (1892)
+> — **Apollonius of Rhodes**, Argonautica (c. 250 BC)
 
