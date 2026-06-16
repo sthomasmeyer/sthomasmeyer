@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of June 16th Past: IBM (1911)
 
-_Updated: 2026-06-15 16:20:32 UTC_
+_Updated: 2026-06-16 16:01:48 UTC_
 
-### Triple Shockwave from Sun Crossing Rocket
 
-![Triple Shockwave from Sun Crossing Rocket](https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_960.jpg)
 
-What's happening to this Sun-crossing rocket?  The SpaceX Falcon 9 rocket, visible on the upper left, launched only about one minute before this amazing image was captured.  As it rose to low Earth orbit from Cape Canaveral, Florida, USA,  in late May, the rocket became supersonic before it crossed the disk of the distant Sun -- from the perspective of the well-placed photographer.  The spacecraft's high speed caused bow-shaped compressed-air shockwaves to form across leading surfaces, with at least three visible even outside the Sun's disk because they refract sunlight.  The trailing exhaust caused turbulence visible on the lower right. None of this was damaging to the robotic Starlink 10-53 mission, which delivered 29 communications satellites to low Earth orbit as planned.  And if that isn't amazing enough - the Sun had spots!    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+
+---
+
+## NASA Astronomy Picture of the Day
+
+### Moons, Rings, Shadows, Clouds: Saturn (Cassini)
+
+![Moons, Rings, Shadows, Clouds: Saturn (Cassini)](https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg)
+
+While cruising around Saturn, be on the lookout for picturesque arrangements of moons, rings, and shadows. One such striking sight occurred in 2005 and was captured by the then Saturn-orbiting Cassini spacecraft. In the featured image, moons Mimas (left) and Tethys (right) are visible on either side of Saturn's thin rings, which are seen nearly edge-on.  Across the top of Saturn are dark shadows of the wide rings, exhibiting their impressive complexity. The violet-light image brings up the texture of the backdrop: Saturn's clouds. Cassini orbited Saturn from 2004 until mid-2017, when the robotic spacecraft was directed to dive into Saturn to keep it from contaminating any moons.    Explore the Universe: Random APOD Generator
 
 
 ---
@@ -15,31 +22,31 @@ What's happening to this Sun-crossing rocket?  The SpaceX Falcon 9 rocket, visib
 
 ### Dictionary.com
 
-**auspicious** _adjective_ • /[aw-spish-uhs]/
+**nonage** _noun_ • /[non-ij]/
 
-prosperous; fortunate
+a period of youth or immaturity
 
-An auspicious event seems to promise success from the very start. A sunny wedding day, a job interview that immediately feels comfortable, or a first pitch that sails straight across the plate can all feel auspicious. The word traces back to ancient Rome, where augurs interpreted signs and omens to predict good fortune. You're in luck with auspicious!
+Nonage refers to a person's younger days, often when they're not yet ready for full responsibility. It can be used in legal contexts to mark the years before adulthood, but even outside the courtroom, nonage suggests a stage where growth is still very much in progress.
 
-> _Finding the perfect apartment was an auspicious start to their new life in the city._
+> _The young prince was still in his nonage and required a regent to rule the kingdom._
 
 
 ### Britannica
 
-**fleece** _noun_ • //ˈfliːs//
+**iris** _noun_ • //ˈaɪrɪs//
 
-The dense, woolly coat of a sheep or similar animal.
+A plant with long, sword-shaped leaves and large, showy flowers, typically blue, purple, yellow, or white, often characterized by three upright petals and three drooping sepals; also, the colored part of the eye that surrounds the pupil.
 
-> _The shepherd carefully sheared the thick fleece from the sheep._
+> _The garden was a riot of color, with vibrant irises blooming alongside roses and lilies._
 >
-> _The soft, lanolin-rich fleece was destined to be spun into yarn._
+> _She carefully painted the delicate petals of the purple iris, capturing its intricate beauty._
 >
-> _After the shearing, the sheep looked much lighter without its heavy fleece._
+> _The ophthalmologist examined the patient's iris for any signs of inflammation._
 >
 
-_Similar: wool, coat, pelt_
+_Similar: flag, fleur-de-lis_
 
-> _"There was a great oak, and on it the fleece was hung, all golden, and round it was coiled a serpent, a monstrous beast, with a thousand coils, that never slept, but watched the fleece with sleepless eyes."_
+> _"The eye is the first circle; the horizon which it forms is the second; and throughout nature this primary figure is repeated without end. It is the highest emblem in the cipher of the world. We are the eye, and the iris of the eye, and the pupil of the eye."_
 >
-> — **Apollonius of Rhodes**, Argonautica (c. 250 BC)
+> — **Ralph Waldo Emerson**, Circles (1841)
 
