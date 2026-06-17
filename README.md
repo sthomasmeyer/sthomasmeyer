@@ -1,19 +1,8 @@
-# Days of June 16th Past: IBM (1911)
+# Days of June 17th Past: M.C. Escher (1898)
 
-_Updated: 2026-06-16 16:01:48 UTC_
-
-
+_Updated: 2026-06-17 14:28:12 UTC_
 
 
----
-
-## NASA Astronomy Picture of the Day
-
-### Moons, Rings, Shadows, Clouds: Saturn (Cassini)
-
-![Moons, Rings, Shadows, Clouds: Saturn (Cassini)](https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg)
-
-While cruising around Saturn, be on the lookout for picturesque arrangements of moons, rings, and shadows. One such striking sight occurred in 2005 and was captured by the then Saturn-orbiting Cassini spacecraft. In the featured image, moons Mimas (left) and Tethys (right) are visible on either side of Saturn's thin rings, which are seen nearly edge-on.  Across the top of Saturn are dark shadows of the wide rings, exhibiting their impressive complexity. The violet-light image brings up the texture of the backdrop: Saturn's clouds. Cassini orbited Saturn from 2004 until mid-2017, when the robotic spacecraft was directed to dive into Saturn to keep it from contaminating any moons.    Explore the Universe: Random APOD Generator
 
 
 ---
@@ -22,31 +11,31 @@ While cruising around Saturn, be on the lookout for picturesque arrangements of 
 
 ### Dictionary.com
 
-**nonage** _noun_ • /[non-ij]/
+**winkle** _verb_ • /[wing-kuhl]/
 
-a period of youth or immaturity
+to pry something out of a place
 
-Nonage refers to a person's younger days, often when they're not yet ready for full responsibility. It can be used in legal contexts to mark the years before adulthood, but even outside the courtroom, nonage suggests a stage where growth is still very much in progress.
+To winkle is to pry something out of a tight place, usually with a bit of patience. The word comes from the practice of extracting periwinkle snails from their shells, a delicate task that takes just the right touch. Over time, winkle has come to apply to anything coaxed loose with persistence rather than force.
 
-> _The young prince was still in his nonage and required a regent to rule the kingdom._
+> _The mechanic used a small screwdriver to winkle the stuck pebble out of the tire._
 
 
 ### Britannica
 
-**iris** _noun_ • //ˈaɪrɪs//
+**permeate** _verb_
 
-A plant with long, sword-shaped leaves and large, showy flowers, typically blue, purple, yellow, or white, often characterized by three upright petals and three drooping sepals; also, the colored part of the eye that surrounds the pupil.
+To spread throughout something; to pervade.
 
-> _The garden was a riot of color, with vibrant irises blooming alongside roses and lilies._
+> _The aroma of freshly baked bread began to permeate the entire house._
 >
-> _She carefully painted the delicate petals of the purple iris, capturing its intricate beauty._
+> _A sense of calm seemed to permeate the room after the storm passed._
 >
-> _The ophthalmologist examined the patient's iris for any signs of inflammation._
+> _Over time, the new ideas began to permeate the traditional culture, leading to significant changes._
 >
 
-_Similar: flag, fleur-de-lis_
+_Similar: pervade, diffuse, saturate_  •  _Opposite: exit, drain, withdraw_
 
-> _"The eye is the first circle; the horizon which it forms is the second; and throughout nature this primary figure is repeated without end. It is the highest emblem in the cipher of the world. We are the eye, and the iris of the eye, and the pupil of the eye."_
+> _"The only 'news' that is not stale is of course the news that is never told, and that is the news that will permeate the universe."_
 >
-> — **Ralph Waldo Emerson**, Circles (1841)
+> — **Henry David Thoreau**, Walden (1854)
 
