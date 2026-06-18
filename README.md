@@ -1,41 +1,34 @@
-# Days of June 17th Past: M.C. Escher (1898)
+# Words of the Day
 
-_Updated: 2026-06-17 14:28:12 UTC_
-
-
-
-
----
-
-## Words of the Day
+_Updated: 2026-06-18 14:19:14 UTC_
 
 ### Dictionary.com
 
-**winkle** _verb_ • /[wing-kuhl]/
+**imbricate** _adjective_ • /[im-bri-kit]/
 
-to pry something out of a place
+overlapping like shingles on a roof
 
-To winkle is to pry something out of a tight place, usually with a bit of patience. The word comes from the practice of extracting periwinkle snails from their shells, a delicate task that takes just the right touch. Over time, winkle has come to apply to anything coaxed loose with persistence rather than force.
+If something is imbricate, its parts overlap in a regular pattern, like shingles laid across a roof. The term shows up in biology and design, describing arrangements that are both practical and appealingly ordered. Imbricate patterns show how structure and repetition can make something beautiful.
 
-> _The mechanic used a small screwdriver to winkle the stuck pebble out of the tire._
+> _The lizard's back was covered in thick, imbricate scales that helped protect it from the desert sun._
 
 
 ### Britannica
 
-**permeate** _verb_
+**shrivel** _verb_ • /SHRIV-uhl/
 
-To spread throughout something; to pervade.
+To become or cause to become dry, wrinkled, and contracted, typically from heat, cold, or lack of moisture, or from age.
 
-> _The aroma of freshly baked bread began to permeate the entire house._
+> _Without adequate water, the delicate blossoms began to shrivel in the intense summer heat._
 >
-> _A sense of calm seemed to permeate the room after the storm passed._
+> _The old parchment had shriveled with age, making its ancient script difficult to decipher._
 >
-> _Over time, the new ideas began to permeate the traditional culture, leading to significant changes._
+> _A lack of inspiration can sometimes shrivel a writer's creative spirit._
 >
 
-_Similar: pervade, diffuse, saturate_  •  _Opposite: exit, drain, withdraw_
+_Similar: wither, contract, pucker_  •  _Opposite: expand, swell, bloom_
 
-> _"The only 'news' that is not stale is of course the news that is never told, and that is the news that will permeate the universe."_
+> _"The cold within him froze his old features, nipped his pointed nose, shrivelled his cheek, stiffened his gait; made his eyes red, his thin lips blue; and spoke out shrewdly in his grating voice."_
 >
-> — **Henry David Thoreau**, Walden (1854)
+> — **Charles Dickens**, A Christmas Carol (1843)
 
