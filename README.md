@@ -1,45 +1,34 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-06-19 14:17:50 UTC_
-
-### Starry Night II
-
-![Starry Night II](https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg)
-
-Does this scene look familiar? It is a modern recreation of the famous painting Starry Night by Vincent van Gogh.  Both the image and the painting depict a tall tree on the left, a crescent moon on the upper right, the planet Venus just to the right of the tree, a foreground horizon rising from left to right, and clouds above the horizon. Differences include that the photograph was taken in mid-April earlier this year in Cascavel, Brazil, while the painting was composed in Saint-Rémy-de-Provence, France, in 1889.  The original Starry Night is considered by many to be one of the three most famous paintings in the world today and a statement about the wonders of the night sky. Today is (roughly) the anniversary of the morning that van Gogh saw the sky that he later painted in his version of Starry Night.    Night Sky Jigsaw: Astronomy Puzzle of the Day
-
-
----
-
-## Words of the Day
+_Updated: 2026-06-20 12:57:02 UTC_
 
 ### Dictionary.com
 
-**elated** _adjective_ • /[ih-ley-tid]/
+**layette** _noun_ • /[ley-et]/
 
-very happy or proud
+a collection of clothing and equipment for a newborn
 
-To feel elated is to be filled with a strong sense of happiness or pride. It's a bright, energized joy that's more than just a good mood. The word comes from a root meaning "lifted up," which fits the way feeling elated can seem to lighten everything around you.
+A layette is a collection of clothing and basic necessities prepared for a newborn. The word gets tossed around during baby showers or nursery preparations, when excitement and anticipation are building. Borrowed from French, layette originally referred to a little box or chest, creating an image of keeping everything neatly gathered for a new arrival.
 
-> _The team was elated as they raised the championship trophy after their hard-fought victory._
+> _The expectant mom received a beautifully arranged layette at her baby shower._
 
 
 ### Britannica
 
-**abode** _noun_
+**agenda** _noun_
 
-A place of residence; a dwelling or home.
+A list of items to be discussed or accomplished, or a program of goals and objectives that guides an individual or group.
 
-> _After years of wandering, the old sailor finally found a peaceful abode by the sea._
+> _The board meeting's agenda included a review of the quarterly financials and a discussion on future expansion plans._
 >
-> _The ancient castle, though crumbling, still served as a majestic abode for the local bats._
+> _Before the conference, participants received a detailed agenda outlining all the sessions and speakers._
 >
-> _Welcome to my humble abode, she said, gesturing to her cozy cottage._
+> _She arrived early to ensure her proposal was added to the agenda for consideration._
 >
 
-_Similar: home, dwelling, residence_  •  _Opposite: homelessness_
+_Similar: program, plan, schedule_
 
-> _"I had selected my dwelling on a desolate heath; I had no companion, and my abode was a miserable hovel."_
+> _"The power elite are not a conspiracy of men who meet together and decide upon what they will do. They are a set of men who, by the very fact of their positions, are able to make decisions that affect the entire society. They have a common agenda, a common set of interests, and a common way of looking at the world."_
 >
-> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
+> — **C. Wright Mills**, The Power Elite (1956)
 
