@@ -1,34 +1,41 @@
-# Words of the Day
+# June (Summer) Solstice
 
-_Updated: 2026-06-20 12:57:02 UTC_
+_Updated: 2026-06-21 13:16:31 UTC_
+
+
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**layette** _noun_ • /[ley-et]/
+**whittle** _verb_ • /[wit-l]/
 
-a collection of clothing and equipment for a newborn
+to shape wood by carving off bits with a knife
 
-A layette is a collection of clothing and basic necessities prepared for a newborn. The word gets tossed around during baby showers or nursery preparations, when excitement and anticipation are building. Borrowed from French, layette originally referred to a little box or chest, creating an image of keeping everything neatly gathered for a new arrival.
+To whittle is to shape wood by carving off small pieces with a knife, usually in a slow, careful way. The word can metaphorically extend to reducing something bit by bit, as if trimming it down to its essentials. There's a steady rhythm to whittling, whether you're working with your hands or refining an idea.
 
-> _The expectant mom received a beautifully arranged layette at her baby shower._
+> _The quiet man sat on the porch to whittle a small bird figurine from a cedar block._
 
 
 ### Britannica
 
-**agenda** _noun_
+**constitution** _noun_
 
-A list of items to be discussed or accomplished, or a program of goals and objectives that guides an individual or group.
+The system of fundamental principles, beliefs, and laws by which a country, state, or organization is governed, often embodied in a single document.
 
-> _The board meeting's agenda included a review of the quarterly financials and a discussion on future expansion plans._
+> _The newly formed nation spent years drafting its constitution to ensure a balance of power._
 >
-> _Before the conference, participants received a detailed agenda outlining all the sessions and speakers._
+> _Citizens are expected to uphold the constitution and its amendments._
 >
-> _She arrived early to ensure her proposal was added to the agenda for consideration._
+> _The club's constitution outlines the duties of its officers and the rules for membership._
 >
 
-_Similar: program, plan, schedule_
+_Similar: charter, framework, bylaws_
 
-> _"The power elite are not a conspiracy of men who meet together and decide upon what they will do. They are a set of men who, by the very fact of their positions, are able to make decisions that affect the entire society. They have a common agenda, a common set of interests, and a common way of looking at the world."_
+> _"We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America."_
 >
-> — **C. Wright Mills**, The Power Elite (1956)
+> — **Founding Fathers of the United States**, The Constitution of the United States of America (September 17, 1787)
 
