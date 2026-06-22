@@ -1,41 +1,34 @@
-# June (Summer) Solstice
+# Words of the Day
 
-_Updated: 2026-06-21 13:16:31 UTC_
-
-
-
-
----
-
-## Words of the Day
+_Updated: 2026-06-22 15:58:09 UTC_
 
 ### Dictionary.com
 
-**whittle** _verb_ • /[wit-l]/
+**hector** _verb_ • /[hek-ter]/
 
-to shape wood by carving off bits with a knife
+to bully or harass
 
-To whittle is to shape wood by carving off small pieces with a knife, usually in a slow, careful way. The word can metaphorically extend to reducing something bit by bit, as if trimming it down to its essentials. There's a steady rhythm to whittling, whether you're working with your hands or refining an idea.
+To hector is to nag or badger someone, often through multiple rounds of harassment. The word comes from Hector of Greek mythology, though its meaning flipped from heroism to intimidation after some London ruffians adopted the term as their own. No one likes being hectored, especially over something that could have been said plainly and respectfully.
 
-> _The quiet man sat on the porch to whittle a small bird figurine from a cedar block._
+> _The supervisor was careful not to hector the employees about their minor mistakes._
 
 
 ### Britannica
 
-**constitution** _noun_
+**mobilize** _verb_
 
-The system of fundamental principles, beliefs, and laws by which a country, state, or organization is governed, often embodied in a single document.
+To bring people, resources, or an army together and prepare them for action or use.
 
-> _The newly formed nation spent years drafting its constitution to ensure a balance of power._
+> _The community leaders worked to mobilize volunteers for the clean-up effort._
 >
-> _Citizens are expected to uphold the constitution and its amendments._
+> _The government quickly mobilized its emergency services in response to the natural disaster._
 >
-> _The club's constitution outlines the duties of its officers and the rules for membership._
+> _Activists are trying to mobilize public opinion against the new policy._
 >
 
-_Similar: charter, framework, bylaws_
+_Similar: rally, organize, assemble_  •  _Opposite: demobilize, disband, disorganize_
 
-> _"We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America."_
+> _"It is not enough to say, 'We must mobilize for the war on poverty.'"_
 >
-> — **Founding Fathers of the United States**, The Constitution of the United States of America (September 17, 1787)
+> — **Martin Luther King Jr.**, Letter from Birmingham Jail (April 16, 1963)
 
