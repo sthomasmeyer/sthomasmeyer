@@ -1,34 +1,41 @@
-# Words of the Day
+# Days of June 23rd Past: Alan Turing (1912) and Vint Cerf (1943)
 
-_Updated: 2026-06-22 15:58:09 UTC_
+_Updated: 2026-06-23 13:45:33 UTC_
+
+Honoring Alan Turing (1912-1954), pioneer of computer science and artificial intelligence.
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**hector** _verb_ • /[hek-ter]/
+**glitterati** _noun_ • /[glit-uh-rah-tee]/
 
-to bully or harass
+glamorous people who attend fashionable events
 
-To hector is to nag or badger someone, often through multiple rounds of harassment. The word comes from Hector of Greek mythology, though its meaning flipped from heroism to intimidation after some London ruffians adopted the term as their own. No one likes being hectored, especially over something that could have been said plainly and respectfully.
+The glitterati are the glamorous VIPs who flit from party to party. The word blends "glitter" with "literati" to create a term that is playful but definitely tongue-in-cheek. Whether you dream of joining them or just smirk when they inevitably pop up in your feeds, the glitterati always steal the spotlight.
 
-> _The supervisor was careful not to hector the employees about their minor mistakes._
+> _The paparazzi crowded the entrance, hoping to catch a glimpse of the glitterati arriving at the gala._
 
 
 ### Britannica
 
-**mobilize** _verb_
+**investment** _noun_
 
-To bring people, resources, or an army together and prepare them for action or use.
+The act of committing money or capital to an endeavor with the expectation of obtaining an additional income or profit.
 
-> _The community leaders worked to mobilize volunteers for the clean-up effort._
+> _His shrewd investment in emerging technologies yielded substantial returns._
 >
-> _The government quickly mobilized its emergency services in response to the natural disaster._
+> _The company sought foreign investment to expand its global operations._
 >
-> _Activists are trying to mobilize public opinion against the new policy._
+> _A college education is often considered a valuable investment in one's future._
 >
 
-_Similar: rally, organize, assemble_  •  _Opposite: demobilize, disband, disorganize_
+_Similar: capital, funding, stake_  •  _Opposite: divestment, withdrawal, expenditure_
 
-> _"It is not enough to say, 'We must mobilize for the war on poverty.'"_
+> _"The great object of the political œconomy of every country, is to increase the riches and power of that country. It ought, therefore, to give every encouragement to the industry of its people, and to the employment of their capitals in such a manner as to afford the greatest possible quantity of produce, and to make the most advantageous investment of their whole stock."_
 >
-> — **Martin Luther King Jr.**, Letter from Birmingham Jail (April 16, 1963)
+> — **Adam Smith**, An Inquiry into the Nature and Causes of the Wealth of Nations (1776)
 
