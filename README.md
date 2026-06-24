@@ -1,41 +1,34 @@
-# Days of June 23rd Past: Alan Turing (1912) and Vint Cerf (1943)
+# Words of the Day
 
-_Updated: 2026-06-23 13:45:33 UTC_
-
-Honoring Alan Turing (1912-1954), pioneer of computer science and artificial intelligence.
-
-
----
-
-## Words of the Day
+_Updated: 2026-06-24 13:26:59 UTC_
 
 ### Dictionary.com
 
-**glitterati** _noun_ • /[glit-uh-rah-tee]/
+**estival** _adjective_ • /[es-tuh-vuhl]/
 
-glamorous people who attend fashionable events
+relating to or happening during summer
 
-The glitterati are the glamorous VIPs who flit from party to party. The word blends "glitter" with "literati" to create a term that is playful but definitely tongue-in-cheek. Whether you dream of joining them or just smirk when they inevitably pop up in your feeds, the glitterati always steal the spotlight.
+Why settle for "summery" when you can say "estival"? This versatile word for all things summer is more likely to be found in botany texts and poetry, but there's nothing stopping you from unleashing it at your next beach trip or poolside cookout. If you really want to impress, you can use it to refer to your favorite estival festival!
 
-> _The paparazzi crowded the entrance, hoping to catch a glimpse of the glitterati arriving at the gala._
+> _The warm, estival breeze carried the scent of blooming jasmine through the open window all July._
 
 
 ### Britannica
 
-**investment** _noun_
+**virtuoso** _noun_ • //ˌvər-chü-ˈō-(ˌ)sō//
 
-The act of committing money or capital to an endeavor with the expectation of obtaining an additional income or profit.
+A person who possesses exceptional technical skill and ability in a particular art or field, especially music.
 
-> _His shrewd investment in emerging technologies yielded substantial returns._
+> _The young chef was a culinary virtuoso, creating dishes that were both innovative and delicious._
 >
-> _The company sought foreign investment to expand its global operations._
+> _Her performance on the violin was nothing short of a virtuoso display, captivating the entire audience._
 >
-> _A college education is often considered a valuable investment in one's future._
+> _Even in his old age, the painter remained a virtuoso with the brush, his strokes precise and full of life._
 >
 
-_Similar: capital, funding, stake_  •  _Opposite: divestment, withdrawal, expenditure_
+_Similar: master, prodigy, expert_  •  _Opposite: amateur, novice, dabbler_
 
-> _"The great object of the political œconomy of every country, is to increase the riches and power of that country. It ought, therefore, to give every encouragement to the industry of its people, and to the employment of their capitals in such a manner as to afford the greatest possible quantity of produce, and to make the most advantageous investment of their whole stock."_
+> _"I have often been asked to define the difference between a detective and a consulting detective. The former is a mere agent, who carries out the instructions of his employers. The latter is a specialist, and a virtuoso in his own line."_
 >
-> — **Adam Smith**, An Inquiry into the Nature and Causes of the Wealth of Nations (1776)
+> — **Arthur Conan Doyle**, The Adventures of Sherlock Holmes (1892)
 
