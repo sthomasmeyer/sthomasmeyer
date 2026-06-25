@@ -1,34 +1,34 @@
 # Words of the Day
 
-_Updated: 2026-06-24 13:26:59 UTC_
+_Updated: 2026-06-25 13:23:25 UTC_
 
 ### Dictionary.com
 
-**estival** _adjective_ • /[es-tuh-vuhl]/
+**iota** _noun_ • /[ahy-oh-tuh]/
 
-relating to or happening during summer
+a very small quantity
 
-Why settle for "summery" when you can say "estival"? This versatile word for all things summer is more likely to be found in botany texts and poetry, but there's nothing stopping you from unleashing it at your next beach trip or poolside cookout. If you really want to impress, you can use it to refer to your favorite estival festival!
+An iota is a very small amount, although it only occasionally refers to something that can actually be measured physically. It's also the name of the smallest letter in the Greek alphabet, which is how it became a stand-in for anything negligible. Now that you don't have an iota of doubt about this word's meaning, go forth and say it confidently!
 
-> _The warm, estival breeze carried the scent of blooming jasmine through the open window all July._
+> _The researcher explained that there was not even an iota of evidence to support the theory._
 
 
 ### Britannica
 
-**virtuoso** _noun_ • //ˌvər-chü-ˈō-(ˌ)sō//
+**aesthetic** _noun_
 
-A person who possesses exceptional technical skill and ability in a particular art or field, especially music.
+A set of principles concerned with the nature and appreciation of beauty, especially in art.
 
-> _The young chef was a culinary virtuoso, creating dishes that were both innovative and delicious._
+> _The minimalist design of the new gallery space perfectly embodied a modern aesthetic._
 >
-> _Her performance on the violin was nothing short of a virtuoso display, captivating the entire audience._
+> _Her personal aesthetic favored vintage clothing and antique furniture._
 >
-> _Even in his old age, the painter remained a virtuoso with the brush, his strokes precise and full of life._
+> _The architect's aesthetic emphasized functionality and clean lines._
 >
 
-_Similar: master, prodigy, expert_  •  _Opposite: amateur, novice, dabbler_
+_Similar: taste, style, sensibility_
 
-> _"I have often been asked to define the difference between a detective and a consulting detective. The former is a mere agent, who carries out the instructions of his employers. The latter is a specialist, and a virtuoso in his own line."_
+> _"Jane Austen lived in an age when women were not supposed to have any aesthetic sense."_
 >
-> — **Arthur Conan Doyle**, The Adventures of Sherlock Holmes (1892)
+> — **Virginia Woolf**, A Room of One's Own (1929)
 
