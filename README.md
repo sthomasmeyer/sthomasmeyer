@@ -1,19 +1,12 @@
-# Days of June 26th Past: Harry Potter and the Sorcerer's Stone (1997)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-06-26 13:18:24 UTC_
+_Updated: 2026-06-27 12:15:11 UTC_
 
+### Mars Marathon by Perseverance
 
+![Mars Marathon by Perseverance](https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### Milky Way Urban Style
-
-![Milky Way Urban Style](https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg)
-
-In a cosmic vista you can never see, the Milky Way arcs through the night above Seoul, South Korea. Remarkably, this urban night skyscape reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the brilliant city lights. To overcome the extreme light pollution of the metropolitan area and record faint cosmic details, an infrared filter was used to capture the night scene in a single exposure. While the filter transmits predominately infrared light, it still passes some visible light to give the scene a natural appearance. The view is from Seoul's Ttukseom Hangang Park, with the Han River and a well lit railway bridge across the foreground. The 123 story Lotte World Tower looms in the distance, the tallest building in South Korea.
+In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, traveling a total distance of 26.218 miles (42.195 kilometers) since it began exploring the surface of Mars. That equivalent marathon distance was achieved by Perseverance on its mission sol (Martian day) 1,890, after about 5 Earth years and 4 Earth months of driving. Perseverance is continuing to hunt for biosignatures. In the HiRISE image, the Mars rover's tracks can be seen leading to its location in an area west of its landing site in Jezero crater near an ancient river delta.
 
 
 ---
@@ -22,31 +15,31 @@ In a cosmic vista you can never see, the Milky Way arcs through the night above 
 
 ### Dictionary.com
 
-**bibliotaph** _noun_ • /[bib-lee-uh-taf]/
+**languid** _adjective_ • /[lang-gwid]/
 
-a person who hoards books
+lacking vigor or force
 
-A bibliotaph is a book lover who takes their passion to the extreme. It's that person who can never resist an intriguing book and keeps adding to their collection faster than they can read it all. A bibliotaph might find they're running out of room in their home library, but they'll rarely regret it.
+Something languid feels unrushed, and if it moves at all, it's at a relaxed pace. While the word can suggest fatigue or listlessness, it isn't always negative. A languid summer afternoon might not be the most productive, but it can certainly help melt your stress away.
 
-> _The bibliotaph refused to lend out any of his rare books, preferring to keep them close at hand for any possible occasion._
+> _He gave a languid wave from the hammock instead of standing up to say hello._
 
 
 ### Britannica
 
-**intimate** _adjective_
+**recuperate** _verb_ • /ri-KOO-puh-rayt/
 
-Having a very close relationship; very warm and friendly.
+To recover from illness, injury, or exertion; to regain health or strength.
 
-> _Their long conversations fostered an intimate bond between them._
+> _After the strenuous marathon, the runner needed several days to recuperate fully._
 >
-> _She shared her most intimate thoughts only with her diary._
+> _The company hoped to recuperate its financial losses by launching a new product line._
 >
-> _The small cafe had an intimate atmosphere, perfect for quiet reflection._
+> _She decided to take a quiet vacation to recuperate her spirits after a challenging year._
 >
 
-_Similar: close, personal, private_  •  _Opposite: distant, formal, public_
+_Similar: recover, convalesce, heal_  •  _Opposite: decline, worsen, deteriorate_
 
-> _"It was an intimate connection, and he was therefore of course frequently in her society."_
+> _"I have been compelled to recuperate my health and spirits in the country."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Arthur Conan Doyle**, The Adventures of Sherlock Holmes (1892)
 
