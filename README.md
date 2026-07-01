@@ -1,6 +1,6 @@
-# Days of June 30th Past: Thomas Sowell (1930)
+# Days of July 1st Past: Gottfried W. Leibniz (1646) and Xerox PARC (1970)
 
-_Updated: 2026-06-30 13:12:46 UTC_
+_Updated: 2026-07-01 13:39:05 UTC_
 
 
 
@@ -11,31 +11,31 @@ _Updated: 2026-06-30 13:12:46 UTC_
 
 ### Dictionary.com
 
-**understory** _noun_ • /[uhn-der-stawr-ee]/
+**rapscallion** _noun_ • /[rap-skal-yuhn]/
 
-the plants growing beneath the main canopy of a forest
+a rascal; mischievous jokester
 
-The understory is the layer of vegetation growing beneath a forest's treetops. Though it's overshadowed by towering trees, it can be rich with shrubs, saplings, and ferns. Having a hard time seeing the forest for the trees? Well, maybe you're just enchanted by a lush, beautiful understory instead!
+Do you know someone who's a real rascal? Try calling them a rapscallion instead! It's a playful name for the kind of troublemaker who's more charming than threatening. If you're a big fan of April Fools' Day, you might be a rapscallion at heart.
 
-> _The ecologists walked through the dense understory, taking note of every plant species they observed._
+> _The little rapscallion hid his sister's shoes right before she had to leave for school._
 
 
 ### Britannica
 
-**comical** _adjective_
+**document** _noun_ • /ˈdɑːkjəmənt/
 
-Causing laughter because of being unusual, strange, or amusingly absurd.
+An official or authoritative paper, record, or other written item that provides information, evidence, or proof.
 
-> _The clown's oversized shoes and tiny hat made for a truly comical sight._
+> _The ancient scroll was a crucial historical document, detailing the lineage of kings._
 >
-> _Her attempt to bake a cake without any flour resulted in a rather comical disaster._
+> _Always keep copies of important legal documents, such as your birth certificate and passport._
 >
-> _He recounted the story of his first day at work with such vivid detail that it became quite comical._
+> _The architect submitted a detailed document outlining the proposed changes to the building's design._
 >
 
-_Similar: funny, amusing, humorous_  •  _Opposite: serious, tragic, solemn_
+_Similar: record, paper, file_
 
-> _"There was a comical mixture of the two in his face, at which Mr. Pickwick, notwithstanding the gravity of the occasion, could not help smiling."_
+> _"The document was a copy of the Times, dated three years ago."_
 >
-> — **Charles Dickens**, The Pickwick Papers (1836)
+> — **George Orwell**, Nineteen Eighty-Four (1949)
 
