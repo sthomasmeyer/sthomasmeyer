@@ -1,19 +1,19 @@
-# Happy Fourth of July!
+# Days of July 5th Past: Amazon (1994)
 
-_Updated: 2026-07-04 12:13:17 UTC_
+_Updated: 2026-07-05 12:22:34 UTC_
 
-Celebrating Independence Day in the United States.
+Jeff Bezos founded Amazon on this day in 1994.
 
 
 ---
 
 ## NASA Astronomy Picture of the Day
 
-### Pathfinder on Mars
+### Saturn's Iapetus: Painted Moon
 
-![Pathfinder on Mars](https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg)
+![Saturn's Iapetus: Painted Moon](https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg)
 
-On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag-assisted landing sequence was completed, Pathfinder transmitted this color mosaic to mission operators on Earth. In the scene from another world, the Mars Sojourner robot rover is visible in the foreground, crouched on top of the unfolded Pathfinder.  About the size of a large house cat, the six-wheeled, solar-powered Sojourner became the first successful Martian rover. Surrounding Pathfinder are deflated airbags and the rock-strewn terrain of the Ares Vallis floodplain. In the distance Martian hills appear against a dusty brownish sky. The Pathfinder lander was subsequently renamed the Carl Sagan Memorial Station.
+What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within 2,000 kilometers.  Pictured here, from about 75,000 kilometers out, is the hemisphere of Iapetus that is always trailing.  A large impact crater seen in the south spans 500 kilometers and appears superposed on an older crater of similar size.  The dark material is seen increasingly coating the easternmost part of Iapetus, darkening craters and highlands alike.  A leading hypothesis is that the dark material is mostly a form of carbon-rich soil leftover from when relatively warm but dirty ice sublimates.  An initial coating of this dark material may have been effectively painted on by the accretion of meteor-liberated debris from other moons.   Jigsaw Moon: Astronomy Puzzle of the Day
 
 
 ---
@@ -22,31 +22,31 @@ On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon o
 
 ### Dictionary.com
 
-**semiquincentennial** _noun_ • /[sem-ee-kwin-sen-ten-ee-uhl]/
+**pell-mell** _adverb_ • /[pel-mel]/
 
-a 250th anniversary or its celebration
+in a confused or jumbled mass, crowd, manner, etc.
 
-A semiquincentennial recognizes 250 years — a milestone whose name comes from three Latin elements that add up to "halfway to 500." Across the United States, patriotic festivities are marking the country's semiquincentennial on July 4th. Happy 250th birthday, America!
+Pell-mell describes something unfolding in a disorderly jumble. Imagine shoppers rushing into a store for a big sale or travelers scrambling to catch a train. When things are happening pell-mell, you can say goodbye to structure and order.
 
-> _The nation planned a grand celebration to mark the semiquincentennial of its founding._
+> _The campers scrambled pell-mell for shelter as the storm rolled in._
 
 
 ### Britannica
 
-**beacon** _noun_
+**sequence** _noun_
 
-A source of guidance or inspiration, often symbolizing hope or a clear direction.
+A particular order in which related things follow each other, or a series of such things.
 
-> _The lighthouse stood as a steadfast beacon, guiding ships safely through the stormy night._
+> _The detective carefully reconstructed the sequence of events leading up to the crime._
 >
-> _Her unwavering courage served as a beacon for others facing similar challenges._
+> _She arranged the photographs in a chronological sequence to tell a coherent story._
 >
-> _In times of despair, art can often be a beacon of light, offering solace and perspective._
+> _Learning the proper sequence of steps is crucial for mastering any complex skill._
 >
 
-_Similar: guide, signal, inspiration_  •  _Opposite: hindrance, obstruction, deterrent_
+_Similar: order, succession, series_  •  _Opposite: disorder, randomness, jumble_
 
-> _"This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice."_
+> _"The geological record is extremely imperfect and this fact alone might have led to the expectation that we should not find in it any long and perfect sequence of intermediate forms."_
 >
-> — **Martin Luther King Jr.**, I Have a Dream (August 28, 1963)
+> — **Charles Darwin**, On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life (1859)
 
