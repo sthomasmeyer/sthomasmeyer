@@ -1,19 +1,12 @@
-# Days of July 5th Past: Amazon (1994)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-05 12:22:34 UTC_
+_Updated: 2026-07-06 14:32:48 UTC_
 
-Jeff Bezos founded Amazon on this day in 1994.
+### Dueling Bands over the Atacama Desert
 
+![Dueling Bands over the Atacama Desert](https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg)
 
----
-
-## NASA Astronomy Picture of the Day
-
-### Saturn's Iapetus: Painted Moon
-
-![Saturn's Iapetus: Painted Moon](https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg)
-
-What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within 2,000 kilometers.  Pictured here, from about 75,000 kilometers out, is the hemisphere of Iapetus that is always trailing.  A large impact crater seen in the south spans 500 kilometers and appears superposed on an older crater of similar size.  The dark material is seen increasingly coating the easternmost part of Iapetus, darkening craters and highlands alike.  A leading hypothesis is that the dark material is mostly a form of carbon-rich soil leftover from when relatively warm but dirty ice sublimates.  An initial coating of this dark material may have been effectively painted on by the accretion of meteor-liberated debris from other moons.   Jigsaw Moon: Astronomy Puzzle of the Day
+What are these two bands in the sky?  The more commonly seen band is on the left and is the central band of our Milky Way galaxy.  Our Sun orbits in the disk of this spiral galaxy so that from inside, it appears as a band of comparable brightness all the way around the sky.  The less commonly seen band, on the right, is zodiacal light -- sunlight reflected from dust orbiting the Sun in our Solar System.  Zodiacal light is brightest near the Sun and so is best seen just before sunrise or just after sunset.  On some evenings, this ribbon of zodiacal light can appear quite prominent.  It was discovered only in this century that zodiacal dust was mostly expelled by comets that have passed near Jupiter.  The featured image was captured about a year ago from the Atacama Desert in Chile.
 
 
 ---
@@ -22,31 +15,31 @@ What has happened to Saturn's moon Iapetus?  Vast sections of this strange world
 
 ### Dictionary.com
 
-**pell-mell** _adverb_ • /[pel-mel]/
+**sate** _verb_ • /[seyt]/
 
-in a confused or jumbled mass, crowd, manner, etc.
+to satisfy fully
 
-Pell-mell describes something unfolding in a disorderly jumble. Imagine shoppers rushing into a store for a big sale or travelers scrambling to catch a train. When things are happening pell-mell, you can say goodbye to structure and order.
+To sate is to fill or satisfy completely. It can apply to hunger, curiosity, or even emotional longing that's been fully met. The word traces back to Latin satis, meaning "enough," the root idea being a sense of having had your fill.
 
-> _The campers scrambled pell-mell for shelter as the storm rolled in._
+> _The large dinner was enough to sate everyone's intense hunger after a day of swimming._
 
 
 ### Britannica
 
-**sequence** _noun_
+**hesitant** _adjective_
 
-A particular order in which related things follow each other, or a series of such things.
+Slow to act or speak, especially due to nervousness, uncertainty, or a lack of confidence about what to do.
 
-> _The detective carefully reconstructed the sequence of events leading up to the crime._
+> _She was hesitant to voice her concerns, fearing they might be dismissed._
 >
-> _She arranged the photographs in a chronological sequence to tell a coherent story._
+> _The young artist took a hesitant step onto the stage, clutching her guitar._
 >
-> _Learning the proper sequence of steps is crucial for mastering any complex skill._
+> _After much deliberation, he remained hesitant about accepting the challenging new role._
 >
 
-_Similar: order, succession, series_  •  _Opposite: disorder, randomness, jumble_
+_Similar: reluctant, unwilling, cautious_  •  _Opposite: eager, decisive, confident_
 
-> _"The geological record is extremely imperfect and this fact alone might have led to the expectation that we should not find in it any long and perfect sequence of intermediate forms."_
+> _"He was hesitant, for a moment, as if he were trying to remember something, and then he smiled—that understanding smile."_
 >
-> — **Charles Darwin**, On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life (1859)
+> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
 
