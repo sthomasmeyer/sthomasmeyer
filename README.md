@@ -1,8 +1,19 @@
-# Days of July 8th Past: John D. Rockefeller (1839)
+# Days of July 9th Past: Marc Andreessen (1971)
 
-_Updated: 2026-07-08 12:48:21 UTC_
+_Updated: 2026-07-09 13:52:09 UTC_
 
 
+
+
+---
+
+## NASA Astronomy Picture of the Day
+
+### The Red Glow of the Cosmic Bat Nebula
+
+![The Red Glow of the Cosmic Bat Nebula](https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg)
+
+This Cosmic Bat wishes you a happy Summerween! This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, the Cosmic Bat Nebula (LDN 43), not to be confused with the Bat Nebula (NGC 6995), is a vibrant birthplace for stars. A bit of young starlight peeks through the dense clouds of gas and dust that make up the Cosmic Bat’s 12 lightyear wingspan. The ultraviolet light from the young stars energizes the nebula’s hydrogen gas, causing it to glow an ominous red. The jet of glowing hydrogen gas emerging from the bat’s head hints at the star formation hidden within.
 
 
 ---
@@ -11,31 +22,31 @@ _Updated: 2026-07-08 12:48:21 UTC_
 
 ### Dictionary.com
 
-**disport** _verb_ • /[dih-spawrt]/
+**tiki-taka** _noun_ • /[tee-kee-tah-kuh]/
 
-to frolic or amuse oneself
+a soccer strategy to maintain possession of the ball with quick, short passes
 
-To disport oneself is to frolic around without structure or purpose. It carries a light, carefree energy, like kids running around in the backyard on a long summer day. So go ahead and disport yourself by dancing in the sunshine or splashing in the waves!
+Tiki-taka is a style of soccer built on short, quick passes and tight control to maintain possession of the ball. The term reflects the sound of rapid ball movement across the field, making it as fun to say as it is to watch!
 
-> _On a hot summer afternoon, the kids on my block began to disport themselves by running through the sprinklers and playing tag._
+> _The coach instructed the team to use tiki-taka to frustrate the defenders with quick passes._
 
 
 ### Britannica
 
-**redolent** _adjective_
+**retro** _adjective_
 
-Having a strong, usually pleasant, smell; fragrant. It can also mean strongly reminiscent or evocative of something, often through scent.
+Imitative of a style, fashion, or design from the recent past; characterized by a look or feel that is deliberately reminiscent of an earlier era.
 
-> _The old library was redolent with the scent of aged paper and leather-bound books._
+> _Her apartment was decorated with a charming mix of retro furniture from the 1970s._
 >
-> _Her grandmother's kitchen was always redolent of cinnamon and freshly baked apple pie._
+> _The band's new album has a distinct retro sound, reminiscent of 80s synth-pop._
 >
-> _The evening breeze carried a redolent aroma from the jasmine blooming in the garden._
+> _He loves to collect retro video games, especially those from the early 90s._
 >
 
-_Similar: fragrant, aromatic, evocative_  •  _Opposite: odorless, unscented_
+_Similar: vintage, old-fashioned, classic_  •  _Opposite: modern, contemporary, futuristic_
 
-> _"The air was redolent of a hundred scents of a summer night."_
+> _"The entire planet was obsessed with the 1980s. It was the decade that had spawned most of the pop culture that filled the OASIS, and its retro aesthetic was everywhere."_
 >
-> — **Charlotte Brontë**, Jane Eyre (1847)
+> — **Ernest Cline**, Ready Player One (2011)
 
