@@ -1,19 +1,12 @@
-# Days of July 10th Past: Nikola Tesla (1856)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-10 13:17:34 UTC_
+_Updated: 2026-07-11 12:00:27 UTC_
 
+### Messier 24: Sagittarius Star Cloud
 
+![Messier 24: Sagittarius Star Cloud](https://apod.nasa.gov/apod/image/2607/M24_1088.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### Western Moon, Eastern Sea
-
-![Western Moon, Eastern Sea](https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg)
-
-The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it's very difficult to see from an earthbound perspective. Still, captured on July 7 during a period of favorable tilt, or libration of the lunar nearside, the Eastern Sea can be found at the upper right in this sharp telescopic view. In the image, the large lunar mare is extremely foreshortened and stretches along the Moon's western edge. Formed by the impact of an asteroid over 3 billion years ago and nearly 1000 kilometers across, the impact basin's concentric circular features are ripples in the lunar crust. But they are a little easier to spot in more direct images of the region taken from lunar orbit. So why is the Eastern Sea at the Moon's western edge? The Mare Orientale lunar feature was named before 1961. That's when the convention labeling east and west on lunar maps was reversed.
+Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or a small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars stretch across this gorgeous interstellar scene.  Spanning over four full moons on the sky toward the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.
 
 
 ---
@@ -22,31 +15,31 @@ The Mare Orientale, Latin for Eastern Sea, is one of the most striking large sca
 
 ### Dictionary.com
 
-**chary** _adjective_ • /[chair-ee]/
+**wellspring** _noun_ • /[wel-spring]/
 
-wary; cautious
+a source or supply of anything
 
-If you're chary, you proceed with caution, especially when something feels uncertain or risky. The word has Old English roots tied to care and concern, emphasizing the importance of thinking things through before jumping right in. It pays to be chary!
+A wellspring is a deep source from which something flows, whether inspiration, creativity, or water. In fact, the word comes from the image of a literal spring that supplies endless water at its origin. Writers might describe imagination or curiosity as a wellspring that feeds their work. What's your wellspring?
 
-> _She was chary about signing the contract before her lawyer reviewed the details._
+> _Her classes were a wellspring of inspiration that kept the young artists painting for hours._
 
 
 ### Britannica
 
-**retro** _adjective_
+**sequence** _noun_
 
-Looking like or relating to styles or fashions from the past.
+The order in which things happen or are arranged, or a continuous series of related things.
 
-> _Her apartment was decorated with a distinctly retro vibe, featuring furniture from the 1970s._
+> _The detective carefully reconstructed the sequence of events that led to the crime._
 >
-> _The band's new album has a retro sound, reminiscent of 80s synth-pop._
+> _Each step in the complex recipe must be followed in the correct sequence to ensure success._
 >
-> _He loves collecting retro video games from his childhood._
+> _The film opened with an intense action sequence that immediately captured the audience's attention._
 >
 
-_Similar: vintage, old-fashioned, nostalgic_  •  _Opposite: modern, contemporary, futuristic_
+_Similar: order, succession, series_  •  _Opposite: disorder, randomness, jumble_
 
-> _"Retro is not simply a return to the past; it is a re-imagining, a selective appropriation of past styles and forms for contemporary purposes."_
+> _"The sequence of events in the history of the earth, as disclosed by geology, and the sequence of events in the history of organic beings, as disclosed by palaeontology, are both of them, in their broad features, now universally admitted."_
 >
-> — **Elizabeth E. Guffey**, Retro: The Culture of Revival (2006)
+> — **Charles Darwin**, On the Origin of Species (1859)
 
