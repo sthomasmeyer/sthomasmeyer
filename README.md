@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-11 12:00:27 UTC_
+_Updated: 2026-07-12 12:05:25 UTC_
 
-### Messier 24: Sagittarius Star Cloud
+### Galaxy NGC 474: Shells and Star Streams
 
-![Messier 24: Sagittarius Star Cloud](https://apod.nasa.gov/apod/image/2607/M24_1088.jpg)
+![Galaxy NGC 474: Shells and Star Streams](https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg)
 
-Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or a small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars stretch across this gorgeous interstellar scene.  Spanning over four full moons on the sky toward the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.
+What's happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to debris left over from absorbing numerous small galaxies in the past billion years.  Alternatively, the shells may be like ripples in a pond, where the ongoing collision with the spiral galaxy just to the right of NGC 474 is causing density waves to ripple through the galactic giant.  Regardless of the actual cause, the featured image dramatically highlights the increasing evidence that the halos of some elliptical galaxies are surprisingly complicated.  Similarly, the halo of our own Milky Way Galaxy is one example of such unexpected intricacies.  NGC 474 spans about 250,000 light years and lies about 100 million light years distant toward the constellation of the Fish (Pisces).
 
 
 ---
@@ -15,31 +15,31 @@ Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24
 
 ### Dictionary.com
 
-**wellspring** _noun_ • /[wel-spring]/
+**au fond** _adverb_ • /[oh fawn]/
 
-a source or supply of anything
+basically; in reality; fundamentally
 
-A wellspring is a deep source from which something flows, whether inspiration, creativity, or water. In fact, the word comes from the image of a literal spring that supplies endless water at its origin. Writers might describe imagination or curiosity as a wellspring that feeds their work. What's your wellspring?
+Au fond is a phrase for when you mean something at its core or in its deepest sense. It's the kind of expression used when peeling back surface impressions to reach what really matters. Borrowed from French, it literally translates to "at the bottom." Au fond, let's get down to the bottom of this and find out what you really mean.
 
-> _Her classes were a wellspring of inspiration that kept the young artists painting for hours._
+> _She knew, au fond, that leaving the city was the right choice for her future._
 
 
 ### Britannica
 
-**sequence** _noun_
+**devoted** _adjective_
 
-The order in which things happen or are arranged, or a continuous series of related things.
+Having strong love, loyalty, or dedication to someone or something.
 
-> _The detective carefully reconstructed the sequence of events that led to the crime._
+> _The devoted dog waited patiently by the door for its owner to return._
 >
-> _Each step in the complex recipe must be followed in the correct sequence to ensure success._
+> _She was a devoted student, always striving for excellence in her studies._
 >
-> _The film opened with an intense action sequence that immediately captured the audience's attention._
+> _His devoted efforts to the charity helped raise a significant amount of money._
 >
 
-_Similar: order, succession, series_  •  _Opposite: disorder, randomness, jumble_
+_Similar: loyal, dedicated, faithful_  •  _Opposite: disloyal, unfaithful, indifferent_
 
-> _"The sequence of events in the history of the earth, as disclosed by geology, and the sequence of events in the history of organic beings, as disclosed by palaeontology, are both of them, in their broad features, now universally admitted."_
+> _"He had been devoted to his daughter, Lucie, for many years, ever since her childhood, and his love for her was the one constant in his life."_
 >
-> — **Charles Darwin**, On the Origin of Species (1859)
+> — **Charles Dickens**, A Tale of Two Cities (1859)
 
