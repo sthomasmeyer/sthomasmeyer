@@ -1,34 +1,45 @@
-# Words of the Day
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-13 13:28:08 UTC_
+_Updated: 2026-07-14 12:19:51 UTC_
+
+### Double Lobed Asteroid Torifune
+
+![Double Lobed Asteroid Torifune](https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg)
+
+Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has two joined lobes.  With a length of about four soccer fields, this space rock frequently comes near the Earth as it orbits the Sun, although it is not a threat.  Besides the two lobes, Torifune shows many large boulders, but, surprisingly, no obvious craters, likely because its surface is a pile of rubble.  Like asteroid Arrokoth, it appears that each lobe formed separately before colliding and becoming stuck together.  Hayabusa2 famously encountered asteroid Ryugu in 2018, and now heads for an encounter in 2031 with 1998 KY26, a smaller asteroid that rotates unusually fast and might have reservoirs of ice.
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**snuggery** _noun_ • /[snuhg-uh-ree]/
+**gaffer** _noun_ • /[gaf-er]/
 
-a comfortable or cozy room
+(British) the coach or manager of a sports team
 
-A snuggery is a small, cozy space made for comfort and quiet. Think of a reading nook or a comfy chair tucked in a corner. The word carries an old-fashioned warmth, inspiring you to finish your book or simply take a little nap.
+In British sports slang, the gaffer is the one calling the shots — the coach or manager responsible for decisions on and off the field. Players might look to the gaffer for strategy, direction, or a post-match speech. With a summer full of high-profile soccer matches, expect plenty of attention on the gaffers guiding their teams through the competition.
 
-> _She curled up with a blanket in her snuggery to escape the chilly weather._
+> _The players listened closely as the gaffer explained the new strategy before the championship match._
 
 
 ### Britannica
 
-**play-off** _noun_
+**frantic** _adjective_ • //ˈfræntɪk//
 
-A decisive game or series of games played to determine a winner, often after a tie or to qualify for a championship.
+Feeling or showing a lot of fear, worry, or wild, hurried activity, often due to extreme agitation or distress.
 
-> _The two chess masters faced each other in a tense play-off to break their tie._
+> _The frantic search for the lost keys turned the entire house upside down._
 >
-> _After a long regular season, the team was excited to enter the play-offs with a chance at the championship._
+> _With only minutes left before the deadline, the team worked at a frantic pace to complete the project._
 >
-> _The final play-off match will decide who takes home the coveted trophy._
+> _Her voice was frantic with concern as she described the accident._
 >
 
-_Similar: decider, tiebreaker, championship series_  •  _Opposite: regular season, exhibition game, preseason_
+_Similar: frenzied, distraught, hectic_  •  _Opposite: calm, composed, peaceful_
 
-> _"The Germans, having won their heat, were fresh, while the Americans had to row a grueling play-off race just to qualify for the final."_
+> _"I was in a state of utter confusion and distraction; I thought I had seen my mother, given back to me from the grave, and I was frantic with joy. But then her features changed, and I beheld the corpse of my dead mother in my arms."_
 >
-> — **Daniel James Brown**, The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics (2013)
+> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
 
