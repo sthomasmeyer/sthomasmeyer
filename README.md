@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of July 15th Past: Rembrandt (1606)
 
-_Updated: 2026-07-14 12:19:51 UTC_
+_Updated: 2026-07-15 12:22:33 UTC_
 
-### Double Lobed Asteroid Torifune
 
-![Double Lobed Asteroid Torifune](https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg)
 
-Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has two joined lobes.  With a length of about four soccer fields, this space rock frequently comes near the Earth as it orbits the Sun, although it is not a threat.  Besides the two lobes, Torifune shows many large boulders, but, surprisingly, no obvious craters, likely because its surface is a pile of rubble.  Like asteroid Arrokoth, it appears that each lobe formed separately before colliding and becoming stuck together.  Hayabusa2 famously encountered asteroid Ryugu in 2018, and now heads for an encounter in 2031 with 1998 KY26, a smaller asteroid that rotates unusually fast and might have reservoirs of ice.
+
+---
+
+## NASA Astronomy Picture of the Day
+
+### Red Sprites in the Tatacoa Desert
+
+![Red Sprites in the Tatacoa Desert](https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg)
+
+Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charge repels negative charge deeper into the Earth, leaving Earth’s surface positively charged. The opposite charges attract, reaching towards each other and superheating the air into a white strike of plasma. Red sprites are millisecond events triggered by positive cloud-to-ground lightning. They extend up into the mesosphere where the air is too thin for thunder. Their red glow comes from heated molecular nitrogen. There are several potential causes for red sprites, including that the preceding positive lightning exposes the negatively charged cloud core to the positively charged upper atmosphere, allowing those charges to connect. NASA’s Juno has observed sprites on Jupiter, indicating that sprites occur on other planets!
 
 
 ---
@@ -15,31 +22,31 @@ Why is this asteroid a double?  Earlier this month the Japanese robotic spacecra
 
 ### Dictionary.com
 
-**gaffer** _noun_ • /[gaf-er]/
+**serendipitous** _adjective_ • /[ser-uhn-dip-i-tuhs]/
 
-(British) the coach or manager of a sports team
+beneficial or favorable; happening by luck or accident
 
-In British sports slang, the gaffer is the one calling the shots — the coach or manager responsible for decisions on and off the field. Players might look to the gaffer for strategy, direction, or a post-match speech. With a summer full of high-profile soccer matches, expect plenty of attention on the gaffers guiding their teams through the competition.
+Something serendipitous arrives or happens unexpectedly, but in a way that turns out well. Coined in the 18th century, the word comes from a fairy tale about princes who make fortunate discoveries by chance. Sometimes the best things in life are the ones you didn't see coming!
 
-> _The players listened closely as the gaffer explained the new strategy before the championship match._
+> _Our serendipitous encounter at the café turned a boring afternoon into a great day._
 
 
 ### Britannica
 
-**frantic** _adjective_ • //ˈfræntɪk//
+**patron** _noun_
 
-Feeling or showing a lot of fear, worry, or wild, hurried activity, often due to extreme agitation or distress.
+A person who gives money and support to an artist, organization, or cause.
 
-> _The frantic search for the lost keys turned the entire house upside down._
+> _The wealthy businesswoman became a generous patron of the local symphony orchestra._
 >
-> _With only minutes left before the deadline, the team worked at a frantic pace to complete the project._
+> _Libraries rely heavily on their patrons to check out books and attend events._
 >
-> _Her voice was frantic with concern as she described the accident._
+> _Without the consistent support of its patrons, the small theater would have closed years ago._
 >
 
-_Similar: frenzied, distraught, hectic_  •  _Opposite: calm, composed, peaceful_
+_Similar: supporter, benefactor, sponsor_  •  _Opposite: opponent, adversary, detractor_
 
-> _"I was in a state of utter confusion and distraction; I thought I had seen my mother, given back to me from the grave, and I was frantic with joy. But then her features changed, and I beheld the corpse of my dead mother in my arms."_
+> _"Is not a patron, my Lord, one who looks with unconcern on a man struggling for life in the water, and, when he has reached ground, encumbers him with help?"_
 >
-> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
+> — **Samuel Johnson**, Letter to Lord Chesterfield (1755)
 
