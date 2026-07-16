@@ -1,19 +1,12 @@
-# Days of July 15th Past: Rembrandt (1606)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-15 12:22:33 UTC_
+_Updated: 2026-07-16 12:45:02 UTC_
 
+### NGC 300: A Cosmic Gemstone with Stars and Gas Clouds
 
+![NGC 300: A Cosmic Gemstone with Stars and Gas Clouds](https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### Red Sprites in the Tatacoa Desert
-
-![Red Sprites in the Tatacoa Desert](https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg)
-
-Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charge repels negative charge deeper into the Earth, leaving Earth’s surface positively charged. The opposite charges attract, reaching towards each other and superheating the air into a white strike of plasma. Red sprites are millisecond events triggered by positive cloud-to-ground lightning. They extend up into the mesosphere where the air is too thin for thunder. Their red glow comes from heated molecular nitrogen. There are several potential causes for red sprites, including that the preceding positive lightning exposes the negatively charged cloud core to the positively charged upper atmosphere, allowing those charges to connect. NASA’s Juno has observed sprites on Jupiter, indicating that sprites occur on other planets!
+This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from the stars and dust within the galaxy with the light from ionized clouds of interstellar gas shown in red (Sulphur), green (Hydrogen) and blue (Oxygen).   Combining red and green light in different proportions makes yellow or orange light, most visible in the image.   Light from other ionized gases is also at work in neon signs, fluorescent tubes and street lights.   These massive clouds of ionized gas are typically created by young, massive stars that produce high-energy ultraviolet radiation capable of ionizing the gas.   Massive stars are short-lived, compared with lighter stars like our sun, and explode as supernovas at the end of their lives.   Some of the colorful clouds in the image could be hiding supernova remnants.
 
 
 ---
@@ -22,31 +15,31 @@ Is there an angry Sith using force lightning in the Tatacoa Desert? This is not 
 
 ### Dictionary.com
 
-**serendipitous** _adjective_ • /[ser-uhn-dip-i-tuhs]/
+**votary** _noun_ • /[voh-tuh-ree]/
 
-beneficial or favorable; happening by luck or accident
+a person devoted to a subject or pursuit
 
-Something serendipitous arrives or happens unexpectedly, but in a way that turns out well. Coined in the 18th century, the word comes from a fairy tale about princes who make fortunate discoveries by chance. Sometimes the best things in life are the ones you didn't see coming!
+A votary is someone deeply devoted to a particular pursuit. The word originally referred to a person bound by a religious vow, and traces of that commitment still linger in its modern use. A votary doesn't merely enjoy a hobby; they weave it into their lifestyle.
 
-> _Our serendipitous encounter at the café turned a boring afternoon into a great day._
+> _As a lifelong votary of classical music, she attended as many local orchestral concerts as she could afford._
 
 
 ### Britannica
 
-**patron** _noun_
+**bookish** _adjective_ • //ˈbʊkɪʃ//
 
-A person who gives money and support to an artist, organization, or cause.
+Primarily interested in reading and studying rather than in more active or social pursuits; scholarly or studious in nature.
 
-> _The wealthy businesswoman became a generous patron of the local symphony orchestra._
+> _Despite his athletic build, John had a surprisingly bookish demeanor, always found with his nose in a classic novel._
 >
-> _Libraries rely heavily on their patrons to check out books and attend events._
+> _Her bookish habits made her an excellent researcher, but she often struggled in social settings._
 >
-> _Without the consistent support of its patrons, the small theater would have closed years ago._
+> _The old professor, with his spectacles perched on his nose and surrounded by towering stacks of books, was the epitome of a bookish scholar._
 >
 
-_Similar: supporter, benefactor, sponsor_  •  _Opposite: opponent, adversary, detractor_
+_Similar: scholarly, studious, academic_  •  _Opposite: athletic, active, uneducated_
 
-> _"Is not a patron, my Lord, one who looks with unconcern on a man struggling for life in the water, and, when he has reached ground, encumbers him with help?"_
+> _"He was a gentleman; I knew him to be so, by the bookish turn of his conversation."_
 >
-> — **Samuel Johnson**, Letter to Lord Chesterfield (1755)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
