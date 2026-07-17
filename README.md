@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-16 12:45:02 UTC_
+_Updated: 2026-07-17 12:18:17 UTC_
 
-### NGC 300: A Cosmic Gemstone with Stars and Gas Clouds
+### The Dust Trail of Comet Tempel 2
 
-![NGC 300: A Cosmic Gemstone with Stars and Gas Clouds](https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg)
+![The Dust Trail of Comet Tempel 2](https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg)
 
-This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from the stars and dust within the galaxy with the light from ionized clouds of interstellar gas shown in red (Sulphur), green (Hydrogen) and blue (Oxygen).   Combining red and green light in different proportions makes yellow or orange light, most visible in the image.   Light from other ionized gases is also at work in neon signs, fluorescent tubes and street lights.   These massive clouds of ionized gas are typically created by young, massive stars that produce high-energy ultraviolet radiation capable of ionizing the gas.   Massive stars are short-lived, compared with lighter stars like our sun, and explode as supernovas at the end of their lives.   Some of the colorful clouds in the image could be hiding supernova remnants.
+Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin dust trail, not a typical dust tail, is also seen extending both east and west of the Tempel 2 nucleus. Unlike a comet dust tail, which tends to temporarily fan out in a direction away from the Sun, this dust trail is due to the residual dust shed during many past orbits along this ancient periodic comet's orbital plane. In fact, Tempel 2's dust trail may get a little narrower and brighter from our perspective as Earth crosses through the comet's orbital plane on July 20. Comet 10P/Tempel 2 will reach a perihelion on August 2, and make its closest approach to Earth on August 3.
 
 
 ---
@@ -15,31 +15,31 @@ This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of th
 
 ### Dictionary.com
 
-**votary** _noun_ • /[voh-tuh-ree]/
+**quaggy** _adjective_ • /[kwag-ee]/
 
-a person devoted to a subject or pursuit
+marshy; boggy
 
-A votary is someone deeply devoted to a particular pursuit. The word originally referred to a person bound by a religious vow, and traces of that commitment still linger in its modern use. A votary doesn't merely enjoy a hobby; they weave it into their lifestyle.
+Something quaggy is swampy, wet, and probably a bit mucky, too. The word brings to mind boots sinking into the earth and the unmistakable squelch that follows. A quaggy field is the sort of place you'll want to cross carefully — or avoid altogether!
 
-> _As a lifelong votary of classical music, she attended as many local orchestral concerts as she could afford._
+> _The surveyors struggled to walk through the quaggy wetlands._
 
 
 ### Britannica
 
-**bookish** _adjective_ • //ˈbʊkɪʃ//
+**subside** _verb_
 
-Primarily interested in reading and studying rather than in more active or social pursuits; scholarly or studious in nature.
+To become less intense, violent, or severe; to diminish in force or activity.
 
-> _Despite his athletic build, John had a surprisingly bookish demeanor, always found with his nose in a classic novel._
+> _After the initial shock, the panic in the crowd slowly began to subside._
 >
-> _Her bookish habits made her an excellent researcher, but she often struggled in social settings._
+> _The doctor assured her that the swelling would subside within a few days._
 >
-> _The old professor, with his spectacles perched on his nose and surrounded by towering stacks of books, was the epitome of a bookish scholar._
+> _We waited for the heavy rain to subside before venturing out._
 >
 
-_Similar: scholarly, studious, academic_  •  _Opposite: athletic, active, uneducated_
+_Similar: abate, diminish, lessen_  •  _Opposite: intensify, increase, surge_
 
-> _"He was a gentleman; I knew him to be so, by the bookish turn of his conversation."_
+> _"My heart, which had been swollen with a mixture of rage and despair, began to subside, and a sense of calm, though mournful, stole over me."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
 
