@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-17 12:18:17 UTC_
+_Updated: 2026-07-18 12:01:38 UTC_
 
-### The Dust Trail of Comet Tempel 2
+### Shadow and Rainbow
 
-![The Dust Trail of Comet Tempel 2](https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg)
+![Shadow and Rainbow](https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg)
 
-Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin dust trail, not a typical dust tail, is also seen extending both east and west of the Tempel 2 nucleus. Unlike a comet dust tail, which tends to temporarily fan out in a direction away from the Sun, this dust trail is due to the residual dust shed during many past orbits along this ancient periodic comet's orbital plane. In fact, Tempel 2's dust trail may get a little narrower and brighter from our perspective as Earth crosses through the comet's orbital plane on July 20. Comet 10P/Tempel 2 will reach a perihelion on August 2, and make its closest approach to Earth on August 3.
+At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot. The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.  Still, near sunset it's no accident that the majestic mountain shadow seems to point to the center of the graceful rainbow arc. Due to perspective and the long line of sight the mountain shadow naturally forms a tapering triangular shape, its apex positioned at the point opposite the Sun on the horizon. Following thunderstorms across the region, the rainbow arcs across the early evening sky, with its colorful and characteristic 42 degree arc formed as sunlight is refracted and reflected by the atmospheric water droplets. The geometric center of a rainbow arc lies at the antisolar point. And in this scene from the golden hour on planet Earth, that's also oposite the setting Sun along the distant horizon.
 
 
 ---
@@ -15,31 +15,31 @@ Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in bin
 
 ### Dictionary.com
 
-**quaggy** _adjective_ • /[kwag-ee]/
+**false nine** _noun_ • /[fawls nahyn]/
 
-marshy; boggy
+(soccer) a center forward who drops into midfield to draw defenders out of position
 
-Something quaggy is swampy, wet, and probably a bit mucky, too. The word brings to mind boots sinking into the earth and the unmistakable squelch that follows. A quaggy field is the sort of place you'll want to cross carefully — or avoid altogether!
+A false nine is a center forward who drops into midfield rather than staying near the opposing goal. The name comes from the number 9 jersey traditionally worn by that position. Although listed as a center forward, a false nine operates deeper on the field, disrupting the defense and creating opportunities for teammates.
 
-> _The surveyors struggled to walk through the quaggy wetlands._
+> _The coach decided to play with a false nine to confuse the opponent's defenders._
 
 
 ### Britannica
 
-**subside** _verb_
+**egotist** _noun_
 
-To become less intense, violent, or severe; to diminish in force or activity.
+A person excessively conceited or self-absorbed, often believing themselves to be superior to others in importance, talent, or worth.
 
-> _After the initial shock, the panic in the crowd slowly began to subside._
+> _His constant boasting about his achievements marked him as a true egotist._
 >
-> _The doctor assured her that the swelling would subside within a few days._
+> _The team struggled to work together because of the egotist who always wanted to take all the credit._
 >
-> _We waited for the heavy rain to subside before venturing out._
+> _She tried to avoid conversations with the notorious egotist, knowing they would inevitably turn back to him._
 >
 
-_Similar: abate, diminish, lessen_  •  _Opposite: intensify, increase, surge_
+_Similar: narcissist, self-centered person, conceited person_  •  _Opposite: altruist, humble person, selfless person_
 
-> _"My heart, which had been swollen with a mixture of rage and despair, began to subside, and a sense of calm, though mournful, stole over me."_
+> _"He was an egotist, but a benevolent one, a man who liked to do good, provided it was done in his own way."_
 >
-> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
+> — **George Eliot**, Middlemarch (1871-1872)
 
