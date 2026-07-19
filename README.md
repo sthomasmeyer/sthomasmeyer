@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-18 12:01:38 UTC_
+_Updated: 2026-07-19 12:04:14 UTC_
 
-### Shadow and Rainbow
+### Flying Saucer Crash Lands in Utah Desert
 
-![Shadow and Rainbow](https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg)
+![Flying Saucer Crash Lands in Utah Desert](https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg)
 
-At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot. The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.  Still, near sunset it's no accident that the majestic mountain shadow seems to point to the center of the graceful rainbow arc. Due to perspective and the long line of sight the mountain shadow naturally forms a tapering triangular shape, its apex positioned at the point opposite the Sun on the horizon. Following thunderstorms across the region, the rainbow arcs across the early evening sky, with its colorful and characteristic 42 degree arc formed as sunlight is refracted and reflected by the atmospheric water droplets. The geometric center of a rainbow arc lies at the antisolar point. And in this scene from the golden hour on planet Earth, that's also oposite the setting Sun along the distant horizon.
+A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in 2001 by NASA itself to study the Sun.  The unexpectedly hard landing at over 300 kilometers per hour occurred because the parachutes did not open as planned.  The Genesis mission had been orbiting the Sun collecting solar wind particles that are usually deflected away by Earth's magnetic field. Despite the crash landing, many return samples remained in good enough condition to analyze. Genesis-related discoveries included new details about the composition of the Sun and how the abundance of some types of elements differ across the Solar System. These results have provided intriguing clues into details of how the Sun and planets formed billions of years ago.    Almost Hyperspace: Random APOD Generator
 
 
 ---
@@ -15,31 +15,31 @@ At sunset, an alignment of rainbow and mountain shadow was captured in this rema
 
 ### Dictionary.com
 
-**false nine** _noun_ • /[fawls nahyn]/
+**hat trick** _noun_ • /[hat trik]/
 
-(soccer) a center forward who drops into midfield to draw defenders out of position
+three goals scored by a single player in one game
 
-A false nine is a center forward who drops into midfield rather than staying near the opposing goal. The name comes from the number 9 jersey traditionally worn by that position. Although listed as a center forward, a false nine operates deeper on the field, disrupting the defense and creating opportunities for teammates.
+A hat trick occurs when a single player scores three goals in the same game or match. It's one of the most celebrated individual achievements in sports, and diehard fans of a team are likely to remember each one. Few moments can energize a crowd quite like a hat trick.
 
-> _The coach decided to play with a false nine to confuse the opponent's defenders._
+> _The talented striker celebrated wildly after scoring a hat trick in the championship game._
 
 
 ### Britannica
 
-**egotist** _noun_
+**expression** _noun_
 
-A person excessively conceited or self-absorbed, often believing themselves to be superior to others in importance, talent, or worth.
+The act of making one's thoughts, feelings, or ideas known through speech, writing, art, or other methods.
 
-> _His constant boasting about his achievements marked him as a true egotist._
+> _Her vibrant painting was a powerful expression of her inner turmoil._
 >
-> _The team struggled to work together because of the egotist who always wanted to take all the credit._
+> _He struggled to find the right expression for his profound gratitude._
 >
-> _She tried to avoid conversations with the notorious egotist, knowing they would inevitably turn back to him._
+> _The artist believed that true expression came from the soul, unburdened by convention._
 >
 
-_Similar: narcissist, self-centered person, conceited person_  •  _Opposite: altruist, humble person, selfless person_
+_Similar: articulation, communication, utterance_  •  _Opposite: suppression, concealment, silence_
 
-> _"He was an egotist, but a benevolent one, a man who liked to do good, provided it was done in his own way."_
+> _"Mr. Darcy had at first scarcely allowed her to be pretty; he had looked at her without admiration at the ball; and when they next met, he looked at her only to criticise. But no sooner had he made it clear to himself and his friends that she had hardly a good feature in her face, than he began to find it was rendered uncommonly intelligent by the beautiful expression of her dark eyes."_
 >
-> — **George Eliot**, Middlemarch (1871-1872)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
