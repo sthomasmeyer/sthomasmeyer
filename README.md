@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of July 20th Past: Alexander the Great (356 BC)
 
-_Updated: 2026-07-19 12:04:14 UTC_
+_Updated: 2026-07-20 13:13:27 UTC_
 
-### Flying Saucer Crash Lands in Utah Desert
 
-![Flying Saucer Crash Lands in Utah Desert](https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg)
 
-A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in 2001 by NASA itself to study the Sun.  The unexpectedly hard landing at over 300 kilometers per hour occurred because the parachutes did not open as planned.  The Genesis mission had been orbiting the Sun collecting solar wind particles that are usually deflected away by Earth's magnetic field. Despite the crash landing, many return samples remained in good enough condition to analyze. Genesis-related discoveries included new details about the composition of the Sun and how the abundance of some types of elements differ across the Solar System. These results have provided intriguing clues into details of how the Sun and planets formed billions of years ago.    Almost Hyperspace: Random APOD Generator
+
+---
+
+## NASA Astronomy Picture of the Day
+
+### NGC 3576: The Statue of Liberty Nebula
+
+![NGC 3576: The Statue of Liberty Nebula](https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg)
+
+What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  This re-assigned color image showcases dense knots of dark interstellar dust, fields of glowing hydrogen gas ionized by these stars, and great loops of gas expelled by dying stars. A detailed study of NGC 3576, also known as NGC 3582 and NGC 3584, uncovered at least 33 massive stars in the end stages of formation, and the clear presence of the complex carbon molecules known as polycyclic aromatic hydrocarbons (PAHs). PAHs are thought to be created in the cooling gas of star forming regions, and their development in the Sun's formation nebula five billion years ago may have been an important step in the development of life on Earth.   Jigsaw Star Statue: Astronomy Puzzle of the Day
 
 
 ---
@@ -15,31 +22,31 @@ A flying saucer from outer space crash-landed in the Utah desert after being tra
 
 ### Dictionary.com
 
-**hat trick** _noun_ • /[hat trik]/
+**sapid** _adjective_ • /[sap-id]/
 
-three goals scored by a single player in one game
+having a strong pleasant flavor
 
-A hat trick occurs when a single player scores three goals in the same game or match. It's one of the most celebrated individual achievements in sports, and diehard fans of a team are likely to remember each one. Few moments can energize a crowd quite like a hat trick.
+Something sapid has a rich flavor that's sure to please. The word comes in handy when "tasty" feels too vague and "flavorful" doesn't quite capture the full experience. Sapid is all about food that makes you happy with every bite.
 
-> _The talented striker celebrated wildly after scoring a hat trick in the championship game._
+> _The chef prepared a sapid stew that delighted everyone at the table._
 
 
 ### Britannica
 
-**expression** _noun_
+**paternal** _adjective_ • //pəˈtɜːrnəl//
 
-The act of making one's thoughts, feelings, or ideas known through speech, writing, art, or other methods.
+Of or relating to a father; characteristic of a father.
 
-> _Her vibrant painting was a powerful expression of her inner turmoil._
+> _His paternal instincts kicked in when he saw the lost child._
 >
-> _He struggled to find the right expression for his profound gratitude._
+> _She inherited her artistic talent from her paternal grandmother._
 >
-> _The artist believed that true expression came from the soul, unburdened by convention._
+> _The old professor offered paternal guidance to his students._
 >
 
-_Similar: articulation, communication, utterance_  •  _Opposite: suppression, concealment, silence_
+_Similar: fatherly, patriarchal_  •  _Opposite: maternal, filial_
 
-> _"Mr. Darcy had at first scarcely allowed her to be pretty; he had looked at her without admiration at the ball; and when they next met, he looked at her only to criticise. But no sooner had he made it clear to himself and his friends that she had hardly a good feature in her face, than he began to find it was rendered uncommonly intelligent by the beautiful expression of her dark eyes."_
+> _"He had a paternal air, and a grave, but not a stern, expression of face."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Charles Dickens**, A Tale of Two Cities (1859)
 
