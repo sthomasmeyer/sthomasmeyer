@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-21 12:41:30 UTC_
+_Updated: 2026-07-22 12:44:36 UTC_
 
-### Turtle Rock on Mars
+### The Corona Australis Molecular Cloud and the Chandelier Cluster
 
-![Turtle Rock on Mars](https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg)
+![The Corona Australis Molecular Cloud and the Chandelier Cluster](https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg)
 
-Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA’s robotic Curiosity rover came across this unusual mound, dubbed Miraflores, last month during its 4922nd Martian day exploring Mars.  The small butte may survive because it was somehow more resistant to erosion than surrounding rock.  More recent wind has now covered its top with orange Martian sand.  Below the top shell, many layers of stratified rock are visible, possibly indicating a long history of intermittent wind-blown sand being deposited and then hardened by ground water.  Similar wind-eroded layered landforms, such as yardangs in the Qaidam Desert of China, exist here on Earth. Curiosity and its companion rover Perseverance continue to investigate the ancient history of Mars as well as searching for signs of primeval life.
+The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth. It contains gas cool enough (-260 Celsius or -440 Fahrenheit) to collapse into protostars. Recently formed stars paint blue hues across the cloud as their light reflects off surrounding material. The waltz of the R Coronae Australis binary system stirs up the nebula NGC 6729. The younger of the pair ionizes nearby gas with its ultraviolet light, causing it to glow. The Chandelier Cluster (NGC 6723) dangles from the top right, but is actually tens of thousands of light years farther away than its apparent star-forming neighbor. While NGC 6723 experienced multiple periods of star formation creating slightly younger stars, the chandelier twinkles with stars almost as old as the universe.
 
 
 ---
@@ -15,31 +15,31 @@ Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tor
 
 ### Dictionary.com
 
-**alack** _interjection_ • /[uh-lak]/
+**conspectus** _noun_ • /[kuhn-spek-tuhs]/
 
-used as an exclamation of sorrow, regret, or dismay
+a general overview
 
-Alack is an old-fashioned cry of shock and sorrow. It can be shouted solo, but you might also see it paired up with its better-known cousin "alas." Alack and alas, they don't make interjections like they used to!
+A conspectus is a high-level summary that brings a subject into view at a glance. It can serve as an orientation before diving into something to make sure no one gets overwhelmed with details. A good conspectus doesn't tell you everything, but it gives you a useful sense of what's ahead.
 
-> _With a heavy heart, she cried aloud, "Alack, our grand plans have completely failed!"_
+> _The professor provided a brief conspectus of the course before beginning the first lecture._
 
 
 ### Britannica
 
-**resolution** _noun_ • /ˌre-zə-ˈlü-shən/
+**slumber** _verb_
 
-The quality of being very determined to do something; firmness of purpose.
+To be in a state of sleep, often implying a light or peaceful sleep.
 
-> _Despite numerous setbacks, her unwavering resolution kept her focused on achieving her ambitious goals._
+> _The children quietly slumbered in their beds after a day of play._
 >
-> _The team's resolution to win was evident in every play, pushing them through a tough match._
+> _After a long journey, the weary traveler longed to slumber deeply._
 >
-> _He approached the difficult task with a quiet but formidable resolution._
+> _The ancient legend spoke of a dragon that would slumber for centuries beneath the mountain._
 >
 
-_Similar: determination, resolve, steadfastness_  •  _Opposite: irresolution, hesitation, indecision_
+_Similar: sleep, doze, rest_  •  _Opposite: awaken, stir, wake_
 
-> _"I had resolved in my own mind that the justice of my cause should be as apparent as the sun at noon-day; and I had worked up to a pitch of resolution which no arguments could shake."_
+> _"Oh, what a tangled web we weave, when first we practise to deceive! But when we've practised it for years, it comes so easy, and so clear, that we can slumber in our beds, and never dream of what we've said."_
 >
-> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
+> — **Sir Walter Scott**, Marmion (1808)
 
