@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-22 12:44:36 UTC_
+_Updated: 2026-07-23 12:46:01 UTC_
 
-### The Corona Australis Molecular Cloud and the Chandelier Cluster
+### The Large Magellanic Cloud
 
-![The Corona Australis Molecular Cloud and the Chandelier Cluster](https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg)
+![The Large Magellanic Cloud](https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg)
 
-The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth. It contains gas cool enough (-260 Celsius or -440 Fahrenheit) to collapse into protostars. Recently formed stars paint blue hues across the cloud as their light reflects off surrounding material. The waltz of the R Coronae Australis binary system stirs up the nebula NGC 6729. The younger of the pair ionizes nearby gas with its ultraviolet light, causing it to glow. The Chandelier Cluster (NGC 6723) dangles from the top right, but is actually tens of thousands of light years farther away than its apparent star-forming neighbor. While NGC 6723 experienced multiple periods of star formation creating slightly younger stars, the chandelier twinkles with stars almost as old as the universe.
+Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided eye if you go to a dark sky location, away from big cities and light polution.   It is a dwarf irregular galaxy about 163,000 light-years away, and a member of our Local Group of galaxies.   Despite being small, with a total mass approximately equivalent to 10% - 20% of the mass of the Milky Way, the LMC is very actively forming stars.   This is likely due in part to the gravitational push and pull of tides caused by the Milky Way on the LMC.   Some astronomers have predicted that it will collide with the Milky Way in in about 2 billion years.
 
 
 ---
@@ -15,31 +15,31 @@ The Southern Crown (Corona Australis) dazzles with young and ancient celestial j
 
 ### Dictionary.com
 
-**conspectus** _noun_ • /[kuhn-spek-tuhs]/
+**trencherman** _noun_ • /[tren-cher-muhn]/
 
-a general overview
+a person with a hearty appetite
 
-A conspectus is a high-level summary that brings a subject into view at a glance. It can serve as an orientation before diving into something to make sure no one gets overwhelmed with details. A good conspectus doesn't tell you everything, but it gives you a useful sense of what's ahead.
+A trencherman is a person with a hearty appetite who can hold their own at any buffet. The word has a quirky history involving people eating food using pieces of wood or even stale bread as a plate. A trencherman isn't necessarily a gourmet or a food critic. They're simply someone who's always ready for seconds.
 
-> _The professor provided a brief conspectus of the course before beginning the first lecture._
+> _The cruise's unlimited portions were the perfect excuse for unleashing his inner trencherman._
 
 
 ### Britannica
 
-**slumber** _verb_
+**democratic** _adjective_ • //ˌdɛməˈkrætɪk//
 
-To be in a state of sleep, often implying a light or peaceful sleep.
+Relating to or based on the principles of democracy, a system of government where the people hold the power and elect representatives to govern on their behalf, often emphasizing equality and individual rights.
 
-> _The children quietly slumbered in their beds after a day of play._
+> _The newly formed nation aspired to establish a truly democratic government, ensuring every citizen's voice was heard._
 >
-> _After a long journey, the weary traveler longed to slumber deeply._
+> _A democratic society thrives on open debate and the free exchange of ideas, even those that are unpopular._
 >
-> _The ancient legend spoke of a dragon that would slumber for centuries beneath the mountain._
+> _The school's decision-making process became more democratic after students were given a vote on extracurricular activities._
 >
 
-_Similar: sleep, doze, rest_  •  _Opposite: awaken, stir, wake_
+_Similar: republican, popular, egalitarian_  •  _Opposite: autocratic, totalitarian, undemocratic_
 
-> _"Oh, what a tangled web we weave, when first we practise to deceive! But when we've practised it for years, it comes so easy, and so clear, that we can slumber in our beds, and never dream of what we've said."_
+> _"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness."_
 >
-> — **Sir Walter Scott**, Marmion (1808)
+> — **Thomas Jefferson (and others)**, The Declaration of Independence (July 4, 1776)
 
