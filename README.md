@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-23 12:46:01 UTC_
+_Updated: 2026-07-24 12:41:05 UTC_
 
-### The Large Magellanic Cloud
+### RCW 86: Historical Supernova Remnant
 
-![The Large Magellanic Cloud](https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg)
+![RCW 86: Historical Supernova Remnant](https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg)
 
-Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided eye if you go to a dark sky location, away from big cities and light polution.   It is a dwarf irregular galaxy about 163,000 light-years away, and a member of our Local Group of galaxies.   Despite being small, with a total mass approximately equivalent to 10% - 20% of the mass of the Milky Way, the LMC is very actively forming stars.   This is likely due in part to the gravitational push and pull of tides caused by the Milky Way on the LMC.   Some astronomers have predicted that it will collide with the Milky Way in in about 2 billion years.
+In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months before it faded from view, and is now thought to be the earliest recorded supernova. In this 21st century telescopic image, the wispy outlines of a faint emission nebula recognized as the remnant of that historical stellar explosion can be traced against a starry background. The ragged but roughly circular extent of the nebula, cataloged as RCW 86, represents interstellar gas ionized by the supernova's still expanding shock wave. Space-based images indicate an abundance of the element iron in RCW 86 and the absence of a neutron star or pulsar within the remnant, suggesting that the original supernova was Type Ia. Unlike the core collapse supernova explosion of a massive star, a Type Ia supernova is a thermonuclear detonation on a white dwarf star that has accreted material from its companion in a binary star system. Near the plane of our Milky Way galaxy and larger than the full moon on the sky this supernova remnant is too faint to be seen by eye though. RCW 86 is some 8,000 light-years distant and around 100 light-years across.
 
 
 ---
@@ -15,31 +15,31 @@ Have you ever seen another galaxy with your own eyes?   The featured image shows
 
 ### Dictionary.com
 
-**trencherman** _noun_ • /[tren-cher-muhn]/
+**Argus-eyed** _adjective_ • /[ahr-guhs-ahyd]/
 
-a person with a hearty appetite
+extremely observant; watchful
 
-A trencherman is a person with a hearty appetite who can hold their own at any buffet. The word has a quirky history involving people eating food using pieces of wood or even stale bread as a plate. A trencherman isn't necessarily a gourmet or a food critic. They're simply someone who's always ready for seconds.
+If you're Argus-eyed, you're exceptionally observant and quick to notice details that others might miss. Argus was a mythical giant who was said to have a hundred eyes, making him the ultimate watchman. Being Argus-eyed sounds great until you notice that one tile that's oh-so-slightly chipped and you can't unsee it!
 
-> _The cruise's unlimited portions were the perfect excuse for unleashing his inner trencherman._
+> _The Argus-eyed supervisor noticed the tiny mistake before anyone else and paused the production line._
 
 
 ### Britannica
 
-**democratic** _adjective_ • //ˌdɛməˈkrætɪk//
+**blue-ribbon** _adjective_
 
-Relating to or based on the principles of democracy, a system of government where the people hold the power and elect representatives to govern on their behalf, often emphasizing equality and individual rights.
+Composed of individuals recognized for their exceptional knowledge, skill, or expertise, typically referring to a committee or panel.
 
-> _The newly formed nation aspired to establish a truly democratic government, ensuring every citizen's voice was heard._
+> _The governor appointed a blue-ribbon committee to investigate the recent economic downturn._
 >
-> _A democratic society thrives on open debate and the free exchange of ideas, even those that are unpopular._
+> _The report from the blue-ribbon panel offered comprehensive solutions to the complex problem._
 >
-> _The school's decision-making process became more democratic after students were given a vote on extracurricular activities._
+> _To ensure impartiality, the selection process for the blue-ribbon jury was meticulously designed._
 >
 
-_Similar: republican, popular, egalitarian_  •  _Opposite: autocratic, totalitarian, undemocratic_
+_Similar: expert, distinguished, elite_  •  _Opposite: amateur, unqualified, mediocre_
 
-> _"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness."_
+> _"I have appointed a blue-ribbon panel of distinguished Americans to study the entire problem of crime and its prevention."_
 >
-> — **Thomas Jefferson (and others)**, The Declaration of Independence (July 4, 1776)
+> — **Lyndon B. Johnson**, Remarks at the Swearing In of Ramsey Clark as Attorney General (March 10, 1967)
 
