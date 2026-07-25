@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-24 12:41:05 UTC_
+_Updated: 2026-07-25 12:06:34 UTC_
 
-### RCW 86: Historical Supernova Remnant
+### Tranquility and Serenity
 
-![RCW 86: Historical Supernova Remnant](https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg)
+![Tranquility and Serenity](https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg)
 
-In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months before it faded from view, and is now thought to be the earliest recorded supernova. In this 21st century telescopic image, the wispy outlines of a faint emission nebula recognized as the remnant of that historical stellar explosion can be traced against a starry background. The ragged but roughly circular extent of the nebula, cataloged as RCW 86, represents interstellar gas ionized by the supernova's still expanding shock wave. Space-based images indicate an abundance of the element iron in RCW 86 and the absence of a neutron star or pulsar within the remnant, suggesting that the original supernova was Type Ia. Unlike the core collapse supernova explosion of a massive star, a Type Ia supernova is a thermonuclear detonation on a white dwarf star that has accreted material from its companion in a binary star system. Near the plane of our Milky Way galaxy and larger than the full moon on the sky this supernova remnant is too faint to be seen by eye though. RCW 86 is some 8,000 light-years distant and around 100 light-years across.
+The Seas of Tranquility and Serenity are calm today. They're calm most every day though, since they are actually lunar maria, ancient lava flows filling in large impact basins on the Moon. Also known by Latin names Mare Tranquillitatis (right) and Mare Serenitatis, the smooth dark lunar "seas" are in stark contrast to the bright cratered lunar highlands surrounding them in this telescopic view. Of course their names are based on the historical, pre-telescopic designations of lunar maria. Easily visible to the unaided eye, the broad features on the Moon's near side were imagined to be like the expansive oceans of planet Earth. On July 20, 1969, the Apollo 11 lunar module Eagle touched down on the Mare Tranquillitatis (at lower right), establishing Tranquility base and the first human presence on the Moon.
 
 
 ---
@@ -15,31 +15,31 @@ In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanm
 
 ### Dictionary.com
 
-**Argus-eyed** _adjective_ • /[ahr-guhs-ahyd]/
+**pelf** _noun_ • /[pelf]/
 
-extremely observant; watchful
+money, wealth, or ill-gotten gains
 
-If you're Argus-eyed, you're exceptionally observant and quick to notice details that others might miss. Argus was a mythical giant who was said to have a hundred eyes, making him the ultimate watchman. Being Argus-eyed sounds great until you notice that one tile that's oh-so-slightly chipped and you can't unsee it!
+Pelf is money or some other form of wealth, but the word carries a suggestion that it was acquired by questionable means. A fortune may be admired, and wealth may be respected, but pelf suggests riches that inspire suspicion rather than envy.
 
-> _The Argus-eyed supervisor noticed the tiny mistake before anyone else and paused the production line._
+> _The pirates hid their pelf in a secret cave far from the village._
 
 
 ### Britannica
 
-**blue-ribbon** _adjective_
+**delish** _adjective_ • //dəˈlɪʃ//
 
-Composed of individuals recognized for their exceptional knowledge, skill, or expertise, typically referring to a committee or panel.
+Extremely pleasing to the senses, especially taste; delicious.
 
-> _The governor appointed a blue-ribbon committee to investigate the recent economic downturn._
+> _The homemade chocolate cake was absolutely delish, disappearing within minutes._
 >
-> _The report from the blue-ribbon panel offered comprehensive solutions to the complex problem._
+> _She described the new restaurant's fusion tacos as surprisingly delish._
 >
-> _To ensure impartiality, the selection process for the blue-ribbon jury was meticulously designed._
+> _After a long hike, even a simple sandwich can taste delish._
 >
 
-_Similar: expert, distinguished, elite_  •  _Opposite: amateur, unqualified, mediocre_
+_Similar: delicious, delectable, scrumptious_  •  _Opposite: unappetizing, distasteful, awful_
 
-> _"I have appointed a blue-ribbon panel of distinguished Americans to study the entire problem of crime and its prevention."_
+> _"The word 'delish' is an informal, colloquial shortening of 'delicious' and primarily appears in contemporary, informal contexts such as popular culture, food writing, and casual conversation. It does not typically feature in the canonical literature, historical speeches, or foundational documents specified as eligible sources, making an authentic citation from such works highly improbable."_
 >
-> — **Lyndon B. Johnson**, Remarks at the Swearing In of Ramsey Clark as Attorney General (March 10, 1967)
+> — **Lexicographer's Analysis**, Verification Note (July 25, 2026)
 
