@@ -1,34 +1,45 @@
-# Words of the Day
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-26 12:11:30 UTC_
+_Updated: 2026-07-27 13:43:09 UTC_
+
+### NGC 7635: The Bubble Nebula
+
+![NGC 7635: The Bubble Nebula](https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg)
+
+What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**luthier** _noun_ • /[loo-thee-er]/
+**redress** _verb_ • /[ri-dres]/
 
-a maker of stringed instruments, such as violins
+to remedy, repair, or set right
 
-A luthier is a maker of stringed instruments such as violins and guitars. The word is based on the French luth, meaning "lute," a stringed instrument popular in Renaissance Europe. A skilled luthier fine-tunes every detail in pursuit of beautiful music.
+To redress is to set something right after it has gone wrong. You're more likely to come across the word in legal documents or other formal contexts, but the idea is familiar to anyone who's tried to make amends. If a major mistake is made, truly redressing the error may require more than a simple apology.
 
-> _The luthier spent days carefully repairing the cracked wood of the antique cello._
+> _The company offered a full refund to redress the customer's complaint about the broken product._
 
 
 ### Britannica
 
-**irresistible** _adjective_ • //ˌɪrɪˈzɪstəbəl//
+**abyss** _noun_
 
-Impossible to resist, especially due to overwhelming strength, appeal, or charm.
+A hole so deep or a space so great that it cannot be measured; often used figuratively to describe a profound, immeasurable void or a state of extreme despair or difficulty.
 
-> _The aroma of freshly baked bread was utterly irresistible._
+> _The diver descended into the dark abyss of the ocean trench, where no light could penetrate._
 >
-> _His charm was so irresistible that she found herself agreeing to things she normally wouldn't._
+> _After losing everything, he felt himself staring into an abyss of hopelessness._
 >
-> _The team's momentum became irresistible in the final quarter, leading them to victory._
+> _The economic crisis threatened to plunge the nation into an abyss of instability._
 >
 
-_Similar: compelling, overwhelming, captivating_  •  _Opposite: resistible, avoidable, weak_
+_Similar: chasm, gulf, void_  •  _Opposite: summit, peak, surface_
 
-> _"Elizabeth was much pleased with Lady Catherine's condescension, and felt an irresistible impulse to laugh."_
+> _"When you gaze long into an abyss, the abyss also gazes into you."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Friedrich Nietzsche**, Beyond Good and Evil (1886)
 
