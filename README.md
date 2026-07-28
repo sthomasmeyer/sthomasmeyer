@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-27 13:43:09 UTC_
+_Updated: 2026-07-28 12:58:50 UTC_
 
-### NGC 7635: The Bubble Nebula
+### Barnards Loop over Twin Volcanoes
 
-![NGC 7635: The Bubble Nebula](https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg)
+![Barnards Loop over Twin Volcanoes](https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg)
 
-What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.
+What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of hot magma, and neither volcano has erupted in the past 1000 years.  Above the ground, there is usually nothing in the sky that connects them -- except if you use careful timing and look from a specific location.  The featured well-planned image was captured from Bolivia in mid-April with a series of camera exposures taken on the same day and from the same location.  Then, Barnard's Loop appeared to connect the volcanic peaks. Also visible in the image is the Orion Nebula in the center, the star Betelgeuse on the right, and the Rosette Nebula on the upper right.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
 
 ---
@@ -15,31 +15,31 @@ What created this huge space bubble? Blown by the wind from a star, this tantali
 
 ### Dictionary.com
 
-**redress** _verb_ • /[ri-dres]/
+**punctilio** _noun_ • /[puhngk-til-ee-oh]/
 
-to remedy, repair, or set right
+a fine point or detail
 
-To redress is to set something right after it has gone wrong. You're more likely to come across the word in legal documents or other formal contexts, but the idea is familiar to anyone who's tried to make amends. If a major mistake is made, truly redressing the error may require more than a simple apology.
+A punctilio is a detail or subtle distinction that may seem minor but still merits attention. The word is often associated with etiquette and other protocols where precision matters — or at least, it's seen as mattering by an in-group. Whether a punctilio deserves attention can depend on who's doing the noticing.
 
-> _The company offered a full refund to redress the customer's complaint about the broken product._
+> _He observed every punctilio of royal court etiquette during his meeting with the queen._
 
 
 ### Britannica
 
-**abyss** _noun_
+**collapse** _verb_
 
-A hole so deep or a space so great that it cannot be measured; often used figuratively to describe a profound, immeasurable void or a state of extreme despair or difficulty.
+To break apart and fall down suddenly, or to fail completely and abruptly.
 
-> _The diver descended into the dark abyss of the ocean trench, where no light could penetrate._
+> _After days of heavy rain, the old barn's roof began to collapse._
 >
-> _After losing everything, he felt himself staring into an abyss of hopelessness._
+> _Without proper funding, the ambitious project was destined to collapse._
 >
-> _The economic crisis threatened to plunge the nation into an abyss of instability._
+> _Upon hearing the devastating news, she felt her resolve collapse._
 >
 
-_Similar: chasm, gulf, void_  •  _Opposite: summit, peak, surface_
+_Similar: crumble, disintegrate, fail_  •  _Opposite: recover, strengthen, rise_
 
-> _"When you gaze long into an abyss, the abyss also gazes into you."_
+> _"She felt herself suddenly shrivelled, aged, dried up, like a skeleton; and not even like a skeleton, but like a mere collapse of skin and bone, with a lamp inside her, that burnt and burnt, and she could not feel it."_
 >
-> — **Friedrich Nietzsche**, Beyond Good and Evil (1886)
+> — **Virginia Woolf**, Mrs Dalloway (1925)
 
