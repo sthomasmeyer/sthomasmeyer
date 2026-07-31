@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-07-30 12:50:54 UTC_
+_Updated: 2026-07-31 13:03:20 UTC_
 
-### Red Sun through Wildfire Smoke
+### NGC 4372 and the Dark Doodad
 
-![Red Sun through Wildfire Smoke](https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg)
+![NGC 4372 and the Dark Doodad](https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg)
 
-This could be the view from an exoplanet orbiting around a red dwarf star, but it is our own Sun.   This image was taken on July 22, 2026, in the Okanagan region in the Canadian province of British Columbia.   Wildfire smoke from the Pacific Northwest acted as a solar filter, allowing the photographer to take this photo of the Sun directly.   Several sunspots are also visible in this eerie image; just below and right of the center is AR 4493, a fast evolving, giant active solar region and sunspot group.     The smoke is made of tiny particles that help block and scatter light with bluer colors, so the light we see coming from the Sun is dimmer and redder than usual (but it is never safe to stare directly at the Sun).   Sunsets and sunrises are also more colorful because of the smoke.      Some 6 billion years from now, the Sun will actually start to turn redder as it approaches its red giant phase.
+The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this telescopic field of view, the Dark Doodad is punctuated near its southern tip (upper right) by yellowish globular star cluster NGC 4372. Of course NGC 4372 roams the halo of our Milky Way galaxy, a background object some 20,000 light-years away and only by chance along our line-of-sight to the Dark Doodad. About 700 light-years distant and over 30 light-years long, the Dark Doodad's well defined silhouette belongs to the potentially star-forming Musca molecular cloud. The dusty Dark Doodad's delightfully alliterative moniker was first coined by astro-imager and writer Dennis di Cicco in 1986 while observing Comet Halley from the Australian outback.
 
 
 ---
@@ -15,31 +15,31 @@ This could be the view from an exoplanet orbiting around a red dwarf star, but i
 
 ### Dictionary.com
 
-**ligneous** _adjective_ • /[lig-nee-uhs]/
+**scuttlebutt** _noun_ • /[skuht-l-buht]/
 
-made of or resembling wood
+rumor or gossip
 
-If something is ligneous, it's made of wood or has a wood-like appearance or texture. The word is especially common in botany, where it helps distinguish hard, woody growth from softer plant tissue. A ligneous stem may not look as dramatic as a towering trunk, but it's built from the same sturdy stuff.
+Scuttlebutt is that unofficial information that circulates before the facts are fully known. The word originated aboard ships, where sailors gathered around a cask of drinking water called a "scuttlebutt" to chat and exchange news. The scuttlebutt isn't always accurate, but it can be more entertaining than the official story.
 
-> _The old shrub developed a tough, ligneous stem that seemed more like a tree branch._
+> _The scuttlebutt around the office was that the director would lose the promotion to someone less qualified._
 
 
 ### Britannica
 
-**cupola** _noun_ • /ˈkjuːpələ/
+**haywire** _adjective_
 
-A small, often dome-shaped, structure built on top of a roof, typically for ornamentation or to admit light and air.
+Not working properly; in a state of disorder or confusion.
 
-> _The old courthouse was topped with a grand cupola, visible from miles away._
+> _After the power surge, the old computer's systems went completely haywire._
 >
-> _From the cupola, the lighthouse keeper had a panoramic view of the stormy sea._
+> _The sudden change in policy caused the entire department to go haywire for a few days._
 >
-> _The architect designed a decorative cupola to add character to the otherwise plain building._
+> _His internal clock was haywire after traveling across multiple time zones._
 >
 
-_Similar: dome, turret, belvedere_
+_Similar: malfunctioning, erratic, disordered_  •  _Opposite: functional, orderly, operational_
 
-> _"It was a very large and spacious room, with a high ceiling, and a great cupola in the middle, through which the light streamed down."_
+> _"Everything was going haywire. The whole world was going haywire."_
 >
-> — **Herman Melville**, Moby Dick; or, The Whale (1851)
+> — **J.D. Salinger**, The Catcher in the Rye (1951)
 
