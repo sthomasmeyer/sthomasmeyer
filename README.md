@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-01 12:08:45 UTC_
+_Updated: 2026-08-02 12:11:10 UTC_
 
-### Buck Moon and Belt of Venus
+### A Fire Rainbow over West Virginia
 
-![Buck Moon and Belt of Venus](https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg)
+![A Fire Rainbow over West Virginia](https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg)
 
-The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shadow also rises in the twilight scene, a diffuse gray band extending above the mountainous southeastern horizon. Above Earth's shadow band is the pinkish antitwilight arch. That subtly tinted band of backscattered sunlight is more widely known as the Belt of Venus. But as it shares the eastern horizon with the atmospheric shadow of Earth and Belt of Venus, this full Buck Moon seems to set the stage for the New Moon to come. The New Moon of August 12 will cast its shadow on planet Earth in a much anticipated total solar eclipse.
+What's happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58 degrees high in a sky where cirrus clouds present below --  in this case cirrus fibratus.  The numerous, flat, hexagonal ice-crystals that compose the cirrus cloud must be aligned horizontally to properly refract sunlight in a collectively similar manner.  Therefore, circumhorizontal arcs are somewhat unusual to see.  The featured fire rainbow was photographed in 2021 near North Fork Mountain in West Virginia, USA.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
 
 ---
@@ -15,31 +15,31 @@ The Buck Moon is a traditional name for the full moon of July. In this colorful 
 
 ### Dictionary.com
 
-**saccade** _noun_ • /[sa-kahd]/
+**educe** _verb_ • /[ih-doos]/
 
-a quick movement of the eyes when changing focus from one point to another
+to draw forth or bring out; elicit
 
-Every time your eyes dart from one object to another, they're making a saccade. Rather than gliding smoothly across a scene, they make countless tiny jumps every day as they gather visual information. Even though you rarely notice a saccade happening, your gaze is constantly on the move.
+To educe is to bring something forth, such as an idea or emotion. The word comes from a Latin verb meaning "to lead out," making it a fitting choice when something is drawn into the open rather than created from scratch. A thoughtful question can educe an answer that was there all along.
 
-> _His eyes made saccades as he read the book._
+> _The detective hoped his clever questions would educe a full confession from the suspect._
 
 
 ### Britannica
 
-**dehydrate** _verb_
+**hunker down** _phrasal verb_
 
-To lose or cause to lose a large amount of water from the body or from food.
+To take shelter or remain in a place, often for an extended period, especially during a difficult or dangerous situation.
 
-> _Hikers must carry enough water to avoid becoming severely dehydrated on long treks._
+> _As the hurricane approached, residents were advised to hunker down in their homes._
 >
-> _To preserve the herbs, we decided to dehydrate them in a low oven._
+> _The team decided to hunker down and focus on developing the new software feature, ignoring external distractions._
 >
-> _The intense summer heat can quickly dehydrate pets if they don't have constant access to fresh water._
+> _During the economic downturn, many businesses had to hunker down and cut costs._
 >
 
-_Similar: desiccate, dry, parch_  •  _Opposite: hydrate, moisten, rehydrate_
+_Similar: take shelter, dig in, wait out_  •  _Opposite: venture out, emerge_
 
-> _"The cells of the body begin to dehydrate and die, and the body becomes a kind of living corpse."_
+> _"They were going to hunker down and wait for the storm to blow over."_
 >
-> — **Richard Preston**, The Hot Zone: A Terrifying True Story of the Origins of the Ebola Virus (1994)
+> — **Tom Wolfe**, The Right Stuff (1979)
 
