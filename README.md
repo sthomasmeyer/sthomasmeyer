@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-02 12:11:10 UTC_
+_Updated: 2026-08-03 13:46:31 UTC_
 
-### A Fire Rainbow over West Virginia
+### Vaporizing Meteor Photobombs the Lacerta Nebula
 
-![A Fire Rainbow over West Virginia](https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg)
+![Vaporizing Meteor Photobombs the Lacerta Nebula](https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg)
 
-What's happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58 degrees high in a sky where cirrus clouds present below --  in this case cirrus fibratus.  The numerous, flat, hexagonal ice-crystals that compose the cirrus cloud must be aligned horizontally to properly refract sunlight in a collectively similar manner.  Therefore, circumhorizontal arcs are somewhat unusual to see.  The featured fire rainbow was photographed in 2021 near North Fork Mountain in West Virginia, USA.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+What's happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and exciting surrounding air in Earth's atmosphere, but itself vaporizes and leaves wind-blown gas and dust with colors that give clues to its composition.  The featured image was captured last month from Death Valley Observatories in Nevada, USA.  This month, though, is particularly good for seeing meteors. Presently there are three meteor showers ongoing, although they are currently competing for visibility with the glow of a bright gibbous Moon.  The most active of these showers, the Perseids, will be busiest in about 10 days -- after the Moon has dimmed considerably.  This year, the Perseids peak nearly coincides with not only a new Moon, but, from some locations, one that totally eclipses the Sun.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
 
 ---
@@ -15,31 +15,31 @@ What's happening to this cloud? Ice crystals in a distant cirrus cloud are actin
 
 ### Dictionary.com
 
-**educe** _verb_ • /[ih-doos]/
+**demulcent** _noun_ • /[dih-muhl-suhnt]/
 
-to draw forth or bring out; elicit
+a soothing, medicinal substance
 
-To educe is to bring something forth, such as an idea or emotion. The word comes from a Latin verb meaning "to lead out," making it a fitting choice when something is drawn into the open rather than created from scratch. A thoughtful question can educe an answer that was there all along.
+A demulcent is a medicinal substance that calms irritated tissue, particularly in the throat or digestive tract. Many traditional remedies rely on ingredients that coat and soothe rather than aggressively treat a symptom. Sometimes a demulcent offers exactly the comfort that's needed.
 
-> _The detective hoped his clever questions would educe a full confession from the suspect._
+> _The pharmacist recommended a natural demulcent to help calm the patient's dry and persistent cough._
 
 
 ### Britannica
 
-**hunker down** _phrasal verb_
+**proximity** _noun_ • /prɒkˈsɪməti/
 
-To take shelter or remain in a place, often for an extended period, especially during a difficult or dangerous situation.
+The state, quality, or fact of being near or next to; closeness in space, time, or relationship.
 
-> _As the hurricane approached, residents were advised to hunker down in their homes._
+> _The small town benefited greatly from its proximity to the major highway._
 >
-> _The team decided to hunker down and focus on developing the new software feature, ignoring external distractions._
+> _Despite their physical proximity, the two neighbors rarely spoke to each other._
 >
-> _During the economic downturn, many businesses had to hunker down and cut costs._
+> _The sudden proximity of the predator sent a shiver down the prey's spine._
 >
 
-_Similar: take shelter, dig in, wait out_  •  _Opposite: venture out, emerge_
+_Similar: nearness, closeness, adjacency_  •  _Opposite: distance, remoteness, farness_
 
-> _"They were going to hunker down and wait for the storm to blow over."_
+> _"As to the proximity of the two countries, it is a matter of no moment; the distance of the one from the other is too great to admit of their being governed by each other."_
 >
-> — **Tom Wolfe**, The Right Stuff (1979)
+> — **Thomas Paine**, Common Sense (January 10, 1776)
 
