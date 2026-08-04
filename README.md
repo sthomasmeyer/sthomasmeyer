@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-03 13:46:31 UTC_
+_Updated: 2026-08-04 13:06:13 UTC_
 
-### Vaporizing Meteor Photobombs the Lacerta Nebula
+### Curious Cometary Knots in the Helix Nebula
 
-![Vaporizing Meteor Photobombs the Lacerta Nebula](https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg)
+![Curious Cometary Knots in the Helix Nebula](https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg)
 
-What's happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and exciting surrounding air in Earth's atmosphere, but itself vaporizes and leaves wind-blown gas and dust with colors that give clues to its composition.  The featured image was captured last month from Death Valley Observatories in Nevada, USA.  This month, though, is particularly good for seeing meteors. Presently there are three meteor showers ongoing, although they are currently competing for visibility with the glow of a bright gibbous Moon.  The most active of these showers, the Perseids, will be busiest in about 10 days -- after the Moon has dimmed considerably.  This year, the Perseids peak nearly coincides with not only a new Moon, but, from some locations, one that totally eclipses the Sun.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the Helix Nebula by the James Webb Space Telescope showing tremendous detail in infrared light. The cometary knots have masses similar to the Earth but have sizes typically several times the orbit of Pluto.  One hypothesis for the fragmentation and evolution of the knots includes existing gas being driven out by a less dense but highly energetic stellar wind of the central evolving star.  The Helix Nebula is one of the closest examples of a planetary nebula created at the end of the life of a Sun-like star.  Given a technical designation of NGC 7293, the Helix Nebula lies about 650 light-years away towards the constellation of Water Carrier (Aquarius).   Open Science: Browse 4,000+ codes in the Astrophysics Source Code Library
 
 
 ---
@@ -15,31 +15,31 @@ What's happening to this meteor? This bright meteor streak appeared and disappea
 
 ### Dictionary.com
 
-**demulcent** _noun_ • /[dih-muhl-suhnt]/
+**friable** _adjective_ • /[frahy-uh-buhl]/
 
-a soothing, medicinal substance
+easily crumbled or reduced to powder; crumbly
 
-A demulcent is a medicinal substance that calms irritated tissue, particularly in the throat or digestive tract. Many traditional remedies rely on ingredients that coat and soothe rather than aggressively treat a symptom. Sometimes a demulcent offers exactly the comfort that's needed.
+Something friable breaks apart with very little pressure instead of staying firm. Geologists and bakers alike encounter materials that crumble with ease, though for different reasons. A friable texture can be either useful or inconvenient depending on what you're working with.
 
-> _The pharmacist recommended a natural demulcent to help calm the patient's dry and persistent cough._
+> _The pastry was friable, crumbling into tiny pieces all over her desk._
 
 
 ### Britannica
 
-**proximity** _noun_ • /prɒkˈsɪməti/
+**independence** _noun_
 
-The state, quality, or fact of being near or next to; closeness in space, time, or relationship.
+The state of being free from outside control or support; self-governance.
 
-> _The small town benefited greatly from its proximity to the major highway._
+> _The newly formed nation celebrated its independence with parades and festivities._
 >
-> _Despite their physical proximity, the two neighbors rarely spoke to each other._
+> _She valued her financial independence, allowing her to make choices without external pressure._
 >
-> _The sudden proximity of the predator sent a shiver down the prey's spine._
+> _Achieving true independence requires both self-reliance and a clear vision for the future._
 >
 
-_Similar: nearness, closeness, adjacency_  •  _Opposite: distance, remoteness, farness_
+_Similar: autonomy, self-governance, sovereignty_  •  _Opposite: dependence, subjugation, reliance_
 
-> _"As to the proximity of the two countries, it is a matter of no moment; the distance of the one from the other is too great to admit of their being governed by each other."_
+> _"We, therefore, the Representatives of the united States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the Name, and by Authority of the good People of these Colonies, solemnly publish and declare, That these United Colonies are, and of Right ought to be Free and Independent States; that they are Absolved from all Allegiance to the British Crown, and that all political connection between them and the State of Great Britain, is and ought to be totally dissolved."_
 >
-> — **Thomas Paine**, Common Sense (January 10, 1776)
+> — **Thomas Jefferson**, The Declaration of Independence (July 4, 1776)
 
