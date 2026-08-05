@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-04 13:06:13 UTC_
+_Updated: 2026-08-05 12:59:49 UTC_
 
-### Curious Cometary Knots in the Helix Nebula
+### Spokes on Saturn's B Ring
 
-![Curious Cometary Knots in the Helix Nebula](https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg)
+![Spokes on Saturn's B Ring](https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif)
 
-What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the Helix Nebula by the James Webb Space Telescope showing tremendous detail in infrared light. The cometary knots have masses similar to the Earth but have sizes typically several times the orbit of Pluto.  One hypothesis for the fragmentation and evolution of the knots includes existing gas being driven out by a less dense but highly energetic stellar wind of the central evolving star.  The Helix Nebula is one of the closest examples of a planetary nebula created at the end of the life of a Sun-like star.  Given a technical designation of NGC 7293, the Helix Nebula lies about 650 light-years away towards the constellation of Water Carrier (Aquarius).   Open Science: Browse 4,000+ codes in the Astrophysics Source Code Library
+Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and disappears as Saturn’s B ring rotates. Decades of observation with Voyager 2, Cassini, and Hubble show the appearance of Saturn’s spokes varies with the planet’s seasons. Like Earth, Saturn’s spin axis is tilted compared to the plane of its orbit around the Sun. During Saturn’s equinox, the rings are less tilted away from the Sun and the planet receives more evenly distributed sunlight and solar wind. Although their origin is still uncertain, Saturn’s spokes may be shadows of and reflections off of dust and ice levitating above the rings caused by electromagnetic interactions between the solar wind and the planet’s magnetic field.   Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!
 
 
 ---
@@ -15,31 +15,45 @@ What causes unusual knots of gas and dust in planetary nebulas?  Seen also in th
 
 ### Dictionary.com
 
-**friable** _adjective_ • /[frahy-uh-buhl]/
+**panegyrize** _verb_ • /[pan-i-juh-rahyz]/
 
-easily crumbled or reduced to powder; crumbly
+to praise someone or something highly through speech or writing
 
-Something friable breaks apart with very little pressure instead of staying firm. Geologists and bakers alike encounter materials that crumble with ease, though for different reasons. A friable texture can be either useful or inconvenient depending on what you're working with.
+To panegyrize is to celebrate someone or something with enthusiastic praise in speech or writing. The word traces back to Ancient Greek public assemblies, where formal speeches honored notable people and achievements. A heartfelt tribute can panegyrize someone without sounding exaggerated.
 
-> _The pastry was friable, crumbling into tiny pieces all over her desk._
+> _The guest speaker began to panegyrize the soldiers for their incredible bravery and service to the country._
 
 
 ### Britannica
 
-**independence** _noun_
+**hearty** _adjective_
 
-The state of being free from outside control or support; self-governance.
+Done or expressed in a very open, cheerful, and energetic way.
 
-> _The newly formed nation celebrated its independence with parades and festivities._
+> _The travelers received a hearty welcome at the inn after their long journey._
 >
-> _She valued her financial independence, allowing her to make choices without external pressure._
+> _She let out a hearty laugh, filling the room with her infectious joy._
 >
-> _Achieving true independence requires both self-reliance and a clear vision for the future._
+> _A hearty breakfast of eggs and bacon prepared them for the day's adventures._
 >
 
-_Similar: autonomy, self-governance, sovereignty_  •  _Opposite: dependence, subjugation, reliance_
+_Similar: cheerful, robust, substantial_  •  _Opposite: weak, insincere, meager_
 
-> _"We, therefore, the Representatives of the united States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the Name, and by Authority of the good People of these Colonies, solemnly publish and declare, That these United Colonies are, and of Right ought to be Free and Independent States; that they are Absolved from all Allegiance to the British Crown, and that all political connection between them and the State of Great Britain, is and ought to be totally dissolved."_
+> _"He had a hearty laugh, and a hearty voice, and a hearty way with him altogether; and a glowing face, and a bright eye, and a cheery manner."_
 >
-> — **Thomas Jefferson**, The Declaration of Independence (July 4, 1776)
+> — **Charles Dickens**, A Christmas Carol (1843)
+
+
+### Merriam-Webster
+
+**colloquial** _adjective_ • /kuh-LOH-kwee-ul/
+
+Used when people are speaking informally
+
+> _The author can switch from formal academic language to a charmingly colloquial style, depending on the audience and subject of her writing._
+>
+
+> "The American woodcock is a native North American bird species found in Wisconsin and much of the eastern United States and Canada. Known by a host of colloquial names, including timberdoodle, ... bogsucker and mudsnipe, the species is about the size of the American robin ..." — Paul A. Smith, The Green Bay (Wisconsin) Press-Gazette , 1 May 2026
+
+_The noun colloquy has since the 15th century referred to a conversation or dialogue, and when the adjective colloquial was formed in the mid-18th century it had a similar focus. (Both words trace back to the Latin verb colloquī, meaning "to converse.") Over time, however, colloquial developed a more specific meaning related to language that is most suited to informal conversation, and it ultimately garnered a secondary use for language that is so informal as to be inappropriate for a given situation. For instance, when writing an academic paper about Antarctic explorer Ernest Shackleton, it would not serve to say that the crew of the Endurance was "in quite a pickle" when they became trapped in ice off the Caird coast. Although pickle does indeed mean "a difficult situation" in this context, its flavor—ahem—may be considered too colloquial, that is, "unacceptably informal," for academic use._
 
