@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-06 13:00:52 UTC_
+_Updated: 2026-08-07 11:52:47 UTC_
 
-### New Sharpest Image of the Sun Uncovers Instability
+### Rubin's COSMOS field
 
-![New Sharpest Image of the Sun Uncovers Instability](https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_960.jpg)
+![Rubin's COSMOS field](https://apod.nasa.gov/apod/image/2608/noirlab2618b_1024.jpg)
 
-What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of solar magnetic plasma. Long hypothesized to occur on the Sun's surface, KHI streaks and swirls were confirmed in just-released dramatic high-resolution images taken recently by the Inouye Solar Telescope in Hawaii, USA.  The featured false-yellow image, actually taken in deep blue, is the highest resolution image yet of the Sun in visible light. It spans about the radius of the Earth, but its finest details are city sized.  Visible are several smooth tops of changing solar granules, while the edges of the flower-like structures have been found to harbor multiple KHI swirls.  Future research may investigate how the KHI helps move energy, magnetic fields, and may even heat the surrounding solar corona.
+There are more than half a million galaxies in the central panel of this image from the NSF-DOE Vera C. Rubin Observatory in Chile.   This is the COSMOS field, a patch of sky several times larger than the full moon, first observed by Hubble.   It has also been observed by Webb and other telescopes because it contains comparatively few bright stars from our own galaxy, offering a relatively unimpeded view of other galaxies outside the Milky Way.   The outer panels, numbered 1-10, show zoomed-in views of the corresponding small regions highlighted in the central panel.   The variety of galaxy shapes and sizes is astonishing.   Some of them are so far away that their light has traveled for billions of years before reaching Earth.   Rubin will come back every couple of days to the COSMOS field as part of its ten-year Legacy Survey of Space and Time.   It will allow a dynamic view of the COSMOS field and how the sky changes over time.
 
 
 ---
@@ -15,45 +15,45 @@ What does the new sharpest image of our Sun show? Instability. To be clear, a ce
 
 ### Dictionary.com
 
-**natty** _adjective_ • /[nat-ee]/
+**compeer** _noun_ • /[kuhm-peer]/
 
-neatly or trimly smart in dress or appearance
+an equal in rank or ability such as a peer or colleague
 
-If someone is natty, they're dressed with neatness and style. The word, which has been used since the 18th century, is well-suited for describing a polished, timeless appearance. Do you know someone who always looks put together, even when they're running to the grocery store? That's natty.
+Though less common than "peer," compeer has been around since the Middle Ages to describe colleagues and other respected equals. When you want to highlight not just equality (like "peer") but also a sense of companionship or camaraderie, compeer is the word you can count on — just like that great coworker!
 
-> _The young man looked quite natty in his polished shoes and perfectly tailored navy blue suit._
+> _The young scholar was proud to stand among such talented compeers at the award ceremony._
 
 
 ### Britannica
 
-**chide** _verb_ • //tʃaɪd//
+**rambunctious** _adjective_
 
-To express mild disapproval of (someone); to scold (someone) gently.
+Boisterously unruly, energetic, and difficult to control, often in a playful manner.
 
-> _The teacher would often chide students who forgot to turn in their homework._
+> _The rambunctious puppy chased its tail around the living room, knocking over a lamp in its excitement._
 >
-> _He chided himself for his foolish mistake, vowing to be more careful next time._
+> _Despite the teacher's best efforts, the class became rambunctious during the last hour before the holiday break._
 >
-> _Her mother gently chided her for leaving her toys scattered across the living room floor._
+> _The crowd grew rambunctious as the band played their most popular song, cheering and dancing wildly._
 >
 
-_Similar: scold, rebuke, admonish_  •  _Opposite: praise, commend, laud_
+_Similar: boisterous, unruly, rowdy_  •  _Opposite: quiet, subdued, docile_
 
-> _"Why should you think that I should chide you thus? None but myself have ever heard me chide you."_
+> _"The boys were rambunctious, and their voices were loud and boisterous."_
 >
-> — **William Shakespeare**, A Midsummer Night's Dream (c. 1595)
+> — **Mark Twain**, The Adventures of Tom Sawyer (1876)
 
 
 ### Merriam-Webster
 
-**torpor** _noun_ • /TOR-per/
+**invidious** _adjective_ • /in-VID-ee-us/
 
-A state of not being active and having very little energy
+Unpleasant and likely to cause bad feelings
 
-> _The magazine offers lots of ideas for activities designed to shake off the torpor of a rainy day._
+> _Psychologists caution against drawing invidious comparisons between other people’s lives as portrayed on social media and one’s own._
 >
 
-> “Especially during migration in the spring and fall, bats can get tired. If they are caught in a cold snap, they can go into torpor, like a mini-hibernation, to help survive the cold period when there aren't insects available to eat for energy.” — Tara Hohoff, The Conversation, 28 May 2026
+> “The gap between romantic expectation and mundane reality, frankly, never ceases to amaze with this team. France, somehow, get better, on paper, with every tournament. Talent keeps coming through at a relentless, invidious rate.” — James Horncastle, The New York Times, 16 June 2026
 
-_Cheer up, sleepy Jean (or sleepy Gene)—we know what torpor can mean, and we’re happy to share. Torpor can mean a few things, actually. Most commonly it refers to a state of mind and body characterized by inactivity and lack of energy, as on a torrid (no relation) summer day when one has little desire to do much more than lie around daydreaming. While people may be able to shake off torpor that sets in when the heat takes away the will to get things done, it’s a bit harder for animals, for whom the word has a more technical meaning. An animal in torpor is in a state of lowered body temperature and metabolic activity, usually because of extreme heat or cold. The torpor can last a few hours or it can be months before the creature wipes the sleep out of its eyes.  Torpid, the related adjective (both torpid and torpor come from the Latin verb torpēre, meaning “to be sluggish or numb”) also has both technical and nontechnical applications, as in “torpid animals” or “a torpid economy.”_
+_If invidious reminds you of the word insidious (“gradually or subtly causing harm”), you’ve got a nose for negativity—at least the lexical kind. It’s not that using the word invidious will harm you gradually, but that both words, in addition to rhyming and coming from Latin, are all about bad vibes. The two are otherwise unrelated; insidious comes from Latin insidiae, “ambush,” while invidious is instead a relative of envy and comes from the verb invidēre, meaning “to look askance at” or “to envy.” The link between envy and invidious is largely invisible today, as invidious is typically applied to that which is unpleasant (such as “an invidious position”) or is likely to cause harm or resentment (“invidious comparisons,” “invidious discrimination”)._
 
