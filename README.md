@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-07 11:52:47 UTC_
+_Updated: 2026-08-08 11:37:44 UTC_
 
-### Rubin's COSMOS field
+### A Messier Moment for Tempel 2
 
-![Rubin's COSMOS field](https://apod.nasa.gov/apod/image/2608/noirlab2618b_1024.jpg)
+![A Messier Moment for Tempel 2](https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg)
 
-There are more than half a million galaxies in the central panel of this image from the NSF-DOE Vera C. Rubin Observatory in Chile.   This is the COSMOS field, a patch of sky several times larger than the full moon, first observed by Hubble.   It has also been observed by Webb and other telescopes because it contains comparatively few bright stars from our own galaxy, offering a relatively unimpeded view of other galaxies outside the Milky Way.   The outer panels, numbered 1-10, show zoomed-in views of the corresponding small regions highlighted in the central panel.   The variety of galaxy shapes and sizes is astonishing.   Some of them are so far away that their light has traveled for billions of years before reaching Earth.   Rubin will come back every couple of days to the COSMOS field as part of its ten-year Legacy Survey of Space and Time.   It will allow a dynamic view of the COSMOS field and how the sky changes over time.
+Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th century astronomer kept a list of objects he observed, now his famous Messier Catalogue of Nebulae and Star Clusters, which did not move from night to night against the background stars and so were not the comets he was hunting for. So the famous comet hunter would get the correct answer too, even though his telescope would show both 10P/Tempel 2 and distant star cluster as similar looking faint and fuzzy objects in his field of view. Recorded on July 29, this modern telescopic image captures periodic comet Tempel 2 as it briefly swept close on the sky to M30. While the periodic comet's faint, narrow, orbital dust trail seems to pierce the globular star cluster, Tempel 2 was a mere 3.5 light-minutes away. Messier 30 is some 28,000 light-years distant.
 
 
 ---
@@ -15,45 +15,47 @@ There are more than half a million galaxies in the central panel of this image f
 
 ### Dictionary.com
 
-**compeer** _noun_ • /[kuhm-peer]/
+**bolster** _verb_ • /[bohl-ster]/
 
-an equal in rank or ability such as a peer or colleague
+to support or strengthen
 
-Though less common than "peer," compeer has been around since the Middle Ages to describe colleagues and other respected equals. When you want to highlight not just equality (like "peer") but also a sense of companionship or camaraderie, compeer is the word you can count on — just like that great coworker!
+To bolster is to give support or add strength to someone or something. The word's use as a verb is derived from its noun form, which is a type of long pillow that physically supports the body. A bit of encouragement can bolster confidence when it matters most.
 
-> _The young scholar was proud to stand among such talented compeers at the award ceremony._
+> _Strong pillars were added to the old foundation to bolster the weight of the new roof._
 
 
 ### Britannica
 
-**rambunctious** _adjective_
+**time-out** _noun_ • /ˈtaɪmˌaʊt/
 
-Boisterously unruly, energetic, and difficult to control, often in a playful manner.
+A short period of time when you stop doing something so that you can rest or do something else.
 
-> _The rambunctious puppy chased its tail around the living room, knocking over a lamp in its excitement._
+> _After hours of intense work, she decided to take a much-needed time-out to clear her head._
 >
-> _Despite the teacher's best efforts, the class became rambunctious during the last hour before the holiday break._
+> _The team called a time-out to strategize their next move in the final minutes of the game._
 >
-> _The crowd grew rambunctious as the band played their most popular song, cheering and dancing wildly._
+> _Sometimes, a quick time-out in nature is all it takes to regain perspective._
 >
 
-_Similar: boisterous, unruly, rowdy_  •  _Opposite: quiet, subdued, docile_
+_Similar: break, pause, recess_  •  _Opposite: continuance, persistence, activity_
 
-> _"The boys were rambunctious, and their voices were loud and boisterous."_
+> _"Sometimes you need to take a time-out from life, just to catch your breath."_
 >
-> — **Mark Twain**, The Adventures of Tom Sawyer (1876)
+> — **Stephen King**, The Dark Half (1989)
 
 
 ### Merriam-Webster
 
-**invidious** _adjective_ • /in-VID-ee-us/
+**nurture** _verb_ • /NER-cher/
 
-Unpleasant and likely to cause bad feelings
+To help something or someone to grow, develop, or succeed
 
-> _Psychologists caution against drawing invidious comparisons between other people’s lives as portrayed on social media and one’s own._
+> _Art teachers nurture their students’ creativity._
+>
+> _She nurtured a secret ambition to be a professional singer._
 >
 
-> “The gap between romantic expectation and mundane reality, frankly, never ceases to amaze with this team. France, somehow, get better, on paper, with every tournament. Talent keeps coming through at a relentless, invidious rate.” — James Horncastle, The New York Times, 16 June 2026
+> “Parks are good for people. They nurture community, even alongside busy roads and next to dense housing; especially there, in fact.” — Cheryl Fox, The Park Record (Park City, Utah), 3 July 2026
 
-_If invidious reminds you of the word insidious (“gradually or subtly causing harm”), you’ve got a nose for negativity—at least the lexical kind. It’s not that using the word invidious will harm you gradually, but that both words, in addition to rhyming and coming from Latin, are all about bad vibes. The two are otherwise unrelated; insidious comes from Latin insidiae, “ambush,” while invidious is instead a relative of envy and comes from the verb invidēre, meaning “to look askance at” or “to envy.” The link between envy and invidious is largely invisible today, as invidious is typically applied to that which is unpleasant (such as “an invidious position”) or is likely to cause harm or resentment (“invidious comparisons,” “invidious discrimination”)._
+_When nurture was first adopted from Anglo-French into English in the 14th century, it referred, as it does in the phrase “nurture vs. nature,” to training or upbringing, i.e., to the care and attention given to someone or something that is growing or developing. It wasn’t until a century later that the verb nurture settled into the language, first with meanings having to do with feeding and caring for young—meanings nourish had been, er, nurturing for a hundred years. The words come by their overlapping meanings etymologically: both come from the Latin verb nutrire, meaning “to suckle” or “to nourish.” The figurative use of nurture, meaning “to further the development of,” followed centuries later. Mary Wollstonecraft applied it in her 1792 book, A Vindication of the Rights of Woman, writing, “Public spirit must be nurtured by private virtue.”_
 
