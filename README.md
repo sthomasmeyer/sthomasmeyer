@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-08 11:37:44 UTC_
+_Updated: 2026-08-09 11:38:43 UTC_
 
-### A Messier Moment for Tempel 2
+### Contemplating the Sun
 
-![A Messier Moment for Tempel 2](https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg)
+![Contemplating the Sun](https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg)
 
-Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th century astronomer kept a list of objects he observed, now his famous Messier Catalogue of Nebulae and Star Clusters, which did not move from night to night against the background stars and so were not the comets he was hunting for. So the famous comet hunter would get the correct answer too, even though his telescope would show both 10P/Tempel 2 and distant star cluster as similar looking faint and fuzzy objects in his field of view. Recorded on July 29, this modern telescopic image captures periodic comet Tempel 2 as it briefly swept close on the sky to M30. While the periodic comet's faint, narrow, orbital dust trail seems to pierce the globular star cluster, Tempel 2 was a mere 3.5 light-minutes away. Messier 30 is some 28,000 light-years distant.
+Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Page, Arizona, USA, where park rangers and astronomers expounded on the unusual event to interested gatherers.  Also, faintly visible on the Sun's disk, just to the lower right of the dark Moon's disk, is a group of sunspots.  A new solar eclipse will occur this week and give many people in northern North America, Europe, and northwestern Africa a new chance to contemplate a partially eclipsed Sun. A thin swath of Earth from Greenland to Portugal will further experience a total solar eclipse. An open question is whether any meteors from the peaking Perseids will be visible during totality.
 
 
 ---
@@ -15,47 +15,45 @@ Which of these is not a comet? You guessed it - the one on the right is a globul
 
 ### Dictionary.com
 
-**bolster** _verb_ • /[bohl-ster]/
+**corrigendum** _noun_ • /[kawr-i-jen-duhm]/
 
-to support or strengthen
+a formal correction of an error, especially one in print
 
-To bolster is to give support or add strength to someone or something. The word's use as a verb is derived from its noun form, which is a type of long pillow that physically supports the body. A bit of encouragement can bolster confidence when it matters most.
+A corrigendum is a formal notice of a corrected error, particularly in a published work. Even carefully edited books and articles occasionally require a correction after publication. A well-placed corrigendum helps set the record straight.
 
-> _Strong pillars were added to the old foundation to bolster the weight of the new roof._
+> _The journal published a corrigendum to fix the spelling mistake found in the lead researcher's name._
 
 
 ### Britannica
 
-**time-out** _noun_ • /ˈtaɪmˌaʊt/
+**isolate** _verb_
 
-A short period of time when you stop doing something so that you can rest or do something else.
+To place or keep someone or something apart from others, often to prevent interaction or influence.
 
-> _After hours of intense work, she decided to take a much-needed time-out to clear her head._
+> _The doctor decided to isolate the patient to prevent the spread of the highly contagious illness._
 >
-> _The team called a time-out to strategize their next move in the final minutes of the game._
+> _She chose to isolate herself in the quiet cabin, seeking solitude for her creative work._
 >
-> _Sometimes, a quick time-out in nature is all it takes to regain perspective._
+> _Engineers worked tirelessly to isolate the source of the electrical fault in the system._
 >
 
-_Similar: break, pause, recess_  •  _Opposite: continuance, persistence, activity_
+_Similar: separate, seclude, quarantine_  •  _Opposite: integrate, connect, unite_
 
-> _"Sometimes you need to take a time-out from life, just to catch your breath."_
+> _"I was in a most uncomfortable state, and was not at all at my ease. I felt that I had been isolated from my own kind, and was a poor solitary creature."_
 >
-> — **Stephen King**, The Dark Half (1989)
+> — **Charles Dickens**, Great Expectations (1861)
 
 
 ### Merriam-Webster
 
-**nurture** _verb_ • /NER-cher/
+**anecdote** _noun_ • /AN-ik-doht/
 
-To help something or someone to grow, develop, or succeed
+A short narrative about an interesting or funny occurrence
 
-> _Art teachers nurture their students’ creativity._
->
-> _She nurtured a secret ambition to be a professional singer._
+> _Dinner with our uncles means lots of anecdotes involving the mischief they got into as kids._
 >
 
-> “Parks are good for people. They nurture community, even alongside busy roads and next to dense housing; especially there, in fact.” — Cheryl Fox, The Park Record (Park City, Utah), 3 July 2026
+> “Standing in front of a room of about 40 people … [NASCAR driver, Lavar] Scott told stories about his racing family. ‘One time, my grandmother raced my grandfather, and she flipped her Mustang,’ said Scott. The anecdote was greeted with a chorus of laughs.” — Devin Jackson, The Orlando Sentinel, 28 June 2026
 
-_When nurture was first adopted from Anglo-French into English in the 14th century, it referred, as it does in the phrase “nurture vs. nature,” to training or upbringing, i.e., to the care and attention given to someone or something that is growing or developing. It wasn’t until a century later that the verb nurture settled into the language, first with meanings having to do with feeding and caring for young—meanings nourish had been, er, nurturing for a hundred years. The words come by their overlapping meanings etymologically: both come from the Latin verb nutrire, meaning “to suckle” or “to nourish.” The figurative use of nurture, meaning “to further the development of,” followed centuries later. Mary Wollstonecraft applied it in her 1792 book, A Vindication of the Rights of Woman, writing, “Public spirit must be nurtured by private virtue.”_
+_The Byzantine historian Procopius wrote three historical works in Greek. In the first two, he dealt with wars and public works projects, but the third was different. Referred to as the Anekdota, from the Greek adjective anekdotos meaning “unpublished,” it contained bitter attacks on the emperor Justinian, his wife, and other notables of contemporary Constantinople. Understandably, it was not published until after Procopius’s death. English speakers originally used an anglicized version of the book’s name for similar secret or unpublished histories or biographies, but by the 17th century, the meaning of anecdote had been broadened to cover brief and interesting or amusing tales of events or incidents._
 
