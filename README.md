@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-09 11:38:43 UTC_
+_Updated: 2026-08-10 11:55:19 UTC_
 
-### Contemplating the Sun
+### Three Galaxy Pairs
 
-![Contemplating the Sun](https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg)
+![Three Galaxy Pairs](https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg)
 
-Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Page, Arizona, USA, where park rangers and astronomers expounded on the unusual event to interested gatherers.  Also, faintly visible on the Sun's disk, just to the lower right of the dark Moon's disk, is a group of sunspots.  A new solar eclipse will occur this week and give many people in northern North America, Europe, and northwestern Africa a new chance to contemplate a partially eclipsed Sun. A thin swath of Earth from Greenland to Portugal will further experience a total solar eclipse. An open question is whether any meteors from the peaking Perseids will be visible during totality.
+ch of these pairs of galaxies is different.  The two galaxies at the top are likely not interacting, at least presently.  However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured image appear like they could be interacting gravitationally -- but their relative speeds make this unlikely.  Of these two, the larger galaxy, NGC 4650, is a spiral galaxy with a bright bar of stars across its center.  The two galaxies at the bottom are actively interacting.  Possibly in a billion years or so, NGC 4622A and NGC 4622B will merge and become one single galaxy. All of these galaxies are likely members of the larger Centaurus Galaxy Cluster.    Explore the Universe: Random APOD Generator
 
 
 ---
@@ -15,45 +15,45 @@ Have you contemplated your home star recently?  Featured here, a Sun partially e
 
 ### Dictionary.com
 
-**corrigendum** _noun_ • /[kawr-i-jen-duhm]/
+**loll** _verb_ • /[lol]/
 
-a formal correction of an error, especially one in print
+to hang loosely; droop; dangle
 
-A corrigendum is a formal notice of a corrected error, particularly in a published work. Even carefully edited books and articles occasionally require a correction after publication. A well-placed corrigendum helps set the record straight.
+To loll is to dangle or droop, like a dog's tongue hanging out or a person's arm dangling over a seat. The word paints a picture of something resting slack instead of being held upright. Like many words that seem to mimic the actions they describe, loll has a sound that feels as loose and unhurried as its meaning.
 
-> _The journal published a corrigendum to fix the spelling mistake found in the lead researcher's name._
+> _Tired after a long shift, he let his arms loll over the side of the sofa._
 
 
 ### Britannica
 
-**isolate** _verb_
+**engulf** _verb_
 
-To place or keep someone or something apart from others, often to prevent interaction or influence.
+To completely surround or cover something, often in a way that overwhelms or consumes it.
 
-> _The doctor decided to isolate the patient to prevent the spread of the highly contagious illness._
+> _The sudden storm caused the waves to engulf the small boat._
 >
-> _She chose to isolate herself in the quiet cabin, seeking solitude for her creative work._
+> _She felt a wave of sadness engulf her as she heard the news._
 >
-> _Engineers worked tirelessly to isolate the source of the electrical fault in the system._
+> _The dense fog began to engulf the entire city, reducing visibility to almost zero._
 >
 
-_Similar: separate, seclude, quarantine_  •  _Opposite: integrate, connect, unite_
+_Similar: inundate, submerge, overwhelm_  •  _Opposite: uncover, reveal, free_
 
-> _"I was in a most uncomfortable state, and was not at all at my ease. I felt that I had been isolated from my own kind, and was a poor solitary creature."_
+> _"The great shroud of the sea rolled on as it rolled five thousand years ago. It engulfs the living and the dead."_
 >
-> — **Charles Dickens**, Great Expectations (1861)
+> — **Herman Melville**, Moby Dick (1851)
 
 
 ### Merriam-Webster
 
-**anecdote** _noun_ • /AN-ik-doht/
+**pedagogical** _adjective_ • /ped-uh-GAH-jih-kul/
 
-A short narrative about an interesting or funny occurrence
+Of or relating to teachers or education
 
-> _Dinner with our uncles means lots of anecdotes involving the mischief they got into as kids._
+> _The new professor is known for particularly engaging pedagogical methods._
 >
 
-> “Standing in front of a room of about 40 people … [NASCAR driver, Lavar] Scott told stories about his racing family. ‘One time, my grandmother raced my grandfather, and she flipped her Mustang,’ said Scott. The anecdote was greeted with a chorus of laughs.” — Devin Jackson, The Orlando Sentinel, 28 June 2026
+> “It’s a predictable part of every academic year at my institution: that time when we faculty are asked to submit course proposals and space requests. ... But the prosaic task of picking a classroom has hidden potential: It’s a chance to manifest a new pedagogical vision; it’s an instantiation of values in a time of profound change.” — Rachel Hastings, Inside Higher Ed, 4 June 2026
 
-_The Byzantine historian Procopius wrote three historical works in Greek. In the first two, he dealt with wars and public works projects, but the third was different. Referred to as the Anekdota, from the Greek adjective anekdotos meaning “unpublished,” it contained bitter attacks on the emperor Justinian, his wife, and other notables of contemporary Constantinople. Understandably, it was not published until after Procopius’s death. English speakers originally used an anglicized version of the book’s name for similar secret or unpublished histories or biographies, but by the 17th century, the meaning of anecdote had been broadened to cover brief and interesting or amusing tales of events or incidents._
+_Pedagogical was coined in the late 16th century from a Greek adjective of the same meaning. That adjective, paidagōgikos (“suitable for a teacher or trainer”), in turn comes from the noun paidagōgos, meaning “tutor.” The English word pedagogue (which can simply mean “teacher” but usually suggests one who is particularly pedantic or dull) comes from the same root. Although the words educational and teacher make the grade in most contexts, pedagogical and pedagogue are useful additions to the class._
 
