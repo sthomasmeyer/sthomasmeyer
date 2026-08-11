@@ -1,59 +1,48 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-08-10 11:55:19 UTC_
-
-### Three Galaxy Pairs
-
-![Three Galaxy Pairs](https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg)
-
-ch of these pairs of galaxies is different.  The two galaxies at the top are likely not interacting, at least presently.  However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured image appear like they could be interacting gravitationally -- but their relative speeds make this unlikely.  Of these two, the larger galaxy, NGC 4650, is a spiral galaxy with a bright bar of stars across its center.  The two galaxies at the bottom are actively interacting.  Possibly in a billion years or so, NGC 4622A and NGC 4622B will merge and become one single galaxy. All of these galaxies are likely members of the larger Centaurus Galaxy Cluster.    Explore the Universe: Random APOD Generator
-
-
----
-
-## Words of the Day
+_Updated: 2026-08-11 11:52:17 UTC_
 
 ### Dictionary.com
 
-**loll** _verb_ • /[lol]/
+**rebarbative** _adjective_ • /[ree-bahr-buh-tiv]/
 
-to hang loosely; droop; dangle
+causing annoyance, irritation, or aversion
 
-To loll is to dangle or droop, like a dog's tongue hanging out or a person's arm dangling over a seat. The word paints a picture of something resting slack instead of being held upright. Like many words that seem to mimic the actions they describe, loll has a sound that feels as loose and unhurried as its meaning.
+Something rebarbative causes irritation or dislike instead of drawing people in. Based on the French word barbe, meaning "beard," it evokes a hostile "beard-to-beard" confrontation. From harsh words to grating sounds, rebarbative things have a way of rubbing people the wrong way.
 
-> _Tired after a long shift, he let his arms loll over the side of the sofa._
+> _His rebarbative behavior and constant grumbling made it very difficult for the team to work together._
 
 
 ### Britannica
 
-**engulf** _verb_
+**antique** _adjective_
 
-To completely surround or cover something, often in a way that overwhelms or consumes it.
+Belonging to an earlier period, style, or fashion; old and often valuable.
 
-> _The sudden storm caused the waves to engulf the small boat._
+> _The antique vase, though chipped, still held immense historical value._
 >
-> _She felt a wave of sadness engulf her as she heard the news._
+> _She preferred the charm of antique furniture to modern designs._
 >
-> _The dense fog began to engulf the entire city, reducing visibility to almost zero._
+> _His collection of antique maps was a testament to his passion for history._
 >
 
-_Similar: inundate, submerge, overwhelm_  •  _Opposite: uncover, reveal, free_
+_Similar: ancient, old, vintage_  •  _Opposite: modern, new, contemporary_
 
-> _"The great shroud of the sea rolled on as it rolled five thousand years ago. It engulfs the living and the dead."_
+> _"The apartment was not large, but it was handsomely furnished; and the two large windows, looking upon a garden, were hung with antique damask."_
 >
-> — **Herman Melville**, Moby Dick (1851)
+> — **Charlotte Brontë**, Jane Eyre (1847)
 
 
 ### Merriam-Webster
 
-**pedagogical** _adjective_ • /ped-uh-GAH-jih-kul/
+**baptism of fire** _noun_ • /BAP-tiz-um-uv-FYRE/
 
-Of or relating to teachers or education
+An introductory or initial experience that is a severe ordeal
 
-> _The new professor is known for particularly engaging pedagogical methods._
+> _The newly recruited player faced a baptism of fire as the team went head to head with their greatest rival._
 >
 
-> “It’s a predictable part of every academic year at my institution: that time when we faculty are asked to submit course proposals and space requests. ... But the prosaic task of picking a classroom has hidden potential: It’s a chance to manifest a new pedagogical vision; it’s an instantiation of values in a time of profound change.” — Rachel Hastings, Inside Higher Ed, 4 June 2026
+> "It was my first day on the slopes, and in my naivety I had tackled Avoriaz’s famous Boulevard des Skieurs after one three-hour lesson, before I could even really turn. At 36, this was a baptism of fire." — Jaymi McCann, The Week, 23 Jan. 2026
 
-_Pedagogical was coined in the late 16th century from a Greek adjective of the same meaning. That adjective, paidagōgikos (“suitable for a teacher or trainer”), in turn comes from the noun paidagōgos, meaning “tutor.” The English word pedagogue (which can simply mean “teacher” but usually suggests one who is particularly pedantic or dull) comes from the same root. Although the words educational and teacher make the grade in most contexts, pedagogical and pedagogue are useful additions to the class._
+_The military sense of baptism of fire can be found in, among other texts, a 1907 history of a Massachusetts regiment in the Civil War: "That night we camped sixteen miles from Baton Rouge where we remained until the 21st, on which day we received our baptism of fire." Users of that sense, referring to a soldier's first exposure to enemy fire, as well those employing the more general sense of an especially difficult initiation, both allude (knowingly or unknowingly) to a Biblical passage: "I baptize you with water for repentance, but he who is coming after me . . . will baptize you with the Holy Spirit and with fire" (Matthew 3:11, RSV). The use of baptism of fire to refer to such a spiritual baptism dates to at least the early 1600s. Non-biblical, metaphorical use for any introductory or initial experience that is a severe ordeal arose in the mid-1850s._
 
