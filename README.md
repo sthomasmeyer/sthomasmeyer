@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-12 11:54:30 UTC_
+_Updated: 2026-08-13 11:55:11 UTC_
 
-### Perseids Over a little Planet
+### Total Solar Eclipse Over Spain
 
-![Perseids Over a little Planet](https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg)
+![Total Solar Eclipse Over Spain](https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg)
 
-It looks like a view from the Little Prince's planet.   The featured image is a throwback to the 2024 Perseid meteor shower, surrounded in this projection by the Bieszczady Mountains in Poland.   Visible in the sky is the arch of the Milky Way, along with several nebulas in red and over a hundred meteors pointing to the radiant.     The Perseids are easily visible and quite popular in the Northern Hemisphere summer. (Watching meteor showers in the winter is less convenient for a good reason).     This year they are expected to offer an even more dazzling spectacle than usual, because the peak coincides with a new moon.   The 2026 Perseid meteor shower will peak tonight with as many as 50-100 meteors per hour, when the Earth's path crosses through debris left behind by Comet Swift-Tuttle.   Typically, the best times for seeing the meteors are between midnight and pre-dawn.   You won't need binoculars to see the meteors, but a lawn chair and a dark sky location help.       There is total solar eclipse happening today! See here if you are in the path of totality.
+On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the Ebro River. For a few moments, Spain saw its first major total solar eclipse since 1905. Those witnessing totality may experience a chill in the air, the quieting of birds, the confused chirps of insects, and the shared awe of many. It’s the corona’s time to shine as the Sun’s bright disk is blocked by the Moon. Among other reasons to study eclipses, they help scientists understand why the corona is millions of degrees hotter than the Sun’s surface. Enthusiastic citizens can contribute to these studies by recording how wildlife responds, imaging the corona, and monitoring air temperature and clouds.  More spectacular eclipse images: Solar Eclipse of 2026 August 12
 
 
 ---
@@ -15,45 +15,49 @@ It looks like a view from the Little Prince's planet.   The featured image is a 
 
 ### Dictionary.com
 
-**wisenheimer** _noun_ • /[wahy-zuhn-hahy-mer]/
+**pleach** _verb_ • /[pleech]/
 
-a smart aleck who makes overly clever, obnoxious remarks
+to interlace or interweave, especially branches or vines of trees or hedges
 
-A wisenheimer is someone who can't resist making smug or overly clever remarks. The word became popular in American English as a playful label for the class clown or wise guy. Every group seems to have at least one wisenheimer who's always ready with a comeback.
+To pleach is to weave together living branches or vines so they grow into a decorative structure. Gardeners have practiced pleaching for centuries to shape hedges and walkways. A row of pleached trees brings both order and beauty to a landscape.
 
-> _Every time the teacher asked a question, the wisenheimer in the back row had a sarcastic comment._
+> _The gardener spent the afternoon learning how to pleach flexible willow branches into a living fence._
 
 
 ### Britannica
 
-**solar** _adjective_
+**exposed** _adjective_
 
-Of or relating to the sun, or produced by or using the sun's light or heat.
+Not covered, protected, or concealed, leaving something open to view or vulnerable.
 
-> _The engineers designed a new array of solar panels to power the entire building._
+> _The ancient ruins were left exposed to the elements, slowly eroding over centuries._
 >
-> _A solar eclipse is a breathtaking celestial event that captivates observers worldwide._
+> _After the storm, the house's internal wiring was exposed, requiring immediate repair._
 >
-> _Many homes are now equipped with solar water heaters to reduce energy consumption and environmental impact._
+> _The journalist's investigation exposed the corruption within the city council._
 >
 
-_Similar: heliacal, sun-powered_  •  _Opposite: lunar_
+_Similar: uncovered, revealed, vulnerable_  •  _Opposite: covered, protected, hidden_
 
-> _"The sun came forth from the east. The solar orb ascended, and the shades of night departed."_
+> _"Mr. Wickham's character was now exposed in the most hideous colours."_
 >
-> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
 
 ### Merriam-Webster
 
-**gnomic** _adjective_ • /NOH-mik/
+**salvo** _noun_ • /SAL-voh/
 
-Cryptically communicated in few words
+A strong, sudden attack
 
-> _The painter is notorious for offering terse, gnomic responses to questions about her work that leave interviewers and critics scratching their heads._
+> _The troops were driven back by a salvo of cannon fire._
+>
+> _The editorial's opening salvo was a list of grievances against the mayor's policies._
+>
+> _The conclusion of her performance was answered with a salvo of cheers and applause._
 >
 
-> “Indeed, the album that ‘Michelangelo Dying’ reminds me of most is [Laurie] Anderson’s seminal ‘Big Science,’ from 1982. ... Both albums feature gnomic lyrical pronouncements. (‘Rigid, collapse,’ [Cate] Le Bon chants on the track ‘About Time,’ reminiscent of Anderson talk-singing, ‘Big Science, Hallelujah.’)” — Rumaan Alam, The New Yorker, 26 Sept. 2025
+> “Nas dropped Illmatic, his unimpeachable opening salvo, when he was only 20, taking a haunted stroll through his Queensbridge adolescence on ‘Memory Lane (Sittin’ in da Park).’ An undercurrent of nostalgia weaves throughout his 30-year discography.” — Dash Lewis, Pitchfork, 8 Jan. 2026
 
-_A gnome is an aphorism—that is, a short phrase that expresses a true or wise idea. Gnomes are sometimes couched in metaphorical or figurative language, they are often quite clever, and they are always concise. We borrowed the word gnome in the 16th century from the Greeks, who based their word gnōmē on the verb gignōskein, meaning “to know.” (The other gnome—referring to the dwarf of folklore—comes from New Latin and is unrelated to the aphoristic gnome.) We began using gnomic, the adjective form of gnome, in the late 18th century. It describes a style of writing, or sometimes speech, characterized by pithy phrases, which are often terse to the point of mysteriousness._
+_No opening salvo here: salvo in phrases like “an opening salvo” is a kind of attack, especially one that is strong or sudden. Usually, such salvos are verbal attacks, like a critical remark aimed at a debate opponent, or a pointed accusation at the start of an editorial. But salvo can also refer to attacks of a more perilous kind, including various martial actions involving bombs, rockets, and artillery. (It can also refer to the bombs or projectiles released in a salvo.) The word arrived from Italian in the late 16th century with a complex meaning: it referred to a simultaneous discharge of two or more guns, either in military action or as a salute. The word’s ultimate source is the Latin word salve, meaning “hail!,” which was an ancient Roman greeting. In English, salvo is sometimes used for a sudden occurrence of applause, laughter, etc., from many people, which sounds to us like the best kind of all._
 
