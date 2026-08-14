@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-13 11:55:11 UTC_
+_Updated: 2026-08-14 11:52:31 UTC_
 
-### Total Solar Eclipse Over Spain
+### Total Solar Eclipse from Greenland
 
-![Total Solar Eclipse Over Spain](https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg)
+![Total Solar Eclipse from Greenland](https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg)
 
-On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the Ebro River. For a few moments, Spain saw its first major total solar eclipse since 1905. Those witnessing totality may experience a chill in the air, the quieting of birds, the confused chirps of insects, and the shared awe of many. It’s the corona’s time to shine as the Sun’s bright disk is blocked by the Moon. Among other reasons to study eclipses, they help scientists understand why the corona is millions of degrees hotter than the Sun’s surface. Enthusiastic citizens can contribute to these studies by recording how wildlife responds, imaging the corona, and monitoring air temperature and clouds.  More spectacular eclipse images: Solar Eclipse of 2026 August 12
+On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves with clear skies under the shadow of the Moon could witness a total solar eclipse. After dodging the weather by sea and making a landing along Rype Fjord on the Greenland east coast (at 71.07055N, 27.71252W), this hard-won snapshot was captured at 17:33:26 UTC. That's near the initial reach of clearing skies along the path of totality, so the image is likely one of the first unobstructed views of the totally eclipsed Sun. Through a break in the clouds, the stunning photo also records one of this eclipse's transient diamond rings and the magnificent solar corona emerging near the moment totality began.  More spectacular eclipse images: Solar Eclipse of 2026 August 12
 
 
 ---
@@ -15,49 +15,45 @@ On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow acro
 
 ### Dictionary.com
 
-**pleach** _verb_ • /[pleech]/
+**gregarious** _adjective_ • /[gri-gair-ee-uhs]/
 
-to interlace or interweave, especially branches or vines of trees or hedges
+fond of the company of others; sociable
 
-To pleach is to weave together living branches or vines so they grow into a decorative structure. Gardeners have practiced pleaching for centuries to shape hedges and walkways. A row of pleached trees brings both order and beauty to a landscape.
+A gregarious person genuinely enjoys the company of others. The word is related to the Latin term for a flock, reflecting its connection to social groups. Just one gregarious friend can turn a quiet gathering into a lively one.
 
-> _The gardener spent the afternoon learning how to pleach flexible willow branches into a living fence._
+> _Being so gregarious, the golden retriever ran up to greet every person at the park._
 
 
 ### Britannica
 
-**exposed** _adjective_
+**accentuate** _verb_
 
-Not covered, protected, or concealed, leaving something open to view or vulnerable.
+To make something more prominent or noticeable; to emphasize or highlight.
 
-> _The ancient ruins were left exposed to the elements, slowly eroding over centuries._
+> _The artist used bold colors to accentuate the dramatic shadows in the painting._
 >
-> _After the storm, the house's internal wiring was exposed, requiring immediate repair._
+> _Her choice of accessories always managed to accentuate her elegant style._
 >
-> _The journalist's investigation exposed the corruption within the city council._
+> _The new lighting system was designed to accentuate the architectural features of the building._
 >
 
-_Similar: uncovered, revealed, vulnerable_  •  _Opposite: covered, protected, hidden_
+_Similar: emphasize, highlight, underscore_  •  _Opposite: downplay, diminish, obscure_
 
-> _"Mr. Wickham's character was now exposed in the most hideous colours."_
+> _"The only completely stationary object in the room was an enormous photograph of Dan Cody, a white-haired man of fifty, who looked like a millionaire and whose jaunty hat and white flannel suit accentuated by his tan, gave him a peculiarly youthful air."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
 
 
 ### Merriam-Webster
 
-**salvo** _noun_ • /SAL-voh/
+**vacuous** _adjective_ • /VAK-yuh-wus/
 
-A strong, sudden attack
+Having or showing a lack of intelligence or serious thought
 
-> _The troops were driven back by a salvo of cannon fire._
->
-> _The editorial's opening salvo was a list of grievances against the mayor's policies._
->
-> _The conclusion of her performance was answered with a salvo of cheers and applause._
+> _Despite a lengthy advertising campaign pitching the film as a masterwork, critics ultimately assailed it as dull and filled with self-important characters spouting vacuous platitudes._
 >
 
-> “Nas dropped Illmatic, his unimpeachable opening salvo, when he was only 20, taking a haunted stroll through his Queensbridge adolescence on ‘Memory Lane (Sittin’ in da Park).’ An undercurrent of nostalgia weaves throughout his 30-year discography.” — Dash Lewis, Pitchfork, 8 Jan. 2026
+> "Harper Lee was not slight, was not vacuous. To Kill a Mockingbird is an artefact of its time … but it had its place in moving the arc of history and still does." — Erica Wagner, The Observer (London), 18 Oct. 2025
 
-_No opening salvo here: salvo in phrases like “an opening salvo” is a kind of attack, especially one that is strong or sudden. Usually, such salvos are verbal attacks, like a critical remark aimed at a debate opponent, or a pointed accusation at the start of an editorial. But salvo can also refer to attacks of a more perilous kind, including various martial actions involving bombs, rockets, and artillery. (It can also refer to the bombs or projectiles released in a salvo.) The word arrived from Italian in the late 16th century with a complex meaning: it referred to a simultaneous discharge of two or more guns, either in military action or as a salute. The word’s ultimate source is the Latin word salve, meaning “hail!,” which was an ancient Roman greeting. In English, salvo is sometimes used for a sudden occurrence of applause, laughter, etc., from many people, which sounds to us like the best kind of all._
+_As you might have guessed, vacuous shares the same root as vacuum. Both come from the Latin adjective vacuus, meaning "empty." This root also gave us the noun vacuity (the oldest meaning of which is "an empty space") as well as the verb evacuate (originally meaning "to empty of contents"). Its predecessor, the verb vacāre, is also an ancestor of the words vacation, vacancy, and even void. All of these words suggest an emptiness of space, or else a fleeing of people or things from one place to another. Vacuous appeared in English in the middle of the 17th century, at first literally describing something that was empty. Centuries later it acquired its figurative usage, describing one who is lacking any substance of the mind._
 
