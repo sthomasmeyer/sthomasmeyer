@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of August 15th Past: Napoleon (1769)
 
-_Updated: 2026-08-14 11:52:31 UTC_
+_Updated: 2026-08-15 11:29:50 UTC_
 
-### Total Solar Eclipse from Greenland
+Napoleon Bonaparte, French emperor and military general, was born today on the island of Corsica in 1769.
 
-![Total Solar Eclipse from Greenland](https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg)
 
-On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves with clear skies under the shadow of the Moon could witness a total solar eclipse. After dodging the weather by sea and making a landing along Rype Fjord on the Greenland east coast (at 71.07055N, 27.71252W), this hard-won snapshot was captured at 17:33:26 UTC. That's near the initial reach of clearing skies along the path of totality, so the image is likely one of the first unobstructed views of the totally eclipsed Sun. Through a break in the clouds, the stunning photo also records one of this eclipse's transient diamond rings and the magnificent solar corona emerging near the moment totality began.  More spectacular eclipse images: Solar Eclipse of 2026 August 12
+---
+
+## NASA Astronomy Picture of the Day
+
+### Bright Perseids from Sweden
+
+![Bright Perseids from Sweden](https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg)
+
+Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize in Earth's dense atmosphere, tracing brief, but beautiful streaks through the night. Taken near the shower's peak of activity on August 12, this composite image recorded two bright perseid meteors and one meteor's watery reflection from a location near the coastal village of Grisslehamn, Sweden.  Almost as bright as Altair, brightest star on the scene, the meteors appear along with the faint, diffuse background of the Milky Way. This year, the shower's peak activity coincided with a New Moon, so perseid meteor flashes were undiminished by bright moonlight. And for many skywatchers, this night of bright perseid meteors followed their viewing of the silhouette of the New Moon in a much anticipated solar eclipse.  Growing Gallery: Solar Eclipse of 2026 August 12
 
 
 ---
@@ -15,45 +22,45 @@ On August 12, the Moon's shadow reached out to touch our fair planet. Beginning 
 
 ### Dictionary.com
 
-**gregarious** _adjective_ • /[gri-gair-ee-uhs]/
+**diamanté** _noun_ • /[dee-uh-mahn-tey]/
 
-fond of the company of others; sociable
+a sequin, rhinestone, or other glittery ornamentation on a garment
 
-A gregarious person genuinely enjoys the company of others. The word is related to the Latin term for a flock, reflecting its connection to social groups. Just one gregarious friend can turn a quiet gathering into a lively one.
+Diamanté is glittering ornamentation, such as rhinestones or sequins, added to clothing or accessories. Despite the sparkle, diamanté isn't made from real diamonds; the effect comes from imitation stones that catch the light. A touch of diamanté can make an outfit shine from across the room.
 
-> _Being so gregarious, the golden retriever ran up to greet every person at the park._
+> _Every tiny diamanté on her gown caught the light and sparkled as she walked into the gala._
 
 
 ### Britannica
 
-**accentuate** _verb_
+**alluring** _adjective_
 
-To make something more prominent or noticeable; to emphasize or highlight.
+Having a quality that strongly attracts or entices; highly charming or fascinating.
 
-> _The artist used bold colors to accentuate the dramatic shadows in the painting._
+> _Her alluring smile captivated everyone in the room._
 >
-> _Her choice of accessories always managed to accentuate her elegant style._
+> _The aroma of freshly baked bread was incredibly alluring._
 >
-> _The new lighting system was designed to accentuate the architectural features of the building._
+> _He found the prospect of adventure far more alluring than a quiet life._
 >
 
-_Similar: emphasize, highlight, underscore_  •  _Opposite: downplay, diminish, obscure_
+_Similar: attractive, captivating, enchanting_  •  _Opposite: repulsive, unappealing, distasteful_
 
-> _"The only completely stationary object in the room was an enormous photograph of Dan Cody, a white-haired man of fifty, who looked like a millionaire and whose jaunty hat and white flannel suit accentuated by his tan, gave him a peculiarly youthful air."_
+> _"Before me stretched the alluring mystery of the unknown."_
 >
 > — **F. Scott Fitzgerald**, The Great Gatsby (1925)
 
 
 ### Merriam-Webster
 
-**vacuous** _adjective_ • /VAK-yuh-wus/
+**circumscribe** _verb_ • /SER-kum-skrybe/
 
-Having or showing a lack of intelligence or serious thought
+To limit the range or activity of something
 
-> _Despite a lengthy advertising campaign pitching the film as a masterwork, critics ultimately assailed it as dull and filled with self-important characters spouting vacuous platitudes._
+> _The president’s decision-making power was carefully circumscribed by the company’s board._
 >
 
-> "Harper Lee was not slight, was not vacuous. To Kill a Mockingbird is an artefact of its time … but it had its place in moving the arc of history and still does." — Erica Wagner, The Observer (London), 18 Oct. 2025
+> “A mid-credits scene that shows Santos and Mel at a karaoke bar performing a duet ... might seem to be a throwaway. But it’s more like a glimmer of a happy ending. By blowing off steam together, Mel is forming an independent identity and Santos is finding a healthy outlet for her anger. This could be the first step, for both of them, towards escaping a life circumscribed by work …” — Judy Berman, Time, 16 Apr. 2026
 
-_As you might have guessed, vacuous shares the same root as vacuum. Both come from the Latin adjective vacuus, meaning "empty." This root also gave us the noun vacuity (the oldest meaning of which is "an empty space") as well as the verb evacuate (originally meaning "to empty of contents"). Its predecessor, the verb vacāre, is also an ancestor of the words vacation, vacancy, and even void. All of these words suggest an emptiness of space, or else a fleeing of people or things from one place to another. Vacuous appeared in English in the middle of the 17th century, at first literally describing something that was empty. Centuries later it acquired its figurative usage, describing one who is lacking any substance of the mind._
+_To circumscribe something is to limit its range or activity, but there is no circumscribing the range of influence the Latin ancestors of circumscribe have had. Circumscribe comes via Middle English from the Latin verb circumscribere (which roughly translates as “to draw a circle around”), which in turn comes from circum-, meaning “circle,” and scribere, meaning “to write or draw.” Among the many descendants of circum- are circuit, circumference, circumnavigate, circumspect, circumstance, and circumvent. Scribere gave us such words as scribe and scribble, as well as ascribe, describe, and transcribe, among others._
 
