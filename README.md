@@ -1,19 +1,19 @@
-# Days of August 15th Past: Napoleon (1769)
+# Days of August 16th Past: The First Transatlantic Telegraph Message (1858)
 
-_Updated: 2026-08-15 11:29:50 UTC_
+_Updated: 2026-08-16 11:30:01 UTC_
 
-Napoleon Bonaparte, French emperor and military general, was born today on the island of Corsica in 1769.
+Europe and America are united by telegraphic communication. Glory to God in the highest, on earth peace, goodwill to men.
 
 
 ---
 
 ## NASA Astronomy Picture of the Day
 
-### Bright Perseids from Sweden
+### Milky Way over Yellowstone
 
-![Bright Perseids from Sweden](https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg)
+![Milky Way over Yellowstone](https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg)
 
-Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize in Earth's dense atmosphere, tracing brief, but beautiful streaks through the night. Taken near the shower's peak of activity on August 12, this composite image recorded two bright perseid meteors and one meteor's watery reflection from a location near the coastal village of Grisslehamn, Sweden.  Almost as bright as Altair, brightest star on the scene, the meteors appear along with the faint, diffuse background of the Milky Way. This year, the shower's peak activity coincided with a New Moon, so perseid meteor flashes were undiminished by bright moonlight. And for many skywatchers, this night of bright perseid meteors followed their viewing of the silhouette of the New Moon in a much anticipated solar eclipse.  Growing Gallery: Solar Eclipse of 2026 August 12
+The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam rises off the spring, heated by underground magma associated with the Yellowstone Hotspot.  Unrelated and far in the distance, the central band of our Milky Way Galaxy arches high overhead, a band lit by billions of stars.  The picture features a 16-image panorama taken in 2014.  If the Yellowstone Hotspot causes another supervolcanic eruption as it did about 640,000 years ago, a large part of North America would be affected.
 
 
 ---
@@ -22,45 +22,45 @@ Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to
 
 ### Dictionary.com
 
-**diamanté** _noun_ • /[dee-uh-mahn-tey]/
+**abstruse** _adjective_ • /[ab-stroos]/
 
-a sequin, rhinestone, or other glittery ornamentation on a garment
+difficult to comprehend
 
-Diamanté is glittering ornamentation, such as rhinestones or sequins, added to clothing or accessories. Despite the sparkle, diamanté isn't made from real diamonds; the effect comes from imitation stones that catch the light. A touch of diamanté can make an outfit shine from across the room.
+Something abstruse is difficult to understand, often because it's highly technical or unusually complex. You might be inclined to use the word for dense academic writing or advanced mathematics. An abstruse explanation leaves everyone but the experts scratching their heads.
 
-> _Every tiny diamanté on her gown caught the light and sparkled as she walked into the gala._
+> _The professor's lecture on quantum mechanics was so abstruse that most students left the room confused._
 
 
 ### Britannica
 
-**alluring** _adjective_
+**traction** _noun_
 
-Having a quality that strongly attracts or entices; highly charming or fascinating.
+The force that causes a moving object to stick against the surface it is moving along, preventing slippage, or the power used to pull something.
 
-> _Her alluring smile captivated everyone in the room._
+> _The car's new winter tires provided excellent traction on the icy road._
 >
-> _The aroma of freshly baked bread was incredibly alluring._
+> _Without sufficient traction, the heavy machinery struggled to move up the muddy incline._
 >
-> _He found the prospect of adventure far more alluring than a quiet life._
+> _The athlete adjusted her shoes to ensure maximum traction on the slippery court._
 >
 
-_Similar: attractive, captivating, enchanting_  •  _Opposite: repulsive, unappealing, distasteful_
+_Similar: grip, adhesion, friction_  •  _Opposite: slippage, slide, loss of grip_
 
-> _"Before me stretched the alluring mystery of the unknown."_
+> _"The problem of obtaining sufficient traction on steep gradients was a serious one, and many devices were tried before the adhesion system was perfected."_
 >
-> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
+> — **W. J. Gordon**, The Railway Age (1891)
 
 
 ### Merriam-Webster
 
-**circumscribe** _verb_ • /SER-kum-skrybe/
+**zeugma** _noun_ • /ZOOG-muh/
 
-To limit the range or activity of something
+A kind of wordplay in which a single word has multiple meanings
 
-> _The president’s decision-making power was carefully circumscribed by the company’s board._
+> _A clever use of zeugma was demonstrated by Groucho Marx’s character Rufus T. Firefly in Duck Soup (1933): “You can leave in a taxi. If you can’t get a taxi, you can leave in a huff. If that’s too soon, you can leave in a minute and a huff.”_
 >
 
-> “A mid-credits scene that shows Santos and Mel at a karaoke bar performing a duet ... might seem to be a throwaway. But it’s more like a glimmer of a happy ending. By blowing off steam together, Mel is forming an independent identity and Santos is finding a healthy outlet for her anger. This could be the first step, for both of them, towards escaping a life circumscribed by work …” — Judy Berman, Time, 16 Apr. 2026
+> “... in an evocative use of zeugma—my favorite literary device ... [Oyinkan] Braithwaite writes, ‘The old house and everyone in it was falling apart.’” — Hudson Warm, The Pittsburgh Post-Gazette, 2 Nov. 2025
 
-_To circumscribe something is to limit its range or activity, but there is no circumscribing the range of influence the Latin ancestors of circumscribe have had. Circumscribe comes via Middle English from the Latin verb circumscribere (which roughly translates as “to draw a circle around”), which in turn comes from circum-, meaning “circle,” and scribere, meaning “to write or draw.” Among the many descendants of circum- are circuit, circumference, circumnavigate, circumspect, circumstance, and circumvent. Scribere gave us such words as scribe and scribble, as well as ascribe, describe, and transcribe, among others._
+_“Zeugma, like the pun, is economical: it contracts two sentences into one . . .; it links unrelated terms—mental with moral, abstract with physical, high with low—and thus generates surprise,” wrote Walter Redfern in Puns (1984). Zeugma, which has been a part of the English language since the 15th century, comes from Greek, where it literally means “joining.” But even those who are unfamiliar with the word are likely well acquainted with the clever wordplay to which it refers—zeugma is a beloved device of lyricists, probably for the economy noted by Redfern. Notable examples come from Alanis Morissette (“You held your breath and the door for me”), Taylor Swift (“The wine is cold like the shoulder that I gave you”), and the Beatles (“Eleanor Rigby died in the church and was buried along with her name”)._
 
