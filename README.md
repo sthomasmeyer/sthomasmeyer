@@ -1,66 +1,48 @@
-# Days of August 16th Past: The First Transatlantic Telegraph Message (1858)
+# Words of the Day
 
-_Updated: 2026-08-16 11:30:01 UTC_
-
-Europe and America are united by telegraphic communication. Glory to God in the highest, on earth peace, goodwill to men.
-
-
----
-
-## NASA Astronomy Picture of the Day
-
-### Milky Way over Yellowstone
-
-![Milky Way over Yellowstone](https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg)
-
-The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam rises off the spring, heated by underground magma associated with the Yellowstone Hotspot.  Unrelated and far in the distance, the central band of our Milky Way Galaxy arches high overhead, a band lit by billions of stars.  The picture features a 16-image panorama taken in 2014.  If the Yellowstone Hotspot causes another supervolcanic eruption as it did about 640,000 years ago, a large part of North America would be affected.
-
-
----
-
-## Words of the Day
+_Updated: 2026-08-17 11:35:32 UTC_
 
 ### Dictionary.com
 
-**abstruse** _adjective_ • /[ab-stroos]/
+**slumgullion** _noun_ • /[sluhm-guhl-yuhn]/
 
-difficult to comprehend
+a stew of meat, vegetables, potatoes, etc.
 
-Something abstruse is difficult to understand, often because it's highly technical or unusually complex. You might be inclined to use the word for dense academic writing or advanced mathematics. An abstruse explanation leaves everyone but the experts scratching their heads.
+Slumgullion is a hearty stew made by simmering meat with potatoes and other vegetables. Despite its less-than-appetizing name, the dish is practical comfort food, especially when the cook needs to stretch a few simple ingredients into a filling meal. A bubbling pot of slumgullion may not look fancy, but it can satisfy a hungry crowd.
 
-> _The professor's lecture on quantum mechanics was so abstruse that most students left the room confused._
+> _After a long day of backpacking, the hungry campers shared a large pot of hot slumgullion._
 
 
 ### Britannica
 
-**traction** _noun_
+**enthusiastic** _adjective_
 
-The force that causes a moving object to stick against the surface it is moving along, preventing slippage, or the power used to pull something.
+Feeling or showing intense excitement, keen interest, or fervent approval.
 
-> _The car's new winter tires provided excellent traction on the icy road._
+> _The crowd gave an enthusiastic cheer as their team scored the winning goal._
 >
-> _Without sufficient traction, the heavy machinery struggled to move up the muddy incline._
+> _Despite the early hour, she was enthusiastic about starting her new project._
 >
-> _The athlete adjusted her shoes to ensure maximum traction on the slippery court._
+> _His enthusiastic response to the proposal convinced everyone of its potential._
 >
 
-_Similar: grip, adhesion, friction_  •  _Opposite: slippage, slide, loss of grip_
+_Similar: eager, zealous, ardent_  •  _Opposite: apathetic, indifferent, unenthusiastic_
 
-> _"The problem of obtaining sufficient traction on steep gradients was a serious one, and many devices were tried before the adhesion system was perfected."_
+> _"Tom was not an enthusiastic student, and the long, hot summer days were far more appealing than the confines of the schoolhouse."_
 >
-> — **W. J. Gordon**, The Railway Age (1891)
+> — **Mark Twain**, The Adventures of Tom Sawyer (1876)
 
 
 ### Merriam-Webster
 
-**zeugma** _noun_ • /ZOOG-muh/
+**lackadaisical** _adjective_ • /lak-uh-DAY-zih-kul/
 
-A kind of wordplay in which a single word has multiple meanings
+Feeling or showing a lack of interest or enthusiasm
 
-> _A clever use of zeugma was demonstrated by Groucho Marx’s character Rufus T. Firefly in Duck Soup (1933): “You can leave in a taxi. If you can’t get a taxi, you can leave in a huff. If that’s too soon, you can leave in a minute and a huff.”_
+> _Feeling particularly lackadaisical in the summer heat, they lazily tossed a ball back and forth._
 >
 
-> “... in an evocative use of zeugma—my favorite literary device ... [Oyinkan] Braithwaite writes, ‘The old house and everyone in it was falling apart.’” — Hudson Warm, The Pittsburgh Post-Gazette, 2 Nov. 2025
+> "The defense was lackadaisical at best, while the offense wasn't much better." — Shreyas Laddha, The Daily Gazette (Schenectady, New York), 7 Feb. 2026
 
-_“Zeugma, like the pun, is economical: it contracts two sentences into one . . .; it links unrelated terms—mental with moral, abstract with physical, high with low—and thus generates surprise,” wrote Walter Redfern in Puns (1984). Zeugma, which has been a part of the English language since the 15th century, comes from Greek, where it literally means “joining.” But even those who are unfamiliar with the word are likely well acquainted with the clever wordplay to which it refers—zeugma is a beloved device of lyricists, probably for the economy noted by Redfern. Notable examples come from Alanis Morissette (“You held your breath and the door for me”), Taylor Swift (“The wine is cold like the shoulder that I gave you”), and the Beatles (“Eleanor Rigby died in the church and was buried along with her name”)._
+_We're too enthusiastic about the lexicon to be lackadaisical about words, but lackadaisical itself is rooted in the sort of sorrow that can put a damper on one's passion for vocabulary expansion. When folks living from the late 17th to the late 19th century had one of those days when nothing goes right, they could cry "Lackaday!" to express their sorrow and disappointment as a shortened form of the expression "alack the day." (Alack is an interjection used to express sorrow or regret.) By the mid-1700s, the adjective lackadaisical had been formed to describe such weary and exasperated folks, as well as their half-hearted doings and sayings. Today the word has lost some of its dreariness and most often describes the languid and lazy._
 
