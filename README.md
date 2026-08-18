@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-17 14:40:43 UTC_
+_Updated: 2026-08-18 11:34:30 UTC_
 
-### A Golden Corona Eclipse
+### Perseids from Perseus
 
-![A Golden Corona Eclipse](https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg)
+![Perseids from Perseus](https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg)
 
-This total solar eclipse appeared not only poetically beautiful but scientifically interesting.  Usually the solar corona appears white, and to some observers the corona of last week's total solar eclipse did appear this pearly color.  But this time, totality observers in Spain saw a corona that appeared unusually golden.  For one reason, from Spain, the totality occurred when the setting Sun was near the horizon.  That low, sunlight travels through a large amount of air which scatters out blue light. An unusual amount of smoke in the air from nearby forest fires acted as a second filter, further scattering the remaining blue tones and deepening the already gold-dominated light. The HDR-processed, multiple-exposure featured image was captured from Benavente, Spain last week.  One thing that did not appear golden was a hydrogen-glowing prominence that hovered over the Sun's left edge -- its original bright pink color survived.   Gallery: Solar Eclipse of 2026 August 12
+This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in front of the Sun and created a total solar eclipse visible from Greenland and Spain. The Perseids occur when the Earth collides with a stream of Sun-orbiting debris cast off by Comet Swift-Tuttle. Perseid meteors, although typically only the size of a sand grain, tend to be fast and bright because Swift-Tuttle's debris orbits the Sun in a direction partly opposite Earth's orbital motion. In the featured image compilation, accumulated over several nights from Jizerka in the Czech Republic, the Perseids meteor streaks can be traced back to a single location on the sky -- its radiant in Perseus.    Gallery: Perseids Meteor Shower of 2026
 
 
 ---
@@ -15,45 +15,45 @@ This total solar eclipse appeared not only poetically beautiful but scientifical
 
 ### Dictionary.com
 
-**slumgullion** _noun_ • /[sluhm-guhl-yuhn]/
+**small beer** _noun_ • /[smawl beer]/
 
-a stew of meat, vegetables, potatoes, etc.
+matters of little importance
 
-Slumgullion is a hearty stew made by simmering meat with potatoes and other vegetables. Despite its less-than-appetizing name, the dish is practical comfort food, especially when the cook needs to stretch a few simple ingredients into a filling meal. A bubbling pot of slumgullion may not look fancy, but it can satisfy a hungry crowd.
+Small beer is a fun way to describe those little things that are hardly worth making a fuss over. The phrase originally described weak beer with a low alcohol content, so it gradually became a figurative expression for anything considered minor or unimpressive. An apparent crisis may turn out to be small beer once the big picture comes into view.
 
-> _After a long day of backpacking, the hungry campers shared a large pot of hot slumgullion._
+> _The 10% off coupon offered by one grocery store was small beer compared to the BOGO deal at another store._
 
 
 ### Britannica
 
-**enthusiastic** _adjective_
+**surefooted** _adjective_
 
-Feeling or showing intense excitement, keen interest, or fervent approval.
+Not likely to slip or fall; steady and confident in movement or action, especially in difficult conditions.
 
-> _The crowd gave an enthusiastic cheer as their team scored the winning goal._
+> _The mountain climber, despite the icy conditions, remained surefooted on the treacherous ascent._
 >
-> _Despite the early hour, she was enthusiastic about starting her new project._
+> _Her surefooted approach to the complex negotiation earned her the respect of both parties._
 >
-> _His enthusiastic response to the proposal convinced everyone of its potential._
+> _Even as a young foal, the horse displayed remarkable surefootedness, navigating uneven pastures with ease._
 >
 
-_Similar: eager, zealous, ardent_  •  _Opposite: apathetic, indifferent, unenthusiastic_
+_Similar: steady, agile, confident_  •  _Opposite: clumsy, unstable, hesitant_
 
-> _"Tom was not an enthusiastic student, and the long, hot summer days were far more appealing than the confines of the schoolhouse."_
+> _"The ponies were surefooted, and they picked their way with care."_
 >
-> — **Mark Twain**, The Adventures of Tom Sawyer (1876)
+> — **J.R.R. Tolkien**, The Fellowship of the Ring (1954)
 
 
 ### Merriam-Webster
 
-**lackadaisical** _adjective_ • /lak-uh-DAY-zih-kul/
+**oxymoron** _noun_ • /ahk-sih-MOR-ahn/
 
-Feeling or showing a lack of interest or enthusiasm
+A combination of words with opposite or very different meanings
 
-> _Feeling particularly lackadaisical in the summer heat, they lazily tossed a ball back and forth._
+> _Some of Shakespeare's most famous plays are filled with oxymorons such as "loving hate" and "tragical mirth."_
 >
 
-> "The defense was lackadaisical at best, while the offense wasn't much better." — Shreyas Laddha, The Daily Gazette (Schenectady, New York), 7 Feb. 2026
+> "Even the most environmentally aware beauty editors I know (perhaps that’s an oxymoron, given the amount of product we have to test for our jobs…) use sheet masks on a weekly basis, and the trend is showing no signs of slowing." — Melanie Macleod, Hello Magazine, 15 Apr. 2026
 
-_We're too enthusiastic about the lexicon to be lackadaisical about words, but lackadaisical itself is rooted in the sort of sorrow that can put a damper on one's passion for vocabulary expansion. When folks living from the late 17th to the late 19th century had one of those days when nothing goes right, they could cry "Lackaday!" to express their sorrow and disappointment as a shortened form of the expression "alack the day." (Alack is an interjection used to express sorrow or regret.) By the mid-1700s, the adjective lackadaisical had been formed to describe such weary and exasperated folks, as well as their half-hearted doings and sayings. Today the word has lost some of its dreariness and most often describes the languid and lazy._
+_The ancient Greeks exhaustively classified the elements of rhetoric, or effective speech and writing, and gave the name oxymoron—literally "pointed foolishness"—to the deliberate juxtaposing of seemingly contradictory words. The roots of oxymoron, oxys meaning "sharp" or "keen," and mōros meaning "foolish," are nearly antonyms themselves, making oxymoron nicely self-descriptive. Oxymoron originally applied to a meaningful paradox condensed into a couple of words, as in "lonely crowd" or "sweet sorrow." Today, however, what is commonly cited as an oxymoron is often simply a curiosity of language, where one or both elements have multiple meanings (shrimp in "jumbo shrimp" doesn't mean "small"; it refers to a sea creature), or a phrase whose elements seem antithetical in spirit, such as "organized chaos."_
 
