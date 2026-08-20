@@ -1,50 +1,59 @@
-# Words of the Day
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-19 11:34:50 UTC_
+_Updated: 2026-08-20 11:36:14 UTC_
+
+### The Elephant's Trunk in Cepheus
+
+![The Elephant's Trunk in Cepheus](https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg)
+
+Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. Top to bottom this proboscidean-like rendition reaches across an almost 1 degree wide field of view, though. That's a little less than the angular size of 2 full moons.
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**sough** _verb_ • /[sou]/
+**untrammeled** _adjective_ • /[uhn-tram-uhld]/
 
-to make a rustling or murmuring sound
+without restraint; unhindered
 
-To sough is to make a low rustling or murmuring sound, like wind slipping through tall grass or gentle waves lapping the shore. When something soughs, it's making the kind of quiet noise you might not even notice until you stop and listen for it.
+Something untrammeled is free to move or grow without restriction. It's based on trammel, an old word that could refer to a net, so untrammeled carries the sense of escaping whatever holds you back. An untrammeled sense of adventure can be as unstoppable as a wild horse running free.
 
-> _A gentle breeze caused the tall pines to sough as we walked through the otherwise quiet forest._
+> _The explorer was awestruck as he wandered through the untrammeled wilderness._
 
 
 ### Britannica
 
-**idly** _adverb_
+**congregate** _verb_
 
-Without much thought, effort, or concern; in an inactive or lazy manner.
+To come together in a group or crowd; to assemble.
 
-> _The cat lay idly in the sun, occasionally twitching an ear at a passing bird._
+> _The students began to congregate in the main hall before the assembly._
 >
-> _He spent the afternoon idly sketching in his notebook, letting his mind wander._
+> _Birds often congregate on the power lines at dusk._
 >
-> _She idly scrolled through her phone, not really looking for anything in particular._
+> _People will congregate at the town square to celebrate the festival._
 >
 
-_Similar: lazily, aimlessly, listlessly_  •  _Opposite: busily, diligently, purposefully_
+_Similar: assemble, gather, convene_  •  _Opposite: disperse, scatter, separate_
 
-> _"She had been walking idly about the room, when her attention was caught by a glimpse of her father, who was passing through the hall."_
+> _"Wherefore do you congregate yourselves together?"_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **William Shakespeare**, Coriolanus (c. 1605)
 
 
 ### Merriam-Webster
 
-**balmy** _adjective_ • /BAH-mee/
+**divulge** _verb_ • /dih-VULJ/
 
-Warm, calm, and pleasant
+To make usually secret information known
 
-> _After a long, eight-hour drive, we were rewarded with a mild, balmy evening at our vacation spot on the shores of Lake Erie._
->
-> _Despite being a devout Green Bay fan, she finds the idea of attending games in head-to-toe yellow and green body paint to be a bit balmy._
+> _Rather than divulge the baby name we’ve chosen, we’re waiting till the little one arrives to make introductions._
 >
 
-> “Everyone is encouraged to bring chairs, snacks and coolers, and remember the flashlights for the walk back to the parking lot. Leashed dogs are welcome, too. These evenings are all about enjoying good music on a balmy summer night.” — The Sun (Elizabethtown, New York), 18 June 2026
+> “Sun Ra’s agent had called, he said. ... The Arkestra was heading out on tour soon, to Europe, and Sonny wanted the three of us to join him. ... After we’d calmed down, Don divulged the hitch: the tour would take us away for the school year’s last weeks, meaning we would miss exams and also all the end-of-college parties.” — Michael Lowenthal, Place Envy: Essays in Search of Orientation, 2026
 
-_Aromatic ointments and fragrances are the bomb. They are also, literally, balms: healing substances and soothing scents with the power to ease both mind and body. The original balm, what Latin-speakers referred to as balsamum, was the oleoresin of a species of balsam tree. In Anglo-French, balsamum became basme and baume, spellings which entered Middle English and later became balm. Balm eventually begat the adjective balmy, used to describe things with a balm’s comforting, calming qualities, as when Shakespeare’s Othello speaks of “balmy slumbers.” Today balmy is typically used to describe the weather—balmy breezes, balmy temperatures, balmy spring afternoons, et al—conditions that are neither too hot nor too cold, but just right—Goldilocks conditions, even._
+_Information divulged is typically secret, or known only to insiders, and it isn’t usually shouted from the rooftops. But when divulge first entered English in the 15th century, it did so as a synonym of proclaim: divulging involved declaring or announcing something to the public, a duty of town criers from Lizard Point to Dunnet Head. The word’s source is the Latin verb vulgare, “to make known,” which traces ultimately back to the Latin noun vulgus, meaning “common people” or “mob.” While nowadays divulge can presumably involve blabbing to the rabble, the word usually implies a more careful and considered approach to sharing sensitive information._
 
