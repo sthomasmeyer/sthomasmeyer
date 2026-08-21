@@ -1,59 +1,48 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-08-20 11:36:14 UTC_
-
-### The Elephant's Trunk in Cepheus
-
-![The Elephant's Trunk in Cepheus](https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg)
-
-Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. Top to bottom this proboscidean-like rendition reaches across an almost 1 degree wide field of view, though. That's a little less than the angular size of 2 full moons.
-
-
----
-
-## Words of the Day
+_Updated: 2026-08-21 11:35:24 UTC_
 
 ### Dictionary.com
 
-**untrammeled** _adjective_ • /[uhn-tram-uhld]/
+**trice** _noun_ • /[trahys]/
 
-without restraint; unhindered
+an instant; a moment
 
-Something untrammeled is free to move or grow without restriction. It's based on trammel, an old word that could refer to a net, so untrammeled carries the sense of escaping whatever holds you back. An untrammeled sense of adventure can be as unstoppable as a wild horse running free.
+A trice is an instant or a moment. The word appears most naturally in the phrase "in a trice," meaning that something happens almost at once. Parents know that if you turn your back, the last cookie may disappear in a trice.
 
-> _The explorer was awestruck as he wandered through the untrammeled wilderness._
+> _The dog went outside, but when he felt how hot it was, he ran back in a trice._
 
 
 ### Britannica
 
-**congregate** _verb_
+**solar** _adjective_ • /ˈsoʊlər/
 
-To come together in a group or crowd; to assemble.
+Of, relating to, or derived from the sun, or produced by using the sun's light or heat.
 
-> _The students began to congregate in the main hall before the assembly._
+> _The engineers designed a new solar panel array to power the entire building._
 >
-> _Birds often congregate on the power lines at dusk._
+> _We observed a rare solar eclipse last year, a truly breathtaking astronomical event._
 >
-> _People will congregate at the town square to celebrate the festival._
+> _Many homes are now equipped with solar water heaters to reduce energy consumption._
 >
 
-_Similar: assemble, gather, convene_  •  _Opposite: disperse, scatter, separate_
+_Similar: heliacal, sun-powered_  •  _Opposite: lunar, terrestrial_
 
-> _"Wherefore do you congregate yourselves together?"_
+> _"The solar rays, concentrated by the lens, would have been sufficient to set fire to a forest."_
 >
-> — **William Shakespeare**, Coriolanus (c. 1605)
+> — **Jules Verne**, From the Earth to the Moon (1865)
 
 
 ### Merriam-Webster
 
-**divulge** _verb_ • /dih-VULJ/
+**rigmarole** _noun_ • /RIG-uh-muh-rol/
 
-To make usually secret information known
+A long, complicated, and annoying process, description, etc.
 
-> _Rather than divulge the baby name we’ve chosen, we’re waiting till the little one arrives to make introductions._
+> _We went through the rigmarole of installing, registering, and activating the software before we found out it wouldn’t work._
 >
 
-> “Sun Ra’s agent had called, he said. ... The Arkestra was heading out on tour soon, to Europe, and Sonny wanted the three of us to join him. ... After we’d calmed down, Don divulged the hitch: the tour would take us away for the school year’s last weeks, meaning we would miss exams and also all the end-of-college parties.” — Michael Lowenthal, Place Envy: Essays in Search of Orientation, 2026
+> “Over the last 10 years or so, I’ve had an on-again, off-again relationship with running. On the one hand, I love it for the mental benefits. My mind always feels clearer after a run and it can be an escape from the rigmarole of life. But on the other hand, it seems that every few years, some mild injury befalls me that slows my momentum, or I move to a new city and lose the routine of running at a time and place.” — Maura Fox, The San Diego Union-Tribune, 6 Sept. 2025
 
-_Information divulged is typically secret, or known only to insiders, and it isn’t usually shouted from the rooftops. But when divulge first entered English in the 15th century, it did so as a synonym of proclaim: divulging involved declaring or announcing something to the public, a duty of town criers from Lizard Point to Dunnet Head. The word’s source is the Latin verb vulgare, “to make known,” which traces ultimately back to the Latin noun vulgus, meaning “common people” or “mob.” While nowadays divulge can presumably involve blabbing to the rabble, the word usually implies a more careful and considered approach to sharing sensitive information._
+_In the Middle Ages, the term Rageman or Ragman referred to a game in which a player randomly selected a string attached to a roll of verses and read the selected verse. The roll was called a Ragman roll after a fictional king purported to be the author of the verses. By the 16th century, ragman and ragman roll were being used figuratively to mean “a list or catalog.”  Both terms fell out of written use, but ragman roll persisted in speech, and in the 18th century it resurfaced in writing as rigmarole, with the meaning “a succession of confused, meaningless, or foolish statements.” In the mid-19th century rigmarole (also spelled rigamarole, reflecting its common pronunciation) acquired the sense referring to a complex and tedious procedure._
 
