@@ -1,48 +1,59 @@
-# Words of the Day
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-21 11:35:24 UTC_
+_Updated: 2026-08-22 11:30:14 UTC_
+
+### Mostly Perseids
+
+![Mostly Perseids](https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg)
+
+Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with the peak activity of the 2026 Perseid Meteor Shower, most are perseids. Their overwhelming numbers make them easy to spot. Quite convincingly, perseid trails all trace back to a single radiant on the sky at the upper right, a region in the annual shower's eponymous constellation Perseus. But meteors belonging to other much less active showers can also revealed by finding their radiants too. For example, seen crossing the perseid trails are meteors from a shower whose radiant lies in Cygnus, known as Kappa Cygnids. The antihelion complex, a general region near Aquarius and opposite the Sun in the sky, is also identifiable as a weak source for meteors.
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**trice** _noun_ • /[trahys]/
+**nettlesome** _adjective_ • /[net-l-suhm]/
 
-an instant; a moment
+causing irritation, vexation, or distress
 
-A trice is an instant or a moment. The word appears most naturally in the phrase "in a trice," meaning that something happens almost at once. Parents know that if you turn your back, the last cookie may disappear in a trice.
+A nettlesome issue is irritating enough to bother you, but it's usually not a truly serious problem. The word is related to the stinging nettle, a plant whose leaves cause an unpleasant and sometimes lingering prickling sensation when touched. A squeaky cabinet hinge can become surprisingly nettlesome once it starts getting under your skin.
 
-> _The dog went outside, but when he felt how hot it was, he ran back in a trice._
+> _The nettlesome mosquitoes buzzed around our ears, keeping us from falling asleep._
 
 
 ### Britannica
 
-**solar** _adjective_ • /ˈsoʊlər/
+**luster** _noun_ • //ˈlʌstər//
 
-Of, relating to, or derived from the sun, or produced by using the sun's light or heat.
+The soft, radiant glow or sheen reflected from a surface, especially one that is polished or smooth; also, a quality of brilliance or distinction.
 
-> _The engineers designed a new solar panel array to power the entire building._
+> _The antique silver tray, after a thorough polishing, regained its original luster._
 >
-> _We observed a rare solar eclipse last year, a truly breathtaking astronomical event._
+> _Despite the team's recent losses, the coach tried to restore their confidence and competitive luster._
 >
-> _Many homes are now equipped with solar water heaters to reduce energy consumption._
+> _Her long, dark hair had a natural luster that caught the sunlight beautifully._
 >
 
-_Similar: heliacal, sun-powered_  •  _Opposite: lunar, terrestrial_
+_Similar: sheen, gleam, radiance_  •  _Opposite: dullness, drabness, tarnish_
 
-> _"The solar rays, concentrated by the lens, would have been sufficient to set fire to a forest."_
+> _"The moon, like a silver sickle, hung low in the sky, casting a pale luster over the sleeping village."_
 >
-> — **Jules Verne**, From the Earth to the Moon (1865)
+> — **Charles Dickens**, The Old Curiosity Shop (1841)
 
 
 ### Merriam-Webster
 
-**rigmarole** _noun_ • /RIG-uh-muh-rol/
+**august** _adjective_ • /aw-GUST/
 
-A long, complicated, and annoying process, description, etc.
+Having a formal and impressive quality
 
-> _We went through the rigmarole of installing, registering, and activating the software before we found out it wouldn’t work._
+> _We toured the old mansion's august halls and expansive grounds._
 >
 
-> “Over the last 10 years or so, I’ve had an on-again, off-again relationship with running. On the one hand, I love it for the mental benefits. My mind always feels clearer after a run and it can be an escape from the rigmarole of life. But on the other hand, it seems that every few years, some mild injury befalls me that slows my momentum, or I move to a new city and lose the routine of running at a time and place.” — Maura Fox, The San Diego Union-Tribune, 6 Sept. 2025
+> "His tone is temperate, but the words echo through the State Capitol’s Assembly chamber, the august backdrop for his speech." — Maya Singer, Vogue, 1 Feb. 2026
 
-_In the Middle Ages, the term Rageman or Ragman referred to a game in which a player randomly selected a string attached to a roll of verses and read the selected verse. The roll was called a Ragman roll after a fictional king purported to be the author of the verses. By the 16th century, ragman and ragman roll were being used figuratively to mean “a list or catalog.”  Both terms fell out of written use, but ragman roll persisted in speech, and in the 18th century it resurfaced in writing as rigmarole, with the meaning “a succession of confused, meaningless, or foolish statements.” In the mid-19th century rigmarole (also spelled rigamarole, reflecting its common pronunciation) acquired the sense referring to a complex and tedious procedure._
+_The Roman republican calendar spanned just ten months, from March (then Martius) through December. The last five months were each named for their numerical place on the calendar: Quintilis (fifth), Sextilis (sixth), September (seventh), October (eighth), November (ninth), and December (tenth). January and February were eventually added to create a twelve-month year, obscuring the relationship between these months and their titles. So it was a welcome change when the Roman Senate honored Gaius Octavius (aka Octavian), the first Roman emperor, by changing Sextilis to Augustus—the designation taken by Octavian from the Latin adjective augustus meaning "worthy of honor" or "venerable."  Although August has been the English name of the eighth month of the year since before the 12th century, it wasn't until the late 1500s that august came to be used as an adjective (pronounced \aw-GUST\), more or less as augustus was in Latin._
 
