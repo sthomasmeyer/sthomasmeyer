@@ -1,59 +1,48 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-08-22 11:30:14 UTC_
-
-### Mostly Perseids
-
-![Mostly Perseids](https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg)
-
-Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with the peak activity of the 2026 Perseid Meteor Shower, most are perseids. Their overwhelming numbers make them easy to spot. Quite convincingly, perseid trails all trace back to a single radiant on the sky at the upper right, a region in the annual shower's eponymous constellation Perseus. But meteors belonging to other much less active showers can also revealed by finding their radiants too. For example, seen crossing the perseid trails are meteors from a shower whose radiant lies in Cygnus, known as Kappa Cygnids. The antihelion complex, a general region near Aquarius and opposite the Sun in the sky, is also identifiable as a weak source for meteors.
-
-
----
-
-## Words of the Day
+_Updated: 2026-08-23 11:30:34 UTC_
 
 ### Dictionary.com
 
-**nettlesome** _adjective_ • /[net-l-suhm]/
+**robustious** _adjective_ • /[roh-buhs-chuhs]/
 
-causing irritation, vexation, or distress
+boisterous; vigorous
 
-A nettlesome issue is irritating enough to bother you, but it's usually not a truly serious problem. The word is related to the stinging nettle, a plant whose leaves cause an unpleasant and sometimes lingering prickling sensation when touched. A squeaky cabinet hinge can become surprisingly nettlesome once it starts getting under your skin.
+A robustious person or event is full of energy and hard to ignore. Imagine a rowdy celebration where the crowd keeps getting louder as the evening goes on. A robustious character certainly doesn't sit around waiting to be noticed.
 
-> _The nettlesome mosquitoes buzzed around our ears, keeping us from falling asleep._
+> _The robustious children ran through the yard, shouting and jumping with endless energy._
 
 
 ### Britannica
 
-**luster** _noun_ • //ˈlʌstər//
+**consumer** _noun_
 
-The soft, radiant glow or sheen reflected from a surface, especially one that is polished or smooth; also, a quality of brilliance or distinction.
+A person who purchases goods and services for personal use or consumption.
 
-> _The antique silver tray, after a thorough polishing, regained its original luster._
+> _Modern marketing strategies often focus on understanding the needs and desires of the target consumer._
 >
-> _Despite the team's recent losses, the coach tried to restore their confidence and competitive luster._
+> _The new product was designed with the environmentally conscious consumer in mind._
 >
-> _Her long, dark hair had a natural luster that caught the sunlight beautifully._
+> _Rising prices can significantly impact the purchasing power of the average consumer._
 >
 
-_Similar: sheen, gleam, radiance_  •  _Opposite: dullness, drabness, tarnish_
+_Similar: buyer, purchaser, customer_  •  _Opposite: producer, seller, manufacturer_
 
-> _"The moon, like a silver sickle, hung low in the sky, casting a pale luster over the sleeping village."_
+> _"Consumption is the sole end and purpose of all production; and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the consumer."_
 >
-> — **Charles Dickens**, The Old Curiosity Shop (1841)
+> — **Adam Smith**, An Inquiry into the Nature and Causes of the Wealth of Nations (1776)
 
 
 ### Merriam-Webster
 
-**august** _adjective_ • /aw-GUST/
+**prowess** _noun_ • /PROW-us/
 
-Having a formal and impressive quality
+Great ability or skill
 
-> _We toured the old mansion's august halls and expansive grounds._
+> _Already a proven virtuoso on guitar, she extends her considerable instrumental prowess to the piano throughout her new album as well._
 >
 
-> "His tone is temperate, but the words echo through the State Capitol’s Assembly chamber, the august backdrop for his speech." — Maya Singer, Vogue, 1 Feb. 2026
+> “On another Friday ... I led a nature writing workshop at the library’s Fowler branch. ... I had everyone draw a map of a place they loved and populate their maps with landmarks. Then we all went around and shared our drawings. Inevitably (after first acknowledging our lack of artistic prowess) stories emerged. Walks with long-gone, beloved dogs. Times someone had been caught out in bad weather.” — Steve Edwards, Literary Hub, 4 Dec. 2025
 
-_The Roman republican calendar spanned just ten months, from March (then Martius) through December. The last five months were each named for their numerical place on the calendar: Quintilis (fifth), Sextilis (sixth), September (seventh), October (eighth), November (ninth), and December (tenth). January and February were eventually added to create a twelve-month year, obscuring the relationship between these months and their titles. So it was a welcome change when the Roman Senate honored Gaius Octavius (aka Octavian), the first Roman emperor, by changing Sextilis to Augustus—the designation taken by Octavian from the Latin adjective augustus meaning "worthy of honor" or "venerable."  Although August has been the English name of the eighth month of the year since before the 12th century, it wasn't until the late 1500s that august came to be used as an adjective (pronounced \aw-GUST\), more or less as augustus was in Latin._
+_Prowess is a word with a lot to be proud of. Not only has it performed gallantly for the English language since the 13th century, but it has stayed relatively stalwart in hewing to its original meaning, which is quite an accomplishment. When prowess first joined the ranks of the lexicon, it could be used to refer to bravery, skill, and valor—especially those virtues as encountered in military contexts—or to individual acts of derring-do. The latter was usually used in the plural, as when people waxed rhapsodic about the “prowesses” of knights or some such. Today’s “extraordinary ability” meaning, which developed in the 17th century, tends to stick to the singular form, as when it’s used to describe those with intellectual prowess, or to someone known for their prowess as a fundraiser._
 
