@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-25 11:37:05 UTC_
+_Updated: 2026-08-26 11:38:24 UTC_
 
-### Earth's Shadow Visualized with Lunar Eclipses
+### JWST Images The Lion's Head Nebula
 
-![Earth's Shadow Visualized with Lunar Eclipses](https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg)
+![JWST Images The Lion's Head Nebula](https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg)
 
-What’s creating this giant hole in space? This is not a black hole — it’s a shadow.  It’s Earth’s shadow.  Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Using modern digital technology, though, the images of multiple lunar eclipses can be combined to show Earth's complete shadow.  The featured image compilation by a perseistent astrophotographer is constructed from 22 years of lunar eclipses.  The Moon is not eclipsed every month (moon-th) because the Moon's orbit is slightly tilted relative to Earth's orbit.  Close inspection of some lunar eclipse images shows a faint blue band where  Earth’s atmosphere filters out more red sunlight than blue.  Later this week, a new lunar eclipse will occur and will be best visible in parts of North and South America, Europe, and Africa.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+Are we looking at the future of our Sun? The James Webb Space Telescope captured today’s composite image of the Lion’s Head Nebula (NGC 2392) with its NIRCam and MIRI instruments. The Lion’s Head Nebula is the remnant of a Sun-like star. This star was unable to sustain the nuclear fusion in its core needed to remain stable. It began to shed layers of gas and dust into space, forming this planetary nebula. A hot stellar core, called a white dwarf, is left behind within the lion’s nose. Do not boop this nose! Intense radiation from the white dwarf is ionizing the gas as it expands, creating the irregular bubble that makes up the lion’s face. Dust clumps that have survived the white dwarf’s radiation and a cloud of ionized gas make up the lion’s mane. This new and more detailed view of the nebula will help humanity learn more about how the gas and dust interact with each other and the white dwarf radiation.
 
 
 ---
@@ -15,45 +15,47 @@ What’s creating this giant hole in space? This is not a black hole — it’s 
 
 ### Dictionary.com
 
-**mayhap** _adverb_ • /[mey-hap]/
+**impervious** _adjective_ • /[im-pur-vee-uhs]/
 
-perhaps
+incapable of being influenced, persuaded, or affected
 
-Mayhap is an old-fashioned way to say "perhaps" or "maybe." Formed from the phrase "it may happen," the word gives uncertainty a slightly playful, storybook quality. A plain "maybe" gets the job done, but mayhap adds a bit of flair.
+To be impervious to something is to remain completely unbothered by it. The word suggests a barrier that outside forces can't easily penetrate. Being impervious to criticism can keep you focused on your mission, though it may also make it harder to recognize when another viewpoint has merit.
 
-> _If you take the long route home, mayhap you will see the beautiful sunset over the mountains._
+> _He seemed completely impervious to her concerns, refusing to change his mind._
 
 
 ### Britannica
 
-**forage** _verb_
+**stodgy** _adjective_ • /STAH-jee/
 
-To search widely for food or provisions, or to rummage for something.
+Too plain, dull, or old-fashioned to be interesting or exciting; also, (of food) unpleasantly heavy and filling.
 
-> _The explorers had to forage for edible roots and berries to survive in the wilderness._
+> _The professor's lectures were often described as stodgy, filled with dry facts and lacking any engaging anecdotes._
 >
-> _After the storm, residents began to forage through the debris for salvageable belongings._
+> _She found the traditional, heavy curtains and dark furniture made the room feel stodgy and uninviting._
 >
-> _Squirrels are known to forage for nuts and bury them for winter._
+> _Despite its reputation for being a bit stodgy, the old library held countless fascinating stories within its dusty shelves._
 >
 
-_Similar: search, hunt, rummage_  •  _Opposite: provide, supply_
+_Similar: dull, uninspired, conservative_  •  _Opposite: lively, exciting, innovative_
 
-> _"He learned to eat anything, no matter how distasteful, and to forage for himself in the wildest fashion."_
+> _"He was a good, honest, rather stodgy boy, and he would make a good, honest, rather stodgy husband."_
 >
-> — **Jack London**, The Call of the Wild (1903)
+> — **E.M. Forster**, A Room with a View (1908)
 
 
 ### Merriam-Webster
 
-**tilde** _noun_ • /TIL-duh/
+**devolve** _verb_ • /dih-VAHLV/
 
-A mark ~ used to indicate pronunciation
+To gradually change to a worse state or condition
 
-> _A familiar example of the tilde appears in the name of Brazil's capital city, São Paulo._
+> _Somehow the debate devolved into a petty competition to see who could get more applause._
+>
+> _Community leaders hope that the new government will devolve more power to the community itself._
 >
 
-> "Californians with accents, tildes and other diacritical marks in their names will soon be able to have their vital records accurately reflect their names." — Linh Tat, Orange County (California) Register, 30 Dec. 2025
+> “He accused board members of personally profiting from the parking and landscaping policies. Board meetings soon devolved into a cacophony of charges, countercharges and shouting.” — Elizabeth Williamson, The New York Times, 19 Nov. 2025
 
-_The terms piña colada and La Niña share more than just a "cool" factor: both are Spanish loan words whose spellings include tildes, those wavy marks which in these examples are placed over the letter n to indicate a blend of the sounds of n and y. Tilde is itself a Spanish borrowing rooted in the Latin titulus, an ancestor of the English words title and titular that means "title" or "inscription." The Spanish and English applications of tilde are distinct. In Spanish, tilde refers most commonly to the accent symbol, while ñ is its own member of the alphabet (pronounced "EN-yay"). In contrast, English speakers use tilde specifically for the aforementioned mark. In addition to functioning as a diacritic—that is, a mark paired with a character to indicate pronunciation—the tilde may be used as an independent character to indicate approximation, negation in logic, or similarity in mathematics._
+_Evolve? Check. Revolve? Check. Devolve? Now we’re on a roll—literally. All three of these words (and more) evolved from the Latin verb volvere, meaning “to set in a circular course, to cause to roll, to bring round.” The Latin ēvolvere means “to roll out or away”; revolvere means “to roll back to a starting point”; and dēvolvere means “to roll (something) down.” In its earliest uses in the 15th century, devolve literally meant “to roll onward or downward.” Today the word is typically used for a more figurative rolling down, as when an organization devolves power—that is, passes power down—to those at a lower level of authority, or when a deteriorating situation is described as “devolving into chaos.” One word, multiple uses. That’s just how English rolls._
 
