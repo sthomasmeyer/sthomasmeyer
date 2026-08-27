@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-26 11:38:24 UTC_
+_Updated: 2026-08-27 20:59:24 UTC_
 
-### JWST Images The Lion's Head Nebula
+### Colorful Aurora over Icelandic Waterfall
 
-![JWST Images The Lion's Head Nebula](https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg)
+![Colorful Aurora over Icelandic Waterfall](https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg)
 
-Are we looking at the future of our Sun? The James Webb Space Telescope captured today’s composite image of the Lion’s Head Nebula (NGC 2392) with its NIRCam and MIRI instruments. The Lion’s Head Nebula is the remnant of a Sun-like star. This star was unable to sustain the nuclear fusion in its core needed to remain stable. It began to shed layers of gas and dust into space, forming this planetary nebula. A hot stellar core, called a white dwarf, is left behind within the lion’s nose. Do not boop this nose! Intense radiation from the white dwarf is ionizing the gas as it expands, creating the irregular bubble that makes up the lion’s face. Dust clumps that have survived the white dwarf’s radiation and a cloud of ionized gas make up the lion’s mane. This new and more detailed view of the nebula will help humanity learn more about how the gas and dust interact with each other and the white dwarf radiation.
+What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It requires high solar activity, dark and clear skies, and usually a viewing location at high latitude.   That makes the northern lights more easily seen than the corresponding southern lights, simply because there is less landmass in the Southern Hemisphere, especially around the Antarctic Circle.   Auroras are caused by charged particles from the solar wind that are captured by the Earth's magnetosphere and guided by the magnetic field to a region close to one of the poles, where they collide with gas particles in the atmosphere.   Different colors indicate interactions with different gases at different altitudes, like oxygen (red and green) and nitrogen (blue and pink).        APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,47 +15,45 @@ Are we looking at the future of our Sun? The James Webb Space Telescope captured
 
 ### Dictionary.com
 
-**impervious** _adjective_ • /[im-pur-vee-uhs]/
+**redivivus** _adjective_ • /[red-uh-vahy-vuhs]/
 
-incapable of being influenced, persuaded, or affected
+living again; revived
 
-To be impervious to something is to remain completely unbothered by it. The word suggests a barrier that outside forces can't easily penetrate. Being impervious to criticism can keep you focused on your mission, though it may also make it harder to recognize when another viewpoint has merit.
+Redivivus describes a person or thing brought back to life or prominence after seeming to disappear. While the word can describe a literal return from the dead, it's especially useful for unexpected second acts. A forgotten fashion or abandoned tradition may suddenly show up redivivus, ready to take the world by storm again.
 
-> _He seemed completely impervious to her concerns, refusing to change his mind._
+> _After many years in storage, the forgotten statue stood redivivus in the town square._
 
 
 ### Britannica
 
-**stodgy** _adjective_ • /STAH-jee/
+**intimate** _adjective_
 
-Too plain, dull, or old-fashioned to be interesting or exciting; also, (of food) unpleasantly heavy and filling.
+Having a very close, warm, and friendly personal relationship.
 
-> _The professor's lectures were often described as stodgy, filled with dry facts and lacking any engaging anecdotes._
+> _Their long conversations fostered an intimate bond between them._
 >
-> _She found the traditional, heavy curtains and dark furniture made the room feel stodgy and uninviting._
+> _The small cafe had an intimate atmosphere, perfect for quiet reflection._
 >
-> _Despite its reputation for being a bit stodgy, the old library held countless fascinating stories within its dusty shelves._
+> _She shared her most intimate thoughts only with her diary._
 >
 
-_Similar: dull, uninspired, conservative_  •  _Opposite: lively, exciting, innovative_
+_Similar: close, personal, familiar_  •  _Opposite: distant, formal, public_
 
-> _"He was a good, honest, rather stodgy boy, and he would make a good, honest, rather stodgy husband."_
+> _"For most of what we call life is an intimate acquaintance with the devil."_
 >
-> — **E.M. Forster**, A Room with a View (1908)
+> — **Henry David Thoreau**, Walden (1854)
 
 
 ### Merriam-Webster
 
-**devolve** _verb_ • /dih-VAHLV/
+**southpaw** _noun_ • /SOUTH-paw/
 
-To gradually change to a worse state or condition
+A left-handed baseball pitcher
 
-> _Somehow the debate devolved into a petty competition to see who could get more applause._
->
-> _Community leaders hope that the new government will devolve more power to the community itself._
+> _The team’s new pitcher is a southpaw with a wicked knuckleball._
 >
 
-> “He accused board members of personally profiting from the parking and landscaping policies. Board meetings soon devolved into a cacophony of charges, countercharges and shouting.” — Elizabeth Williamson, The New York Times, 19 Nov. 2025
+> “The Sox southpaw’s perfect game bid ended when the Yankees loaded the bases with two outs in the fourth …” — Gabrielle Starr, The Boston Herald, 7 June 2026
 
-_Evolve? Check. Revolve? Check. Devolve? Now we’re on a roll—literally. All three of these words (and more) evolved from the Latin verb volvere, meaning “to set in a circular course, to cause to roll, to bring round.” The Latin ēvolvere means “to roll out or away”; revolvere means “to roll back to a starting point”; and dēvolvere means “to roll (something) down.” In its earliest uses in the 15th century, devolve literally meant “to roll onward or downward.” Today the word is typically used for a more figurative rolling down, as when an organization devolves power—that is, passes power down—to those at a lower level of authority, or when a deteriorating situation is described as “devolving into chaos.” One word, multiple uses. That’s just how English rolls._
+_Sandy Koufax, Lefty Grove, Whitey Ford—there’s no doubt these southpaws are some of the greatest baseball players of all time. What is in doubt is the origin of the word southpaw. One popular theory ties it to the layout of baseball parks. To keep the afternoon sun out of batters’ eyes, diamonds were supposedly built so that the pitcher faced west, with their left arm, therefore, pointed south. This theory strikes out however, on account of the earliest known uses of the compound south paw referring simply to one’s left hand, unrelated to baseball. It wasn’t until later in the century that the word began to be used, via metonymy, first for a left-handed person, and then specifically for a left-handed pitcher._
 
