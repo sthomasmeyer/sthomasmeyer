@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-27 20:59:24 UTC_
+_Updated: 2026-08-28 21:20:32 UTC_
 
-### Colorful Aurora over Icelandic Waterfall
+### The Sky Turns Above Paranal
 
-![Colorful Aurora over Icelandic Waterfall](https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg)
+![The Sky Turns Above Paranal](https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg)
 
-What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It requires high solar activity, dark and clear skies, and usually a viewing location at high latitude.   That makes the northern lights more easily seen than the corresponding southern lights, simply because there is less landmass in the Southern Hemisphere, especially around the Antarctic Circle.   Auroras are caused by charged particles from the solar wind that are captured by the Earth's magnetosphere and guided by the magnetic field to a region close to one of the poles, where they collide with gas particles in the atmosphere.   Different colors indicate interactions with different gases at different altitudes, like oxygen (red and green) and nitrogen (blue and pink).        APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the apparent rotation of the night sky by photographing star trails. This star trail image was composed from a digital stack of 300 consecutive 25-second exposures made with a camera fixed to a tripod to trace the star trail arcs. The graceful arcs are concentric and centered at the south celestial pole, the southern hemisphere extension of Earth's axis of rotation into space. One of the observatory's operating 1.8 meter auxiliary telescopes, AT 3, appears beneath the south celestial pole, faintly illuminated in the foreground of this well-planned scene from a rotating planet.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,45 +15,45 @@ What a sight to behold, when a night sky became filled with colors that appeared
 
 ### Dictionary.com
 
-**redivivus** _adjective_ • /[red-uh-vahy-vuhs]/
+**olio** _noun_ • /[oh-lee-oh]/
 
-living again; revived
+a dish of many ingredients
 
-Redivivus describes a person or thing brought back to life or prominence after seeming to disappear. While the word can describe a literal return from the dead, it's especially useful for unexpected second acts. A forgotten fashion or abandoned tradition may suddenly show up redivivus, ready to take the world by storm again.
+An olio is a dish made by combining several ingredients in one pot. The word suggests abundance rather than precision, with each addition contributing its own flavor to the whole. An olio can turn a collection of odds and ends into a meal worth gathering around.
 
-> _After many years in storage, the forgotten statue stood redivivus in the town square._
+> _The chef prepared a flavorful olio by tossing pasta with garlic, oil, and various herbs._
 
 
 ### Britannica
 
-**intimate** _adjective_
+**panache** _noun_ • //pəˈnɑːʃ//
 
-Having a very close, warm, and friendly personal relationship.
+A confident and stylish manner, often with a flamboyant flourish.
 
-> _Their long conversations fostered an intimate bond between them._
+> _She played the role of hostess with great panache._
 >
-> _The small cafe had an intimate atmosphere, perfect for quiet reflection._
+> _The young artist presented his work with such panache that everyone was captivated._
 >
-> _She shared her most intimate thoughts only with her diary._
+> _Despite the pressure, the chef completed the dish with remarkable panache._
 >
 
-_Similar: close, personal, familiar_  •  _Opposite: distant, formal, public_
+_Similar: flair, verve, dash_  •  _Opposite: dullness, drabness, plainness_
 
-> _"For most of what we call life is an intimate acquaintance with the devil."_
+> _"There is one thing that, without a stain, I carry away with me... And that is my panache."_
 >
-> — **Henry David Thoreau**, Walden (1854)
+> — **Edmond Rostand**, Cyrano de Bergerac (1897)
 
 
 ### Merriam-Webster
 
-**southpaw** _noun_ • /SOUTH-paw/
+**cogent** _adjective_ • /KOH-junt/
 
-A left-handed baseball pitcher
+Very clear and easy for the mind to accept and believe
 
-> _The team’s new pitcher is a southpaw with a wicked knuckleball._
+> _At the town meeting, citizens presented many cogent arguments in support of building a new senior center._
 >
 
-> “The Sox southpaw’s perfect game bid ended when the Yankees loaded the bases with two outs in the fourth …” — Gabrielle Starr, The Boston Herald, 7 June 2026
+> “The history of art reads here as one long, free verse poem-in-progress, gorgeous and absorbing. Even so, many of the most memorable moments come in the form of cogent micro-essays, smartly curated ensembles of work bearing a legible, lucid premise.” — Leah Ollman, The Los Angeles Times, 24 Apr. 2026
 
-_Sandy Koufax, Lefty Grove, Whitey Ford—there’s no doubt these southpaws are some of the greatest baseball players of all time. What is in doubt is the origin of the word southpaw. One popular theory ties it to the layout of baseball parks. To keep the afternoon sun out of batters’ eyes, diamonds were supposedly built so that the pitcher faced west, with their left arm, therefore, pointed south. This theory strikes out however, on account of the earliest known uses of the compound south paw referring simply to one’s left hand, unrelated to baseball. It wasn’t until later in the century that the word began to be used, via metonymy, first for a left-handed person, and then specifically for a left-handed pitcher._
+_A cogent argument is one that really drives its point home because it is clear, coherent, and readily understandable, and perhaps also because of the etymological history of cogent. Cogent comes from the Latin verb cōgere, meaning “to drive or force together.” Something described as cogent fuses thoughts and ideas into a meaningful whole that others can readily grasp and accept. A cogent explanation is a convincing one, and cogent analysis has us nodding along because it is clear and pertinent. Cōgere was formed in Latin by combining the prefix co- with the verb agere, “to drive, lead, or act,” a root which is also the source of our familiar noun agent. Handily enough, one definition of agent is “a means or instrument by which a guiding intelligence achieves a result.” It follows logically then that cogency is often a worthwhile agent, indeed._
 
