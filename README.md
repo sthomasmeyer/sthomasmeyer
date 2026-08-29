@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-28 21:20:32 UTC_
+_Updated: 2026-08-29 15:34:53 UTC_
 
-### The Sky Turns Above Paranal
+### Eclipse Pair
 
-![The Sky Turns Above Paranal](https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg)
+![Eclipse Pair](https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg)
 
-At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the apparent rotation of the night sky by photographing star trails. This star trail image was composed from a digital stack of 300 consecutive 25-second exposures made with a camera fixed to a tripod to trace the star trail arcs. The graceful arcs are concentric and centered at the south celestial pole, the southern hemisphere extension of Earth's axis of rotation into space. One of the observatory's operating 1.8 meter auxiliary telescopes, AT 3, appears beneath the south celestial pole, faintly illuminated in the foreground of this well-planned scene from a rotating planet.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and full moon during a single eclipse season close enough to produce a pair with both total solar and lunar eclipses. More often, partial eclipses are part of any eclipse season. But, the last eclipse season of 2026 did produce this fortnight-separated pairing of a total solar eclipse on August 12 (top) and an almost total lunar eclipse on the night of August 27/28. At New Moon, the solar eclipse was captured at Peñafiel, Spain near the begining of totality in this HDR composite image, revealing a flash of Bailey's beads and a golden solar corona. At the following Full Moon, the deep partial lunar eclipse was recorded from Sèvres, France. Also an HDR composite, the image shows this partial eclipse at closer to half its 93 percent maximum phase, so about half the visible lunar disk appears darkened and reddened within Earth's umbral shadow. The coming eclipse season will see an annular solar eclipse on 2027 February 6 paired with a penumbral lunar eclipse on February 20/21.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,45 +15,45 @@ At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, E
 
 ### Dictionary.com
 
-**olio** _noun_ • /[oh-lee-oh]/
+**asseverate** _verb_ • /[uh-sev-uh-reyt]/
 
-a dish of many ingredients
+to affirm or declare positively or earnestly
 
-An olio is a dish made by combining several ingredients in one pot. The word suggests abundance rather than precision, with each addition contributing its own flavor to the whole. An olio can turn a collection of odds and ends into a meal worth gathering around.
+To asseverate is to declare something in a way that leaves no doubt about where you stand. The word goes beyond simply stating an opinion because it carries a sense of deep conviction. When you asseverate something, you are making your position unmistakably clear.
 
-> _The chef prepared a flavorful olio by tossing pasta with garlic, oil, and various herbs._
+> _The witness was prepared to asseverate his account of the accident under oath in court._
 
 
 ### Britannica
 
-**panache** _noun_ • //pəˈnɑːʃ//
+**make a beeline for** _idiom_
 
-A confident and stylish manner, often with a flamboyant flourish.
+To go directly and quickly toward something or someone.
 
-> _She played the role of hostess with great panache._
+> _As soon as the bell rang, the children made a beeline for the playground._
 >
-> _The young artist presented his work with such panache that everyone was captivated._
+> _She always makes a beeline for the dessert table at parties._
 >
-> _Despite the pressure, the chef completed the dish with remarkable panache._
+> _Upon entering the store, he made a beeline for the electronics section._
 >
 
-_Similar: flair, verve, dash_  •  _Opposite: dullness, drabness, plainness_
+_Similar: rush to, head straight for, dash toward_  •  _Opposite: linger, stray, meander_
 
-> _"There is one thing that, without a stain, I carry away with me... And that is my panache."_
+> _"Lily made a beeline for the nearest chair, and sank into it with a sigh of relief."_
 >
-> — **Edmond Rostand**, Cyrano de Bergerac (1897)
+> — **Edith Wharton**, The House of Mirth (1905)
 
 
 ### Merriam-Webster
 
-**cogent** _adjective_ • /KOH-junt/
+**kith** _noun_ • /KITH/
 
-Very clear and easy for the mind to accept and believe
+Friends, neighbors, or relatives
 
-> _At the town meeting, citizens presented many cogent arguments in support of building a new senior center._
+> _Spending time with kith and kin at the end of the summer is the highlight of our year._
 >
 
-> “The history of art reads here as one long, free verse poem-in-progress, gorgeous and absorbing. Even so, many of the most memorable moments come in the form of cogent micro-essays, smartly curated ensembles of work bearing a legible, lucid premise.” — Leah Ollman, The Los Angeles Times, 24 Apr. 2026
+> “One thing that you could usually count on was the loyalty of your kith and kin, your friends and family. But now it seems that the closeness of family and relatives is more difficult to maintain in the modern world.” — James Morabito, The Buffalo (New York) News, 26 July 2026
 
-_A cogent argument is one that really drives its point home because it is clear, coherent, and readily understandable, and perhaps also because of the etymological history of cogent. Cogent comes from the Latin verb cōgere, meaning “to drive or force together.” Something described as cogent fuses thoughts and ideas into a meaningful whole that others can readily grasp and accept. A cogent explanation is a convincing one, and cogent analysis has us nodding along because it is clear and pertinent. Cōgere was formed in Latin by combining the prefix co- with the verb agere, “to drive, lead, or act,” a root which is also the source of our familiar noun agent. Handily enough, one definition of agent is “a means or instrument by which a guiding intelligence achieves a result.” It follows logically then that cogency is often a worthwhile agent, indeed._
+_If you’d used the word kith a thousand years ago, you might have been referring to knowledge, or to a homeland, or to your neighbors and acquaintances. While those first two meanings of kith have long since fallen out of use, the word endures with a meaning very close to that “neighbors and acquaintances” one. Today kith appears almost exclusively in the phrase kith and kin, meaning “friends and relatives.” (Kin, another ancient word, can also refer independently to relatives.) Occasionally you will see kith and kin used to refer only to family members, much to the chagrin of those who despise redundancy in language. If you wish to avoid redundancy charges you’ll be sure to include friends as well as family among your “kith and kin.”_
 
