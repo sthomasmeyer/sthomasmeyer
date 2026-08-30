@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-08-29 15:34:53 UTC_
+_Updated: 2026-08-30 15:18:51 UTC_
 
-### Eclipse Pair
+### M74: A Grand Design Spiral
 
-![Eclipse Pair](https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg)
+![M74: A Grand Design Spiral](https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg)
 
-clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and full moon during a single eclipse season close enough to produce a pair with both total solar and lunar eclipses. More often, partial eclipses are part of any eclipse season. But, the last eclipse season of 2026 did produce this fortnight-separated pairing of a total solar eclipse on August 12 (top) and an almost total lunar eclipse on the night of August 27/28. At New Moon, the solar eclipse was captured at Peñafiel, Spain near the begining of totality in this HDR composite image, revealing a flash of Bailey's beads and a golden solar corona. At the following Full Moon, the deep partial lunar eclipse was recorded from Sèvres, France. Also an HDR composite, the image shows this partial eclipse at closer to half its 93 percent maximum phase, so about half the visible lunar disk appears darkened and reddened within Earth's umbral shadow. The coming eclipse season will see an annular solar eclipse on 2027 February 6 paired with a penumbral lunar eclipse on February 20/21.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes.  Constructed from archival images, this sharp composite is from the Hubble Space Telescope.  Spanning about 30,000 light-years across the face of M74, it includes exposures recording emission from hydrogen atoms, highlighting the reddish glow of the galaxy's large star-forming regions.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,45 +15,45 @@ clipses tend to come in pairs. Twice a year, during an eclipse season that lasts
 
 ### Dictionary.com
 
-**asseverate** _verb_ • /[uh-sev-uh-reyt]/
+**idiolect** _noun_ • /[id-ee-uh-lekt]/
 
-to affirm or declare positively or earnestly
+a person's individual speech pattern
 
-To asseverate is to declare something in a way that leaves no doubt about where you stand. The word goes beyond simply stating an opinion because it carries a sense of deep conviction. When you asseverate something, you are making your position unmistakably clear.
+An idiolect is the distinctive way an individual speaks, shaped by vocabulary, pronunciation, and favorite turns of phrase. Even people from the same family or community develop speech habits that are uniquely their own. Your idiolect is like a verbal fingerprint, recognizable to anyone who knows you well.
 
-> _The witness was prepared to asseverate his account of the accident under oath in court._
+> _The linguist noted how the politician's idiolect was shaped by years of living in different cities._
 
 
 ### Britannica
 
-**make a beeline for** _idiom_
+**trivial** _adjective_
 
-To go directly and quickly toward something or someone.
+Of little value or importance; insignificant.
 
-> _As soon as the bell rang, the children made a beeline for the playground._
+> _She worried about every trivial detail, even though the main project was progressing smoothly._
 >
-> _She always makes a beeline for the dessert table at parties._
+> _His concerns about the color of the napkins seemed trivial compared to the looming financial crisis._
 >
-> _Upon entering the store, he made a beeline for the electronics section._
+> _Don't let a trivial misunderstanding escalate into a major conflict._
 >
 
-_Similar: rush to, head straight for, dash toward_  •  _Opposite: linger, stray, meander_
+_Similar: insignificant, minor, unimportant_  •  _Opposite: important, significant, crucial_
 
-> _"Lily made a beeline for the nearest chair, and sank into it with a sigh of relief."_
+> _"For it is a perennial puzzle why a sex which is called the weaker should be so much the stronger; why women are so much more interesting than men, and why in the most trivial matters their power is incalculable."_
 >
-> — **Edith Wharton**, The House of Mirth (1905)
+> — **Virginia Woolf**, A Room of One's Own (1929)
 
 
 ### Merriam-Webster
 
-**kith** _noun_ • /KITH/
+**illustrious** _adjective_ • /ih-LUSS-tree-us/
 
-Friends, neighbors, or relatives
+Notably or brilliantly outstanding
 
-> _Spending time with kith and kin at the end of the summer is the highlight of our year._
+> _During the ceremony, the illustrious star of stage and screen was presented with a lifetime achievement award._
 >
 
-> “One thing that you could usually count on was the loyalty of your kith and kin, your friends and family. But now it seems that the closeness of family and relatives is more difficult to maintain in the modern world.” — James Morabito, The Buffalo (New York) News, 26 July 2026
+> “Two of the most respected professors—an academic power couple—invited me to their home for dinner. I was flattered and excited. When we sat down at the table, my heart sank. The first dish they served was steak tartare. Raw beef, no matter how well seasoned, no matter how swanky the cut, is not my jam. ... And in the home of these illustrious professors, I was ashamed about that. I feared they would consider me unsophisticated for not liking the dish.” — Leslie John, Revealing: The Underrated Power of Oversharing, 2026
 
-_If you’d used the word kith a thousand years ago, you might have been referring to knowledge, or to a homeland, or to your neighbors and acquaintances. While those first two meanings of kith have long since fallen out of use, the word endures with a meaning very close to that “neighbors and acquaintances” one. Today kith appears almost exclusively in the phrase kith and kin, meaning “friends and relatives.” (Kin, another ancient word, can also refer independently to relatives.) Occasionally you will see kith and kin used to refer only to family members, much to the chagrin of those who despise redundancy in language. If you wish to avoid redundancy charges you’ll be sure to include friends as well as family among your “kith and kin.”_
+_Today’s spotlight is on illustrious, from the Latin adjective illustris, meaning “shining brightly with light.” Illustris itself was probably a back-formation of the Latin verb illustrare, a word with varied meanings, among them “to light up,” “to make clear,” and “to embellish.” (Our word illustrate also comes from illustrare, of course; its original meaning was “to enlighten intellectually, culturally, or spiritually.”) At one time, illustrious could be used synonymously with its immediate Latin forbear to describe things that glow brightly, but that meaning is now considered archaic. The word today is almost exclusively used to describe something—such as a career or achievement—that stands out figuratively, shining brilliantly in the mind’s eye._
 
