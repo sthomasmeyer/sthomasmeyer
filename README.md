@@ -1,59 +1,48 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-08-30 15:18:51 UTC_
-
-### M74: A Grand Design Spiral
-
-![M74: A Grand Design Spiral](https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg)
-
-If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes.  Constructed from archival images, this sharp composite is from the Hubble Space Telescope.  Spanning about 30,000 light-years across the face of M74, it includes exposures recording emission from hydrogen atoms, highlighting the reddish glow of the galaxy's large star-forming regions.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-
-
----
-
-## Words of the Day
+_Updated: 2026-08-31 17:58:28 UTC_
 
 ### Dictionary.com
 
-**idiolect** _noun_ • /[id-ee-uh-lekt]/
+**mordacious** _adjective_ • /[mawr-dey-shuhs]/
 
-a person's individual speech pattern
+sharp or caustic in style, tone, etc.
 
-An idiolect is the distinctive way an individual speaks, shaped by vocabulary, pronunciation, and favorite turns of phrase. Even people from the same family or community develop speech habits that are uniquely their own. Your idiolect is like a verbal fingerprint, recognizable to anyone who knows you well.
+Mordacious describes language with a cutting edge. A mordacious remark might be clever, but its humor often comes at someone else's expense. The word is related to a Latin verb meaning "to bite," so you can see why a mordacious comment might still hurt after the conversation ends.
 
-> _The linguist noted how the politician's idiolect was shaped by years of living in different cities._
+> _His mordacious words during the meeting left several team members feeling insulted._
 
 
 ### Britannica
 
-**trivial** _adjective_
+**hybrid** _noun_
 
-Of little value or importance; insignificant.
+Something that is formed by combining two or more different things or elements, often resulting in something new or distinct.
 
-> _She worried about every trivial detail, even though the main project was progressing smoothly._
+> _The new car model is a hybrid, combining a powerful gasoline engine with an efficient electric motor._
 >
-> _His concerns about the color of the napkins seemed trivial compared to the looming financial crisis._
+> _Her musical style is a fascinating hybrid of classical training and modern electronic beats._
 >
-> _Don't let a trivial misunderstanding escalate into a major conflict._
+> _The architect designed a hybrid building, blending traditional local materials with contemporary minimalist aesthetics._
 >
 
-_Similar: insignificant, minor, unimportant_  •  _Opposite: important, significant, crucial_
+_Similar: blend, mixture, composite_  •  _Opposite: purebred, homogeneous, singular_
 
-> _"For it is a perennial puzzle why a sex which is called the weaker should be so much the stronger; why women are so much more interesting than men, and why in the most trivial matters their power is incalculable."_
+> _"The term 'hybrid' has been applied to the offspring of distinct species, and the term 'mongrel' to the offspring of varieties."_
 >
-> — **Virginia Woolf**, A Room of One's Own (1929)
+> — **Charles Darwin**, On the Origin of Species (1859)
 
 
 ### Merriam-Webster
 
-**illustrious** _adjective_ • /ih-LUSS-tree-us/
+**gumption** _noun_ • /GUMP-shun/
 
-Notably or brilliantly outstanding
+Courage and confidence
 
-> _During the ceremony, the illustrious star of stage and screen was presented with a lifetime achievement award._
+> _It took a lot of gumption to speak up for yourself like that._
 >
 
-> “Two of the most respected professors—an academic power couple—invited me to their home for dinner. I was flattered and excited. When we sat down at the table, my heart sank. The first dish they served was steak tartare. Raw beef, no matter how well seasoned, no matter how swanky the cut, is not my jam. ... And in the home of these illustrious professors, I was ashamed about that. I feared they would consider me unsophisticated for not liking the dish.” — Leslie John, Revealing: The Underrated Power of Oversharing, 2026
+> "Fourth graders devise machines powered by rubber bands and 10-year-old ingenuity, some of the most creative thinking you'll ever witness. Wonders of nature and humanity coexist in these spaces. Behind all this is the gumption and bravery of teachers who set this up." — Adam Johnston, The Daily Herald (Provo, Utah), 13 May 2026
 
-_Today’s spotlight is on illustrious, from the Latin adjective illustris, meaning “shining brightly with light.” Illustris itself was probably a back-formation of the Latin verb illustrare, a word with varied meanings, among them “to light up,” “to make clear,” and “to embellish.” (Our word illustrate also comes from illustrare, of course; its original meaning was “to enlighten intellectually, culturally, or spiritually.”) At one time, illustrious could be used synonymously with its immediate Latin forbear to describe things that glow brightly, but that meaning is now considered archaic. The word today is almost exclusively used to describe something—such as a career or achievement—that stands out figuratively, shining brilliantly in the mind’s eye._
+_English speakers have had gumption (the word, that is) since the early 1700s. The term's source isn't known, but early examples of it are found in Scottish (the related terms rumblegumption and rumgumption can be found there too). Gumption originally referred to common sense, but it is now more commonly used to refer to the kind of courage and get-up-and-go that makes undertaking difficult things possible. Art historians may know a couple additional applications for the word: gumption was historically used both to refer to the art of preparing painters' colors, and as a synonym of megilp, which refers to a mixture of linseed oil and mastic varnish that is used as a vehicle for oil paints._
 
