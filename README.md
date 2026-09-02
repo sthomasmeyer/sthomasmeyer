@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of September 2nd Past: Google Chrome (2008)
 
-_Updated: 2026-09-01 15:26:53 UTC_
+_Updated: 2026-09-02 12:59:09 UTC_
 
-### A Plane Lunar Eclipse
 
-![A Plane Lunar Eclipse](https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg)
 
-Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see one -- just your unaided eyes.  Lunar eclipses are also some of the most photographed astronomical events because, unlike with a solar eclipse, your eyes and camera do not have to look toward the bright Sun. However, considering the featured image taken last week from Portugal, if you were on the left side of that airplane during takeoff, you might have trouble seeing it -- at first. But even then, after takeoff, since lunar eclipses typically last for hours, you might soon be able to safely cross the aisle(s) to see it.   Gallery: Lunar Eclipse of 2026 August APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+
+---
+
+## NASA Astronomy Picture of the Day
+
+### Solar Eclipses and Culture
+
+![Solar Eclipses and Culture](https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg)
+
+Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What would you think had happened? Humans have interpreted eclipses in countless ways throughout history, embedding beliefs about connection, rebirth, or danger into culture. “Eclipse” comes from the Greek word “ékleipsis” meaning “abandonment”. In ancient Greece, the solar eclipse marked the anger of the gods and the Sun abandoning humanity. To the Diné people, this celestial alignment is a time of renewal. Out of respect and to avoid the danger of sunlight, the Diné stay inside until the Sun and Moon separate. The Batammariba people of Benin and Togo believe that the Sun and Moon fight during an eclipse, so the community encourages peace among themselves. Eclipses are an example of the longstanding connection between astronomy and society.   Gallery: Solar Eclipse of 2026 August 12
 
 
 ---
@@ -15,45 +22,47 @@ Did you need to be on the right side of this airplane to see this eclipse? No.  
 
 ### Dictionary.com
 
-**literacy** _noun_ • /[lit-er-uh-see]/
+**hent** _verb_ • /[hent]/
 
-the ability to read and write proficiently
+to seize
 
-Did you know that September is National Literacy Month? It highlights the importance of literacy, which is the ability to read and write. The word comes from a Latin term meaning "letter," reflecting its connection to the written word. Whether you're reading a novel or composing an email, literacy is a skill you can use every day.
+To hent is to take hold of something. Although this verb has been around since the time of Old English, it's rarely heard today, turning up mainly in plays or historical works. Or perhaps you can use it when you need an old-fashioned, dramatic way to say you've just seized something. "I will hent this pen and write a letter!"
 
-> _Literacy gives people the tools to confidently read and write._
+> _He lunged forward to hent the suitcase as it started rolling down the ramp._
 
 
 ### Britannica
 
-**garnish** _noun_ • //ˈɡɑːrnɪʃ//
+**bangle** _noun_
 
-An item or substance, such as small pieces of fruit or chopped herbs, used to decorate or embellish food or drink.
+A large, stiff ring worn as jewelry around the arm, wrist, or ankle.
 
-> _The chef added a sprig of parsley as a final garnish to the dish._
+> _Her grandmother's antique silver bangle was her most cherished possession._
 >
-> _A lemon twist often serves as a simple yet elegant garnish for cocktails._
+> _The dancer's wrists jingled with a stack of colorful bangles._
 >
-> _She meticulously arranged the edible flowers as a colorful garnish on the dessert._
+> _He bought a delicate gold bangle for his sister's birthday._
 >
 
-_Similar: decoration, embellishment, adornment_
+_Similar: bracelet, armlet, circlet_
 
-> _"There was a goodly show of cold meat, and plenty of ale, and a large bowl of punch, with a lemon and a sprig of borage for a garnish."_
+> _"She had a pair of magnificent Indian bangles on her arms, which I had never seen her wear before."_
 >
-> — **Charles Dickens**, The Pickwick Papers (1837)
+> — **Wilkie Collins**, The Moonstone (1868)
 
 
 ### Merriam-Webster
 
-**conscientious** _adjective_ • /kahn-shee-EN-shus/
+**dissonant** _adjective_ • /DISS-uh-nunt/
 
-Careful to do things with exact or thoughtful attention
+Not in harmony
 
-> _She has always been a conscientious worker committed to painstaking research._
+> _The guitarist struck a dissonant chord._
+>
+> _The retrospective provided a sometimes dissonant journey through the artist's decades of work._
 >
 
-> “Earth-friendly, conscientious gardeners learn to slow down and pay attention not only to plants but to the many creatures that share the garden. ... The garden teaches us valuable lessons. It reminds us that balance is achieved not through sorting the natural world into neat categories, but by respecting nature and allowing it to reveal to us its own complicated, interdependent and beautiful gray areas.” — Rita Perwich, The San Diego Union-Tribune, 4 July 2026
+> "Their disparate sonic elements form a dissonant but cohesive whole, wisps of trumpet and electronic woodwinds flashing by as quickly as flickering subway car lights." — Sam Goldner, Pitchfork, 23 July 2026
 
-_As Mahatma Gandhi once wrote, “There is a higher court than courts of justice, and that is the court of conscience.” A person who is conscientious makes sure that they are judged well by such a court. This is true for someone who is “governed by their conscience” as the oldest sense of the word is defined—as in “a conscientious leader”—but it is also true for the conscientious person paying close, careful attention to the task at hand. Conscientious came to English from French, centuries after Middle English had adopted conscience from Anglo-French; both ultimately come from the Latin verb scire, meaning “to know.”_
+_At the root of dissonant is the Latin verb sonare. Can you guess what sonare means? Here's a hint: some related words are sonata, supersonic, and resonance. Does it sound to you as if sonare has something to do with sound? To invoke an approving sound in response: ding ding ding. In fact, sonare means "to sound," is related to the Latin noun sonus (meaning "sound"), and is also an ancestor of the English word sound. In musical contexts, dissonant and the related noun dissonance are used to describe a clashing or unresolved musical interval or chord. Consonance, in contrast, refers to a musical interval or chord that produces an impression of agreeableness or resolution._
 
