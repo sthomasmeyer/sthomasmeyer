@@ -1,19 +1,12 @@
-# Days of September 2nd Past: Google Chrome (2008)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-02 15:03:27 UTC_
+_Updated: 2026-09-03 14:57:28 UTC_
 
+### The Eclipse and the Stork
 
+![The Eclipse and the Stork](https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### Solar Eclipses and Culture
-
-![Solar Eclipses and Culture](https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg)
-
-Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What would you think had happened? Humans have interpreted eclipses in countless ways throughout history, embedding beliefs about connection, rebirth, or danger into culture. “Eclipse” comes from the Greek word “ékleipsis” meaning “abandonment”. In ancient Greece, the solar eclipse marked the anger of the gods and the Sun abandoning humanity. To the Diné people, this celestial alignment is a time of renewal. Out of respect and to avoid the danger of sunlight, the Diné stay inside until the Sun and Moon separate. The Batammariba people of Benin and Togo believe that the Sun and Moon fight during an eclipse, so the community encourages peace among themselves. Eclipses are an example of the longstanding connection between astronomy and society.   Gallery: Solar Eclipse of 2026 August 12
+How do animals react to a total solar eclipse?   The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse.   If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytime animal behaviors.     During totality, you may hear nighttime sounds like crickets and frogs and see fireflies.   In the dark, most birds are quiet.   Thinking that it is time to go to bed, ducks and other waterfowl prepare to sleep on one leg, with their heads turned around and their beaks tucked into their back feathers (they don't really sleep with their heads tucked under one wing).   When sunlight returns at the end of totality, songbirds greet the new "morning" with their dawn songs.   The crickets and frogs go quiet again.   Animals and people resume their lifes, only briefly disturbed by the chance alignment of our Sun and Moon.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -22,47 +15,41 @@ Pretend you have never heard of a solar eclipse. The Sun’s behavior has been p
 
 ### Dictionary.com
 
-**hent** _verb_ • /[hent]/
+**chimera** _noun_ • /[kahy-meer-uh]/
 
-to seize
+a strange, horrible, or impossible idea or figment of the imagination
 
-To hent is to take hold of something. Although this verb has been around since the time of Old English, it's rarely heard today, turning up mainly in plays or historical works. Or perhaps you can use it when you need an old-fashioned, dramatic way to say you've just seized something. "I will hent this pen and write a letter!"
+A chimera is a fanciful or impossible idea that exists more in the imagination than in reality. The word comes from Greek mythology, where the Chimera was a frightening, fire-breathing creature with parts from several animals. Today, a chimera might not be an actual monster, but it can still be a scary thought!
 
-> _He lunged forward to hent the suitcase as it started rolling down the ramp._
+> _His plan to become a millionaire overnight proved to be nothing more than a chimera._
 
 
 ### Britannica
 
-**bangle** _noun_
+**contagious** _adjective_
 
-A large, stiff ring worn as jewelry around the arm, wrist, or ankle.
+Capable of being easily transmitted or spread from one person or thing to another, often referring to emotions, attitudes, or behaviors.
 
-> _Her grandmother's antique silver bangle was her most cherished possession._
->
-> _The dancer's wrists jingled with a stack of colorful bangles._
->
-> _He bought a delicate gold bangle for his sister's birthday._
+> _Her enthusiasm for the project was so contagious that soon everyone on the team was working with renewed vigor._
 >
 
-_Similar: bracelet, armlet, circlet_
+_Similar: infectious, catching, transmissible_  •  _Opposite: isolated, contained, non-communicable_
 
-> _"She had a pair of magnificent Indian bangles on her arms, which I had never seen her wear before."_
+> _"But he was not bewildered long, for the Spirit, with a contagious laugh, clapped him on the back, and cried, 'Why, it's a joke!'"_
 >
-> — **Wilkie Collins**, The Moonstone (1868)
+> — **Charles Dickens**, A Christmas Carol (1843)
 
 
 ### Merriam-Webster
 
-**dissonant** _adjective_ • /DISS-uh-nunt/
+**recalcitrant** _adjective_ • /rih-KAL-suh-trunt/
 
-Not in harmony
+Stubbornly refusing to obey rules or orders
 
-> _The guitarist struck a dissonant chord._
->
-> _The retrospective provided a sometimes dissonant journey through the artist's decades of work._
+> _The magazine, aimed at parents and caregivers of young children, will include the latest in child development science as well as practical information, like tricks for persuading even the most recalcitrant toddler to cooperate._
 >
 
-> "Their disparate sonic elements form a dissonant but cohesive whole, wisps of trumpet and electronic woodwinds flashing by as quickly as flickering subway car lights." — Sam Goldner, Pitchfork, 23 July 2026
+> “One particularly recalcitrant driver … managed to rack up 29 speeding tickets during the 10-school-day span.” — Dave Werner, The Press-Republican (Plattsburgh, New York), 20 May 2026
 
-_At the root of dissonant is the Latin verb sonare. Can you guess what sonare means? Here's a hint: some related words are sonata, supersonic, and resonance. Does it sound to you as if sonare has something to do with sound? To invoke an approving sound in response: ding ding ding. In fact, sonare means "to sound," is related to the Latin noun sonus (meaning "sound"), and is also an ancestor of the English word sound. In musical contexts, dissonant and the related noun dissonance are used to describe a clashing or unresolved musical interval or chord. Consonance, in contrast, refers to a musical interval or chord that produces an impression of agreeableness or resolution._
+_When given an order or command, a recalcitrant person (or animal) digs in their heels. They will not give an inch, so to speak, immovable in their determination to defy the rules. This makes a great deal of sense, etymologically, as recalcitrant traces back to calx, the Latin word for “heel.” (Calx is also responsible for such English words as calcaneus, “the large bone of the human heel,” and—mention this at your next pizza party—calzone.)  From calx, Latin users formed first the verb calcitrare (“to kick”) and then recalcitrare (“to kick back”). In Late Latin, recalcitrare was used figuratively to mean “to be stubbornly disobedient,” leading to the English adjective we apply today to stubborn mules both human and asinine._
 
