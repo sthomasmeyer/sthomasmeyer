@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of September 4th Past: Google, Inc. (1998)
 
-_Updated: 2026-09-03 14:57:28 UTC_
+_Updated: 2026-09-04 14:54:39 UTC_
 
-### The Eclipse and the Stork
+On this day in 1998, Larry Page and Sergey Brin founded Google, Inc.
 
-![The Eclipse and the Stork](https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg)
 
-How do animals react to a total solar eclipse?   The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse.   If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytime animal behaviors.     During totality, you may hear nighttime sounds like crickets and frogs and see fireflies.   In the dark, most birds are quiet.   Thinking that it is time to go to bed, ducks and other waterfowl prepare to sleep on one leg, with their heads turned around and their beaks tucked into their back feathers (they don't really sleep with their heads tucked under one wing).   When sunlight returns at the end of totality, songbirds greet the new "morning" with their dawn songs.   The crickets and frogs go quiet again.   Animals and people resume their lifes, only briefly disturbed by the chance alignment of our Sun and Moon.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+---
+
+## NASA Astronomy Picture of the Day
+
+### Nā ʻUhane Māhoe Huki Pū i ke Ola
+
+![Nā ʻUhane Māhoe Huki Pū i ke Ola](https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg)
+
+Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace. Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured in sharp detail in the image from the 8.1 meter Gemini North telescope on Maunakea, Hawai‘i. The galaxy pair, known as NGC 7253 and Arp 278, was chosen as a target, researched, and given a Hawaiian name by high school students in the joint Gemini Observatory and University of Hawaiʻi Project Hōkūlani internship program.  The name translates to "The Twin Spirits Pulling Together Creating Life". That's both culturally and astronomically appropriate for galaxy collisions that trigger a cosmic maelstrom of star formation from galactic reservoirs of elemental building blocks of life. These merging galaxies are found within a region of Pegasus identified as the Hawaiian navigational constellation Ka Lupe o Kawelo.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,41 +22,41 @@ How do animals react to a total solar eclipse?   The featured image shows a stor
 
 ### Dictionary.com
 
-**chimera** _noun_ • /[kahy-meer-uh]/
+**plication** _noun_ • /[plahy-key-shuhn]/
 
-a strange, horrible, or impossible idea or figment of the imagination
+the state or quality of being folded; a fold
 
-A chimera is a fanciful or impossible idea that exists more in the imagination than in reality. The word comes from Greek mythology, where the Chimera was a frightening, fire-breathing creature with parts from several animals. Today, a chimera might not be an actual monster, but it can still be a scary thought!
+Plication can refer to the state of being folded or to a fold itself. With roots in Latin and French, the word appears in fields as diverse as anatomy and botany. If you're describing a surgery that creates folds in tissue or observing the natural folds in a leaf, plication gives you a precise term for those creases and contours.
 
-> _His plan to become a millionaire overnight proved to be nothing more than a chimera._
+> _The origami crane's wings were defined by a series of precise plications._
 
 
 ### Britannica
 
-**contagious** _adjective_
+**bric-a-brac** _noun_
 
-Capable of being easily transmitted or spread from one person or thing to another, often referring to emotions, attitudes, or behaviors.
+Small, often decorative objects of little intrinsic value, typically displayed in a home.
 
-> _Her enthusiasm for the project was so contagious that soon everyone on the team was working with renewed vigor._
+> _The antique shop was filled with shelves of charming bric-a-brac, each piece telling a silent story of its past._
 >
 
-_Similar: infectious, catching, transmissible_  •  _Opposite: isolated, contained, non-communicable_
+_Similar: knickknacks, curios, trinkets_
 
-> _"But he was not bewildered long, for the Spirit, with a contagious laugh, clapped him on the back, and cried, 'Why, it's a joke!'"_
+> _"The little parlor was a bower of beauty, with its pretty furniture, its pictures, its flowers, and its many bits of bric-a-brac."_
 >
-> — **Charles Dickens**, A Christmas Carol (1843)
+> — **Louisa May Alcott**, Little Women (1868)
 
 
 ### Merriam-Webster
 
-**recalcitrant** _adjective_ • /rih-KAL-suh-trunt/
+**apiary** _noun_ • /AY-pee-air-ee/
 
-Stubbornly refusing to obey rules or orders
+A place where bees are kept
 
-> _The magazine, aimed at parents and caregivers of young children, will include the latest in child development science as well as practical information, like tricks for persuading even the most recalcitrant toddler to cooperate._
+> _One of the best parts of having a beekeeper for a sister-in-law is getting fresh jars of local honey from the family apiary._
 >
 
-> “One particularly recalcitrant driver … managed to rack up 29 speeding tickets during the 10-school-day span.” — Dave Werner, The Press-Republican (Plattsburgh, New York), 20 May 2026
+> “The 70-year-old retiree from South Philadelphia ordinarily would avoid bees out of fear, but this spring she suited up for a study on therapeutic beekeeping at the Half Mad Honey apiary in the Navy Yard. Led by Temple University occupational therapy student Meghan Robertson, the project tested if beekeeping could improve mental health and well-being in older adults.” — Kayla Yup, The Philadelphia Inquirer, 28 June 2026
 
-_When given an order or command, a recalcitrant person (or animal) digs in their heels. They will not give an inch, so to speak, immovable in their determination to defy the rules. This makes a great deal of sense, etymologically, as recalcitrant traces back to calx, the Latin word for “heel.” (Calx is also responsible for such English words as calcaneus, “the large bone of the human heel,” and—mention this at your next pizza party—calzone.)  From calx, Latin users formed first the verb calcitrare (“to kick”) and then recalcitrare (“to kick back”). In Late Latin, recalcitrare was used figuratively to mean “to be stubbornly disobedient,” leading to the English adjective we apply today to stubborn mules both human and asinine._
+_For those who enjoy honey and the fascinating creatures that make it, apiaries are the bee’s knees. The word apiary—which comes ultimately from the Latin word apis, meaning “bee”—can refer to any place where bees are kept, but is used especially for a collection of hives or colonies of bees kept for their honey. Honeybee colonies are highly complex clusters of individuals that function virtually as single organisms (as by a hive mind). Queen bees, capable of laying more than a thousand eggs per day, develop from larvae that are fed solely on royal jelly. Drones are stingless male bees whose one job (they do not gather nectar or pollen) is to mate with the queen. Drones are vastly outnumbered by tens of thousands of female worker bees who do everything else—from foraging and feeding (royal jelly is produced from their pharyngeal glands) to cleaning and defense. In other words, they run the hive._
 
