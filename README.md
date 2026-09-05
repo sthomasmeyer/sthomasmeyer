@@ -1,19 +1,12 @@
-# Days of September 4th Past: Google, Inc. (1998)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-04 14:54:39 UTC_
+_Updated: 2026-09-05 13:50:16 UTC_
 
-On this day in 1998, Larry Page and Sergey Brin founded Google, Inc.
+### Chasing the Moon's Shadow
 
+![Chasing the Moon's Shadow](https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg)
 
----
-
-## NASA Astronomy Picture of the Day
-
-### Nā ʻUhane Māhoe Huki Pū i ke Ola
-
-![Nā ʻUhane Māhoe Huki Pū i ke Ola](https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg)
-
-Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace. Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured in sharp detail in the image from the 8.1 meter Gemini North telescope on Maunakea, Hawai‘i. The galaxy pair, known as NGC 7253 and Arp 278, was chosen as a target, researched, and given a Hawaiian name by high school students in the joint Gemini Observatory and University of Hawaiʻi Project Hōkūlani internship program.  The name translates to "The Twin Spirits Pulling Together Creating Life". That's both culturally and astronomically appropriate for galaxy collisions that trigger a cosmic maelstrom of star formation from galactic reservoirs of elemental building blocks of life. These merging galaxies are found within a region of Pegasus identified as the Hawaiian navigational constellation Ka Lupe o Kawelo.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+Chasing the shadow of a New Moon, NASA’s WB-57F high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a total solar eclipse. At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time in the Moon’s shadow. A suite of high-resolution cameras on board was able to record eclipse data from above the clouds, dust, and atmospheric water vapor that interfere with observations made closer to the ground. This view from the cockpit, taken from an inflight video, captures the solar corona emerging at the beginning of totality. The sky appears dark in the shadow of the Moon. Venus is shining left of center in the video frame, while Jupiter and Mercury are just visible to the right of the eclipsed Sun. But the sky is bright along the distant horizon below, beyond the reach of the Moon's shadow.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -22,41 +15,43 @@ Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image o
 
 ### Dictionary.com
 
-**plication** _noun_ • /[plahy-key-shuhn]/
+**sanguine** _adjective_ • /[sang-gwin]/
 
-the state or quality of being folded; a fold
+cheerfully optimistic
 
-Plication can refer to the state of being folded or to a fold itself. With roots in Latin and French, the word appears in fields as diverse as anatomy and botany. If you're describing a surgery that creates folds in tissue or observing the natural folds in a leaf, plication gives you a precise term for those creases and contours.
+A sanguine person tends to remain hopeful and upbeat, even when circumstances are challenging. The word traces back to a Latin term meaning "bloody," reflecting a medieval belief that an abundance of blood contributed to a cheerful temperament. When things don't go as planned, take a sanguine view...and a deep breath!
 
-> _The origami crane's wings were defined by a series of precise plications._
+> _Despite the rainy weather, she remained sanguine about the success of their outdoor picnic._
 
 
 ### Britannica
 
-**bric-a-brac** _noun_
+**collapse** _verb_
 
-Small, often decorative objects of little intrinsic value, typically displayed in a home.
+To break apart and fall down suddenly, or to fail completely.
 
-> _The antique shop was filled with shelves of charming bric-a-brac, each piece telling a silent story of its past._
+> _Without proper support, the old wooden bridge was bound to collapse under the weight of the heavy truck._
 >
 
-_Similar: knickknacks, curios, trinkets_
+_Similar: crumble, disintegrate, fail_  •  _Opposite: rise, build, succeed_
 
-> _"The little parlor was a bower of beauty, with its pretty furniture, its pictures, its flowers, and its many bits of bric-a-brac."_
+> _"The only thing that could possibly collapse was the house itself, and that was a matter of time."_
 >
-> — **Louisa May Alcott**, Little Women (1868)
+> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
 
 
 ### Merriam-Webster
 
-**apiary** _noun_ • /AY-pee-air-ee/
+**matriculate** _verb_ • /muh-TRIK-yuh-layt/
 
-A place where bees are kept
+To become a student at a school
 
-> _One of the best parts of having a beekeeper for a sister-in-law is getting fresh jars of local honey from the family apiary._
+> _She matriculated at the Rhode Island School of Design and began classes in the fall._
+>
+> _A spokesperson for the college said the school is expected to matriculate approximately 1,000 students for the fall semester._
 >
 
-> “The 70-year-old retiree from South Philadelphia ordinarily would avoid bees out of fear, but this spring she suited up for a study on therapeutic beekeeping at the Half Mad Honey apiary in the Navy Yard. Led by Temple University occupational therapy student Meghan Robertson, the project tested if beekeeping could improve mental health and well-being in older adults.” — Kayla Yup, The Philadelphia Inquirer, 28 June 2026
+> "Fresh off the heels of graduation from high school, many rising freshmen are choosing to step off of the treadmill for a year before matriculating in college." — DJ Didonna, Time, 13 July 2026
 
-_For those who enjoy honey and the fascinating creatures that make it, apiaries are the bee’s knees. The word apiary—which comes ultimately from the Latin word apis, meaning “bee”—can refer to any place where bees are kept, but is used especially for a collection of hives or colonies of bees kept for their honey. Honeybee colonies are highly complex clusters of individuals that function virtually as single organisms (as by a hive mind). Queen bees, capable of laying more than a thousand eggs per day, develop from larvae that are fed solely on royal jelly. Drones are stingless male bees whose one job (they do not gather nectar or pollen) is to mate with the queen. Drones are vastly outnumbered by tens of thousands of female worker bees who do everything else—from foraging and feeding (royal jelly is produced from their pharyngeal glands) to cleaning and defense. In other words, they run the hive._
+_Anybody who has had basic Latin knows that alma mater, a fancy term for the school you attended, comes from a phrase that means "fostering mother." If mater means "mother," then matriculate probably has something to do with a school nurturing you just like good old mom, right? Not exactly. If you go back far enough, matriculate is distantly related to the Latin mater, but its maternal associations were lost long ago—even in terms of Latin history. It is more closely related to the Late Latin word matricula, which means "public roll or register." Matricula has more to do with being enrolled than being mothered, but it is the diminutive form of the Latin noun matrix, which in Late Latin was used in the sense of "list" or "register" and earlier referred to female animals kept for the purposes of breeding._
 
