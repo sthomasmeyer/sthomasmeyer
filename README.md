@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-05 13:50:16 UTC_
+_Updated: 2026-09-06 14:07:16 UTC_
 
-### Chasing the Moon's Shadow
+### Pluto in Enhanced Color
 
-![Chasing the Moon's Shadow](https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg)
+![Pluto in Enhanced Color](https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg)
 
-Chasing the shadow of a New Moon, NASA’s WB-57F high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a total solar eclipse. At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time in the Moon’s shadow. A suite of high-resolution cameras on board was able to record eclipse data from above the clouds, dust, and atmospheric water vapor that interfere with observations made closer to the ground. This view from the cockpit, taken from an inflight video, captures the solar corona emerging at the beginning of totality. The sky appears dark in the shadow of the Moon. Venus is shining left of center in the video frame, while Jupiter and Mercury are just visible to the right of the eclipsed Sun. But the sky is bright along the distant horizon below, beyond the reach of the Moon's shadow.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unexpectedly young surface. The featured enhanced color image is not only esthetically pretty but scientifically useful, making surface regions of differing chemical composition visually distinct. For example, the light-colored heart-shaped Tombaugh Regio on the lower right is clearly shown here to be divisible into two regions that are geologically different, with the leftmost lobe, Sputnik Planitia, also appearing unusually smooth. After Pluto, New Horizons continued on, shooting  past asteroid Arrokoth in 2019 with enough speed to escape our Solar System completely.
 
 
 ---
@@ -15,43 +15,41 @@ Chasing the shadow of a New Moon, NASA’s WB-57F high altitude research aircraf
 
 ### Dictionary.com
 
-**sanguine** _adjective_ • /[sang-gwin]/
+**mainour** _noun_ • /[mey-ner]/
 
-cheerfully optimistic
+a stolen article found on the person of or near the thief
 
-A sanguine person tends to remain hopeful and upbeat, even when circumstances are challenging. The word traces back to a Latin term meaning "bloody," reflecting a medieval belief that an abundance of blood contributed to a cheerful temperament. When things don't go as planned, take a sanguine view...and a deep breath!
+Mainour refers to stolen property found with or near a thief. This word has historically popped up in police reports and subsequent legal documents. You might not hear it mentioned much in everyday conversation, but keep an eye out for the mainour in your favorite heist movie.
 
-> _Despite the rainy weather, she remained sanguine about the success of their outdoor picnic._
+> _Officers caught the burglar red-handed with the mainour hidden underneath his jacket._
 
 
 ### Britannica
 
-**collapse** _verb_
+**gruesome** _adjective_
 
-To break apart and fall down suddenly, or to fail completely.
+Causing horror or disgust; ghastly or grisly.
 
-> _Without proper support, the old wooden bridge was bound to collapse under the weight of the heavy truck._
+> _The detective described the gruesome details of the crime scene, leaving everyone in the room visibly disturbed._
 >
 
-_Similar: crumble, disintegrate, fail_  •  _Opposite: rise, build, succeed_
+_Similar: ghastly, grisly, horrific_  •  _Opposite: pleasant, delightful, beautiful_
 
-> _"The only thing that could possibly collapse was the house itself, and that was a matter of time."_
+> _"The most gruesome spectacle of all was the sight of the dead, piled high in the streets, their faces frozen in expressions of agony."_
 >
-> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
+> — **Charles Dickens**, A Tale of Two Cities (1859)
 
 
 ### Merriam-Webster
 
-**matriculate** _verb_ • /muh-TRIK-yuh-layt/
+**inexorable** _adjective_ • /i-NEK-suh-ruh-bul/
 
-To become a student at a school
+Not able to be stopped or changed
 
-> _She matriculated at the Rhode Island School of Design and began classes in the fall._
->
-> _A spokesperson for the college said the school is expected to matriculate approximately 1,000 students for the fall semester._
+> _For some, the changing autumn foliage is a beautiful yet bittersweet reminder of the inexorable march of time._
 >
 
-> "Fresh off the heels of graduation from high school, many rising freshmen are choosing to step off of the treadmill for a year before matriculating in college." — DJ Didonna, Time, 13 July 2026
+> “At the summer solstice, the Sun ‘stands still’—the meaning of the Latin solstice—and begins its progression back toward the south. Days shorten, shadows lengthen, and the cold and dreariness of winter return. Europeans across the entire continent have noted this simple and inexorable cycle for millennia. Neolithic monuments such as Ireland’s Newgrange and England’s Stonehenge, both of which date from around 5,000 years ago, were built to mark solstices.” — Thomas A. DuBois, The Conversation, 17 June 2026
 
-_Anybody who has had basic Latin knows that alma mater, a fancy term for the school you attended, comes from a phrase that means "fostering mother." If mater means "mother," then matriculate probably has something to do with a school nurturing you just like good old mom, right? Not exactly. If you go back far enough, matriculate is distantly related to the Latin mater, but its maternal associations were lost long ago—even in terms of Latin history. It is more closely related to the Late Latin word matricula, which means "public roll or register." Matricula has more to do with being enrolled than being mothered, but it is the diminutive form of the Latin noun matrix, which in Late Latin was used in the sense of "list" or "register" and earlier referred to female animals kept for the purposes of breeding._
+_You can beseech and implore until you’re blue in the face, but that won’t have any effect on something that’s inexorable. Inexorable, which has been part of the English language since the 1500s, was originally often applied to people, desires, or actions held to be particularly resistant to persuasion (or dissuasion). In Shakespeare’s Romeo and Juliet, for example, Romeo declares that his “intents” are “more fierce and more inexorable far / Than empty tigers or the roaring sea.” These days, it is usually used  to describe the progression of something through time, or toward an end result, commonly modifying nouns like drift, pull, rise, march, decline, or tide. Inexorable comes from the Latin adjective  inexorabilis, which is itself a combination of the prefix in-, meaning “not,” plus exorabilis, meaning “pliant.” If you’re wondering whether English has an exorable meaning “capable of being moved by entreaty,” indeed it does, though exorable is far less common than its antonym._
 
