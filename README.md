@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-07 16:24:32 UTC_
+_Updated: 2026-09-08 15:02:33 UTC_
 
-### The Pelican Nebula in Gas, Dust, and Stars
+### Hubble: Decagon Around Saturn's South Pole
 
-![The Pelican Nebula in Gas, Dust, and Stars](https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg)
+![Hubble: Decagon Around Saturn's South Pole](https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg)
 
-The Pelican Nebula is slowly being transformed.  IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary dust. The Pelican Nebula receives much study because it is a particularly active mix of star formation and evolving gas clouds.  The light from young energetic stars is slowly transforming the cold gas to hot gas, with the advancing boundary between the two, known as an ionization front, visible in bright orange on the upper right. Particularly dense tentacles of cold gas remain.  Millions of years from now, the Pelican Nebula, bounded by dark nebula LDN 935, might no longer be known as the Pelican, as the balance and placement of stars and gas will surely leave something that appears completely different.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.  Now, recent observations of Saturn by the Hubble Space Telescope reveal a slightly different geometric cloud pattern around the South Pole: a decagon (10 sides).  The geometric boundaries are possibly caused by waves when the fast-moving gas away from the poles interacts with slower-moving gas closer to the poles.  In the featured image composite by the Hubble taken last year, the South Pole of Saturn is marked by an X and surrounded by bands of circulating clouds.  The decagon appears most prominent in the dark inner regions.  The northern hexagon has proven stable for over 40 years, while the stability of the southern decagon will surely remain a topic of research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,41 +15,41 @@ The Pelican Nebula is slowly being transformed.  IC 5070 (an official designatio
 
 ### Dictionary.com
 
-**kairos** _noun_ • /[kahy-rahs]/
+**macaronic** _adjective_ • /[mak-uh-ron-ik]/
 
-a time that is particularly crucial or suited for carrying out an action
+composed of a mixture of languages
 
-Kairos describes a moment when circumstances are especially favorable for taking action. Unlike "chronos," which describes measured time, kairos emphasizes the right or opportune moment. Sometimes, success comes down to simply striking while the iron is hot.
+Something macaronic combines two or more languages in the same piece of writing or speech. As you may have guessed, the word is connected to the Italian food macaroni, which was originally associated with peasants and their everyday language. Macaronic writing can have a humorous effect by blending languages in unexpected ways.
 
-> _She waited for the right kairos to adopt a dog._
+> _The singer performed a macaronic song, switching smoothly between French and English lyrics._
 
 
 ### Britannica
 
-**homegrown** _adjective_ • /ˈhōm-ˌgrōn/
+**nocturnal** _adjective_ • /nɒkˈtɜːrnəl/
 
-Produced, grown, or developed locally or within one's own country, rather than imported or from an external source.
+Active, occurring, or appearing during the night.
 
-> _The chef prided himself on using only homegrown ingredients in his farm-to-table restaurant._
+> _The hooting of the owl was a familiar nocturnal sound in the quiet forest._
 >
 
-_Similar: local, domestic, indigenous_  •  _Opposite: imported, foreign, external_
+_Similar: nightly, nighttime_  •  _Opposite: diurnal, daily_
 
-> _"The men of the towns, with their homegrown produce, their little shops, their small businesses, were not so much afraid of the migrants as they were of the idea of them."_
+> _"The Count's habits are peculiar; he is never seen in the daytime, and his comings and goings are entirely nocturnal."_
 >
-> — **John Steinbeck**, The Grapes of Wrath (1939)
+> — **Bram Stoker**, Dracula (1897)
 
 
 ### Merriam-Webster
 
-**gist** _noun_ • /JIST/
+**magnanimous** _adjective_ • /mag-NAN-uh-mus/
 
-The general or basic meaning of something said or written
+Having or showing a generous and kind nature
 
-> _I found the author’s grandiloquent style of writing intolerable, but I got the gist of the story._
+> _She was too magnanimous to resent the unkind words of those grousing about her winning the spelling bee._
 >
 
-> “His daughter dismissed the film they were watching early on, [Tim] Allen explained, because she'd already got the gist of what was going to happen.” —  Steven McIntosh, BBC, 1 June 2026
+> “Think before you act or speak. Drive and walk carefully. Be magnanimous and forgiving if others make a boo-boo.” — Georgia Nicols, The Boston Globe, 27 Nov. 2025
 
-_The main point, overarching theme, essence—that’s gist in a nutshell. The gist of gist, if you will. The gist of a conversation, argument, story, or what-have-you is what we rely on when the actual words and details are only imperfectly recalled, inessential, or too voluminous to recount in their entirety. Gist was borrowed from the Anglo-French legal phrase laccion gist (“the action lies/is based [on]”) in the 17th century, and it was originally used in law as a term referring to the foundation or grounds for a legal action without which the action would not be legally sustainable._
+_When you see anima, animus, or a similar formation in a word, it’s often an indicator of something alive, lively, or spirited. Something described as animated is full of life, for example, and the word animal refers to a living thing. The Latin word anima means “breath” or “soul” and animus means “spirit.” In magnanimous, animus is joined by the Latin word magnus, meaning “great.” Basically meaning “greatness of spirit,” magnanimity is the opposite of selfishness. A truly magnanimous person can lose without complaining and win without gloating, and angry disputes can sometimes be resolved when one side makes a magnanimous gesture toward the other._
 
