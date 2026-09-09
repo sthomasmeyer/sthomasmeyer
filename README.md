@@ -1,55 +1,44 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-09-08 15:02:33 UTC_
-
-### Hubble: Decagon Around Saturn's South Pole
-
-![Hubble: Decagon Around Saturn's South Pole](https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg)
-
-Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.  Now, recent observations of Saturn by the Hubble Space Telescope reveal a slightly different geometric cloud pattern around the South Pole: a decagon (10 sides).  The geometric boundaries are possibly caused by waves when the fast-moving gas away from the poles interacts with slower-moving gas closer to the poles.  In the featured image composite by the Hubble taken last year, the South Pole of Saturn is marked by an X and surrounded by bands of circulating clouds.  The decagon appears most prominent in the dark inner regions.  The northern hexagon has proven stable for over 40 years, while the stability of the southern decagon will surely remain a topic of research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-
-
----
-
-## Words of the Day
+_Updated: 2026-09-09 15:04:47 UTC_
 
 ### Dictionary.com
 
-**macaronic** _adjective_ • /[mak-uh-ron-ik]/
+**constitutional** _noun_ • /[kon-sti-too-shuh-nl]/
 
-composed of a mixture of languages
+a walk taken for one's health
 
-Something macaronic combines two or more languages in the same piece of writing or speech. As you may have guessed, the word is connected to the Italian food macaroni, which was originally associated with peasants and their everyday language. Macaronic writing can have a humorous effect by blending languages in unexpected ways.
+A constitutional isn't just any old walk; it's one that's meant to improve your health. The word is related to the idea of having a good constitution, meaning a strong or healthy physical condition. So go ahead and take a constitutional — it can be good for both body and soul!
 
-> _The singer performed a macaronic song, switching smoothly between French and English lyrics._
+> _My grandpa enjoys a morning constitutional around the park to stay fit._
 
 
 ### Britannica
 
-**nocturnal** _adjective_ • /nɒkˈtɜːrnəl/
+**generate** _verb_
 
-Active, occurring, or appearing during the night.
+To produce or create something, especially energy, information, or a reaction.
 
-> _The hooting of the owl was a familiar nocturnal sound in the quiet forest._
+> _The new marketing campaign aims to generate significant interest in our latest product._
 >
 
-_Similar: nightly, nighttime_  •  _Opposite: diurnal, daily_
+_Similar: produce, create, engender_  •  _Opposite: destroy, terminate, suppress_
 
-> _"The Count's habits are peculiar; he is never seen in the daytime, and his comings and goings are entirely nocturnal."_
+> _"And this tendency to perfection, combined with the power of reproduction, will always tend to generate new forms."_
 >
-> — **Bram Stoker**, Dracula (1897)
+> — **Charles Darwin**, On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life (1859)
 
 
 ### Merriam-Webster
 
-**magnanimous** _adjective_ • /mag-NAN-uh-mus/
+**stigma** _noun_ • /STIG-muh/
 
-Having or showing a generous and kind nature
+A set of negative beliefs people have about something
 
-> _She was too magnanimous to resent the unkind words of those grousing about her winning the spelling bee._
+> _The organization is animated by a commitment to challenging stigmas associated with the condition._
 >
 
-> “Think before you act or speak. Drive and walk carefully. Be magnanimous and forgiving if others make a boo-boo.” — Georgia Nicols, The Boston Globe, 27 Nov. 2025
+> “The stigma surrounding workers of my generation is real—some depict us as burned-out, overworked employees who are difficult to manage and are merely looking for a paycheck while mapping out our exit strategy for retirement.” — Suzie Jimenez, Business Insider, 21 July 2026
 
-_When you see anima, animus, or a similar formation in a word, it’s often an indicator of something alive, lively, or spirited. Something described as animated is full of life, for example, and the word animal refers to a living thing. The Latin word anima means “breath” or “soul” and animus means “spirit.” In magnanimous, animus is joined by the Latin word magnus, meaning “great.” Basically meaning “greatness of spirit,” magnanimity is the opposite of selfishness. A truly magnanimous person can lose without complaining and win without gloating, and angry disputes can sometimes be resolved when one side makes a magnanimous gesture toward the other._
+_Tattoos are now common, but not long ago adorning one’s body with ink was frowned upon by much of mainstream society. Even today, tattooed individuals in some communities and contexts face stigma based on their particular form of self-expression. It turns out that the link between tattoos and stigma is ancient, at least etymologically. The roots of stigma trace back all the way to the Greek verb stizein, meaning “to tattoo,” which led to the Latin noun stigma meaning “mark” or “brand.” The earliest English uses of stigma hew close to those of its Latin forebear; the word first referred to a brand left by a hot iron. In modern use, the scar is figurative: stigma most often refers to a set of negative and often unfair beliefs that a society or group of people have about something, as when people talk about the stigma associated with mental illness, or the stigma of poverty._
 
