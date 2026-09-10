@@ -1,44 +1,55 @@
-# Words of the Day
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-09 15:04:47 UTC_
+_Updated: 2026-09-10 14:57:08 UTC_
+
+### LDN 1295: The Giraffe Nebula
+
+![LDN 1295: The Giraffe Nebula](https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg)
+
+What does this image look like to you?   Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead).   The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Aethiopia (Cassiopeia).   It is an object in the Lynds Catalogue of Dark Nebulas, compiled in 1962 by American astronomer Beverly Lynds, a pioneer for women in astronomy and astrophysics.   Dark nebulas are interstellar clouds of dust and gas that block the visible light of the stars behind them.   These nebulas are often faint and challenging targets for astrophotographers.   Why do we see animal shapes and faces in nebulas, clouds, and pretty much everywhere?   It is due to pareidolia, our tendency to look for familiar patterns.   Pareidolia may provide animals with an evolutionary advantage, for example in identifying (and avoiding) predators.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**constitutional** _noun_ • /[kon-sti-too-shuh-nl]/
+**adiaphorous** _adjective_ • /[ad-ee-af-er-uhs]/
 
-a walk taken for one's health
+doing neither good nor harm, as a medicine
 
-A constitutional isn't just any old walk; it's one that's meant to improve your health. The word is related to the idea of having a good constitution, meaning a strong or healthy physical condition. So go ahead and take a constitutional — it can be good for both body and soul!
+Adiaphorous describes something that has no significant effect, either for better or worse. The word comes from a Greek term meaning "indifferent," and it's especially useful for describing a medicine that produces no meaningful change in a patient's condition. Keep adiaphorous handy for when a result is neither helpful nor harmful.
 
-> _My grandpa enjoys a morning constitutional around the park to stay fit._
+> _She realized the expensive vitamin water was adiaphorous, producing no health benefits or negative reactions._
 
 
 ### Britannica
 
-**generate** _verb_
+**excursion** _noun_
 
-To produce or create something, especially energy, information, or a reaction.
+A short journey or trip, especially one taken as a leisure activity or for a specific purpose.
 
-> _The new marketing campaign aims to generate significant interest in our latest product._
+> _The students eagerly anticipated their annual field trip, a delightful excursion to the natural history museum._
 >
 
-_Similar: produce, create, engender_  •  _Opposite: destroy, terminate, suppress_
+_Similar: trip, outing, jaunt_  •  _Opposite: stay, residence, immobility_
 
-> _"And this tendency to perfection, combined with the power of reproduction, will always tend to generate new forms."_
+> _"The next day, as soon as breakfast was over, they were to go on a long excursion, and of course all the gentlemen were to attend them."_
 >
-> — **Charles Darwin**, On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life (1859)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
 
 ### Merriam-Webster
 
-**stigma** _noun_ • /STIG-muh/
+**loath** _adjective_ • /LOHTH/
 
-A set of negative beliefs people have about something
+Not wanting or willing to do something
 
-> _The organization is animated by a commitment to challenging stigmas associated with the condition._
+> _Proud of the company he had built, Henry was loath to admit that it was time to think about retiring._
 >
 
-> “The stigma surrounding workers of my generation is real—some depict us as burned-out, overworked employees who are difficult to manage and are merely looking for a paycheck while mapping out our exit strategy for retirement.” — Suzie Jimenez, Business Insider, 21 July 2026
+> “On these runs, I was loath to stop. I dreaded zebra crossings and the city-center pavements, and instead ran into the surrounding countryside, abandoning myself to the endless roads that seemed to be going nowhere.” — Madeline Potter, The Roma: A Traveling History, 2025
 
-_Tattoos are now common, but not long ago adorning one’s body with ink was frowned upon by much of mainstream society. Even today, tattooed individuals in some communities and contexts face stigma based on their particular form of self-expression. It turns out that the link between tattoos and stigma is ancient, at least etymologically. The roots of stigma trace back all the way to the Greek verb stizein, meaning “to tattoo,” which led to the Latin noun stigma meaning “mark” or “brand.” The earliest English uses of stigma hew close to those of its Latin forebear; the word first referred to a brand left by a hot iron. In modern use, the scar is figurative: stigma most often refers to a set of negative and often unfair beliefs that a society or group of people have about something, as when people talk about the stigma associated with mental illness, or the stigma of poverty._
+_Loath as some language sticklers may be to accept it—indeed, they may loathe the fact—loathe is an accepted, though less common, spelling variant of the adjective loath. The language sticklers know that loathe is most often used as a verb meaning "to hate," and their desire to keep the language tidy by letting loath alone mean "not willing or wanting to do something" is understandable. But here’s the rub: language is very often untidy. Both loath and loathe trace back to the Old English word lāth, meaning “loathsome, disgusting.” Each has had a number of variant spellings over the years, and for at least some portion of their history each word has taken on the spelling of the other. If you would like to keep the two distinct according to prevailing preferences, remember that loath is how you feel (reluctant, unwilling), and loathe is what you do (hate, dislike)._
 
