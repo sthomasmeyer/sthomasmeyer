@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-10 14:57:08 UTC_
+_Updated: 2026-09-11 14:57:23 UTC_
 
-### LDN 1295: The Giraffe Nebula
+### M83: The Southern Pinwheel
 
-![LDN 1295: The Giraffe Nebula](https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg)
+![M83: The Southern Pinwheel](https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg)
 
-What does this image look like to you?   Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead).   The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Aethiopia (Cassiopeia).   It is an object in the Lynds Catalogue of Dark Nebulas, compiled in 1962 by American astronomer Beverly Lynds, a pioneer for women in astronomy and astrophysics.   Dark nebulas are interstellar clouds of dust and gas that block the visible light of the stars behind them.   These nebulas are often faint and challenging targets for astrophotographers.   Why do we see animal shapes and faces in nebulas, clouds, and pretty much everywhere?   It is due to pareidolia, our tendency to look for familiar patterns.   Pareidolia may provide animals with an evolutionary advantage, for example in identifying (and avoiding) predators.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel.  Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have suggested another nickname, the Thousand-Ruby Galaxy. A mere 40,000 light-years across, smaller than the Milky Way, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp, groundbased telescopic view also features foreground Milky Way stars and distant background galaxies.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,41 +15,43 @@ What does this image look like to you?   Many see a giraffe facing right, with n
 
 ### Dictionary.com
 
-**adiaphorous** _adjective_ • /[ad-ee-af-er-uhs]/
+**de facto** _adjective_ • /[dih fak-toh]/
 
-doing neither good nor harm, as a medicine
+actually existing
 
-Adiaphorous describes something that has no significant effect, either for better or worse. The word comes from a Greek term meaning "indifferent," and it's especially useful for describing a medicine that produces no meaningful change in a patient's condition. Keep adiaphorous handy for when a result is neither helpful nor harmful.
+De facto describes something that actually exists, whether or not it has been officially recognized. The phrase comes directly from Latin and means "from the fact." A de facto manager, for example, may hold real power without having an official title.
 
-> _She realized the expensive vitamin water was adiaphorous, producing no health benefits or negative reactions._
+> _Although he was never formally elected, the general became the de facto leader of the country._
 
 
 ### Britannica
 
-**excursion** _noun_
+**malice** _noun_ • /MAL-is/
 
-A short journey or trip, especially one taken as a leisure activity or for a specific purpose.
+A desire to cause harm to another person; ill will.
 
-> _The students eagerly anticipated their annual field trip, a delightful excursion to the natural history museum._
+> _His actions, driven by pure malice, sought to undermine her reputation and destroy her career._
 >
 
-_Similar: trip, outing, jaunt_  •  _Opposite: stay, residence, immobility_
+_Similar: animosity, malevolence, spite_  •  _Opposite: benevolence, goodwill, kindness_
 
-> _"The next day, as soon as breakfast was over, they were to go on a long excursion, and of course all the gentlemen were to attend them."_
+> _"With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Abraham Lincoln**, Second Inaugural Address (March 4, 1865)
 
 
 ### Merriam-Webster
 
-**loath** _adjective_ • /LOHTH/
+**patina** _noun_ • /puh-TEE-nuh/
 
-Not wanting or willing to do something
+A green layer that forms on copper and bronze exposed to air
 
-> _Proud of the company he had built, Henry was loath to admit that it was time to think about retiring._
+> _The town erected a statue in her honor, which over the years developed a seafoam green patina._
+>
+> _Although the winery is brand-new, it has been constructed and decorated to give it a patina of old-world quaintness._
 >
 
-> “On these runs, I was loath to stop. I dreaded zebra crossings and the city-center pavements, and instead ran into the surrounding countryside, abandoning myself to the endless roads that seemed to be going nowhere.” — Madeline Potter, The Roma: A Traveling History, 2025
+> "Family, friends and neighbors filled the frames with dancing and dominoes; their apartments painted in shades of mint, butter yellow and ... pink, flecked with a patina cultivated by humidity and time." — Suzy Exposito, The Los Angeles Times, 28 July 2026
 
-_Loath as some language sticklers may be to accept it—indeed, they may loathe the fact—loathe is an accepted, though less common, spelling variant of the adjective loath. The language sticklers know that loathe is most often used as a verb meaning "to hate," and their desire to keep the language tidy by letting loath alone mean "not willing or wanting to do something" is understandable. But here’s the rub: language is very often untidy. Both loath and loathe trace back to the Old English word lāth, meaning “loathsome, disgusting.” Each has had a number of variant spellings over the years, and for at least some portion of their history each word has taken on the spelling of the other. If you would like to keep the two distinct according to prevailing preferences, remember that loath is how you feel (reluctant, unwilling), and loathe is what you do (hate, dislike)._
+_When Italians applied the word patina to the green film that forms on the surface of copper, they were drawing from Latin, in which patina means "a shallow dish." (Presumably, the Italian meaning developed from the observation of such film forming on copper dishes.) By the mid-18th century, English speakers were also calling the green film patina, and by the 20th century, they'd expanded the word's application to surface appearances of things that have grown more beautiful with age or use—think of an old wooden desk or a tarnished silver goblet. Use of the word to refer to thin layers both literal and figurative ("a patina of grime," "a patina of respectability") followed soon after. The related verb patinate means "to give a patina to."_
 
