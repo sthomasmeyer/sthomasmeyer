@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-11 14:57:23 UTC_
+_Updated: 2026-09-12 14:02:32 UTC_
 
-### M83: The Southern Pinwheel
+### Apollo 11: Catching Some Sun
 
-![M83: The Southern Pinwheel](https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg)
+![Apollo 11: Catching Some Sun](https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg)
 
-Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel.  Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have suggested another nickname, the Thousand-Ruby Galaxy. A mere 40,000 light-years across, smaller than the Milky Way, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp, groundbased telescopic view also features foreground Milky Way stars and distant background galaxies.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with 22 kilograms of moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,43 +15,41 @@ Beautiful and bright spiral galaxy M83 lies some twelve million light-years away
 
 ### Dictionary.com
 
-**de facto** _adjective_ • /[dih fak-toh]/
+**lagan** _noun_ • /[lag-uhn]/
 
-actually existing
+anything sunk in the sea, but attached to a buoy or the like so that it may be recovered
 
-De facto describes something that actually exists, whether or not it has been officially recognized. The phrase comes directly from Latin and means "from the fact." A de facto manager, for example, may hold real power without having an official title.
+Lagan refers to something sunk in the sea but marked for pickup later, usually with a buoy attached to show its location. The word may be related to an Old Norse term for a net laid in the sea. Think of lagan as an item in the lost and found box, but with a name on it.
 
-> _Although he was never formally elected, the general became the de facto leader of the country._
+> _Sailors spotted a floating marker, signaling that lagan was hidden beneath the waves._
 
 
 ### Britannica
 
-**malice** _noun_ • /MAL-is/
+**deluge** _noun_ • //ˈdɛljuːdʒ//
 
-A desire to cause harm to another person; ill will.
+An overwhelming rush of water, often referring to a severe flood, or a sudden, overwhelming quantity of something.
 
-> _His actions, driven by pure malice, sought to undermine her reputation and destroy her career._
+> _After weeks of dry weather, the sudden deluge brought much-needed relief to the parched land, though it also caused some localized flooding._
 >
 
-_Similar: animosity, malevolence, spite_  •  _Opposite: benevolence, goodwill, kindness_
+_Similar: flood, torrent, inundation_  •  _Opposite: drought, trickle, scarcity_
 
-> _"With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations."_
+> _"A deluge of rain, that had for a good while been gathering, now descended."_
 >
-> — **Abraham Lincoln**, Second Inaugural Address (March 4, 1865)
+> — **Charles Dickens**, A Tale of Two Cities (1859)
 
 
 ### Merriam-Webster
 
-**patina** _noun_ • /puh-TEE-nuh/
+**hobnob** _verb_ • /HAHB-nahb/
 
-A green layer that forms on copper and bronze exposed to air
+To socialize especially with people of high social status
 
-> _The town erected a statue in her honor, which over the years developed a seafoam green patina._
->
-> _Although the winery is brand-new, it has been constructed and decorated to give it a patina of old-world quaintness._
+> _A great deal can be learned about the entertainment industry by hobnobbing with folks at film festivals._
 >
 
-> "Family, friends and neighbors filled the frames with dancing and dominoes; their apartments painted in shades of mint, butter yellow and ... pink, flecked with a patina cultivated by humidity and time." — Suzy Exposito, The Los Angeles Times, 28 July 2026
+> “My whole attitude has been—because all I care about is the music—I don’t need to make the scene. I don’t need to hobnob with the executives because I see them all the rest of the year.”  — Jem Aswad, quoted in Variety, 14 Apr. 2026
 
-_When Italians applied the word patina to the green film that forms on the surface of copper, they were drawing from Latin, in which patina means "a shallow dish." (Presumably, the Italian meaning developed from the observation of such film forming on copper dishes.) By the mid-18th century, English speakers were also calling the green film patina, and by the 20th century, they'd expanded the word's application to surface appearances of things that have grown more beautiful with age or use—think of an old wooden desk or a tarnished silver goblet. Use of the word to refer to thin layers both literal and figurative ("a patina of grime," "a patina of respectability") followed soon after. The related verb patinate means "to give a patina to."_
+_In William Shakespeare’s Twelfth Night, Sir Toby Belch warns Viola that Sir Andrew wants to duel, telling her “‘Hob, nob’ is his word” and then adding the gloss “give’t or take’t.” In today’s English, he might have said “take it or leave it.” Sir Toby’s hob, nob is an alteration of hab nab (“hit or miss,” “however things may turn out”), itself likely a shortening of the Middle English phrase habbe or nabbe (“whether I have or don’t have”). After Shakespeare’s day, hob-nob and hob or nob were used adverbially to mean “randomly.” And to drink hobnob, or hob or nob, was to take turns with one’s drinking buddies toasting each other’s health. Later, hobnob (as well as hob or nob, hob-a-nob, etc.) was verbified to mean “to drink socially” and then, dropping the booze, “to spend time with someone in a friendly way.” Today hobnob is used especially in situations where someone is chatting up someone famous or important, as in “hobnobbing with celebs.”_
 
