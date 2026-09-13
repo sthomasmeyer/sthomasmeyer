@@ -1,55 +1,44 @@
-# NASA Astronomy Picture of the Day
+# Words of the Day
 
-_Updated: 2026-09-12 14:02:32 UTC_
-
-### Apollo 11: Catching Some Sun
-
-![Apollo 11: Catching Some Sun](https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg)
-
-Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with 22 kilograms of moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-
-
----
-
-## Words of the Day
+_Updated: 2026-09-13 14:53:57 UTC_
 
 ### Dictionary.com
 
-**lagan** _noun_ • /[lag-uhn]/
+**tenuous** _adjective_ • /[ten-yoo-uhs]/
 
-anything sunk in the sea, but attached to a buoy or the like so that it may be recovered
+lacking a sound basis; weak or unsubstantiated
 
-Lagan refers to something sunk in the sea but marked for pickup later, usually with a buoy attached to show its location. The word may be related to an Old Norse term for a net laid in the sea. Think of lagan as an item in the lost and found box, but with a name on it.
+Something tenuous is weakly supported or rests on an unstable foundation, whether literally or metaphorically. The word comes from the Latin tenuis, meaning "thin," bringing to mind the visual of something delicate or lacking in substance. A shaky theory or an unsteady stack of books can both be tenuous, so watch out when things start to topple!
 
-> _Sailors spotted a floating marker, signaling that lagan was hidden beneath the waves._
+> _His argument was tenuous since it relied on rumors instead of actual facts._
 
 
 ### Britannica
 
-**deluge** _noun_ • //ˈdɛljuːdʒ//
+**firebrand** _noun_
 
-An overwhelming rush of water, often referring to a severe flood, or a sudden, overwhelming quantity of something.
+A person who passionately advocates for a political or social cause, often inciting strong emotions or action.
 
-> _After weeks of dry weather, the sudden deluge brought much-needed relief to the parched land, though it also caused some localized flooding._
+> _The young activist quickly became known as a firebrand, passionately advocating for environmental protection._
 >
 
-_Similar: flood, torrent, inundation_  •  _Opposite: drought, trickle, scarcity_
+_Similar: agitator, rabble-rouser, provocateur_  •  _Opposite: peacemaker, conciliator, moderate_
 
-> _"A deluge of rain, that had for a good while been gathering, now descended."_
+> _"He was a firebrand, indeed, but one whose flame was kindled at the altar of liberty, and whose light served to guide, not to mislead, his countrymen."_
 >
-> — **Charles Dickens**, A Tale of Two Cities (1859)
+> — **William Wirt Henry**, The Life of Patrick Henry (1891)
 
 
 ### Merriam-Webster
 
-**hobnob** _verb_ • /HAHB-nahb/
+**shofar** _noun_ • /SHOH-far/
 
-To socialize especially with people of high social status
+A ram's-horn trumpet used in some Jewish religious services
 
-> _A great deal can be learned about the entertainment industry by hobnobbing with folks at film festivals._
+> _As a child, Eli’s favorite part of the High Holidays was the sounding of the shofar._
 >
 
-> “My whole attitude has been—because all I care about is the music—I don’t need to make the scene. I don’t need to hobnob with the executives because I see them all the rest of the year.”  — Jem Aswad, quoted in Variety, 14 Apr. 2026
+> “Sheep were domesticated in ancient Mesopotamia over ten thousand years ago and we have the ancient cave paintings to prove it. Sheep appear in folklore, religion, and mythology from all over the world: the Greek golden fleece, the Jewish shofar, the Egyptian Pharaoh’s shepherd’s crook, Christianity’s Agnus Dei.” — Celia Mattison, Literary Hub, 30 Oct. 2025
 
-_In William Shakespeare’s Twelfth Night, Sir Toby Belch warns Viola that Sir Andrew wants to duel, telling her “‘Hob, nob’ is his word” and then adding the gloss “give’t or take’t.” In today’s English, he might have said “take it or leave it.” Sir Toby’s hob, nob is an alteration of hab nab (“hit or miss,” “however things may turn out”), itself likely a shortening of the Middle English phrase habbe or nabbe (“whether I have or don’t have”). After Shakespeare’s day, hob-nob and hob or nob were used adverbially to mean “randomly.” And to drink hobnob, or hob or nob, was to take turns with one’s drinking buddies toasting each other’s health. Later, hobnob (as well as hob or nob, hob-a-nob, etc.) was verbified to mean “to drink socially” and then, dropping the booze, “to spend time with someone in a friendly way.” Today hobnob is used especially in situations where someone is chatting up someone famous or important, as in “hobnobbing with celebs.”_
+_One of the shofar’s original uses was to proclaim the Jubilee year (a year of emancipation of enslaved Jews and restoration of alienated lands to their former owners). Today, it is mainly used in synagogues during the High Holidays. It is blown daily, except on Shabbat, during the month of Elul (the 12th month of the civil year or the 6th month of the ecclesiastical year in the Jewish calendar), and is sounded a number of times during the Rosh Hashanah services, and again at the end of the last service (known as neilah) on Yom Kippur. The custom is to sound the shofar in several series that alternate shorter notes resembling sobbing and wailing with longer unbroken blasts._
 
