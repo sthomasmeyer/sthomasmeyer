@@ -1,44 +1,62 @@
-# Words of the Day
+# Days of September 14th Past: Human Action (1949)
 
-_Updated: 2026-09-13 14:53:57 UTC_
+_Updated: 2026-09-14 16:55:45 UTC_
+
+On this day in 1949, Ludwig von Mises published Human Action: A Treatise on Economics
+
+
+---
+
+## NASA Astronomy Picture of the Day
+
+### Where Your Elements Came From
+
+![Where Your Elements Came From](https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg)
+
+The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made during supernovas of stars that occurred long ago and far away.  The gold in your jewelry was likely made from neutron stars during collisions that may have been visible as short-duration gamma-ray bursts or gravitational wave events. Elements like phosphorus and copper are present in our bodies in only small amounts but are essential to the functioning of all known life.  The featured periodic table is color coded to indicate humanity's best guess as to the nuclear origin of all known elements.  The sites of nuclear creation of some elements, such as copper, are not really well known and are continuing topics of observational and computational research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+
+
+---
+
+## Words of the Day
 
 ### Dictionary.com
 
-**tenuous** _adjective_ • /[ten-yoo-uhs]/
+**diegetic** _adjective_ • /[dahy-uh-jet-ik]/
 
-lacking a sound basis; weak or unsubstantiated
+happening within a story
 
-Something tenuous is weakly supported or rests on an unstable foundation, whether literally or metaphorically. The word comes from the Latin tenuis, meaning "thin," bringing to mind the visual of something delicate or lacking in substance. A shaky theory or an unsteady stack of books can both be tenuous, so watch out when things start to topple!
+If it's diegetic, it takes place within a story. The word comes from a Greek term meaning "pertaining to a narrative," and it's especially common in discussions of film and television. When the narrator steps up to the figurative mic and tells the story, that's diegetic.
 
-> _His argument was tenuous since it relied on rumors instead of actual facts._
+> _In the play, the hero's diegetic monologue revealed what had happened._
 
 
 ### Britannica
 
-**firebrand** _noun_
+**cubicle** _noun_ • /KYOŌ-bi-kəl/
 
-A person who passionately advocates for a political or social cause, often inciting strong emotions or action.
+A small, partitioned off-space, typically found in a larger office, designed to provide a semi-private workspace for an individual.
 
-> _The young activist quickly became known as a firebrand, passionately advocating for environmental protection._
+> _The new employee quickly personalized her cubicle with photos and a small plant._
 >
 
-_Similar: agitator, rabble-rouser, provocateur_  •  _Opposite: peacemaker, conciliator, moderate_
+_Similar: workstation, compartment, booth_  •  _Opposite: open-plan office, shared desk, common area_
 
-> _"He was a firebrand, indeed, but one whose flame was kindled at the altar of liberty, and whose light served to guide, not to mislead, his countrymen."_
+> _"The cubicle was barely large enough to hold a cot and a small chest, yet it offered a semblance of privacy in the crowded dormitory."_
 >
-> — **William Wirt Henry**, The Life of Patrick Henry (1891)
+> — **Mark Twain**, The Adventures of Tom Sawyer (1876)
 
 
 ### Merriam-Webster
 
-**shofar** _noun_ • /SHOH-far/
+**empirical** _adjective_ • /im-PEER-uh-kul/
 
-A ram's-horn trumpet used in some Jewish religious services
+Based on testing or experience
 
-> _As a child, Eli’s favorite part of the High Holidays was the sounding of the shofar._
+> _The team of conservation biologists has over the years collected reams of empirical data, from species inventories to soil analyses._
 >
 
-> “Sheep were domesticated in ancient Mesopotamia over ten thousand years ago and we have the ancient cave paintings to prove it. Sheep appear in folklore, religion, and mythology from all over the world: the Greek golden fleece, the Jewish shofar, the Egyptian Pharaoh’s shepherd’s crook, Christianity’s Agnus Dei.” — Celia Mattison, Literary Hub, 30 Oct. 2025
+> “She speaks the language of food chemistry and can tell you, based on empirical facts, why raspberry should never be boiled if you want the taste of raspberry rather than the taste of raspberry jam, and why coffee and tomato, which share several of the same volatile compounds, taste obviously right together despite sounding obviously wrong.” — Maria Gunko, The California Courier (Glendale, California), 30 July 2026
 
-_One of the shofar’s original uses was to proclaim the Jubilee year (a year of emancipation of enslaved Jews and restoration of alienated lands to their former owners). Today, it is mainly used in synagogues during the High Holidays. It is blown daily, except on Shabbat, during the month of Elul (the 12th month of the civil year or the 6th month of the ecclesiastical year in the Jewish calendar), and is sounded a number of times during the Rosh Hashanah services, and again at the end of the last service (known as neilah) on Yom Kippur. The custom is to sound the shofar in several series that alternate shorter notes resembling sobbing and wailing with longer unbroken blasts._
+_When empirical first appeared as an adjective in English, it meant simply “in the manner of an empiric.” In the ancient world, empirics were members of a sect of doctors who practiced medicine using treatments observed to be clinically effective, rather than treatments based on theoretical principles. This all sounds fine and good to a modern reader, but empirics were in direct opposition to Galen, the 2nd century Greek physician whose theories and practices (including the theory of bodily humors) dominated medicine in Europe from the Middle Ages until the mid-17th century. As the underdogs in this rivalry, empirics took some reputational hits, evidenced by the use of empiric to refer to someone who disregards or deviates from the rules of science or accepted practice; to be called an empiric was sometimes like being called a quack or charlatan. Empirical can still be used critically to describe ideas and practices that rely on experience or observation alone and without due regard for system or theory. But, perhaps in a bit of a case of “the Empirics strike back,” empirical more often keeps its narrower sense, and is used positively to describe evidence and information grounded in observation and experience, or capable of being verified or disproved by observation or experiment._
 
