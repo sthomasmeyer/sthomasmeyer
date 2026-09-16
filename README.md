@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-15 15:31:38 UTC_
+_Updated: 2026-09-16 15:23:42 UTC_
 
-### A Daytime Eclipse: Moon Occults Venus
+### Webb's View of M64
 
-![A Daytime Eclipse: Moon Occults Venus](https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg)
+![Webb's View of M64](https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg)
 
-There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the distance.  Captured in the single featured exposure, both appeared to show a crescent phase.  The Moon's crescent was quite slight -- with only about 10 percent of its face illuminated by the Sun. In contrast, Venus's crescent was more full -- showing about 25 percent illumination. Venus appeared brighter because it is nearer the Sun and because its clouds are more reflective than the dark lunar surface. An occultation of Venus by the Moon is visible to only about 10 percent of the Earth, but in yesterday's event even most of that was experiencing daytime.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees that dust, shown in red, as it absorbs and re-emits light from surrounding newborn stars. These young stars are embedded in pink star-forming regions in the secondary Hubble-only image. M64’s inner and outer gas regions counter-rotate, creating regions of increased star formation where the two gas “currents” meet and compress. A merger between M64 and a smaller galaxy was likely the cause of the opposing motion of the outer gas. Spiral galaxies were once thought to have peaceful histories. M64 was key evidence that spiral galaxies, including the Milky Way, can and do experience mergers. Webb’s view of M64 will tell astronomers about the structure, motion, and composition of the galaxy’s dust and add context to the galaxy’s merger history and evolution.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,41 +15,43 @@ There was something behind the clouds.  Upon close inspection, it was the Moon, 
 
 ### Dictionary.com
 
-**croquembouche** _noun_ • /[kroh-kuhm-boosh]/
+**oppidan** _adjective_ • /[op-i-duhn]/
 
-a pyramid of bite-size cream puffs coated and held in place with caramelized sugar
+of a town
 
-A croquembouche is a tall, cone-shaped dessert made by stacking small cream puffs and holding them together with caramelized sugar. This impressive French treat is traditionally served at weddings and other celebrations in place of a cake. And like a wedding cake, a croquembouche is meant to be admired before it's eaten.
+Oppidan can be used to describe anything that belongs to or is characteristic of a town. It gives a name to that in-between place that doesn't quite fit "urban" or "rural." A classic main street is the quintessential place to enjoy the oppidan life.
 
-> _The pastry chef built a magnificent croquembouche for the wedding._
+> _The long-time residents enjoy the perks of their oppidan lifestyle, such as seeing familiar faces every morning at the diner._
 
 
 ### Britannica
 
-**livid** _adjective_ • /ˈlɪvɪd/
+**magnificent** _adjective_ • //mæɡˈnɪfɪsənt//
 
-Extremely angry; furious.
+Extremely beautiful, elaborate, or impressive; splendid.
 
-> _The coach was livid after the referee's controversial call, pacing the sidelines with a flushed face._
+> _The architect's design for the new library was truly magnificent, blending modern aesthetics with classic grandeur._
 >
 
-_Similar: furious, enraged, incensed_  •  _Opposite: calm, pleased, serene_
+_Similar: splendid, grand, glorious_  •  _Opposite: unimpressive, ordinary, humble_
 
-> _"He was livid with rage, and his eyes glowed like coals."_
+> _"When the architects of our republic wrote the magnificent words of the Constitution and the Declaration of Independence, they were signing a promissory note to which every American was to fall heir."_
 >
-> — **Emily Brontë**, Wuthering Heights (1847)
+> — **Martin Luther King Jr.**, I Have a Dream (August 28, 1963)
 
 
 ### Merriam-Webster
 
-**quorum** _noun_ • /KWOR-um/
+**facsimile** _noun_ • /fak-SIM-uh-lee/
 
-A minimum number of people needed to have an official meeting
+An exact copy
 
-> _We need a quorum of fifteen staff members on the call in order to move forward with the items on the meeting agenda._
+> _The forged painting was an impressive facsimile of the original._
+>
+> _The documents can be sent by facsimile to the number below._
 >
 
-> “In Jewish law, some prayers, such as those in the morning service, can only be said communally, in a quorum of 10 Jewish adults, called a minyan.” — Yonat Shimron, NPR, 16 July 2026
+> “The installation could be read as an invocation of [Widline] Cadet’s mother’s Washington Heights apartment. … ‘For Haitian families,’ she says, ‘the living room is a sacred place.’ And yet, this is no mere facsimile of a Haitian living room. Like much of Cadet’s work, the installation, titled Altar #2, hovers between reality and fantasy.” — Elly Fishman, Vogue, 8 May 2026
 
-_It takes two drama queens to tango, three Nervous Nellies to change a lightbulb, and 218 U.S. House Representatives to constitute a formal meeting. Each of these minimums—especially the last one—may be described as a quorum. This word, which can be pluralized as quorums or quora, comes directly from the Latin word quorum, which translates as “of whom.” At one time, this Latin quorum was used in the wording of the commissions granting power to justices of the peace in England. Later, when it became an English noun, quorum initially referred to the number of justices of the peace who had to be present in order to hear a case. That sense is now rare, and today quorum is used to refer to the minimum number of people required to be present at a meeting in order for official business to take place. It can also be used more broadly to mean simply “a select group.”_
+_The facsimile machine (or fax machine) has long been an office staple, but its name is much, much older. Fac simile is a Latin phrase meaning “make alike.” English speakers began using facsimile to mean “an exact copy” in the late 1600s. In this sense, a facsimile might be a handwritten or hand-drawn copy, or even a copy of a painting or statue. (Today, we also use the phrase “a reasonable facsimile” for a copy that is fairly close but not exact.) In the 1800s, people developed facsimile technology that could reproduce printed material via telegraph. Now, of course, we use telephone lines or wireless technology, and we usually call the resulting facsimile a fax._
 
