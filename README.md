@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-16 15:23:42 UTC_
+_Updated: 2026-09-17 15:30:48 UTC_
 
-### Webb's View of M64
+### A Treasure Chest in the Carina Nebula
 
-![Webb's View of M64](https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg)
+![A Treasure Chest in the Carina Nebula](https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg)
 
-Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees that dust, shown in red, as it absorbs and re-emits light from surrounding newborn stars. These young stars are embedded in pink star-forming regions in the secondary Hubble-only image. M64’s inner and outer gas regions counter-rotate, creating regions of increased star formation where the two gas “currents” meet and compress. A merger between M64 and a smaller galaxy was likely the cause of the opposing motion of the outer gas. Spiral galaxies were once thought to have peaceful histories. M64 was key evidence that spiral galaxies, including the Milky Way, can and do experience mergers. Webb’s view of M64 will tell astronomers about the structure, motion, and composition of the galaxy’s dust and add context to the galaxy’s merger history and evolution.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+This treasure chest is full of stars.   The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pilar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away.   It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation form neighboring stars like the nearby Eta Carinae stellar system which is more luminous than 5 million suns.   The star formation inside the pillar is excavating its head, creating the open lid of the chest.     Astronomers estimate that there are about 70 stars in a compact cluster inside the pillar.   This cluster is now thought to be only around 1.3 million years old.   Its bounty of young stars includes a massive star approximately 19 times as massive as the Sun.   More massive stars are rarer, shine brighter and evolve faster than less massive stars.   They are the shiniest jewels in the treasure chest.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,43 +15,43 @@ Sometimes where Hubble finds darkness, Webb sees light. An example is today’s 
 
 ### Dictionary.com
 
-**oppidan** _adjective_ • /[op-i-duhn]/
+**whirligig** _noun_ • /[wur-li-gig]/
 
-of a town
+a toy for whirling or spinning
 
-Oppidan can be used to describe anything that belongs to or is characteristic of a town. It gives a name to that in-between place that doesn't quite fit "urban" or "rural." A classic main street is the quintessential place to enjoy the oppidan life.
+A whirligig is a toy that spins or whirls. It could be set in motion by wind, a string, or just a quick twist of the hand. Pinwheels and spinning tops are familiar examples, but the word can cover all sorts of playful contraptions. You could even make your own whirligig if you're feeling creative!
 
-> _The long-time residents enjoy the perks of their oppidan lifestyle, such as seeing familiar faces every morning at the diner._
+> _The toddler laughed as the colorful whirligig spun around and around._
 
 
 ### Britannica
 
-**magnificent** _adjective_ • //mæɡˈnɪfɪsənt//
+**all-nighter** _noun_ • /awl-NY-ter/
 
-Extremely beautiful, elaborate, or impressive; splendid.
+A night spent awake, typically working or studying, instead of sleeping.
 
-> _The architect's design for the new library was truly magnificent, blending modern aesthetics with classic grandeur._
+> _She pulled an all-nighter to finish her thesis before the deadline._
 >
 
-_Similar: splendid, grand, glorious_  •  _Opposite: unimpressive, ordinary, humble_
+_Similar: cram session, late night, sleepless night_  •  _Opposite: early night, full night's sleep, restful night_
 
-> _"When the architects of our republic wrote the magnificent words of the Constitution and the Declaration of Independence, they were signing a promissory note to which every American was to fall heir."_
+> _"He had pulled an all-nighter, trying to get the last of the reports done before the deadline, and his eyes felt like they were full of sand."_
 >
-> — **Martin Luther King Jr.**, I Have a Dream (August 28, 1963)
+> — **Stephen King**, The Stand (1978)
 
 
 ### Merriam-Webster
 
-**facsimile** _noun_ • /fak-SIM-uh-lee/
+**watershed** _noun_ • /WAW-ter-shed/
 
-An exact copy
+A crucial dividing point, line, or factor
 
-> _The forged painting was an impressive facsimile of the original._
+> _The protests marked a watershed in the nation’s history._
 >
-> _The documents can be sent by facsimile to the number below._
+> _The Continental Divide is the most well known watershed in the United States._
 >
 
-> “The installation could be read as an invocation of [Widline] Cadet’s mother’s Washington Heights apartment. … ‘For Haitian families,’ she says, ‘the living room is a sacred place.’ And yet, this is no mere facsimile of a Haitian living room. Like much of Cadet’s work, the installation, titled Altar #2, hovers between reality and fantasy.” — Elly Fishman, Vogue, 8 May 2026
+> “For thousands of years, elk would have accounted for the second largest amount of meat in the diets of many eastern peoples, after the ubiquitous whitetail deer. Not only were the animals present in the East; for thousands of years they sustained human life and were integral to Indigenous material and spiritual culture. Although they were great and skilled hunters, Native Americans in the East rarely killed all of the elk or all of the deer in an entire watershed.” — Andrew Moore, Beasts of the East: The Fall and Rise of America’s Eastern Wilderness, 2026
 
-_The facsimile machine (or fax machine) has long been an office staple, but its name is much, much older. Fac simile is a Latin phrase meaning “make alike.” English speakers began using facsimile to mean “an exact copy” in the late 1600s. In this sense, a facsimile might be a handwritten or hand-drawn copy, or even a copy of a painting or statue. (Today, we also use the phrase “a reasonable facsimile” for a copy that is fairly close but not exact.) In the 1800s, people developed facsimile technology that could reproduce printed material via telegraph. Now, of course, we use telephone lines or wireless technology, and we usually call the resulting facsimile a fax._
+_Opinion on the literal geographic meaning of watershed is divided. On one side of the debate are those who think the word can only refer to a ridge of land separating rivers and streams flowing in one direction from those flowing in the opposite direction. That’s the term’s original meaning, one probably borrowed in the translation of the German Wasserscheide. On the other side of the argument are those who think watershed can also apply to the area through which such divided water flows. The latter sense is now far more common in America, but most speakers have apparently decided to leave the quarrel to hydrologists and geographers, choosing to limit their use of watershed to its figurative “turning point” sense._
 
