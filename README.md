@@ -1,19 +1,12 @@
-# Days of September 18th Past: Rush Hour (1998)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-18 14:55:56 UTC_
+_Updated: 2026-09-19 14:20:27 UTC_
 
+### A Zodiacal Night
 
+![A Zodiacal Night](https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### Messier 33: The Triangulum Galaxy
-
-![Messier 33: The Triangulum Galaxy](https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg)
-
-The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other's grand spiral star systems. As for the view from the Milky Way, this sharp telescopic image shows off M33's blue star clusters and pinkish star forming regions along the galaxy's loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 5 o'clock position from the galaxy center. Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 meters altitude, the dark sky reserve presents a haven for hardy stargazing and astrophotography enthusiasts. While meteors streak through the night, bright planet Jupiter appears immersed in the faint zodiacal glow near the eastern horizon. Follow the zodiacal band toward the zenith to find open star cluster M44 and a yellowish tinged planet Mars near the center of the frame. In fact, serendipitous detections of interplanetary dust by NASA's Juno spacecraft suggest Mars itself is the source of dust that back scatters sunlight and creates zodiacal light in planet Earth's night.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -22,41 +15,41 @@ The small, northern constellation Triangulum harbors this magnificent face-on sp
 
 ### Dictionary.com
 
-**verecund** _adjective_ • /[ver-i-kuhnd]/
+**fabricate** _verb_ • /[fab-ri-keyt]/
 
-bashful or modest
+to fake or make up
 
-Verecund is a rare but poetic way to describe someone who's bashful or modest. It's one of many fancy synonyms for that trait, including "diffident" and "reticent." There's nothing dull about a verecund person — they're just unlikely to make themselves the center of attention.
+To fabricate is to make up something, probably with the intent of passing it off as true. Unlike an exaggeration, which stretches the truth, a fabricated detail likely never existed in the first place. If you're going to fabricate an excuse, remember that made-up details can be hard to keep straight.
 
-> _The verecund student looked down at the floor when the teacher praised her perfect test score._
+> _The accomplice decided to fabricate an elaborate story to confuse the detective._
 
 
 ### Britannica
 
-**memorabilia** _noun_
+**perforate** _verb_
 
-Objects or materials collected because they are associated with a particular event, person, or group, often kept as souvenirs.
+To make a hole or a series of holes in something.
 
-> _The museum's exhibit featured an impressive collection of rock and roll memorabilia, including guitars, stage costumes, and handwritten lyrics._
+> _The artist decided to perforate the canvas with tiny, intricate holes to create a unique texture._
 >
 
-_Similar: souvenirs, mementos, keepsakes_  •  _Opposite: ephemera, trivia_
+_Similar: pierce, puncture, bore_  •  _Opposite: seal, mend_
 
-> _"The memorabilia of the day, however, were not yet exhausted."_
+> _"The harpoon, though it had not entered far, had so effectually perforated the whale's side, that it was impossible to withdraw it."_
 >
-> — **Sir Walter Scott**, The Fair Maid of Perth (1828)
+> — **Herman Melville**, Moby Dick; or, The Whale (1851)
 
 
 ### Merriam-Webster
 
-**churlish** _adjective_ • /CHUR-lish/
+**aggrandize** _verb_ • /uh-GRAN-dyze/
 
-Impolite, rude
+To enhance the power, wealth, position, or reputation of
 
-> _I was shocked by the churlish remarks made by my opponent._
+> _Critics of the book argue that the author aggrandizes corrupt politicians._
 >
 
-> “… I think a Bob Dylan concert is fundamentally for Bob Dylan himself. You could call it churlish, but I think it’s self-assuredness, an elder’s clarity: The man has a message he needs to send, a message important enough that he’ll strip away anything that might distract from it. A Bob Dylan concert is not about what Bob Dylan’s audience wants to hear; it’s about what Bob Dylan wants to say even if he, you know, mumbles a bit.” —Jared Kaufman, The St. Paul (Minnesota) Pioneer Press, 7 July 2026
+> "... many congregants spoke of their admiration for Tsietsi. They came forward to tell stories of previous encounters with him. While some were obvious fabrications, meant to aggrandize the narrator by his association with Tsietsi, most seemed true." — Lynda Schuster, Literary Hub, 16 June 2026
 
-_In Old English, the word ceorl referred to a free peasant—someone who was neither part of the nobility nor enslaved or in debt. In Anglo-Saxon England, which lasted roughly from the 5th to 11th centuries, ceorls had many rights that peasants of lower social status did not, and a few even rose to the rank of thane, becoming a member of a kind of local nobility. However, as most ceorls were driven into the class of unfree villeins serving feudal lords over the centuries, especially following the Norman Conquest, the connotation of the word ceorl—spelled cherl in Middle English and then finally churl—diminished as well, eventually coming to mean “a lowly peasant” and later “a rude, coarse person.” Similarly, churlish began in the form ceorlisc in Old English as a simple descriptor of someone with the rank of ceorl, but today it describes a boorish person, or their rude and insensitive behavior._
+_Aggrandize is a grand word, and we don't just mean that in praise. The word literally traces back to the Latin adjective grandis, meaning "fully grown, large, great," and it has enhanced the English language for over three centuries. Nowadays, aggrandize is often paired with self, either the word or the prefix: to "aggrandize oneself" or to "be self-aggrandizing" is to glorify oneself, or to intently pursue power, wealth, and the like. It's of course great to take pride in a job well done, but we appreciate those who keep it real—after all, not every hit can be a grand slam._
 
