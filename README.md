@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-19 14:20:27 UTC_
+_Updated: 2026-09-20 14:40:14 UTC_
 
-### A Zodiacal Night
+### Analemma over the Callanish Stones
 
-![A Zodiacal Night](https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg)
+![Analemma over the Callanish Stones](https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg)
 
-Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 meters altitude, the dark sky reserve presents a haven for hardy stargazing and astrophotography enthusiasts. While meteors streak through the night, bright planet Jupiter appears immersed in the faint zodiacal glow near the eastern horizon. Follow the zodiacal band toward the zenith to find open star cluster M44 and a yellowish tinged planet Mars near the center of the frame. In fact, serendipitous detections of interplanetary dust by NASA's Juno spacecraft suggest Mars itself is the source of dust that back scatters sunlight and creates zodiacal light in planet Earth's night.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed from images taken every few days at noon near the village of Callanish in the Outer Hebrides in Scotland, UK.  In the foreground are the Callanish Stones, a stone circle built around 2700 BC during humanity's Bronze Age.  It is not known if the placement of the Callanish Stones has or had astronomical significance.  The ultimate causes for the figure-8 shape of this and all analemmas are the tilt of the Earth axis and the ellipticity of the Earth's orbit around the Sun.  At the solstices, the Sun will appear at the top or bottom of an analemma. The featured image was taken near the December solstice and so the Sun appears near the bottom.  Equinoxes, however, correspond to analemma middle points -- not the intersection point. In two days there will be an equinox ("equal night"), when day and night are equal over all of planet Earth. Many cultures celebrate a change of season at an equinox.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,41 +15,41 @@ Also known as the false dawn, a luminous band of zodiacal light is captured in t
 
 ### Dictionary.com
 
-**fabricate** _verb_ • /[fab-ri-keyt]/
+**eurhythmic** _adjective_ • /[yoo-rith-mik]/
 
-to fake or make up
+characterized by a pleasing rhythm
 
-To fabricate is to make up something, probably with the intent of passing it off as true. Unlike an exaggeration, which stretches the truth, a fabricated detail likely never existed in the first place. If you're going to fabricate an excuse, remember that made-up details can be hard to keep straight.
+Eurhythmic describes something that moves harmoniously to a pleasing rhythm. A dancer's steps may feel eurhythmic when every motion flows naturally into the next. The word can also apply beyond music and dance, wherever balance and rhythm create a satisfying sense of order.
 
-> _The accomplice decided to fabricate an elaborate story to confuse the detective._
+> _The dancers performed a eurhythmic routine in sync with the steady beat of the drums._
 
 
 ### Britannica
 
-**perforate** _verb_
+**paraphernalia** _noun_
 
-To make a hole or a series of holes in something.
+Various articles, equipment, or accessories used for a particular activity or purpose.
 
-> _The artist decided to perforate the canvas with tiny, intricate holes to create a unique texture._
+> _The detective meticulously cataloged all the artist's painting paraphernalia, from brushes to canvases, found in the studio._
 >
 
-_Similar: pierce, puncture, bore_  •  _Opposite: seal, mend_
+_Similar: equipment, gear, apparatus_
 
-> _"The harpoon, though it had not entered far, had so effectually perforated the whale's side, that it was impossible to withdraw it."_
+> _"He took a large red handkerchief from his pocket and spread it over his knees, and then, with a solemn air, drew forth a handful of crumpled papers, a tobacco-pouch, a short clay pipe, a key, a large square of tobacco, and a silver coin. 'What is all this paraphernalia?' I asked."_
 >
-> — **Herman Melville**, Moby Dick; or, The Whale (1851)
+> — **Arthur Conan Doyle**, The Adventures of Sherlock Holmes (1892)
 
 
 ### Merriam-Webster
 
-**aggrandize** _verb_ • /uh-GRAN-dyze/
+**volition** _noun_ • /voh-LISH-un/
 
-To enhance the power, wealth, position, or reputation of
+The power to make your own choices or decisions
 
-> _Critics of the book argue that the author aggrandizes corrupt politicians._
+> _Every choice I made was of my own volition and not due to outside influence._
 >
 
-> "... many congregants spoke of their admiration for Tsietsi. They came forward to tell stories of previous encounters with him. While some were obvious fabrications, meant to aggrandize the narrator by his association with Tsietsi, most seemed true." — Lynda Schuster, Literary Hub, 16 June 2026
+> “Believe it or not, a lot of people find worms in their birdbaths. … Some birds, most notably crows, like to give their food a good dunking before eating, so there’s a possibility worms in the birdbath were left by these fastidious birds. The most likely reason is that the worms crawled there on their own volition.” — Joan Morris, The Marin Independent Journal (San Rafael, California), 3 May 2026
 
-_Aggrandize is a grand word, and we don't just mean that in praise. The word literally traces back to the Latin adjective grandis, meaning "fully grown, large, great," and it has enhanced the English language for over three centuries. Nowadays, aggrandize is often paired with self, either the word or the prefix: to "aggrandize oneself" or to "be self-aggrandizing" is to glorify oneself, or to intently pursue power, wealth, and the like. It's of course great to take pride in a job well done, but we appreciate those who keep it real—after all, not every hit can be a grand slam._
+_When you do something of your own volition, you do it voluntarily, which makes sense—both volition and voluntary ultimately come from the Latin velle, meaning “to wish” or “to will.” English speakers borrowed volition from French in the 17th century, using it at first to mean “an act of choosing,” a meaning Herman Melville employed in Moby-Dick (1851): “Almost simultaneously, with a mighty volition of ungraduated, instantaneous swiftness, the White Whale darted through the weltering sea.” By then, however, the word had also developed an additional meaning, “the power to choose,” which is now more common._
 
