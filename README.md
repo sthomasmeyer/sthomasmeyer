@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-20 14:40:14 UTC_
+_Updated: 2026-09-21 16:59:19 UTC_
 
-### Analemma over the Callanish Stones
+### Cocoon Nebula Wide Field
 
-![Analemma over the Callanish Stones](https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg)
+![Cocoon Nebula Wide Field](https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg)
 
-If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed from images taken every few days at noon near the village of Callanish in the Outer Hebrides in Scotland, UK.  In the foreground are the Callanish Stones, a stone circle built around 2700 BC during humanity's Bronze Age.  It is not known if the placement of the Callanish Stones has or had astronomical significance.  The ultimate causes for the figure-8 shape of this and all analemmas are the tilt of the Earth axis and the ellipticity of the Earth's orbit around the Sun.  At the solstices, the Sun will appear at the top or bottom of an analemma. The featured image was taken near the December solstice and so the Sun appears near the bottom.  Equinoxes, however, correspond to analemma middle points -- not the intersection point. In two days there will be an equinox ("equal night"), when day and night are equal over all of planet Earth. Many cultures celebrate a change of season at an equinox.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the lower right, with a long trail of interstellar dust clouds to the left, making the entire complex appear a bit like a comet.  Cataloged as IC 5146, the central bright head of the nebula spans about 10 light years, while the dark dusty tail spans nearly 100 light years.  Both are located about 2,500 light years away.  A bright star near the colorful nebula's center likely supplies power and helps clear out a cavity.  The long dusty filaments of the tail, although dark in this visible light image, hide stars in the process of formation. The featured image was captured in July from Death Valley, California, USA.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,41 +15,41 @@ If you went outside at the same time every day and took a picture that included 
 
 ### Dictionary.com
 
-**eurhythmic** _adjective_ • /[yoo-rith-mik]/
+**whangdoodle** _noun_ • /[wang-dood-l]/
 
-characterized by a pleasing rhythm
+a fanciful creature of undefined nature
 
-Eurhythmic describes something that moves harmoniously to a pleasing rhythm. A dancer's steps may feel eurhythmic when every motion flows naturally into the next. The word can also apply beyond music and dance, wherever balance and rhythm create a satisfying sense of order.
+A whangdoodle is a creature whose appearance is left entirely to the imagination. Unlike a dragon or unicorn, there's no standard shape or defining features baked into the word. Your whangdoodle might have feathers or flippers or 300 toes, and nobody could tell you otherwise.
 
-> _The dancers performed a eurhythmic routine in sync with the steady beat of the drums._
+> _Old sailors often tell stories about a mysterious whangdoodle lurking in the bay._
 
 
 ### Britannica
 
-**paraphernalia** _noun_
+**dispenser** _noun_
 
-Various articles, equipment, or accessories used for a particular activity or purpose.
+A person or thing that distributes or supplies something.
 
-> _The detective meticulously cataloged all the artist's painting paraphernalia, from brushes to canvases, found in the studio._
+> _As a teacher, she saw herself as a dispenser of knowledge, guiding students rather than simply dictating facts._
 >
 
-_Similar: equipment, gear, apparatus_
+_Similar: distributor, supplier, provider_  •  _Opposite: receiver, collector, consumer_
 
-> _"He took a large red handkerchief from his pocket and spread it over his knees, and then, with a solemn air, drew forth a handful of crumpled papers, a tobacco-pouch, a short clay pipe, a key, a large square of tobacco, and a silver coin. 'What is all this paraphernalia?' I asked."_
+> _"God, the great dispenser of all good."_
 >
-> — **Arthur Conan Doyle**, The Adventures of Sherlock Holmes (1892)
+> — **John Milton**, Paradise Lost (1667)
 
 
 ### Merriam-Webster
 
-**volition** _noun_ • /voh-LISH-un/
+**elegiac** _adjective_ • /el-uh-JYE-ak/
 
-The power to make your own choices or decisions
+Of, relating to, or suggesting a poem or song expressing sorrow
 
-> _Every choice I made was of my own volition and not due to outside influence._
+> _The elegiac tone of the singer’s first album always leaves me in tears._
 >
 
-> “Believe it or not, a lot of people find worms in their birdbaths. … Some birds, most notably crows, like to give their food a good dunking before eating, so there’s a possibility worms in the birdbath were left by these fastidious birds. The most likely reason is that the worms crawled there on their own volition.” — Joan Morris, The Marin Independent Journal (San Rafael, California), 3 May 2026
+> “[Jacqueline] Harpman was writing in a different era, but the elegiac loneliness of her fiction anticipates our own solitary and screen-bound present. Is there anyone out there? her book seems to ask. How do I find you?” — Katy Waldman, The New Yorker, 3 Aug. 2026
 
-_When you do something of your own volition, you do it voluntarily, which makes sense—both volition and voluntary ultimately come from the Latin velle, meaning “to wish” or “to will.” English speakers borrowed volition from French in the 17th century, using it at first to mean “an act of choosing,” a meaning Herman Melville employed in Moby-Dick (1851): “Almost simultaneously, with a mighty volition of ungraduated, instantaneous swiftness, the White Whale darted through the weltering sea.” By then, however, the word had also developed an additional meaning, “the power to choose,” which is now more common._
+_As a wise man once sang, “sad songs say so much.” Just how much they say has never been definitively quantified, but it is notable that English has the perfect adjective, elegiac, to describe things that are sorrowful or nostalgic in ways that suggest poetic and musical tearjerkers. Elegiac was borrowed into English in the 15th century from the Late Latin adjective elagiacus, which in turn comes from the Greek word elegeiakos. Elegeiakos traces back to the Greek word for “elegiac couplet,” which was elegeion. It is no surprise, then, that the earliest meaning of elegiac referred to such poetic couplets. These days, of course, the word is also used to describe anything sorrowful or nostalgic. As you may have guessed, another descendant of elegeion in English is elegy, which in its oldest sense refers to a poem in elegiac couplets, and now can also refer to a somewhat broader range of laments for something or someone that is now lost._
 
