@@ -1,12 +1,19 @@
-# NASA Astronomy Picture of the Day
+# Days of September 22nd Past: Robert Lewandowski (2015)
 
-_Updated: 2026-09-21 16:59:19 UTC_
+_Updated: 2026-09-22 15:29:07 UTC_
 
-### Cocoon Nebula Wide Field
+On this day in 2015, Polish Striker, Robert Lewandowski scored 5 goals in 9 minutes for Bayern Munich in a Bundesliga match against Wolfsburg.
 
-![Cocoon Nebula Wide Field](https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg)
 
-When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the lower right, with a long trail of interstellar dust clouds to the left, making the entire complex appear a bit like a comet.  Cataloged as IC 5146, the central bright head of the nebula spans about 10 light years, while the dark dusty tail spans nearly 100 light years.  Both are located about 2,500 light years away.  A bright star near the colorful nebula's center likely supplies power and helps clear out a cavity.  The long dusty filaments of the tail, although dark in this visible light image, hide stars in the process of formation. The featured image was captured in July from Death Valley, California, USA.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+---
+
+## NASA Astronomy Picture of the Day
+
+### Chance Triple Alignment: Plane, Space Station, Sun
+
+![Chance Triple Alignment: Plane, Space Station, Sun](https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg)
+
+This shot captured an unexpected silhouette. Which is it?  It isn't the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun's bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously.  It isn’t the International Space Station (ISS), the small dark structure on the middle left.  This is because the featured picture was planned with sub-second timing to record the iconic structure passing before the Sun.  It is the airplane.  Just as this exposure was taking place in June, from Prasek in the Czech Republic, an airplane began its own miniature partial eclipse.  The result is this triply aligned image of our Sun.  The photographer estimates that the chance of any random Sun image containing silhouettes of both a space station and an airplane, from that location, is about 30 million to one.    APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -15,41 +22,41 @@ When does a nebula look like a comet?  In this crowded starfield covering over t
 
 ### Dictionary.com
 
-**whangdoodle** _noun_ • /[wang-dood-l]/
+**fainaigue** _verb_ • /[fuh-neyg]/
 
-a fanciful creature of undefined nature
+to evade work or responsibility
 
-A whangdoodle is a creature whose appearance is left entirely to the imagination. Unlike a dragon or unicorn, there's no standard shape or defining features baked into the word. Your whangdoodle might have feathers or flippers or 300 toes, and nobody could tell you otherwise.
+To fainaigue is to dodge work or shirk a responsibility. It suggests more than ordinary procrastination, since a person who fainaigues may rely on excuses or clever maneuvering to escape the task altogether. Of course, devising the perfect excuse can become almost as much of a chore as simply getting the job done.
 
-> _Old sailors often tell stories about a mysterious whangdoodle lurking in the bay._
+> _Sam always tries to fainaigue by disappearing whenever it is time to clean the kitchen._
 
 
 ### Britannica
 
-**dispenser** _noun_
+**maternal** _adjective_
 
-A person or thing that distributes or supplies something.
+Relating to a mother or motherhood, characterized by qualities associated with a mother, such as care, protection, and love.
 
-> _As a teacher, she saw herself as a dispenser of knowledge, guiding students rather than simply dictating facts._
+> _Her maternal instincts compelled her to protect the child from any perceived danger._
 >
 
-_Similar: distributor, supplier, provider_  •  _Opposite: receiver, collector, consumer_
+_Similar: motherly, nurturing, protective_  •  _Opposite: paternal, unmotherly, neglectful_
 
-> _"God, the great dispenser of all good."_
+> _"My mother's maternal affections were not confined to her own offspring, but embraced the poor and the helpless."_
 >
-> — **John Milton**, Paradise Lost (1667)
+> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
 
 
 ### Merriam-Webster
 
-**elegiac** _adjective_ • /el-uh-JYE-ak/
+**nemesis** _noun_ • /NEM-uh-siss/
 
-Of, relating to, or suggesting a poem or song expressing sorrow
+An opponent or enemy that is very difficult to defeat
 
-> _The elegiac tone of the singer’s first album always leaves me in tears._
+> _She will be playing against her old nemesis for the championship._
 >
 
-> “[Jacqueline] Harpman was writing in a different era, but the elegiac loneliness of her fiction anticipates our own solitary and screen-bound present. Is there anyone out there? her book seems to ask. How do I find you?” — Katy Waldman, The New Yorker, 3 Aug. 2026
+> "There were never any doubts about the man playing He-Man's nemesis, Skeletor. ... Frank Langella had caught Goddard's eye in 'Amadeus' on Broadway, and—buried under some impressive make-up—relished the opportunity to ham it up as Eternia's villain-in-chief." — Richard Edwards, Space.com, 12 Aug. 2026
 
-_As a wise man once sang, “sad songs say so much.” Just how much they say has never been definitively quantified, but it is notable that English has the perfect adjective, elegiac, to describe things that are sorrowful or nostalgic in ways that suggest poetic and musical tearjerkers. Elegiac was borrowed into English in the 15th century from the Late Latin adjective elagiacus, which in turn comes from the Greek word elegeiakos. Elegeiakos traces back to the Greek word for “elegiac couplet,” which was elegeion. It is no surprise, then, that the earliest meaning of elegiac referred to such poetic couplets. These days, of course, the word is also used to describe anything sorrowful or nostalgic. As you may have guessed, another descendant of elegeion in English is elegy, which in its oldest sense refers to a poem in elegiac couplets, and now can also refer to a somewhat broader range of laments for something or someone that is now lost._
+_Nemesis was the Greek goddess of vengeance, a deity who doled out rewards for noble acts and punishment for evil ones. The Greeks believed that Nemesis didn't always punish an offender immediately but might wait generations to avenge a crime. In English, nemesis originally referred to someone who brought a just retribution, but nowadays people are more likely to see simple animosity rather than justice in the actions of a nemesis._
 
