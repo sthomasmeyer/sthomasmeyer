@@ -1,19 +1,12 @@
-# Days of September 22nd Past: Robert Lewandowski (2015)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-22 15:29:07 UTC_
+_Updated: 2026-09-23 15:25:19 UTC_
 
-On this day in 2015, Polish Striker, Robert Lewandowski scored 5 goals in 9 minutes for Bayern Munich in a Bundesliga match against Wolfsburg.
+### A New Lunar Crater: McGetchin
 
+![A New Lunar Crater: McGetchin](https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg)
 
----
-
-## NASA Astronomy Picture of the Day
-
-### Chance Triple Alignment: Plane, Space Station, Sun
-
-![Chance Triple Alignment: Plane, Space Station, Sun](https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg)
-
-This shot captured an unexpected silhouette. Which is it?  It isn't the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun's bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously.  It isn’t the International Space Station (ISS), the small dark structure on the middle left.  This is because the featured picture was planned with sub-second timing to record the iconic structure passing before the Sun.  It is the airplane.  Just as this exposure was taking place in June, from Prasek in the Czech Republic, an airplane began its own miniature partial eclipse.  The result is this triply aligned image of our Sun.  The photographer estimates that the chance of any random Sun image containing silhouettes of both a space station and an airplane, from that location, is about 30 million to one.    APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captured today’s images of the lunar surface before and after the event. The resulting crater, named after Apollo-era lunar scientist McGetchin, is two soccer fields across. Craters of this size are only expected once every 132 years! Follow up thermal imaging revealed a large cold spot that surrounds the warm crater. Surface impacts will puff up the loose lunar sediment, or regolith, making it less dense and harder to retain heat. This event affected an area much larger than the visible crater, which will inform humanity’s understanding of surface impacts and the evolution of the Moon’s surface. It also reminds us all to be thankful for Earth's atmosphere.   APOD's email for image submissions has changed. Please see: APOD Submissions.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -22,41 +15,41 @@ This shot captured an unexpected silhouette. Which is it?  It isn't the sunspots
 
 ### Dictionary.com
 
-**fainaigue** _verb_ • /[fuh-neyg]/
+**frippery** _noun_ • /[frip-uh-ree]/
 
-to evade work or responsibility
+finery in dress, especially when showy, gaudy, or the like
 
-To fainaigue is to dodge work or shirk a responsibility. It suggests more than ordinary procrastination, since a person who fainaigues may rely on excuses or clever maneuvering to escape the task altogether. Of course, devising the perfect excuse can become almost as much of a chore as simply getting the job done.
+Frippery is flashy finery that's sure to draw attention — for better or worse. The word can refer to clothing loaded with ruffles, jewels, or other details that may be more showy than tasteful. But don't let labels stand in your way, because frippery can be fun!
 
-> _Sam always tries to fainaigue by disappearing whenever it is time to clean the kitchen._
+> _She arrived at the gala wearing unnecessary frippery that distracted from her natural elegance._
 
 
 ### Britannica
 
-**maternal** _adjective_
+**desolate** _adjective_
 
-Relating to a mother or motherhood, characterized by qualities associated with a mother, such as care, protection, and love.
+Lacking the people, plants, animals, or comfort that make a place feel welcome; barren or deserted.
 
-> _Her maternal instincts compelled her to protect the child from any perceived danger._
+> _After the wildfire, the once vibrant forest was a desolate expanse of charred trees and ash._
 >
 
-_Similar: motherly, nurturing, protective_  •  _Opposite: paternal, unmotherly, neglectful_
+_Similar: barren, deserted, bleak_  •  _Opposite: populated, bustling, fertile_
 
-> _"My mother's maternal affections were not confined to her own offspring, but embraced the poor and the helpless."_
+> _"It was a most dismal place; the churchyard having the wind go through it twenty times in the day, and ninety times in the night, and being altogether a most desolate place."_
 >
-> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
+> — **Charles Dickens**, Great Expectations (1861)
 
 
 ### Merriam-Webster
 
-**nemesis** _noun_ • /NEM-uh-siss/
+**compendious** _adjective_ • /kum-PEN-dee-us/
 
-An opponent or enemy that is very difficult to defeat
+Comprehensive; including many, most, or all things
 
-> _She will be playing against her old nemesis for the championship._
+> _The coveted book prize was awarded to a compendious history of environmental literature in the United States._
 >
 
-> "There were never any doubts about the man playing He-Man's nemesis, Skeletor. ... Frank Langella had caught Goddard's eye in 'Amadeus' on Broadway, and—buried under some impressive make-up—relished the opportunity to ham it up as Eternia's villain-in-chief." — Richard Edwards, Space.com, 12 Aug. 2026
+> “For much of a career that spanned decades, he pursued the oscines, or songbirds, of the Neotropics to their habitats in the Southern Hemisphere—sketching, making compendious field notes, and amassing a vast file of images that he used as a reference tool when painting the plates for definitive books …” — Guy Trebay, The Boston Globe, 26 July 2026
 
-_Nemesis was the Greek goddess of vengeance, a deity who doled out rewards for noble acts and punishment for evil ones. The Greeks believed that Nemesis didn't always punish an offender immediately but might wait generations to avenge a crime. In English, nemesis originally referred to someone who brought a just retribution, but nowadays people are more likely to see simple animosity rather than justice in the actions of a nemesis._
+_When Noah Webster titled his first dictionary, published in 1806, A Compendious Dictionary of the English Language, he used compendious to mean “short, brief, concise, summary,” as he defined it on the book's 58th page. This may come as a surprise given that compendious is now most often used to mean “comprehensive” and is applied to books, papers, etc. that are quite lengthy. But Webster’s Compendious Dictionary was no more than a preparation for his two-volume An American Dictionary of the English Language (1828), and compendious traces back to the Latin adjective compendiōsus, meaning “both comprehensive and succinct.” Webster’s title signaled that his debut word compendium would be useful, if not exhaustive. Today, however, compendious asserts comprehensiveness, typically without brevity._
 
