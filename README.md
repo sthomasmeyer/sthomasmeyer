@@ -1,19 +1,12 @@
-# Days of September 24th Past: Superforecasting (2015)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-24 15:47:28 UTC_
+_Updated: 2026-09-25 15:47:22 UTC_
 
+### Globular Cluster Omega Centauri
 
+![Globular Cluster Omega Centauri](https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### The Ghosts of Five Supernovas
-
-![The Ghosts of Five Supernovas](https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg)
-
-The ghosts of five supernovas haunt this extraordinary image.   It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the charioteer).   From left to right, the five supernova remnants visible across the field are G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0−1.7 (Sh2-240, the Spaghetti Nebula), and G178.2−4.2.   They are highlighted in the annotated image, together with open cluster M37 and the Tadpole Nebula.   As each explosion expanded into space, it created a growing shell of shocked gas and delicate filamentary structures shown in red (hydrogen) and blue (oxygen), respectively.    These ancient stellar explosions happened independently; they are at various distances up to about several thousands of light-years away from Earth and have estimated ages up to tens of thousands of years old.   Early humans may have witnessed them as bright new stars, fading over weeks or months.     APOD's email for image submissions has changed. Please see: APOD Submissions.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view.  A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.  APOD's email for image submissions has changed. Please see: APOD Submissions. APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -22,41 +15,41 @@ The ghosts of five supernovas haunt this extraordinary image.   It was acquired 
 
 ### Dictionary.com
 
-**interrobang** _noun_ • /[in-ter-uh-bang]/
+**avarice** _noun_ • /[av-er-is]/
 
-a punctuation mark (‽) that combines the question mark and exclamation point
+a greed for riches
 
-What did you just say‽ Interrobang, of course! An interrobang is a funny little punctuation mark that looks like a question mark and an exclamation point sharing the same dot. It was devised in 1962 as a way to add flourish to rhetorical questions. Who says punctuation can't be fun‽
+Avarice is an insatiable greed for wealth. The word has a bite that is stronger and more judgmental than simply wanting money. A small fortune may be enough for most people, but someone with avarice always wants more.
 
-> _Since her text message expressed both excitement and a bit of disbelief, she ended it with an interrobang._
+> _The fable warns that avarice can leave a person rich in possessions but poor in friendships._
 
 
 ### Britannica
 
-**facade** _noun_ • /fəˈsɑːd/
+**steaming** _adjective_ • //ˈstiːmɪŋ//
 
-A deceptive outward appearance or way of behaving that conceals one's true feelings or situation.
+Emitting or characterized by steam; very hot and humid.
 
-> _Despite his cheerful facade, the comedian often struggled with profound sadness behind the scenes._
+> _After the heavy rain, the asphalt was steaming under the sudden afternoon sun._
 >
 
-_Similar: pretense, guise, front_  •  _Opposite: reality, genuineness, authenticity_
+_Similar: humid, muggy, vaporous_  •  _Opposite: cool, dry, cold_
 
-> _"The beautiful facade was still there, but behind it lurked a monstrous reality."_
+> _"The air was thick, heavy, sluggish, and steaming."_
 >
-> — **Oscar Wilde**, The Picture of Dorian Gray (1890)
+> — **Joseph Conrad**, Heart of Darkness (1899)
 
 
 ### Merriam-Webster
 
-**pundit** _noun_ • /PUN-dit/
+**tactile** _adjective_ • /TAK-tul/
 
-An expert who offers opinions on a topic
+Relating to the sense of touch
 
-> _Grandpa likes watching political pundits spar about the issues of the day on the Sunday morning talk shows._
+> _With the introduction of haptics to smartphones, receiving a call from a friend became a much more tactile experience._
 >
 
-> “… fashion pundits slammed the costumes, with some likening them to fast-fashion copies of the beloved icon’s high-fashion looks.” — Booth Moore, The Wrap, 13 Feb. 2026
+> “Streaming music services are great and their recommendation engines will serve up endless new tracks for listening. But vinyl records have a tactile appeal.” — Mike Snider, USA Today, 17 Apr. 2026
 
-_It’s no hot take to say that the original pundits were highly learned scholars and teachers in India; it’s just a statement of fact. Our English word pundit comes from the Hindi word paṇḍit, a term of respect (and sometimes an honorary title) for a wise person, especially one with knowledge of philosophy, religion, and law; its ultimate source is the Sanskrit word paṇḍita, meaning “learned.” (Pandit today also increasingly refers specifically to a Hindu priest.) English speakers have used pundit to refer to sages of India since the 1600s, but as is typically done with English, they eventually pushed the word into new semantic territory. By the late 1800s, pundit could also refer to a member of what is sometimes called the commentariat or punditocracy—that is, the collective group of political commentators, financial analysts, and newspaper columnists paid to share their views on various subjects._
+_Tactile has many relatives in English, from the sometimes-synonymous tangible to familiar words like intact, tact, tangent, contingent, and even entire. All of these can be traced back to the Latin verb tangere, meaning “to touch.” Tactile was adopted by English speakers in the early 1600s (possibly by way of the French tactile) from the Latin adjective tactilis (“tangible”). In light of tactile having tangere for a touchstone, its dual senses of “perceptible by touch” and “of, relating to, or being the sense of touch” are perfectly sensible. Since the advent of film, television, and touchscreens, a new sense also appears to be developing, as tactile is increasingly used to suggest that something visual is particularly evocative or suggestive of a certain texture._
 
