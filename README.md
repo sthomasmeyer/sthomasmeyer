@@ -1,6 +1,6 @@
-# Days of September 28th Past: Pokemon Red and Blue (1998)
+# Days of September 29th Past: Enrico Fermi (1901)
 
-_Updated: 2026-09-28 18:34:01 UTC_
+_Updated: 2026-09-29 16:51:43 UTC_
 
 
 
@@ -9,11 +9,11 @@ _Updated: 2026-09-28 18:34:01 UTC_
 
 ## NASA Astronomy Picture of the Day
 
-### Cosmic Latte: The Average Color of the Universe
+### Sh2-188: The Shrimp Nebula
 
-![Cosmic Latte: The Average Color of the Universe](https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg)
+![Sh2-188: The Shrimp Nebula](https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg)
 
-What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In computer parlance: #FFF8E7.  To determine this, astronomers computationally averaged the light emitted by one of the larger samples of galaxies analyzed: the 200,000 galaxies of the 2dF Galaxy Redshift Survey.  The resulting cosmic spectrum has some emission in all parts of the electromagnetic spectrum, but a single perceived composite color.  This color has become much less blue over the past 10 billion years, indicating that redder stars are becoming more prevalent.  In a contest to better name the color, notable entries included skyvory, univeige, and the winner: cosmic latte.   APOD's email for image submissions has changed. Please see: APOD Submissions  Tomorrow: APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its outer atmosphere -- is moving unusually fast through interstellar space, creating a bow shock most visible on the upper left that is similar to a boat plowing through water.  Although faint, the  Shrimp Nebula glows also by compressing and brightening gas on its leading edge.  The featured image was taken in the light of hydrogen, sulfur, and oxygen by a backyard telescope in Krakow, Poland and then digitally adjusted to approximate the nebula's true colors.    APOD's email for image submissions has changed. Please see: APOD Submissions  APOD's main NASA site has moved: From apod.nasa.gov to science.nasa.gov/apod
 
 
 ---
@@ -22,45 +22,41 @@ What color is the universe?  More precisely, if the entire sky were smeared out,
 
 ### Dictionary.com
 
-**hoopla** _noun_ • /[hoop-lah]/
+**embosk** _verb_ • /[em-bosk]/
 
-bustling excitement or activity
+to hide or conceal with or as if with foliage, greenery, or the like
 
-Hoopla is the lively buzz that builds around an exciting event. It can accompany any occasion that gets everyone talking, such as a big celebration or a grand opening. Sometimes the hoopla is as memorable as the event itself!
+To embosk is to hide or conceal something with foliage or greenery. The word brings to mind a bench tucked behind tall hedges or a cottage wall disappearing behind climbing vines. When plants do the hiding, embosk gives the scene a poetic touch.
 
-> _All the hoopla surrounding the movie premiere drew hundreds of excited fans to the red carpet._
+> _The deer would often embosk themselves within the dense thicket to escape nearby predators._
 
 
 ### Britannica
 
-**smithereens** _noun_
+**confiscate** _verb_
 
-Tiny, fragmented pieces resulting from something being shattered or destroyed.
+To take or seize (property) from someone, often as a penalty or to enforce laws or regulations.
 
-> _The antique vase, accidentally knocked from the shelf, fell to the floor and broke into countless smithereens._
+> _The customs officer had to confiscate the undeclared goods from the traveler at the border._
 >
 
-_Similar: fragments, shards, splinters_  •  _Opposite: whole, entirety, completeness_
+_Similar: seize, appropriate, impound_  •  _Opposite: return, release, restore_
 
-> _"He'd smash the whole show into smithereens. God, I'd give anything to be back in the old country."_
+> _"Above all, a prince must abstain from taking the property of others, for men forget the death of their father sooner than the loss of their patrimony. Besides, pretexts for confiscating property are never wanting, and he who begins to live by plunder will always find pretexts for seizing what belongs to others."_
 >
-> — **James Joyce**, Ulysses (1922)
+> — **Niccolò Machiavelli**, The Prince (1532)
 
 
 ### Merriam-Webster
 
-**fungible** _adjective_ • /FUN-juh-bul/
+**argot** _noun_ • /AHR-goh/
 
-Exchangeable for something of the same kind or value
+Words used only by a particular group
 
-> _A dollar bill is considered fungible because it can easily and acceptably be traded for ten dimes, four quarters, twenty nickels, or one hundred pennies, as well as any other dollar bill._
->
-> _Since fruits and vegetables are regarded as fungible in this diet, you are allowed a total of five servings of either or both._
->
-> _Some baseball team managers set their batting orders in stone, while others prefer to keep their lineups fungible, to respond to the strengths or weaknesses of different opposing pitchers._
+> _The novels were such a success that fans began communicating in the secret argot spoken by the series’ characters._
 >
 
-> “... bitcoin is regulated differently from securities such as stocks and bonds. It’s treated as a tradable, fungible asset whose value is determined by global supply and demand.” — Becca Bratcher, Forbes, 12 Aug. 2025
+> “[Lenny] Bruce, born Leonard Alfred Schneider on Long Island, quit school at 16 and got his start telling jokes at a Brooklyn nightclub for $12 a week. … He developed his act in ... jazz joints around Southern California in the mid-1950s. He riffed in a Beatnik argot, and his act took on the flavor of improvisational jazz.” — Christopher Goffard, The Los Angeles Times, 16 Aug. 2026
 
-_Before expectations about the origins of fungible mushroom into mycological fantasy: no, fungible has no relation to the noun fungus and its plural fungi. The fungi in fungible is there because of the Latin verb fungi, meaning “to perform,” ancestor of both fungible and function. Fungible is considerably less familiar than its cousin to most English users, but it pops up like toadstools (sorry) in legal, technological, and economic contexts. Something described as fungible can be exchanged for something else of the same kind. For example, when we say “oil is a fungible commodity,” we mean that when a purchaser is expecting a delivery of oil, any oil of the stipulated quantity and quality will usually do. Another example of something fungible is cash. It doesn't matter what twenty dollar bill you get—it’s still worth the same amount as any other twenty dollar bill. In contrast, something like a work of art (or an NFT, aka a “non-fungible token”) isn’t fungible; a purchaser would expect a specific, identifiable item to be delivered. In broader use, fungible can mean “interchangeable,” or sometimes “readily changeable to adapt to new situations.”_
+_English borrowed argot from French in the early 1800s, although the language already had several words basically covering its meaning. Jargon, the Anglo-French ancestor of which meant “twittering of birds,” had been used for specialized (and often obscure or pretentious) vocabulary since the 1600s. There was also lingo, from the Latin word lingua, meaning “language”; that term had been in use for more than a century. English novelist and lawyer Henry Fielding used it of “court gibberish”—what we tend to call legalese. And speaking of legalese, the suffix -ese is a newer means of indicating specialized argot. One of its very first applications at the turn of the 20th century was for “American ‘golfese.’”_
 
