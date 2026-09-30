@@ -1,19 +1,12 @@
-# Days of September 29th Past: Enrico Fermi (1901)
+# NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-29 16:51:43 UTC_
+_Updated: 2026-09-30 16:47:57 UTC_
 
+### NASA Science
 
+![NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
-
----
-
-## NASA Astronomy Picture of the Day
-
-### Sh2-188: The Shrimp Nebula
-
-![Sh2-188: The Shrimp Nebula](https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg)
-
-What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its outer atmosphere -- is moving unusually fast through interstellar space, creating a bow shock most visible on the upper left that is similar to a boat plowing through water.  Although faint, the  Shrimp Nebula glows also by compressing and brightening gas on its leading edge.  The featured image was taken in the light of hydrogen, sulfur, and oxygen by a backyard telescope in Krakow, Poland and then digitally adjusted to approximate the nebula's true colors.    APOD's email for image submissions has changed. Please see: APOD Submissions  APOD's main NASA site has moved: From apod.nasa.gov to science.nasa.gov/apod
+Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is an enormous 200,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78's overdeveloped spiral arm is pumped-up by galactic-scale gravitational tides. Interactions with its brightest companion galaxy, the more compact NGC 770 seen directly below the larger spiral, are likely responsible. Embedded in faint star streams revealed in the deep telescopic exposure, NGC 770's fuzzy, elliptical appearance contrasts nicely with spiky foreground Milky Way stars.APOD's email for image submissions has changed. Please see: APOD Submissions.Tomorrow's picture: a harvest						
 
 
 ---
@@ -22,41 +15,41 @@ What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is s
 
 ### Dictionary.com
 
-**embosk** _verb_ • /[em-bosk]/
+**deipnosophist** _noun_ • /[dahyp-nos-uh-fist]/
 
-to hide or conceal with or as if with foliage, greenery, or the like
+a person who is an adept conversationalist while dining
 
-To embosk is to hide or conceal something with foliage or greenery. The word brings to mind a bench tucked behind tall hedges or a cottage wall disappearing behind climbing vines. When plants do the hiding, embosk gives the scene a poetic touch.
+A deipnosophist is someone who excels at conversation over a meal. The word has a distinctly old-world flavor, but the idea is familiar: A good dinner companion can keep the table lively without dominating it. A true deipnosophist knows that the best dinners depend on more than what is served.
 
-> _The deer would often embosk themselves within the dense thicket to escape nearby predators._
+> _The talented deipnosophist kept everyone at the dinner table thoroughly entertained with his fascinating stories._
 
 
 ### Britannica
 
-**confiscate** _verb_
+**consumer** _noun_
 
-To take or seize (property) from someone, often as a penalty or to enforce laws or regulations.
+A person who purchases goods and services for personal use or consumption.
 
-> _The customs officer had to confiscate the undeclared goods from the traveler at the border._
+> _The company conducted extensive market research to understand the evolving preferences of its target consumer._
 >
 
-_Similar: seize, appropriate, impound_  •  _Opposite: return, release, restore_
+_Similar: buyer, purchaser, customer_  •  _Opposite: producer, seller, vendor_
 
-> _"Above all, a prince must abstain from taking the property of others, for men forget the death of their father sooner than the loss of their patrimony. Besides, pretexts for confiscating property are never wanting, and he who begins to live by plunder will always find pretexts for seizing what belongs to others."_
+> _"Consumption is the sole end and purpose of all production; and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the consumer."_
 >
-> — **Niccolò Machiavelli**, The Prince (1532)
+> — **Adam Smith**, An Inquiry into the Nature and Causes of the Wealth of Nations (1776)
 
 
 ### Merriam-Webster
 
-**argot** _noun_ • /AHR-goh/
+**epistemic** _adjective_ • /ep-uh-STEE-mik/
 
-Words used only by a particular group
+Of or relating to knowledge or knowing
 
-> _The novels were such a success that fans began communicating in the secret argot spoken by the series’ characters._
+> _He's a brilliant teacher who has the epistemic humility to know that there is always more to learn._
 >
 
-> “[Lenny] Bruce, born Leonard Alfred Schneider on Long Island, quit school at 16 and got his start telling jokes at a Brooklyn nightclub for $12 a week. … He developed his act in ... jazz joints around Southern California in the mid-1950s. He riffed in a Beatnik argot, and his act took on the flavor of improvisational jazz.” — Christopher Goffard, The Los Angeles Times, 16 Aug. 2026
+> "Is a novel's primary purpose to entertain or to deepen our experience of being alive—to offer escape or epistemic enrichment?" — Brady Brickner-Wood, New Yorker, 8 July 2026
 
-_English borrowed argot from French in the early 1800s, although the language already had several words basically covering its meaning. Jargon, the Anglo-French ancestor of which meant “twittering of birds,” had been used for specialized (and often obscure or pretentious) vocabulary since the 1600s. There was also lingo, from the Latin word lingua, meaning “language”; that term had been in use for more than a century. English novelist and lawyer Henry Fielding used it of “court gibberish”—what we tend to call legalese. And speaking of legalese, the suffix -ese is a newer means of indicating specialized argot. One of its very first applications at the turn of the 20th century was for “American ‘golfese.’”_
+_If you're not in the know about the history of epistemic, allow us to enlighten you. The term's root is the Greek word epistḗmē, meaning "skill, expertise, knowledge,” and specifically “scientific knowledge” (as opposed to practical skill). Epistḗmē in turn comes from the verb epístamai, meaning "to have the skill, to know how, to have knowledge of, to understand." Epístamai itself combines the prefix epi-, meaning "upon" or "attached to," with the verb hístēmi, histánai, meaning "to cause to stand." (Tidbit: histánai is also an ancestor of the English words system, stand, and, of course, understand.) The study of the nature and grounds of knowledge is called epistemology, and one who engages in such study is known as an epistemologist._
 
