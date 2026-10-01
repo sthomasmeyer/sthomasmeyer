@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-09-30 16:47:57 UTC_
+_Updated: 2026-10-01 17:20:15 UTC_
 
 ### NASA Science
 
 ![NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
-Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is an enormous 200,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78's overdeveloped spiral arm is pumped-up by galactic-scale gravitational tides. Interactions with its brightest companion galaxy, the more compact NGC 770 seen directly below the larger spiral, are likely responsible. Embedded in faint star streams revealed in the deep telescopic exposure, NGC 770's fuzzy, elliptical appearance contrasts nicely with spiky foreground Milky Way stars.APOD's email for image submissions has changed. Please see: APOD Submissions.Tomorrow's picture: a harvest						
+Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is a composite photograph that shows the Moon rising as the sky turns darker. Lower clouds are reflecting the colors of antitwilight, while ash and gas from Mount Etna are seen higher in the background. The pink band lower in the sky is called the Belt of Venus. During a full moon, the Moon and the Sun are in opposition in the sky: the moon rises as the sun sets. The lunar phase cycle lasts approximately 29.5 days (but the Moon takes approximately 27 days to orbit the Earth). In some cultures of the Northern Hemisphere, the September full moon is called the Harvest Moon. Does your culture have a special name for it? (A full moon by any other name would shine as bright.)APOD's email for image submissions has changed. Please see: APOD SubmissionsAPOD's main NASA site has moved : From apod.nasa.gov to science.nasa.gov/apodTomorrow's picture: sharpless						
 
 
 ---
@@ -15,41 +15,41 @@ Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong 
 
 ### Dictionary.com
 
-**deipnosophist** _noun_ • /[dahyp-nos-uh-fist]/
+**ephemeral** _adjective_ • /[ih-fem-er-uhl]/
 
-a person who is an adept conversationalist while dining
+lasting a very short time
 
-A deipnosophist is someone who excels at conversation over a meal. The word has a distinctly old-world flavor, but the idea is familiar: A good dinner companion can keep the table lively without dominating it. A true deipnosophist knows that the best dinners depend on more than what is served.
+Some things are here today and gone tomorrow, making them truly ephemeral. Think of a bubble that's about to pop or a delicate snowflake on the verge of melting in your hand. If it's fleeting, it's ephemeral.
 
-> _The talented deipnosophist kept everyone at the dinner table thoroughly entertained with his fascinating stories._
+> _The rainbow was ephemeral, fading away just as quickly as it had appeared._
 
 
 ### Britannica
 
-**consumer** _noun_
+**smitten** _adjective_
 
-A person who purchases goods and services for personal use or consumption.
+Deeply affected by or suddenly in love with someone or something.
 
-> _The company conducted extensive market research to understand the evolving preferences of its target consumer._
+> _From the moment he heard her sing, he was utterly smitten by her talent and charm._
 >
 
-_Similar: buyer, purchaser, customer_  •  _Opposite: producer, seller, vendor_
+_Similar: enamored, infatuated, captivated_  •  _Opposite: indifferent, dispassionate, averse_
 
-> _"Consumption is the sole end and purpose of all production; and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the consumer."_
+> _"Laurie was smitten with Amy's pretty face and graceful ways, and she, being a girl, was naturally pleased to have a lover."_
 >
-> — **Adam Smith**, An Inquiry into the Nature and Causes of the Wealth of Nations (1776)
+> — **Louisa May Alcott**, Little Women (1868)
 
 
 ### Merriam-Webster
 
-**epistemic** _adjective_ • /ep-uh-STEE-mik/
+**slew** _noun_ • /SLOO/
 
-Of or relating to knowledge or knowing
+A large number
 
-> _He's a brilliant teacher who has the epistemic humility to know that there is always more to learn._
+> _The pile of junk mail included a slew of catalogs._
 >
 
-> "Is a novel's primary purpose to entertain or to deepen our experience of being alive—to offer escape or epistemic enrichment?" — Brady Brickner-Wood, New Yorker, 8 July 2026
+> “The nonalcoholic drinks category has expanded so much in recent years that it’s not uncommon to find a list of thoughtful, complex nonalcoholic beverages on a bar or restaurant’s cocktail menu—yes, even outside of the major cities. And it’s even easier to enjoy alcohol-free beverages at home thanks to a slew of brands making really good alcohol alternatives that you can order online and have delivered directly to your door.” — Carina Finn and Emily Farris, Bon Appétit, 31 Dec. 2025
 
-_If you're not in the know about the history of epistemic, allow us to enlighten you. The term's root is the Greek word epistḗmē, meaning "skill, expertise, knowledge,” and specifically “scientific knowledge” (as opposed to practical skill). Epistḗmē in turn comes from the verb epístamai, meaning "to have the skill, to know how, to have knowledge of, to understand." Epístamai itself combines the prefix epi-, meaning "upon" or "attached to," with the verb hístēmi, histánai, meaning "to cause to stand." (Tidbit: histánai is also an ancestor of the English words system, stand, and, of course, understand.) The study of the nature and grounds of knowledge is called epistemology, and one who engages in such study is known as an epistemologist._
+_Slew appeared as an American colloquialism in the early 19th century. Its origins are unclear, but it may have come from the Irish word slua, a descendant of slúag, an Old Irish word meaning “army,” “host,” or “throng.” Indeed, the earliest known uses of slew appear in a martial context, from a historical novel by Daniel Pierce Thompson about Vermont and the Green Mountain Boys, a militia organized in Vermont during the American Revolution. In one scene, one of the Boys tells leader Ethan Allen that “there’s more than a hundred slew of men coming!” Later, British General Burgoyne is said to have “drawn up a whole slew of cannon.” But despite this early military setting, slew is not limited to troops or artillery; a slew of data shows the word describing nearly anything existing in abundance._
 
