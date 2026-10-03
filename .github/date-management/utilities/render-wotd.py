@@ -59,15 +59,23 @@ def format_examples(sentences: list[str]) -> list[str]:
     return lines
 
 
+def get_str(d: dict, key: str, default: str = "") -> str:
+    """Safely get a string value from a dictionary, handling None/null values."""
+    val = d.get(key)
+    if val is None:
+        return default
+    return str(val).strip()
+
+
 def format_source_section(item: dict) -> list[str]:
     """Format a single dictionary entry based on its source-specific schema."""
     lines: list[str] = []
 
-    source: str = item.get("source", "Word of the Day").strip()
-    word: str = item.get("word", "").strip()
-    pos: str = item.get("partOfSpeech", "").strip()
-    pronunciation: str = item.get("pronunciation", "").strip()
-    definition: str = item.get("definition", "").strip()
+    source: str = get_str(item, "source", "Word of the Day")
+    word: str = get_str(item, "word")
+    pos: str = get_str(item, "partOfSpeech")
+    pronunciation: str = get_str(item, "pronunciation")
+    definition: str = get_str(item, "definition")
 
     # Section heading
     lines.append(f"### {source}")
@@ -90,8 +98,8 @@ def format_source_section(item: dict) -> list[str]:
 
     # Source-specific enrichment
     if source == "Dictionary.com":
-        explanation: str = item.get("explanation", "").strip()
-        example: str = item.get("example", "").strip()
+        explanation: str = get_str(item, "explanation")
+        example: str = get_str(item, "example")
 
         if explanation:
             lines.append(explanation)
@@ -109,8 +117,8 @@ def format_source_section(item: dict) -> list[str]:
             lines.append("")
 
         # Synonyms and Antonyms
-        synonyms: list[str] = item.get("synonyms") or []
-        antonyms: list[str] = item.get("antonyms") or []
+        synonyms: list[str] = [s.strip() for s in (item.get("synonyms") or []) if s and str(s).strip()]
+        antonyms: list[str] = [a.strip() for a in (item.get("antonyms") or []) if a and str(a).strip()]
 
         lex_parts: list[str] = []
         if synonyms:
@@ -124,10 +132,10 @@ def format_source_section(item: dict) -> list[str]:
 
         # Enrichment quote
         enrichment: dict = item.get("enrichment") or {}
-        quote: str = enrichment.get("quote", "").strip()
-        author: str = enrichment.get("author", "").strip()
-        context_source: str = enrichment.get("source", "").strip()
-        pub_date: str = str(enrichment.get("publicationDate", "")).strip()
+        quote: str = get_str(enrichment, "quote")
+        author: str = get_str(enrichment, "author")
+        context_source: str = get_str(enrichment, "source")
+        pub_date: str = get_str(enrichment, "publicationDate")
 
         if quote and author:
             lines.append(f"> _\"{quote}\"_")
@@ -147,12 +155,12 @@ def format_source_section(item: dict) -> list[str]:
             lines.extend(ex_lines)
             lines.append("")
 
-        in_context: str = item.get("inContext", "").strip()
+        in_context: str = get_str(item, "inContext")
         if in_context:
             lines.append(f"> {in_context}")
             lines.append("")
 
-        did_you_know: str = item.get("didYouKnow", "").strip()
+        did_you_know: str = get_str(item, "didYouKnow")
         if did_you_know:
             lines.append(f"_{did_you_know}_")
             lines.append("")
