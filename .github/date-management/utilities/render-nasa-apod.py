@@ -78,11 +78,11 @@ def render_apod(target_file: str) -> None:
     if not item:
         return
 
-    title: str = item.get("title", "NASA Astronomy Picture of the Day").strip()
-    media_type: str = item.get("media_type", "image").lower()
+    title: str = (item.get("title") or "NASA Astronomy Picture of the Day").strip()
+    media_type: str = (item.get("media_type") or "image").lower()
     image_url: str = (item.get("hdurl") or item.get("url") or "").strip()
     permalink: str = (item.get("permalink") or item.get("url") or "").strip()
-    raw_explanation: str = item.get("explanation", "")
+    raw_explanation: str = item.get("explanation") or ""
     explanation: str = clean_html_explanation(raw_explanation)
 
     # Check whether the target staging file already has content (e.g. Notable Date leads)
