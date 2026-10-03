@@ -1,44 +1,44 @@
 # Words of the Day
 
-_Updated: 2026-10-02 16:36:29 UTC_
+_Updated: 2026-10-03 15:07:36 UTC_
 
 ### Dictionary.com
 
-**behindhand** _adverb_ • /[bih-hahynd-hand]/
+**swashbuckler** _noun_ • /[swosh-buhk-ler]/
 
-late; tardy
+a swaggering swordsman, soldier, or adventurer
 
-If you've ever fallen behind on a deadline or arrived late to an appointment, you've found yourself behindhand. The word dates back to the 16th century and is thought to have developed as a counterpart to "beforehand." While "beforehand" is comfortably early, behindhand is decidedly not.
+A swashbuckler is someone who leaps into an adventure with their trusty weapon at the ready. While you won't find very many swashbucklers in real life, you're bound to encounter them in films and books. These romantic daredevils make for charming characters — and they pave the way for plenty of drama.
 
-> _Because of the heavy traffic, I arrived behindhand for my meeting._
+> _The swashbuckler swung from the ship's rigging with his sword drawn._
 
 
 ### Britannica
 
-**tailor** _verb_ • //ˈteɪlər//
+**flexible** _adjective_
 
-To make or adapt something to suit a particular need or purpose.
+Capable of bending easily without breaking; also, adaptable and able to adjust readily to new conditions or circumstances.
 
-> _The software developer had to tailor the application's features to meet the specific requirements of the client._
+> _The company's new policy is quite flexible, allowing employees to choose their work hours within certain parameters._
 >
 
-_Similar: customize, adapt, modify_  •  _Opposite: standardize, generalize_
+_Similar: pliable, supple, adaptable_  •  _Opposite: rigid, inflexible, stiff_
 
-> _"I have always been of the opinion that a man who desires to get on in the world should be prepared to tailor his ambitions to the opportunities that present themselves."_
+> _"The mind is like a parachute. It works best when it's open."_
 >
-> — **P.G. Wodehouse**, Leave It to Psmith (1923)
+> — **Attributed to Frank Zappa**, Often attributed to Frank Zappa, though its exact origin is debated and it appears in various forms. (20th Century)
 
 
 ### Merriam-Webster
 
-**heterodox** _adjective_ • /HET-uh-ruh-dahks/
+**tittle** _noun_ • /TITT-ul/
 
-Not agreeing with established beliefs or standards
+A very small part or amount
 
-> _The two new faculty members' heterodox approach to teaching science initially met with some resistance from their peers._
+> _There is not a jot or tittle of evidence to support their claims._
 >
 
-> “The result is what researchers call the ‘spiral of silence’ (Noelle-Neumann, 1974), which describes the process by which dissenters go quiet, fearing social backlash; this, in turn, makes other dissenters feel even more alone, producing a false consensus that further suppresses dissent. The group appears unanimous, and everyone with a heterodox view assumes they’re the only one.” —  The Open Therapy Institute, Psychology Today, 22 June 2026
+> "First-class engineering allows the listener to savour every sonic jot and tittle." — Clive Paget, The Guardian (London), 13 Feb. 2026
 
-_Hot take: individuals often see other people’s ideas as unconventional while regarding their own as common sense. On second thought, this take may be more on the mild side—in other words, closer to orthodox (“conventional”) insight about human nature than to heterodox (“unconventional” or “contrary”) opinion. Both orthodox and heterodox developed from the same root, the Greek doxa, meaning “opinion.” Heterodox combines doxa with heter-, a combining form meaning “other” or “different”; orthodox pairs doxa with orth-, meaning “correct” or “straight.”_
+_When most of us dot our i's and cross our t's, our minds are with the words we are writing rather than the anatomy of the letters we employ. But those dots and crosses? The types who love type have names for them. The mark that sits above the lowercase i (as well as j) is known as a "tittle". Tittle comes from the Medieval Latin noun titulus, meaning "title," and has also been used over the centuries for diacritical marks including tildes, as well as any small mark or sign in writing or printing—hence the figurative use of tittle to refer to a very small part of something. For those curious about additional letter components, stroke refers to one of the lines that form a letter, including the horizontal lines that mark the lowercase letters t and f (which may be described more specifically as a "cross strokes"). Typographers even have a word for the negative space enclosed by strokes, such as the hole in the letter o: it's known as a “counter.”_
 
