@@ -3,10 +3,10 @@
 
 source .github/date-management/utilities/gen-notable-date-header.sh
 
-output_file="README.md"
+output_file="${1:-${TARGET_FILE:-README.md}}"
 date="04-29"
-networks_image_path=".github/date-management/april/images/centralized-decentralized-and-distributed-networks.webp"
-world_wide_web_proposal_image_path=".github/date-management/april/images/tim-berners-lee-world-wide-web-proposal-page-one.jpg"
+networks_image_path=".github/date-management/bash-scripts/april/images/centralized-decentralized-and-distributed-networks.webp"
+world_wide_web_proposal_image_path=".github/date-management/bash-scripts/april/images/tim-berners-lee-world-wide-web-proposal-page-one.jpg"
 
 gen_notable_date_header "$date" "$output_file"
 
