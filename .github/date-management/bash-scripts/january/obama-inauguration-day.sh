@@ -3,7 +3,7 @@
 
 source .github/date-management/utilities/gen-notable-date-header.sh
 
-output_file="README.md"
+output_file="${1:-${TARGET_FILE:-README.md}}"
 date="01-20"
 image_path=".github/date-management/bash-scripts/january/images/barack-obama.webp"
 
