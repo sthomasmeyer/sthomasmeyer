@@ -1,12 +1,14 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-03 22:44:17 UTC_
+_Updated: 2026-10-04 15:46:14 UTC_
 
-### Selfie at Vera Rubin Ridge
+### Supernumerary Rainbows over New Jersey
 
-![Selfie at Vera Rubin Ridge](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg?w=1600&h=800&fit=clip&crop=faces%2Cfocalpoint)
+![Supernumerary Rainbows over New Jersey](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=1362&h=1920&fit=clip&crop=faces%2Cfocalpoint)
 
-On sol 1943 of its journey of exploration across the surface of Mars, the Curiosity Rover recorded this selfie at the south rim of Vera Rubin Ridge. Of course a sol is a Martian solar day, about 40 minutes longer than an Earth day. Curiosity's sol 1943 corresponds to Earth date January 23, 2018. Also composed as an interactive 360 degree VR, the mosaicked panorama combines 61 exposures taken by the small car-sized rover's Mars Hand Lens Imager (MAHLI). Frames containing the imager's arm have been edited out while the extended background used was taken by the rover's Mastcam on sol 1903. At the top of the rover's mast, sitting above the Mastcam, the laser-firing ChemCam housing blocks out the distant, 5 kilometer high peak of Mount Sharp. On Earth date August 26, 2026, Curiosity marked an total elevation gain of 1 kilometer in its trek from the floor of Gale Crater up the slope of Mount Sharp.
+Yes, but can your rainbow do this? After the remnants of Hurricane Florence passed over the Jersey Shore, New Jersey, USA in 2018, the Sun came out in one direction but something quite unusual appeared in the opposite direction: a hall of rainbows. Over the course of the next half hour, to the delight of the photographer and his daughter, vibrant supernumerary rainbows faded in and out, with at least five captured in this featured single shot. Supernumerary rainbows only form when falling water droplets are all nearly the same size and typically less than a millimeter across. Then, sunlight will not only reflect from inside the raindrops, but interfere, a wave phenomenon similar to ripples on a pond when a stone is thrown in. In fact, supernumerary rainbows can only be explained with waves, and their noted existence in the early 1800s was considered early evidence of light's wave nature.
+
+Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
 
 
 ---
@@ -15,36 +17,38 @@ On sol 1943 of its journey of exploration across the surface of Mars, the Curios
 
 ### Dictionary.com
 
-**swashbuckler** _noun_ • /[swosh-buhk-ler]/
+**spagyric** _adjective_ • /[spuh-jeer-ik]/
 
-a swaggering swordsman, soldier, or adventurer
+pertaining to or resembling alchemy
 
-A swashbuckler is someone who leaps into an adventure with their trusty weapon at the ready. While you won't find very many swashbucklers in real life, you're bound to encounter them in films and books. These romantic daredevils make for charming characters — and they pave the way for plenty of drama.
+Something that's spagyric resembles alchemy. Thought to be coined by the physician and alchemist Paracelsus, it involves purifying substances by separating, extracting, and recombining them. You won't find spagyric remedies at your doctor's office, but the term offers a glimpse into the alchemical roots of early medicine.
 
-> _The swashbuckler swung from the ship's rigging with his sword drawn._
+> _The ancient healer mixed herbal extracts using spagyric techniques to create a magical elixir._
 
 ### Britannica
 
-**flexible** _adjective_
+**uniformity** _noun_
 
-Capable of bending easily without breaking; also, adaptable and able to adjust readily to new conditions or circumstances.
+The quality or state of being uniform or identical; sameness throughout.
 
-> _The company's new policy is quite flexible, allowing employees to choose their work hours within certain parameters._
+> _The architect aimed for a sense of calm and order through the uniformity of the building's facade._
 
-_Similar: pliable, supple, adaptable_  •  _Opposite: rigid, inflexible, stiff_
+_Similar: sameness, consistency, homogeneity_  •  _Opposite: diversity, variation, heterogeneity_
 
-> _"The mind is like a parachute. It works best when it's open."_
+> _"The more simple any thing is, the less liable it is to be disordered, and the easier repaired when disordered; and with this maxim in view, I offer a few remarks on the present state of American affairs, and propose a plan for a general uniformity of government."_
 >
-> — **Attributed to Frank Zappa**, Often attributed to Frank Zappa, though its exact origin is debated and it appears in various forms. (20th Century)
+> — **Thomas Paine**, Common Sense (1776)
 
 ### Merriam-Webster
 
-**tittle** _noun_ • /TITT-ul/
+**adventitious** _adjective_ • /ad-ven-TISH-us/
 
-A very small part or amount
+Coming from an outside source, and neither inherent nor innate
 
-> _There is not a jot or tittle of evidence to support their claims._
+> _The house is like a museum—beautifully restored, full of period pieces, and with no adventitious elements in view._
+>
+> _The bumps growing along the stem of the tomato plants are adventitious roots._
 
-> "First-class engineering allows the listener to savour every sonic jot and tittle." — Clive Paget, The Guardian (London), 13 Feb. 2026
+> “Although individual [creosote bush] plants have a lifespan of 30-90 years, adventitious shoots grow up from roots. These develop into new plants, clones of the original, that form a ring around the spot where the original plant stood.” — Joshua Siskin, The Orange County (California) Register, 5 July 2025
 
-_When most of us dot our i's and cross our t's, our minds are with the words we are writing rather than the anatomy of the letters we employ. But those dots and crosses? The types who love type have names for them. The mark that sits above the lowercase i (as well as j) is known as a "tittle". Tittle comes from the Medieval Latin noun titulus, meaning "title," and has also been used over the centuries for diacritical marks including tildes, as well as any small mark or sign in writing or printing—hence the figurative use of tittle to refer to a very small part of something. For those curious about additional letter components, stroke refers to one of the lines that form a letter, including the horizontal lines that mark the lowercase letters t and f (which may be described more specifically as a "cross strokes"). Typographers even have a word for the negative space enclosed by strokes, such as the hole in the letter o: it's known as a “counter.”_
+_Early in Charlotte Brontë's novel Jane Eyre, the titular Jane ascertains that her new employer, Mr. Rochester, whom she thinks is decidedly not handsome, has "other qualities, intrinsic or adventitious" that "atone for the lack of mere personal attractiveness." We all possess intrinsic and adventitious qualities—the former, we're born with, and the latter we gain through life's lessons. English speakers anglicized the Latin word adventīcius in the early 17th century to apply it with its Latin meaning: "coming from outside; external, foreign." The word still carries this meaning primarily, but by the close of the 17th century it was also being used, especially in botany, to describe that which arises or occurs sporadically or in other than the usual location, as when adventitious roots appear where roots generally are not found._
