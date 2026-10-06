@@ -1,14 +1,14 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-04 15:46:14 UTC_
+_Updated: 2026-10-06 17:08:26 UTC_
 
-### Supernumerary Rainbows over New Jersey
+### A Complete Auroral Oval from SMILE
 
-![Supernumerary Rainbows over New Jersey](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=1362&h=1920&fit=clip&crop=faces%2Cfocalpoint)
+![A Complete Auroral Oval from SMILE](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Smile_s_first_ultraviolet_footage_shows_auroral_substorm-1.jpeg?w=512&h=512&fit=clip&crop=faces%2Cfocalpoint)
 
-Yes, but can your rainbow do this? After the remnants of Hurricane Florence passed over the Jersey Shore, New Jersey, USA in 2018, the Sun came out in one direction but something quite unusual appeared in the opposite direction: a hall of rainbows. Over the course of the next half hour, to the delight of the photographer and his daughter, vibrant supernumerary rainbows faded in and out, with at least five captured in this featured single shot. Supernumerary rainbows only form when falling water droplets are all nearly the same size and typically less than a millimeter across. Then, sunlight will not only reflect from inside the raindrops, but interfere, a wave phenomenon similar to ripples on a pond when a stone is thrown in. In fact, supernumerary rainbows can only be explained with waves, and their noted existence in the early 1800s was considered early evidence of light's wave nature.
+Have you ever seen a complete auroral oval? You can't see one from the ground because it makes too large a circle around one of Earth's magnetic poles. But spacecraft high above the Earth can see them. The featured video from ESA and CAS's robotic SMILE spacecraft shows not only a full auroral oval, but using ultraviolet light, one that occurred during the day. The time-lapse covers about an hour in late July and shows visually how variable and turbulent auroras really are. The points of light on the sides are distant stars that appear to move only because SMILE's camera view shifts as the spacecraft orbits the Earth. A goal of SMILE is to better understand how the Sun's wind interacts with the Earth's magnetosphere -- and so better understand how to protect astronauts, spacecraft, and ground-based electrical grids from solar storms.
 
-Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+Tomorrow's picture: a spokey image
 
 
 ---
@@ -17,38 +17,36 @@ Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
 
 ### Dictionary.com
 
-**spagyric** _adjective_ • /[spuh-jeer-ik]/
+**lateritious** _adjective_ • /[lat-uh-rish-uhs]/
 
-pertaining to or resembling alchemy
+of the color of brick; brick-red
 
-Something that's spagyric resembles alchemy. Thought to be coined by the physician and alchemist Paracelsus, it involves purifying substances by separating, extracting, and recombining them. You won't find spagyric remedies at your doctor's office, but the term offers a glimpse into the alchemical roots of early medicine.
+A brick wall on a sunny afternoon can take on a distinctive reddish hue, making lateritious a fitting word for its color. Think terracotta tiles, brick-colored pottery, or anything else with that warm, earthy look. Talk about a word with a solid foundation!
 
-> _The ancient healer mixed herbal extracts using spagyric techniques to create a magical elixir._
+> _The building's lateritious brickwork stood out against the green vines._
 
 ### Britannica
 
-**uniformity** _noun_
+**smorgasbord** _noun_ • /SMOR-guhs-bord/
 
-The quality or state of being uniform or identical; sameness throughout.
+A diverse collection or mixture of many different things.
 
-> _The architect aimed for a sense of calm and order through the uniformity of the building's facade._
+> _The festival offered a smorgasbord of cultural performances, from traditional dances to modern art installations._
 
-_Similar: sameness, consistency, homogeneity_  •  _Opposite: diversity, variation, heterogeneity_
+_Similar: assortment, medley, variety_  •  _Opposite: uniformity, singularity, homogeneity_
 
-> _"The more simple any thing is, the less liable it is to be disordered, and the easier repaired when disordered; and with this maxim in view, I offer a few remarks on the present state of American affairs, and propose a plan for a general uniformity of government."_
+> _"The smörgåsbord is a meal in itself, a veritable feast of many courses, each dish a temptation. It is a tradition that has been handed down through generations, a symbol of Swedish hospitality and culinary art."_
 >
-> — **Thomas Paine**, Common Sense (1776)
+> — **Anna Olsson Coombs**, The Smörgåsbord (1938)
 
 ### Merriam-Webster
 
-**adventitious** _adjective_ • /ad-ven-TISH-us/
+**regimen** _noun_ • /REJ-uh-mun/
 
-Coming from an outside source, and neither inherent nor innate
+A plan or set of rules to make someone become or stay healthy
 
-> _The house is like a museum—beautifully restored, full of period pieces, and with no adventitious elements in view._
->
-> _The bumps growing along the stem of the tomato plants are adventitious roots._
+> _Sherry’s personal trainer started her on a workout regimen of 30 minutes on the treadmill followed by 30 minutes of weight training._
 
-> “Although individual [creosote bush] plants have a lifespan of 30-90 years, adventitious shoots grow up from roots. These develop into new plants, clones of the original, that form a ring around the spot where the original plant stood.” — Joshua Siskin, The Orange County (California) Register, 5 July 2025
+> "The last step in a great antiaging skin care regimen is, of course, sunscreen." — Alanna Martine Kilkeary, Glamour, 27 Apr. 2026
 
-_Early in Charlotte Brontë's novel Jane Eyre, the titular Jane ascertains that her new employer, Mr. Rochester, whom she thinks is decidedly not handsome, has "other qualities, intrinsic or adventitious" that "atone for the lack of mere personal attractiveness." We all possess intrinsic and adventitious qualities—the former, we're born with, and the latter we gain through life's lessons. English speakers anglicized the Latin word adventīcius in the early 17th century to apply it with its Latin meaning: "coming from outside; external, foreign." The word still carries this meaning primarily, but by the close of the 17th century it was also being used, especially in botany, to describe that which arises or occurs sporadically or in other than the usual location, as when adventitious roots appear where roots generally are not found._
+_Being but humble lexicographers, we cannot say whether an apple a day truly keeps the doctor away, but as far as regimens go, one could do a lot worse than snackin' on a McIntosh. Regimen, which usually refers to a system of rules or guidelines—often for living a healthy life or taking a regular dose of exercise—comes ultimately from a Latin verb, regere, meaning "to direct." Regere led in apple-pie order to the English word regimen, first by way of the Latin noun regimen, meaning "steering" or "control," and then via the Medieval Latin regimen, referring to a set of rules. Other regere descendants fell further from the tree, including correct, erect, region, rule, and surge. Be sure not to confuse regimen with regiment, which refers to a military unit, as doing so could upset the apple cart._
