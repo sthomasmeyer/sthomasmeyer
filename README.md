@@ -1,14 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-06 17:08:26 UTC_
+_Updated: 2026-10-07 17:46:09 UTC_
 
-### A Complete Auroral Oval from SMILE
+### Supernova Remnant Pa 30
 
-![A Complete Auroral Oval from SMILE](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Smile_s_first_ultraviolet_footage_shows_auroral_substorm-1.jpeg?w=512&h=512&fit=clip&crop=faces%2Cfocalpoint)
+![Supernova Remnant Pa 30](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg?w=3233&h=3429&fit=clip&crop=faces%2Cfocalpoint)
 
-Have you ever seen a complete auroral oval? You can't see one from the ground because it makes too large a circle around one of Earth's magnetic poles. But spacecraft high above the Earth can see them. The featured video from ESA and CAS's robotic SMILE spacecraft shows not only a full auroral oval, but using ultraviolet light, one that occurred during the day. The time-lapse covers about an hour in late July and shows visually how variable and turbulent auroras really are. The points of light on the sides are distant stars that appear to move only because SMILE's camera view shifts as the spacecraft orbits the Earth. A goal of SMILE is to better understand how the Sun's wind interacts with the Earth's magnetosphere -- and so better understand how to protect astronauts, spacecraft, and ground-based electrical grids from solar storms.
-
-Tomorrow's picture: a spokey image
+"Happy New Year!" No, wait, this is not a fireworks display. This image shows Nebula Pa 30, observed with the Gemini North Telescope in Hawai'i. It is likely the remnant of an old supernova explosion: separate historical records by Chinese, Japanese and Arabic astronomers tell of a "guest star" that appeared in the sky for 185 days in the year 1181. It is believed that this bright new point of light came from the supernova that caused the fireworks in Pa 30. Astronomers don't know exactly what happened in this unusual explosion, classified as a Type Iax supernova, but it is thought to be caused by the merger of two white dwarfs. The mysterious central star in the image is extremely hot and produces a strong wind, possibly forming the radial filaments. Look closely at them: those pearl-like knots stringing the filaments are 4 light-days in diameter. Understanding how a supernova created this amazing nebula continues an 845-year old mystery (and counting).
 
 
 ---
@@ -17,36 +15,38 @@ Tomorrow's picture: a spokey image
 
 ### Dictionary.com
 
-**lateritious** _adjective_ • /[lat-uh-rish-uhs]/
+**axiom** _noun_ • /[ak-see-uhm]/
 
-of the color of brick; brick-red
+a self-evident truth that requires no proof
 
-A brick wall on a sunny afternoon can take on a distinctive reddish hue, making lateritious a fitting word for its color. Think terracotta tiles, brick-colored pottery, or anything else with that warm, earthy look. Talk about a word with a solid foundation!
+An axiom is a statement accepted as true without needing to be proved. The word comes from a Greek term meaning "something worthy" and is commonly used in logic, philosophy, and mathematics. When it comes to axioms, the truth speaks for itself.
 
-> _The building's lateritious brickwork stood out against the green vines._
+> _In mathematics, "the shortest distance between two points is a straight line" is often treated as an axiom._
 
 ### Britannica
 
-**smorgasbord** _noun_ • /SMOR-guhs-bord/
+**commemorate** _verb_
 
-A diverse collection or mixture of many different things.
+To honor or remember an important event, person, or occasion with a ceremony or celebration.
 
-> _The festival offered a smorgasbord of cultural performances, from traditional dances to modern art installations._
+> _The annual parade serves to commemorate the city's founding and its rich history._
 
-_Similar: assortment, medley, variety_  •  _Opposite: uniformity, singularity, homogeneity_
+_Similar: celebrate, honor, observe_  •  _Opposite: forget, disregard, neglect_
 
-> _"The smörgåsbord is a meal in itself, a veritable feast of many courses, each dish a temptation. It is a tradition that has been handed down through generations, a symbol of Swedish hospitality and culinary art."_
+> _"Let it be remembered, that the result of the deliberations of all these conventions, was the Constitution of the United States of America; and that this important instrument, which it was their principal object to commemorate, is now submitted to the free consideration of their country."_
 >
-> — **Anna Olsson Coombs**, The Smörgåsbord (1938)
+> — **James Madison**, The Federalist Papers, No. 14 (November 30, 1787)
 
 ### Merriam-Webster
 
-**regimen** _noun_ • /REJ-uh-mun/
+**discreet** _adjective_ • /dih-SKREET/
 
-A plan or set of rules to make someone become or stay healthy
+Careful about not allowing something to be known or noticed
 
-> _Sherry’s personal trainer started her on a workout regimen of 30 minutes on the treadmill followed by 30 minutes of weight training._
+> _She was always very discreet about her personal life._
+>
+> _A photographer followed the singer at a discreet distance._
 
-> "The last step in a great antiaging skin care regimen is, of course, sunscreen." — Alanna Martine Kilkeary, Glamour, 27 Apr. 2026
+> “Expectations surrounding their nuptials were high. But the couple opted for a discreet ceremony that took place in Cascais, Portugal, in complete privacy.” — Ahad Sanwari, Hello Magazine, 13 Aug. 2026
 
-_Being but humble lexicographers, we cannot say whether an apple a day truly keeps the doctor away, but as far as regimens go, one could do a lot worse than snackin' on a McIntosh. Regimen, which usually refers to a system of rules or guidelines—often for living a healthy life or taking a regular dose of exercise—comes ultimately from a Latin verb, regere, meaning "to direct." Regere led in apple-pie order to the English word regimen, first by way of the Latin noun regimen, meaning "steering" or "control," and then via the Medieval Latin regimen, referring to a set of rules. Other regere descendants fell further from the tree, including correct, erect, region, rule, and surge. Be sure not to confuse regimen with regiment, which refers to a military unit, as doing so could upset the apple cart._
+_If you’ve ever mixed up discreet and discrete, you’re not alone. Which to use when writing is tricky to discern, given their identical pronunciation and shared etymology; both terms (and their relatives discern and certain) ultimately trace back to the Latin verb cernere, meaning “to sift, discern, decide, determine.” Yet despite these similarities, the words have separate—one might even say discrete—meanings. Something or someone described as discreet, with double e's, is unlikely to be known, seen, or noticed by many people (as in “found a discreet way to handle the problem”). Discrete, with its separate e's, describes things that are separate and different from each other (as in “a process broken down into a number of discrete steps”). A handy mnemonic for remembering which is which can be found in those e's: the t in discrete separates the two e’s._
