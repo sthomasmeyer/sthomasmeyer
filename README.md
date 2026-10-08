@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-07 17:46:09 UTC_
+_Updated: 2026-10-08 17:50:08 UTC_
 
-### Supernova Remnant Pa 30
+### The Saturn System Smörgåsbord
 
-![Supernova Remnant Pa 30](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg?w=3233&h=3429&fit=clip&crop=faces%2Cfocalpoint)
+![The Saturn System Smörgåsbord](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png?w=2296&h=1500&fit=clip&crop=faces%2Cfocalpoint)
 
-"Happy New Year!" No, wait, this is not a fireworks display. This image shows Nebula Pa 30, observed with the Gemini North Telescope in Hawai'i. It is likely the remnant of an old supernova explosion: separate historical records by Chinese, Japanese and Arabic astronomers tell of a "guest star" that appeared in the sky for 185 days in the year 1181. It is believed that this bright new point of light came from the supernova that caused the fireworks in Pa 30. Astronomers don't know exactly what happened in this unusual explosion, classified as a Type Iax supernova, but it is thought to be caused by the merger of two white dwarfs. The mysterious central star in the image is extremely hot and produces a strong wind, possibly forming the radial filaments. Look closely at them: those pearl-like knots stringing the filaments are 4 light-days in diameter. Understanding how a supernova created this amazing nebula continues an 845-year old mystery (and counting).
+How was the Saturn system imaged so clearly? Astrophotographer Tom Williams captured such exquisite details due to one night of exceptional atmospheric conditions above the United Kingdom. This means more than a cloudless sky. Pockets of air at different temperatures and densities move around and bend light as it travels through Earth’s atmosphere, distorting astronomy images. This is called “seeing.” Less atmospheric turbulence means clearer images. The astrophotographer reduced the impact of seeing with the lucky imaging technique: thousands of short-exposure images are taken very quickly with a high-speed camera and the clearest images are added up. Which object in this smörgåsbord interests you? Perhaps Titan or the icy stripes of Enceladus? Maybe the gaps and spokes in Saturn’s rings? Saturn's opposition, when Earth passes in between the planet and the Sun, occurred on October 4th. Due to the planet's proximity and full illumination from the Sun, now is a great time of year to observe it!
 
 
 ---
@@ -15,38 +15,36 @@ _Updated: 2026-10-07 17:46:09 UTC_
 
 ### Dictionary.com
 
-**axiom** _noun_ • /[ak-see-uhm]/
+**neologize** _verb_ • /[nee-ol-uh-jahyz]/
 
-a self-evident truth that requires no proof
+to make up or use new words
 
-An axiom is a statement accepted as true without needing to be proved. The word comes from a Greek term meaning "something worthy" and is commonly used in logic, philosophy, and mathematics. When it comes to axioms, the truth speaks for itself.
+Have you ever come up with a new word and tried to get your friends to use it? That's neologizing! Every language needs new words to keep up with new ideas, inventions, and trends. So go ahead and neologize. Who knows — your word might catch on and end up in the dictionary someday!
 
-> _In mathematics, "the shortest distance between two points is a straight line" is often treated as an axiom._
+> _Writers may neologize to describe new technology that lacks existing terms in the dictionary._
 
 ### Britannica
 
-**commemorate** _verb_
+**spectacular** _adjective_
 
-To honor or remember an important event, person, or occasion with a ceremony or celebration.
+Causing wonder and admiration; very impressive.
 
-> _The annual parade serves to commemorate the city's founding and its rich history._
+> _The aurora borealis put on a truly spectacular display, painting the night sky with vibrant greens and purples._
 
-_Similar: celebrate, honor, observe_  •  _Opposite: forget, disregard, neglect_
+_Similar: impressive, breathtaking, magnificent_  •  _Opposite: ordinary, unremarkable, dull_
 
-> _"Let it be remembered, that the result of the deliberations of all these conventions, was the Constitution of the United States of America; and that this important instrument, which it was their principal object to commemorate, is now submitted to the free consideration of their country."_
+> _"The only spectacular thing about the house was the fact that it was a faithful copy of some Hôtel de Ville in Normandy."_
 >
-> — **James Madison**, The Federalist Papers, No. 14 (November 30, 1787)
+> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
 
 ### Merriam-Webster
 
-**discreet** _adjective_ • /dih-SKREET/
+**etiquette** _noun_ • /ET-ih-kut/
 
-Careful about not allowing something to be known or noticed
+Rules or customs that dictate what behavior is acceptable
 
-> _She was always very discreet about her personal life._
->
-> _A photographer followed the singer at a discreet distance._
+> _Her failure to respond to the invitation was a serious breach of etiquette._
 
-> “Expectations surrounding their nuptials were high. But the couple opted for a discreet ceremony that took place in Cascais, Portugal, in complete privacy.” — Ahad Sanwari, Hello Magazine, 13 Aug. 2026
+> “My first interaction with The Real Housewives franchise happened sometime in 2015, when my partner became hooked on the show. I had just begun work on what I expected to be a big and research-heavy multi-generational family novel, and all I could hear was a chorus of accusations about who said what to whom, who lied to whom, and who hadn’t followed the correct etiquette at a charity event.” — Saleen Haddad, Literary Hub, 24 Feb. 2026
 
-_If you’ve ever mixed up discreet and discrete, you’re not alone. Which to use when writing is tricky to discern, given their identical pronunciation and shared etymology; both terms (and their relatives discern and certain) ultimately trace back to the Latin verb cernere, meaning “to sift, discern, decide, determine.” Yet despite these similarities, the words have separate—one might even say discrete—meanings. Something or someone described as discreet, with double e's, is unlikely to be known, seen, or noticed by many people (as in “found a discreet way to handle the problem”). Discrete, with its separate e's, describes things that are separate and different from each other (as in “a process broken down into a number of discrete steps”). A handy mnemonic for remembering which is which can be found in those e's: the t in discrete separates the two e’s._
+_If you’re looking for a polite topic of conversation to raise at your next gathering of word lovers, we’ve got just the ticket. The French word étiquette means “ticket”; its direct French ancestor also referred to a label attached to something for description or identification. Spaniards of the 16th-century adopted the French word (altering it to etiqueta), and used it to refer to the written protocols describing the behavior demanded of those who appeared at court. Eventually, etiqueta came to be applied to the court ceremonies themselves as well as to the documents which outlined their requirements. Word of this linguistic development got back to the French, who then expanded their word’s meaning to include “proper court behavior” along with its “label” sense. By the middle of the 18th century English speakers had taken on etiquette as their own, applying it to the rules that indicate the proper and polite way to behave, whether in the presence of royalty or not._
