@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-08 17:50:08 UTC_
+_Updated: 2026-10-09 17:24:46 UTC_
 
-### The Saturn System Smörgåsbord
+### Stickney Crater
 
-![The Saturn System Smörgåsbord](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png?w=2296&h=1500&fit=clip&crop=faces%2Cfocalpoint)
+![Stickney Crater](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg?w=1836&h=1362&fit=clip&crop=faces%2Cfocalpoint)
 
-How was the Saturn system imaged so clearly? Astrophotographer Tom Williams captured such exquisite details due to one night of exceptional atmospheric conditions above the United Kingdom. This means more than a cloudless sky. Pockets of air at different temperatures and densities move around and bend light as it travels through Earth’s atmosphere, distorting astronomy images. This is called “seeing.” Less atmospheric turbulence means clearer images. The astrophotographer reduced the impact of seeing with the lucky imaging technique: thousands of short-exposure images are taken very quickly with a high-speed camera and the clearest images are added up. Which object in this smörgåsbord interests you? Perhaps Titan or the icy stripes of Enceladus? Maybe the gaps and spokes in Saturn’s rings? Saturn's opposition, when Earth passes in between the planet and the Sun, occurred on October 4th. Due to the planet's proximity and full illumination from the Sun, now is a great time of year to observe it!
+Stickney Crater, the largest crater on the martian moon Phobos, is named for Chloe Angeline Stickney Hall, mathematician and wife of astronomer Asaph Hall. Asaph Hall discovered both the Red Planet's moons in 1877. Over 9 kilometers across, Stickney is nearly half the diameter of Phobos itself, so large that the impact that blasted out the crater likely came close to shattering the tiny moon. This enhanced-color image of Stickney and surroundings was recorded by the HiRISE camera onboard the Mars Reconnaissance Orbiter as it passed within some six thousand kilometers of Phobos in March of 2008. Even though the surface gravity of asteroid-like Phobos is less than 1/1000th Earth's gravity, streaks suggest loose material slid down inside the crater walls over time. Light bluish regions near the crater's rim could indicate a relatively freshly exposed surface. The origin of the curious grooves along the surface is mysterious but may be related to tidal stresses experienced by close-orbiting Phobos or the crater-forming impact itself.
 
 
 ---
@@ -15,36 +15,36 @@ How was the Saturn system imaged so clearly? Astrophotographer Tom Williams capt
 
 ### Dictionary.com
 
-**neologize** _verb_ • /[nee-ol-uh-jahyz]/
+**bellyache** _verb_ • /[bel-ee-eyk]/
 
-to make up or use new words
+to complain or grumble
 
-Have you ever come up with a new word and tried to get your friends to use it? That's neologizing! Every language needs new words to keep up with new ideas, inventions, and trends. So go ahead and neologize. Who knows — your word might catch on and end up in the dictionary someday!
+A bellyache can be more than an upset stomach; as a verb, it refers to complaining. Kids might bellyache about doing their homework, while adults might bellyache about having to remind their kids to do their homework. No matter your age, there's always something to bellyache about.
 
-> _Writers may neologize to describe new technology that lacks existing terms in the dictionary._
+> _He began to bellyache about the long line at the grocery store._
 
 ### Britannica
 
-**spectacular** _adjective_
+**tousle** _verb_ • /ˈtaʊzəl/
 
-Causing wonder and admiration; very impressive.
+To make (especially hair) untidy or disheveled by ruffling or rumpling.
 
-> _The aurora borealis put on a truly spectacular display, painting the night sky with vibrant greens and purples._
+> _The playful puppy loved to tousle the children's hair with its wet nose._
 
-_Similar: impressive, breathtaking, magnificent_  •  _Opposite: ordinary, unremarkable, dull_
+_Similar: dishevel, ruffle, rumple_  •  _Opposite: smooth, comb, tidy_
 
-> _"The only spectacular thing about the house was the fact that it was a faithful copy of some Hôtel de Ville in Normandy."_
+> _"He got up, and went to the open door and stood there, looking out. The wind was blowing, and it began to tousle his hair."_
 >
-> — **F. Scott Fitzgerald**, The Great Gatsby (1925)
+> — **Mark Twain**, The Adventures of Tom Sawyer (1876)
 
 ### Merriam-Webster
 
-**etiquette** _noun_ • /ET-ih-kut/
+**inscrutable** _adjective_ • /in-SKROO-tuh-bul/
 
-Rules or customs that dictate what behavior is acceptable
+Difficult to understand
 
-> _Her failure to respond to the invitation was a serious breach of etiquette._
+> _His professor wore an inscrutable expression throughout the oral exam._
 
-> “My first interaction with The Real Housewives franchise happened sometime in 2015, when my partner became hooked on the show. I had just begun work on what I expected to be a big and research-heavy multi-generational family novel, and all I could hear was a chorus of accusations about who said what to whom, who lied to whom, and who hadn’t followed the correct etiquette at a charity event.” — Saleen Haddad, Literary Hub, 24 Feb. 2026
+> "The paper makes significant progress on an unresolved aspect of the inscrutable math equation that determines how the primes are distributed along the number line." —  Joseph Howlett, Scientific American, 12 Aug. 2026
 
-_If you’re looking for a polite topic of conversation to raise at your next gathering of word lovers, we’ve got just the ticket. The French word étiquette means “ticket”; its direct French ancestor also referred to a label attached to something for description or identification. Spaniards of the 16th-century adopted the French word (altering it to etiqueta), and used it to refer to the written protocols describing the behavior demanded of those who appeared at court. Eventually, etiqueta came to be applied to the court ceremonies themselves as well as to the documents which outlined their requirements. Word of this linguistic development got back to the French, who then expanded their word’s meaning to include “proper court behavior” along with its “label” sense. By the middle of the 18th century English speakers had taken on etiquette as their own, applying it to the rules that indicate the proper and polite way to behave, whether in the presence of royalty or not._
+_Scrutinizing the inscrutable may be futile: even close scrutiny can fail to decipher it. Scrutinizing the scrutable, on the other hand, is likely to yield some understanding. All of these scrut- words have the same Latin root: scrutari, meaning "to search or examine." While scrutiny, scrutinize, and inscrutable all prove themselves useful in everyday discourse, English speakers don’t tend to call much on scrutable, which functions as a synonym of comprehensible._
