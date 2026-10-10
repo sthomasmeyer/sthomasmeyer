@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-09 17:24:46 UTC_
+_Updated: 2026-10-10 16:12:09 UTC_
 
-### Stickney Crater
+### Lunar Farside
 
-![Stickney Crater](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg?w=1836&h=1362&fit=clip&crop=faces%2Cfocalpoint)
+![Lunar Farside](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=1600&h=1600&fit=clip&crop=faces%2Cfocalpoint)
 
-Stickney Crater, the largest crater on the martian moon Phobos, is named for Chloe Angeline Stickney Hall, mathematician and wife of astronomer Asaph Hall. Asaph Hall discovered both the Red Planet's moons in 1877. Over 9 kilometers across, Stickney is nearly half the diameter of Phobos itself, so large that the impact that blasted out the crater likely came close to shattering the tiny moon. This enhanced-color image of Stickney and surroundings was recorded by the HiRISE camera onboard the Mars Reconnaissance Orbiter as it passed within some six thousand kilometers of Phobos in March of 2008. Even though the surface gravity of asteroid-like Phobos is less than 1/1000th Earth's gravity, streaks suggest loose material slid down inside the crater walls over time. Light bluish regions near the crater's rim could indicate a relatively freshly exposed surface. The origin of the curious grooves along the surface is mysterious but may be related to tidal stresses experienced by close-orbiting Phobos or the crater-forming impact itself.
+Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is centered on the lunar farside. Part of a global mosaic of over 15,000 images acquired between November 2009 and February 2011, the highest resolution version shows features at a scale of 100 meters per pixel. Surprisingly, the rough and battered surface of the farside looks very different from the nearside covered with smooth dark lunar maria. A likely explanation is that the farside crust is thicker, making it harder for molten material from the interior to flow to the surface and form dark, smooth maria.
 
 
 ---
@@ -15,36 +15,36 @@ Stickney Crater, the largest crater on the martian moon Phobos, is named for Chl
 
 ### Dictionary.com
 
-**bellyache** _verb_ • /[bel-ee-eyk]/
+**algid** _adjective_ • /[al-jid]/
 
-to complain or grumble
+cold or chilly
 
-A bellyache can be more than an upset stomach; as a verb, it refers to complaining. Kids might bellyache about doing their homework, while adults might bellyache about having to remind their kids to do their homework. No matter your age, there's always something to bellyache about.
+Algid describes something cold or frosty. You won't hear the word much today, but you were more likely to encounter it in the 1800s. So if you find yourself reaching for a coat — and an old-fashioned way to describe the cold — algid might be just the word.
 
-> _He began to bellyache about the long line at the grocery store._
+> _She shivered uncontrollably after stepping out into the algid winter wind._
 
 ### Britannica
 
-**tousle** _verb_ • /ˈtaʊzəl/
+**mastermind** _noun_
 
-To make (especially hair) untidy or disheveled by ruffling or rumpling.
+A person who plans and organizes a complex undertaking, especially one that is ingenious or illicit.
 
-> _The playful puppy loved to tousle the children's hair with its wet nose._
+> _The brilliant scientist was the mastermind behind the groundbreaking new energy source._
 
-_Similar: dishevel, ruffle, rumple_  •  _Opposite: smooth, comb, tidy_
+_Similar: planner, architect, orchestrator_  •  _Opposite: follower, subordinate, pawn_
 
-> _"He got up, and went to the open door and stood there, looking out. The wind was blowing, and it began to tousle his hair."_
+> _"He was the Napoleon of crime, Watson. He was the organizer of half that is evil and of nearly all that is undetected in this great city. He was the mastermind, the genius who sat motionless and watched the great web of crime."_
 >
-> — **Mark Twain**, The Adventures of Tom Sawyer (1876)
+> — **Arthur Conan Doyle**, The Return of Sherlock Holmes (1905)
 
 ### Merriam-Webster
 
-**inscrutable** _adjective_ • /in-SKROO-tuh-bul/
+**Luddite** _noun_ • /LUH-dyte/
 
-Difficult to understand
+Someone opposed to technological change
 
-> _His professor wore an inscrutable expression throughout the oral exam._
+> _My friends call me a Luddite for refusing to use chat bots._
 
-> "The paper makes significant progress on an unresolved aspect of the inscrutable math equation that determines how the primes are distributed along the number line." —  Joseph Howlett, Scientific American, 12 Aug. 2026
+> “Today, a Luddite is your grandparent who keeps looking at the screen rather than the camera when on Zoom, the Boomer who types in all-capital letters, the grouchy man who refuses to get a smart phone, the professor spewing invective against Twitter, Facebook, and TikTok. … But the Luddites weren’t simple-minded primitives who objected to technology out of ignorance; they were dedicated craftsmen in the looming guilds who despised the shoddy craftsmanship of the mechanized contraptions replacing them, and of those same machines robbing them of their livelihoods.” — Ed Simon, Writing During the Apocalypse: Reflections on the Great Unraveling, 2026
 
-_Scrutinizing the inscrutable may be futile: even close scrutiny can fail to decipher it. Scrutinizing the scrutable, on the other hand, is likely to yield some understanding. All of these scrut- words have the same Latin root: scrutari, meaning "to search or examine." While scrutiny, scrutinize, and inscrutable all prove themselves useful in everyday discourse, English speakers don’t tend to call much on scrutable, which functions as a synonym of comprehensible._
+_Long before your Luddite friend was waxing poetic about how blissful it is to not have a smartphone, Luddites were protesting the textile machinery that was gradually replacing them. It was toward the end of 1811, in the vicinity of Nottingham, England, when handicraftsmen formed organized bands and began to riot for the destruction of the new machinery. Their name is of uncertain origin, but it may be connected to a (probably mythical) person named Ned Ludd. According to an unsubstantiated account in George Pellew's Life of Lord Sidmouth (1847), Ned Ludd was a Leicestershire villager of the late 1700s who, in a fit of rage, rushed into a stocking weaver's house and destroyed his equipment; subsequently, Ludd's name was proverbially connected with machinery destruction. With the onset of the information age, Luddite gained a broader sense describing anyone who shuns new technology._
