@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-10 16:12:09 UTC_
+_Updated: 2026-10-11 16:37:10 UTC_
 
-### Lunar Farside
+### Ice Fishing for Cosmic Neutrinos
 
-![Lunar Farside](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=1600&h=1600&fit=clip&crop=faces%2Cfocalpoint)
+![Ice Fishing for Cosmic Neutrinos](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg?w=0&h=0&fit=clip&crop=faces%2Cfocalpoint)
 
-Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is centered on the lunar farside. Part of a global mosaic of over 15,000 images acquired between November 2009 and February 2011, the highest resolution version shows features at a scale of 100 meters per pixel. Surprisingly, the rough and battered surface of the farside looks very different from the nearside covered with smooth dark lunar maria. A likely explanation is that the farside crust is thicker, making it harder for molten material from the interior to flow to the surface and form dark, smooth maria.
+Scientists are melting holes in the bottom of the world. In fact, almost 100 holes melted near the South Pole are now being used as an astronomical observatory. Astronomers with the IceCube Neutrino Observatory lowered a long string knotted with basketball-sized light detectors into each vertical lake. The water in each hole soon refreezes. The detectors attached to the strings are sensitive to blue light emitted in the surrounding clear ice. Such light results from fast-moving secondary particles liberated when high-energy neutrinos emitted by powerful processes out in the universe collide with ice molecules. IceCube has now detected many illuminating neutrinos. Pictured in 2010, one of the last of IceCube's detector strings is lowered into the freezing abyss, making IceCube the largest neutrino detector ever created. In recognition of unprecedented discoveries, it was announced earlier this week that a founding leader of the IceCube Collaboration will be awarded the Nobel Prize in Physics.
 
 
 ---
@@ -15,36 +15,36 @@ Tidally locked in synchronous rotation, the Moon always presents its familiar ne
 
 ### Dictionary.com
 
-**algid** _adjective_ • /[al-jid]/
+**picayune** _adjective_ • /[pik-ee-yoon]/
 
-cold or chilly
+trifling, small, or of little value
 
-Algid describes something cold or frosty. You won't hear the word much today, but you were more likely to encounter it in the 1800s. So if you find yourself reaching for a coat — and an old-fashioned way to describe the cold — algid might be just the word.
+Calling something picayune means it's trivial or of little value. The word originally referred to a small Spanish coin used in the American South and later developed its figurative sense of something small or trifling. Today, you might use it to describe a minor complaint or petty concern. In other words, if it's picayune, it's probably not worth making a big deal about.
 
-> _She shivered uncontrollably after stepping out into the algid winter wind._
+> _Why squabble over such picayune details when we have much bigger problems to solve?_
 
 ### Britannica
 
-**mastermind** _noun_
+**disperse** _verb_ • /dɪˈspɜːrs/
 
-A person who plans and organizes a complex undertaking, especially one that is ingenious or illicit.
+To scatter or spread widely, or to cause to go or move in different directions.
 
-> _The brilliant scientist was the mastermind behind the groundbreaking new energy source._
+> _The sudden downpour caused the picnickers to quickly disperse, seeking shelter under nearby trees._
 
-_Similar: planner, architect, orchestrator_  •  _Opposite: follower, subordinate, pawn_
+_Similar: scatter, spread, dissipate_  •  _Opposite: gather, collect, assemble_
 
-> _"He was the Napoleon of crime, Watson. He was the organizer of half that is evil and of nearly all that is undetected in this great city. He was the mastermind, the genius who sat motionless and watched the great web of crime."_
+> _"The wind began to rise, and to disperse the clouds, and to show the moon, which had been hidden for some time."_
 >
-> — **Arthur Conan Doyle**, The Return of Sherlock Holmes (1905)
+> — **Mary Shelley**, Frankenstein (1818)
 
 ### Merriam-Webster
 
-**Luddite** _noun_ • /LUH-dyte/
+**galore** _adjective_ • /guh-LOR/
 
-Someone opposed to technological change
+In large numbers or amounts
 
-> _My friends call me a Luddite for refusing to use chat bots._
+> _The store promises bargains galore on Black Friday._
 
-> “Today, a Luddite is your grandparent who keeps looking at the screen rather than the camera when on Zoom, the Boomer who types in all-capital letters, the grouchy man who refuses to get a smart phone, the professor spewing invective against Twitter, Facebook, and TikTok. … But the Luddites weren’t simple-minded primitives who objected to technology out of ignorance; they were dedicated craftsmen in the looming guilds who despised the shoddy craftsmanship of the mechanized contraptions replacing them, and of those same machines robbing them of their livelihoods.” — Ed Simon, Writing During the Apocalypse: Reflections on the Great Unraveling, 2026
+> “The rest of the home is filled with what Josh calls ‘love stuff,’ like an entire wall of family pictures, his mother’s recipe box, random heirlooms, and artwork galore, including his grandfather’s acid etching prints and three-dimensional pieces made by his mother … who worked in wood and papier-mâché.” — Meg McConahey, The Mercury News (San Jose, California), 1 July 2026
 
-_Long before your Luddite friend was waxing poetic about how blissful it is to not have a smartphone, Luddites were protesting the textile machinery that was gradually replacing them. It was toward the end of 1811, in the vicinity of Nottingham, England, when handicraftsmen formed organized bands and began to riot for the destruction of the new machinery. Their name is of uncertain origin, but it may be connected to a (probably mythical) person named Ned Ludd. According to an unsubstantiated account in George Pellew's Life of Lord Sidmouth (1847), Ned Ludd was a Leicestershire villager of the late 1700s who, in a fit of rage, rushed into a stocking weaver's house and destroyed his equipment; subsequently, Ludd's name was proverbially connected with machinery destruction. With the onset of the information age, Luddite gained a broader sense describing anyone who shuns new technology._
+_Galore means “in large numbers or amounts,” making it a synonym of useful words like abundant and plentiful. But its charm lies not in its meaning but in its sound and syntax. Galore doesn’t sound like familiar Germanic or Latinate words, and for good reason—it’s one of a small number of Irish borrowings, coming from go leor, meaning “enough.” It also takes an odd position in phrases: it’s used postpositively, which means that it follows the word or words it modifies. First defined in one our dictionaries way back in 1864, the word was for many years obscure and a bit of a conundrum. Limited evidence of the word in use, along with its unusual syntax, led to some editorial back-and-forth about whether galore was an adjective or adverb; one can see how in a phrase like “someone who has money galore” galore might have been interpreted as modifying the verb have rather than the noun money. But by the seventh edition of our Collegiate dictionary, published in 1963, enough evidence had accumulated to confidently declare galore an adjective. If you’re curious about the Great Galore Grammar Debate, this article has information galore._
