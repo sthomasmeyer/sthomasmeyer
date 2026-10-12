@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-11 16:37:10 UTC_
+_Updated: 2026-10-12 20:14:10 UTC_
 
-### Ice Fishing for Cosmic Neutrinos
+### Jupiter and the Moons
 
-![Ice Fishing for Cosmic Neutrinos](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg?w=0&h=0&fit=clip&crop=faces%2Cfocalpoint)
+![Jupiter and the Moons](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/JupiterMoons_Upreti_3105.jpg?w=0&h=0&fit=clip&crop=faces%2Cfocalpoint)
 
-Scientists are melting holes in the bottom of the world. In fact, almost 100 holes melted near the South Pole are now being used as an astronomical observatory. Astronomers with the IceCube Neutrino Observatory lowered a long string knotted with basketball-sized light detectors into each vertical lake. The water in each hole soon refreezes. The detectors attached to the strings are sensitive to blue light emitted in the surrounding clear ice. Such light results from fast-moving secondary particles liberated when high-energy neutrinos emitted by powerful processes out in the universe collide with ice molecules. IceCube has now detected many illuminating neutrinos. Pictured in 2010, one of the last of IceCube's detector strings is lowered into the freezing abyss, making IceCube the largest neutrino detector ever created. In recognition of unprecedented discoveries, it was announced earlier this week that a founding leader of the IceCube Collaboration will be awarded the Nobel Prize in Physics.
+How many moons can you see? The best answer is five: four orbiting Jupiter and Luna orbiting Earth. This multi-moon picture was possible because Earth's Moon moved directly in front of Jupiter last week. The featured image is a series of exposures near alignment taken from Westchester, New York, USA. The sunlit crescent of Earth's Moon, on the lower left, is overexposed, while the Moon's night side, on the upper right, is faintly illuminated by Earthshine. Lined up nearly vertically above our Moon, listed from bottom to top, are Jupiter's bright Galilean satellites: Ganymede, Io, Callisto, and Europa. Callisto, Ganymede, and Io are larger than Earth's Moon, while Europa is only slightly smaller. NASA's robotic spacecraft Juno is currently orbiting Jupiter and has made close passes near three of these moons.
 
 
 ---
@@ -15,36 +15,36 @@ Scientists are melting holes in the bottom of the world. In fact, almost 100 hol
 
 ### Dictionary.com
 
-**picayune** _adjective_ • /[pik-ee-yoon]/
+**Promethean** _adjective_ • /[pruh-mee-thee-uhn]/
 
-trifling, small, or of little value
+creative or boldly original
 
-Calling something picayune means it's trivial or of little value. The word originally referred to a small Spanish coin used in the American South and later developed its figurative sense of something small or trifling. Today, you might use it to describe a minor complaint or petty concern. In other words, if it's picayune, it's probably not worth making a big deal about.
+Something Promethean is wildly innovative or groundbreaking. Think of a new invention that changes the game, turning what once seemed impossible into reality. With a Promethean idea, you might just be able to change the world for the better.
 
-> _Why squabble over such picayune details when we have much bigger problems to solve?_
+> _Her Promethean spirit inspired a revolutionary design that transformed the entire tech industry._
 
 ### Britannica
 
-**disperse** _verb_ • /dɪˈspɜːrs/
+**parallel** _verb_
 
-To scatter or spread widely, or to cause to go or move in different directions.
+To be similar or equal to something; to correspond closely in nature, character, or development.
 
-> _The sudden downpour caused the picnickers to quickly disperse, seeking shelter under nearby trees._
+> _Her unwavering dedication to her craft truly parallels that of the great masters, inspiring all who witness her work._
 
-_Similar: scatter, spread, dissipate_  •  _Opposite: gather, collect, assemble_
+_Similar: match, correspond, resemble_  •  _Opposite: differ, diverge, contrast_
 
-> _"The wind began to rise, and to disperse the clouds, and to show the moon, which had been hidden for some time."_
+> _"For though the nature of a Commonwealth be to be one, yet in the same body, there may be many members, whose actions may cross and interrupt one another, and whose motions may not only not parallel, but even contradict, the motion of the whole."_
 >
-> — **Mary Shelley**, Frankenstein (1818)
+> — **Thomas Hobbes**, Leviathan (1651)
 
 ### Merriam-Webster
 
-**galore** _adjective_ • /guh-LOR/
+**nexus** _noun_ • /NEK-sus/
 
-In large numbers or amounts
+A relationship or connection between people or things
 
-> _The store promises bargains galore on Black Friday._
+> _The cultural district serves as a nexus for art and cuisine._
 
-> “The rest of the home is filled with what Josh calls ‘love stuff,’ like an entire wall of family pictures, his mother’s recipe box, random heirlooms, and artwork galore, including his grandfather’s acid etching prints and three-dimensional pieces made by his mother … who worked in wood and papier-mâché.” — Meg McConahey, The Mercury News (San Jose, California), 1 July 2026
+> “The eclectic costume design by Ryan Matthieu Smith suggests Eastern Europe at the nexus of the Middle Ages and the Renaissance: loosely fitting frocks and vests, layered and embroidered, and hats in myriad geometric shapes ...” — Manuel Mendoza, The Dallas Morning News, 1 Mar. 2026
 
-_Galore means “in large numbers or amounts,” making it a synonym of useful words like abundant and plentiful. But its charm lies not in its meaning but in its sound and syntax. Galore doesn’t sound like familiar Germanic or Latinate words, and for good reason—it’s one of a small number of Irish borrowings, coming from go leor, meaning “enough.” It also takes an odd position in phrases: it’s used postpositively, which means that it follows the word or words it modifies. First defined in one our dictionaries way back in 1864, the word was for many years obscure and a bit of a conundrum. Limited evidence of the word in use, along with its unusual syntax, led to some editorial back-and-forth about whether galore was an adjective or adverb; one can see how in a phrase like “someone who has money galore” galore might have been interpreted as modifying the verb have rather than the noun money. But by the seventh edition of our Collegiate dictionary, published in 1963, enough evidence had accumulated to confidently declare galore an adjective. If you’re curious about the Great Galore Grammar Debate, this article has information galore._
+_If you’re unfamiliar with the word nexus, the popular, long-running video game series The Legend of Zelda provides an object lesson in its several definitions. When nexus came into English from Latin in the 17th century, it meant “connection” or “link.” Eventually, people began using it to refer to a connected group or series of things, as in “a nexus of relationships.” In recent decades it has taken on a third meaning, “center” or “hub,” perhaps from the notion that a point in the center of an arrangement serves to join together the objects that surround it. Now, one might plausibly say that the 20 Zelda games (not counting remakes and spin-offs) themselves form a nexus, as each represents an installment in a long, twisty saga with numerous echoes and callbacks to other games in the series. Most of these feature the fictional land of Hyrule, which often presents magical nexuses to shadowy alternate dimensions (1991’s A Link to the Past), the past (2011’s Skyward Sword), or the underworld (2023’s Tears of the Kingdom) that the hero, Link (ahem) must traverse. As for nexus’s third meaning, Hyrule’s map is nearly always situated around a central nexus, or hub, in the form of the castle where the titular Zelda lives. (If you’re into gaming or curious about its lingo, don’t miss the article “Popular Gaming Terms Explained”)._
