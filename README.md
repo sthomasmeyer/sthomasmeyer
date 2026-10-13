@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-12 20:14:10 UTC_
+_Updated: 2026-10-13 18:10:14 UTC_
 
-### Jupiter and the Moons
+### Desert Stairway to Heaven
 
-![Jupiter and the Moons](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/JupiterMoons_Upreti_3105.jpg?w=0&h=0&fit=clip&crop=faces%2Cfocalpoint)
+![Desert Stairway to Heaven](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Stairway2Heaven_Looten_6750.jpg?w=6750&h=9000&fit=clip&crop=faces%2Cfocalpoint)
 
-How many moons can you see? The best answer is five: four orbiting Jupiter and Luna orbiting Earth. This multi-moon picture was possible because Earth's Moon moved directly in front of Jupiter last week. The featured image is a series of exposures near alignment taken from Westchester, New York, USA. The sunlit crescent of Earth's Moon, on the lower left, is overexposed, while the Moon's night side, on the upper right, is faintly illuminated by Earthshine. Lined up nearly vertically above our Moon, listed from bottom to top, are Jupiter's bright Galilean satellites: Ganymede, Io, Callisto, and Europa. Callisto, Ganymede, and Io are larger than Earth's Moon, while Europa is only slightly smaller. NASA's robotic spacecraft Juno is currently orbiting Jupiter and has made close passes near three of these moons.
+This stairway in Chile brings you only a little bit closer to heaven. But ooh, the sky above it makes you wonder. For example, you may wonder about the dark lane of our own Milky Way galaxy rising behind the expansive Atacama Desert in Chile, the band of zodiacal light on the upper left, the green and red airglow just above the horizon, the star Spica in the zodiacal light stripe, and, at the very top on the right, the Small Magellanic Cloud galaxy. The Desert Staircase sculpture is in the foreground, and this image was timed to catch the picturesque peering perch just in front of the near-vertical Milky Way band. Upon close inspection of the horizon you can find, left to right, some Andes Mountains, the Licancabur volcano, and the town lights of San Pedro de Atacama. The featured wide-angle composite was captured in July 2025.
 
 
 ---
@@ -15,36 +15,36 @@ How many moons can you see? The best answer is five: four orbiting Jupiter and L
 
 ### Dictionary.com
 
-**Promethean** _adjective_ • /[pruh-mee-thee-uhn]/
+**caprice** _noun_ • /[kuh-prees]/
 
-creative or boldly original
+a sudden, unpredictable change, as of one's mind or the weather
 
-Something Promethean is wildly innovative or groundbreaking. Think of a new invention that changes the game, turning what once seemed impossible into reality. With a Promethean idea, you might just be able to change the world for the better.
+Ever had an urge to change your plans for no particular reason? That could be a caprice, or a sudden, unpredictable change of mood or behavior. A caprice might inspire someone to rearrange their living room on a whim or decide to take a spontaneous weekend trip. It comes from an Italian word meaning "sudden start," suggesting that a caprice can come out of nowhere and leave you feeling a little stirred up.
 
-> _Her Promethean spirit inspired a revolutionary design that transformed the entire tech industry._
+> _On a total caprice, she sold her house and bought a sailboat instead._
 
 ### Britannica
 
-**parallel** _verb_
+**bridesmaid** _noun_
 
-To be similar or equal to something; to correspond closely in nature, character, or development.
+A female friend or relative who attends the bride at a wedding ceremony.
 
-> _Her unwavering dedication to her craft truly parallels that of the great masters, inspiring all who witness her work._
+> _My best friend asked me to be her bridesmaid, and I was thrilled to help her plan the perfect wedding._
 
-_Similar: match, correspond, resemble_  •  _Opposite: differ, diverge, contrast_
+_Similar: attendant, maid of honor_
 
-> _"For though the nature of a Commonwealth be to be one, yet in the same body, there may be many members, whose actions may cross and interrupt one another, and whose motions may not only not parallel, but even contradict, the motion of the whole."_
+> _"And the Eaglet bent down its head to hide a smile: some of the party were bridesmaids, and some were not."_
 >
-> — **Thomas Hobbes**, Leviathan (1651)
+> — **Lewis Carroll**, Alice's Adventures in Wonderland (1865)
 
 ### Merriam-Webster
 
-**nexus** _noun_ • /NEK-sus/
+**abscond** _verb_ • /ab-SKAHND/
 
-A relationship or connection between people or things
+To secretly leave a place and go into hiding
 
-> _The cultural district serves as a nexus for art and cuisine._
+> _It was mid-semester, when fantasies about absconding from school and leaving the stress of exams behind abound._
 
-> “The eclectic costume design by Ryan Matthieu Smith suggests Eastern Europe at the nexus of the Middle Ages and the Renaissance: loosely fitting frocks and vests, layered and embroidered, and hats in myriad geometric shapes ...” — Manuel Mendoza, The Dallas Morning News, 1 Mar. 2026
+> “So having a variety of financial intermediaries is good. But they need to be regulated and supervised by objective parties using objective standards. If not, someone could open a bank, take deposits and abscond to a tropical isle.”  — Edward Lotterman, The St. Paul (Minnesota) Pioneer Press, 23 Nov. 2025
 
-_If you’re unfamiliar with the word nexus, the popular, long-running video game series The Legend of Zelda provides an object lesson in its several definitions. When nexus came into English from Latin in the 17th century, it meant “connection” or “link.” Eventually, people began using it to refer to a connected group or series of things, as in “a nexus of relationships.” In recent decades it has taken on a third meaning, “center” or “hub,” perhaps from the notion that a point in the center of an arrangement serves to join together the objects that surround it. Now, one might plausibly say that the 20 Zelda games (not counting remakes and spin-offs) themselves form a nexus, as each represents an installment in a long, twisty saga with numerous echoes and callbacks to other games in the series. Most of these feature the fictional land of Hyrule, which often presents magical nexuses to shadowy alternate dimensions (1991’s A Link to the Past), the past (2011’s Skyward Sword), or the underworld (2023’s Tears of the Kingdom) that the hero, Link (ahem) must traverse. As for nexus’s third meaning, Hyrule’s map is nearly always situated around a central nexus, or hub, in the form of the castle where the titular Zelda lives. (If you’re into gaming or curious about its lingo, don’t miss the article “Popular Gaming Terms Explained”)._
+_In “Take the Money and Run,” a 1976 song by the Steve Miller Band, the singer punctuates a song about teenage bandits with the catchy refrain “Go on, take the money and run.” Granted, the song probably wouldn’t have charted had it been titled “Abscond,” but the meaning would have been the same. Abscond is a word most often used in formal contexts for when someone is running and hiding from the law, often with cash or other ill-gotten gains. In legal circles it’s used specifically when someone flies like an eagle from a jurisdiction to evade the legal process, as in “absconded from parole.” The history of abscond doesn’t evade scrutiny: it comes from the Latin verb abscondere, meaning “to hide away.” (That word’s root is condere, meaning “to conceal.”) Today, whether some joker absconds by going to the country to bury some treasure or by taking a jet airliner beyond the law’s reach, they are, in essence, hiding themselves away._
