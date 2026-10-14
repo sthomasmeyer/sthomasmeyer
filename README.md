@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-13 18:10:14 UTC_
+_Updated: 2026-10-14 15:47:30 UTC_
 
-### Desert Stairway to Heaven
+### Mars and the Beehive Under an Aurora
 
-![Desert Stairway to Heaven](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Stairway2Heaven_Looten_6750.jpg?w=6750&h=9000&fit=clip&crop=faces%2Cfocalpoint)
+![Mars and the Beehive Under an Aurora](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026_10_10_PZ_Jesličky_01_1500px.png?w=1500&h=1000&fit=clip&crop=faces%2Cfocalpoint)
 
-This stairway in Chile brings you only a little bit closer to heaven. But ooh, the sky above it makes you wonder. For example, you may wonder about the dark lane of our own Milky Way galaxy rising behind the expansive Atacama Desert in Chile, the band of zodiacal light on the upper left, the green and red airglow just above the horizon, the star Spica in the zodiacal light stripe, and, at the very top on the right, the Small Magellanic Cloud galaxy. The Desert Staircase sculpture is in the foreground, and this image was timed to catch the picturesque peering perch just in front of the near-vertical Milky Way band. Upon close inspection of the horizon you can find, left to right, some Andes Mountains, the Licancabur volcano, and the town lights of San Pedro de Atacama. The featured wide-angle composite was captured in July 2025.
+What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster (M44 or Praesepe) below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden. An eruption off the Sun reached Earth on October 10th, 2026 causing strong disturbances in Earth’s magnetic field. Energetic particles from the eruption collide with and energize the molecules in Earth’s atmosphere, which release that extra energy as the colorful aurora captured here. Auroras, or guovssahasat in North Sámi, is traditionally viewed with respect by the Sámi people indigenous to Sweden and other Arctic regions. Coincidentally, Mars appeared closest to the center of the Beehive cluster in the sky at the time. Although bees have been to space, the Beehive cluster is actually a swarm of young stars. Their rotation periods have helped humanity learn about how stars spin slower over time as they lose mass through their stellar winds.
 
 
 ---
@@ -15,36 +15,36 @@ This stairway in Chile brings you only a little bit closer to heaven. But ooh, t
 
 ### Dictionary.com
 
-**caprice** _noun_ • /[kuh-prees]/
+**lamination** _noun_ • /[lam-uh-ney-shuhn]/
 
-a sudden, unpredictable change, as of one's mind or the weather
+the act or process of arranging into thin layers
 
-Ever had an urge to change your plans for no particular reason? That could be a caprice, or a sudden, unpredictable change of mood or behavior. A caprice might inspire someone to rearrange their living room on a whim or decide to take a spontaneous weekend trip. It comes from an Italian word meaning "sudden start," suggesting that a caprice can come out of nowhere and leave you feeling a little stirred up.
+While you may associate lamination with protecting important documents, the term can describe any process that involves combining thin sheets or layers into a single structure. In baking, lamination involves folding butter and dough together to create the flaky texture found in croissants and other pastries. Next time you have a sweet treat for breakfast, you can thank lamination for each delicious bite.
 
-> _On a total caprice, she sold her house and bought a sailboat instead._
+> _Careful lamination of thin wooden sheets gave the tabletop exceptional strength and durability._
 
 ### Britannica
 
-**bridesmaid** _noun_
+**compost** _noun_ • /KOM-pohst/
 
-A female friend or relative who attends the bride at a wedding ceremony.
+A decayed mixture of organic matter, such as leaves and grass, used to enrich soil and fertilize plants.
 
-> _My best friend asked me to be her bridesmaid, and I was thrilled to help her plan the perfect wedding._
+> _She diligently turned the compost pile, ensuring all the organic matter decomposed evenly for her vegetable garden._
 
-_Similar: attendant, maid of honor_
+_Similar: humus, fertilizer, mulch_  •  _Opposite: waste, refuse_
 
-> _"And the Eaglet bent down its head to hide a smile: some of the party were bridesmaids, and some were not."_
+> _"Do not spread the compost on the weeds, To make them ranker."_
 >
-> — **Lewis Carroll**, Alice's Adventures in Wonderland (1865)
+> — **William Shakespeare**, Hamlet (c. 1600-1602)
 
 ### Merriam-Webster
 
-**abscond** _verb_ • /ab-SKAHND/
+**deportment** _noun_ • /dih-PORT-munt/
 
-To secretly leave a place and go into hiding
+The way in which one conducts one oneself
 
-> _It was mid-semester, when fantasies about absconding from school and leaving the stress of exams behind abound._
+> _The new students were instructed in proper dress and deportment._
 
-> “So having a variety of financial intermediaries is good. But they need to be regulated and supervised by objective parties using objective standards. If not, someone could open a bank, take deposits and abscond to a tropical isle.”  — Edward Lotterman, The St. Paul (Minnesota) Pioneer Press, 23 Nov. 2025
+> "The scholarship goes to a junior nursing student who has demonstrated 'academic achievement and abilities, promise as a future nurse, personal deportment and other outstanding characteristics,' the college said in a news release." — The Citizen (Auburn, New York), 24 June 2026
 
-_In “Take the Money and Run,” a 1976 song by the Steve Miller Band, the singer punctuates a song about teenage bandits with the catchy refrain “Go on, take the money and run.” Granted, the song probably wouldn’t have charted had it been titled “Abscond,” but the meaning would have been the same. Abscond is a word most often used in formal contexts for when someone is running and hiding from the law, often with cash or other ill-gotten gains. In legal circles it’s used specifically when someone flies like an eagle from a jurisdiction to evade the legal process, as in “absconded from parole.” The history of abscond doesn’t evade scrutiny: it comes from the Latin verb abscondere, meaning “to hide away.” (That word’s root is condere, meaning “to conceal.”) Today, whether some joker absconds by going to the country to bury some treasure or by taking a jet airliner beyond the law’s reach, they are, in essence, hiding themselves away._
+_Deportment, like a number of English words,  has its roots in Latin portare, meaning "to carry." Other portare descendants include such familiar terms as import ("to bring from an external source"), transport ("to bring from one place to another"), and portfolio, which by its oldest meaning refers to a case for carrying papers. In the case of deportment, the thing we "carry" is ourselves. Deportment can refer simply to one's demeanor, or it can refer to behavior formed by social conditioning and often conforming to conventional rules of propriety. A 17-year-old Emily Dickinson applied the latter meaning when she wrote to her brother, Austin: "Are you not gratified that I am so rapidly gaining correct ideas of female propriety and sedate deportment?"_
