@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-14 15:47:30 UTC_
+_Updated: 2026-10-15 15:33:30 UTC_
 
-### Mars and the Beehive Under an Aurora
+### The Milky Way over Manhattan
 
-![Mars and the Beehive Under an Aurora](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026_10_10_PZ_Jesličky_01_1500px.png?w=1500&h=1000&fit=clip&crop=faces%2Cfocalpoint)
+![The Milky Way over Manhattan](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Manhattan%20Milkyway.jpg?w=2160&h=3840&fit=clip&crop=faces%2Cfocalpoint)
 
-What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster (M44 or Praesepe) below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden. An eruption off the Sun reached Earth on October 10th, 2026 causing strong disturbances in Earth’s magnetic field. Energetic particles from the eruption collide with and energize the molecules in Earth’s atmosphere, which release that extra energy as the colorful aurora captured here. Auroras, or guovssahasat in North Sámi, is traditionally viewed with respect by the Sámi people indigenous to Sweden and other Arctic regions. Coincidentally, Mars appeared closest to the center of the Beehive cluster in the sky at the time. Although bees have been to space, the Beehive cluster is actually a swarm of young stars. Their rotation periods have helped humanity learn about how stars spin slower over time as they lose mass through their stellar winds.
+The city lights outshine the stars in the City That Never Sleeps. Who would have thought that the Milky Way could be visible in this sky? This image was taken with a filter that blocks most visible light, capturing instead only light in the near-infrared region of the electromagnetic spectrum (with lower energy than visible light). The astrophotographer's clever setup blocks most of the light pollution from the city: old incandescent light bulbs and some neon lights are still bright in the near-infrared, but fluorescent and LED light bulbs are not. Of course, stars are also bright in the near-infrared! This image is a reminder that we all live under the same sky, and astronomy allows all of us to learn more about humanity's place in the Cosmos.
 
 
 ---
@@ -15,36 +15,38 @@ What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster (M
 
 ### Dictionary.com
 
-**lamination** _noun_ • /[lam-uh-ney-shuhn]/
+**windshield survey** _noun_ • /[wind-sheeld sur-vey]/
 
-the act or process of arranging into thin layers
+a quick community assessment done by driving through an area
 
-While you may associate lamination with protecting important documents, the term can describe any process that involves combining thin sheets or layers into a single structure. In baking, lamination involves folding butter and dough together to create the flaky texture found in croissants and other pastries. Next time you have a sweet treat for breakfast, you can thank lamination for each delicious bite.
+A windshield survey offers a fast way to get a feel for a community by observing it from the road. Used in public health and community assessments, the term describes gathering visual information about an area by driving or walking through it. A windshield survey may be happening on your street right now without you even realizing!
 
-> _Careful lamination of thin wooden sheets gave the tabletop exceptional strength and durability._
+> _Officials conducted a windshield survey of the neighborhood to assess local housing conditions._
 
 ### Britannica
 
-**compost** _noun_ • /KOM-pohst/
+**slake your thirst** _idiom_
 
-A decayed mixture of organic matter, such as leaves and grass, used to enrich soil and fertilize plants.
+To satisfy one's thirst; to quench a strong desire for a drink.
 
-> _She diligently turned the compost pile, ensuring all the organic matter decomposed evenly for her vegetable garden._
+> _After a long hike in the desert, the travelers eagerly sought an oasis to slake their thirst._
 
-_Similar: humus, fertilizer, mulch_  •  _Opposite: waste, refuse_
+_Similar: quench, satisfy, satiate_  •  _Opposite: parch, dehydrate_
 
-> _"Do not spread the compost on the weeds, To make them ranker."_
+> _"To slake his thirst, he hies him to a brook."_
 >
-> — **William Shakespeare**, Hamlet (c. 1600-1602)
+> — **William Shakespeare**, Venus and Adonis (1593)
 
 ### Merriam-Webster
 
-**deportment** _noun_ • /dih-PORT-munt/
+**outlandish** _adjective_ • /out-LAN-dish/
 
-The way in which one conducts one oneself
+Extremely different from what is normal or expected
 
-> _The new students were instructed in proper dress and deportment._
+> _One of the author’s greatest strengths is her ability to write outlandish characters whose quirks remain lodged in readers’ minds long after they’ve finished the book._
+>
+> _When asked to back up his outlandish claims, the mayor quickly changed the subject, all but admitting that he had no proof for his allegations._
 
-> "The scholarship goes to a junior nursing student who has demonstrated 'academic achievement and abilities, promise as a future nurse, personal deportment and other outstanding characteristics,' the college said in a news release." — The Citizen (Auburn, New York), 24 June 2026
+> “In a successful book for children, no matter what outlandish stuff might be happening on the page, young readers will see their real emotions faithfully represented there ...” — Caroline Carson, Literary Hub, 3 Aug. 2026
 
-_Deportment, like a number of English words,  has its roots in Latin portare, meaning "to carry." Other portare descendants include such familiar terms as import ("to bring from an external source"), transport ("to bring from one place to another"), and portfolio, which by its oldest meaning refers to a case for carrying papers. In the case of deportment, the thing we "carry" is ourselves. Deportment can refer simply to one's demeanor, or it can refer to behavior formed by social conditioning and often conforming to conventional rules of propriety. A 17-year-old Emily Dickinson applied the latter meaning when she wrote to her brother, Austin: "Are you not gratified that I am so rapidly gaining correct ideas of female propriety and sedate deportment?"_
+_For some, the grass isn’t necessarily greener on the other side of the fence—it may also be very, very strange. The side-eye that skeptical sorts cast toward visitors from parts yonder is embedded in the history of the ancient word outlandish. In Old English someone described as “outlandish” came from an outland, i.e., a foreign land. Within a few hundred years, outlandish had broadened in use to describe anything unfamiliar or strange. It’s now commonly applied to things—especially things people do, wear, or say—that are strikingly out of the ordinary, or even just beyond reasonable or proper limits or standards. But lest you mistake us for equating outlandish with wrong or bad, consider this line from a review of a Dr. Seuss book once published in Time: “Its illustrations are properly outlandish, and its verses are zany and catchy enough for many rereadings.”_
