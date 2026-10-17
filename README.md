@@ -1,14 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-16 15:20:36 UTC_
+_Updated: 2026-10-17 14:09:56 UTC_
 
-### Chasing the International Space Station
+### 3D 67P
 
-[![Chasing the International Space Station](https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/)](https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/)
+![3D 67P](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/anaglyph-NAC_2015-07-25T06.28.48.742Z_lamy.jpg?w=2628&h=2418&fit=clip&crop=faces%2Cfocalpoint)
 
-▶️ _[Watch today's Astronomy Video on NASA Science](https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/)_
-
-Blasting into the predawn sky on Tuesday, October 13, a Falcon 9 rocket and Dragon spacecraft are headed for low Earth orbit in this stunning timelapse video captured from Indian Harbour Beach, Florida. Starting with a launch from Space Launch Complex 40 at Cape Canaveral Space Force Station, Falcon and Dragon are chasing the International Space Station on NASA's 35th Commercial Resupply Services mission. On cue, the space station itself enters the frame from the top. Almost 8 seconds into the 30 second timelapse. the bright streak of the ISS appears heading "down" toward the horizon. The first and second stages of the Falcon 9 are separating as the spectacular exhaust plume jellyfish grows, already catching the light of the rising Sun. The visible sequence of first stage boost back, re-entry, and landing burns begins around 20 seconds into the video. With the second stage following the ISS toward the distant horizon, the jellyfish plume continues to drift in the predawn sky, even after the successful first stage landing at planet Earth's Landing Zone 40.
+Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known as Comet 67P . The stereo anaglyph was created by combining two images from the Rosetta spacecraft's narrow angle OSIRIS camera taken on July 25, 2015 from a distance of 184 kilometers. Numerous jets are emanating from the small solar system world's active surface near its closest approach to the Sun. The larger lobe is around 4 kilometers in diameter, joined to a smaller, 2.5 kilometer diameter lobe by a narrow neck. Rosetta's mission to the comet ended in September 2016 when the spacecraft was commanded to a controlled impact with the comet's surface . Keep those 3D glasses on though. You can check out a  catalog of nearly 1400 stereo anaglyphs created from Rosetta image data on this website.
 
 
 ---
@@ -17,36 +15,36 @@ Blasting into the predawn sky on Tuesday, October 13, a Falcon 9 rocket and Drag
 
 ### Dictionary.com
 
-**sippet** _noun_ • /[sip-it]/
+**lily-livered** _adjective_ • /[lil-ee-liv-erd]/
 
-a small piece of bread or the like for dipping in liquid food
+weak or lacking in courage
 
-A sippet is a small piece of food used for dipping into soup, broth, or another liquid dish. It's more likely than not to be made of bread, like a toast point or a chunk of crusty sourdough. With a sippet in hand, you know exactly what to do with that last bit of flavor left in the bowl.
+Lily-livered describes someone who is cowardly or easily intimidated. The phrase comes from an old belief that the liver was the seat of courage, with a pale or "lily-white" liver suggesting it was lacking. A lily-livered person might talk a big game, but they tend to shrink away when the pressure is on.
 
-> _She dipped a crisp sippet into the warm tomato soup before taking a bite._
+> _My lily-livered brother refused to watch the scary movie, so we picked a comedy instead._
 
 ### Britannica
 
-**canopy** _noun_
+**minuscule** _adjective_
 
-An ornamental cloth covering hung or held up over a bed, throne, or sacred object, or a natural or artificial covering that extends over an area, providing shelter or shade.
+Extremely small; tiny.
 
-> _The ancient oak trees formed a dense canopy over the forest path, dappling the sunlight._
+> _Even with a powerful telescope, the distant planet appeared as a minuscule dot against the vast blackness of space._
 
-_Similar: awning, covering, shelter_
+_Similar: tiny, minute, microscopic_  •  _Opposite: enormous, gigantic, massive_
 
-> _"The branches of the trees made a thick canopy overhead, and the sun only dappled through in patches."_
+> _"The Martians, it seemed, had a very rudimentary sense of proportion, for their machines, though colossal, were operated by creatures of minuscule size."_
 >
-> — **Frances Hodgson Burnett**, The Secret Garden (1911)
+> — **H.G. Wells**, The War of the Worlds (1898)
 
 ### Merriam-Webster
 
-**zenith** _noun_ • /ZEE-nith/
+**syncretic** _adjective_ • /sin-KRET-ik/
 
-The strongest or most successful period of time for something
+Involving different forms of belief or practice
 
-> _At its zenith in the 1980s, the company employed more than 300 people._
+> _We were raised with a syncretic religion that combined practices from various faiths._
 
-> “The opening 40 minutes of Trần Anh Hùng’s dreamy romance set in the 1889 French countryside are the zenith of food preparation on the big screen. ... Food is a love language for many, and watching Pauline prepare a Baked Alaska in the hot French summer without a freezer expresses her affection better than any sonnet could.” — Kevin Slane, Boston.com, 15 Aug. 2026
+> "Traditional medicine, wellness rituals, and spiritual practices reflect the island’s complex cultural history and diverse ethnic origins—a syncretic blending of Taíno Indigenous, African, and Spanish traditions." — Tiana Randall, Forbes, 20 Aug. 2026
 
-_When you reach the zenith, you’re at the top, the pinnacle, the summit, the peak. Zenith developed from a Spanish modification of an Arabic phrase meaning “the way over one’s head,” traveling through Medieval Latin and Middle French before arriving in English. As long ago as the 1300s, English speakers used zenith to name the highest point in the celestial heavens, directly overhead. By the 1600s, zenith was being used for other high points as well. The celestial term is often contrasted with nadir, which refers to the point that is vertically downward from the observer (imagine a line going through the Earth from the observer’s feet and out the other side into the sky). Figuratively, nadir simply means “the lowest point.”_
+_Syncretic has its roots in an ancient alliance. The word is a descendant of the Greek noun synkrētismos, referring to a federation of cities on the island of Crete (syn means "together, with," and Krēt- means "Cretan"). The adjective first appeared in English in the mid-19th century, the related noun syncretism having debuted over 200 years earlier. Syncretic retains the idea of coalition and appears in such contexts as "syncretic religions," "syncretic cultures," and even "syncretic art," all describing things influenced by two or more styles or traditions._
