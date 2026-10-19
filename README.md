@@ -1,14 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-18 14:30:39 UTC_
+_Updated: 2026-10-19 17:25:38 UTC_
 
-### Sonified: Eagle Nebula Pillars
+### Treble Clef: Unusual X-ray Hot Radio Source
 
-[![Sonified: Eagle Nebula Pillars](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SonifiedEagleNebulaPillars.jpg?w=3048&h=1708&fit=clip&crop=faces%2Cfocalpoint)](https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/)
+![Treble Clef: Unusual X-ray Hot Radio Source](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg?w=7200&h=5361&fit=clip&crop=faces%2Cfocalpoint)
 
-▶️ _[Watch today's Astronomy Video on NASA Science](https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/)_
-
-Yes, but have you ever experienced the Eagle Nebula with your ears? The famous nebula M16 is best known for the feast it gives your eyes, highlighting bright young stars forming deep inside dark towering structures. These light-years long columns of cold gas and dust are some 6,500 light-years distant toward the constellation of the Serpent (Serpens). Sculpted and eroded by the energetic ultraviolet light and powerful winds from M16's cluster of massive stars, the cosmic pillars themselves are destined for destruction. But the turbulent environment of star formation within M16, whose spectacular details are captured in this combined Hubble (visible) and Chandra (X-ray) image, is likely similar to the environment that formed our own Sun. In the featured video, listen for stars and dust sounding off as the line of sonification moves left to right, with vertical position determining pitch.
+Explanation : What is Treble Clef? This unusual radio structure extends over 2 million light-years and resembles a common musical symbol -- but has its visible light hidden by our own Milky Way Galaxy. Examined in 2004, the nature of VLSS J0318.9+5755, dubbed Treble Clef, remained unknown. Recent observations by the Chandra X-ray Observatory and eROSITA, however, have led to the hypothesis that the Treble Clef central cloud of charged particles was originally expelled by a supermassive black hole at the center of a galaxy. After the radio emission from those particles faded, they may have been reinvigorated by a shock wave from the collision of two clusters of galaxies. The featured composite image shows radio emission in red, while recently discovered X-rays are shown in blue. Unusual objects like Treble Clef give humanity unexpected clues about how whole clusters of galaxies interact as well as the general evolution of our universe.
 
 
 ---
@@ -17,36 +15,36 @@ Yes, but have you ever experienced the Eagle Nebula with your ears? The famous n
 
 ### Dictionary.com
 
-**ipseity** _noun_ • /[ip-say-i-tee]/
+**estimable** _adjective_ • /[es-tuh-muh-buhl]/
 
-the state of being oneself
+deserving respect or admiration
 
-Ipseity names the state of being yourself as a distinct individual. The word comes in handy when talking about the sense that there is a continuous "you" beneath changing moods and circumstances. Your tastes may shift and your life may change, but you'll always have your ipseity.
+Estimable describes a person or thing worthy of genuine respect or admiration. It belongs to the same word family as esteem and estimate, a connection that reflects the idea of assessing something and recognizing its value. An estimable reputation is earned through actions that give others good reason to think highly of you.
 
-> _She expressed her ipseity through her original artwork and personal style._
+> _She dedicated her life to charity, building an estimable legacy that inspired future generations._
 
 ### Britannica
 
-**ornate** _adjective_
+**bare-bones** _adjective_
 
-Elaborately or excessively decorated, often with intricate patterns or shapes.
+Including only what is most basic or essential, without anything extra.
 
-> _The old opera house was known for its ornate interior, featuring gilded balconies and a frescoed ceiling._
+> _The startup launched with a bare-bones website, focusing on functionality over elaborate design._
 
-_Similar: elaborate, florid, baroque_  •  _Opposite: plain, simple, unadorned_
+_Similar: basic, essential, minimal_  •  _Opposite: luxurious, elaborate, comprehensive_
 
-> _"The room was large and curiously ornate, with a carved ceiling and a fireplace of Italian marble."_
+> _"The mortgage brokers, who had once been the bare-bones sales force of the mortgage market, now had to compete with the banks themselves."_
 >
-> — **Oscar Wilde**, The Picture of Dorian Gray (1890)
+> — **Michael Lewis**, The Big Short: Inside the Doomsday Machine (2010)
 
 ### Merriam-Webster
 
-**bon vivant** _noun_ • /bahn-vee-VAHNT/
+**fervid** _adjective_ • /FER-vid/
 
-A sociable person who likes fancy food and drink
+Having or expressing intense feeling
 
-> _She has become something of a bon vivant since moving to Paris, going out most nights and delighting in the city's many restaurants._
+> _The core of the book is the fervid letters the friends exchanged during the years they were apart._
 
-> “The vineyard is named for the exiled French aristocrat Charles de Saint-Évremond, a symbol of hedonistic Anglo-French cooperation. The bon vivant introduced champagne to England and party-loving Charles II made him governor of Duck Island in St James’s Park.” — Phoebe Taplin, The Guardian (London), 12 Sept. 2026
+> “Fervid superfans of high-profile groups often pore over members’ appearances, performances, and private lives. Perceived ‘bad’ behavior such as smoking or drinking can earn widespread public backlash, forcing stars to live under strict rules.” — Jessie Yeung, CNN, 16 Jan. 2026
 
-_In French, bon vivant literally means “good liver”—that is, one who lives well. English speakers have used bon vivant since the late 17th century to refer specifically to those who subscribe to a particular kind of good living—one that involves lots of social engagements and the enjoyment of fancy food and drink. This puts the term very much in the company of some other French words. Gourmet, gourmand, and gastronome all refer to those who love a fancy meal, though gourmand often carries the connotation of a tendency to overindulge._
+_The metaphor of strong emotions bubbling over simmers in the roots of fervid, which comes from the Latin verb fervēre, meaning “to boil.” In English, this root gave us not only fervid but the similar-sounding and sometimes synonymous word fervent. But while fervid usually suggests warm emotion that is expressed in a spontaneous or feverish manner (as in “fervid basketball fans”), fervent is reserved for a kind of emotional warmth that is steady and sincere (as in “a fervent belief in human kindness”). Fervid fans of kimchi or sauerkraut (or fervent followers of anything fermented), may appreciate that fervēre is also the root of ferment._
