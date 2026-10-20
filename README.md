@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-19 17:25:38 UTC_
+_Updated: 2026-10-20 15:37:09 UTC_
 
-### Treble Clef: Unusual X-ray Hot Radio Source
+### A Year of Sunspots
 
-![Treble Clef: Unusual X-ray Hot Radio Source](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg?w=7200&h=5361&fit=clip&crop=faces%2Cfocalpoint)
+![A Year of Sunspots](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg?w=5120&h=3840&fit=clip&crop=faces%2Cfocalpoint)
 
-Explanation : What is Treble Clef? This unusual radio structure extends over 2 million light-years and resembles a common musical symbol -- but has its visible light hidden by our own Milky Way Galaxy. Examined in 2004, the nature of VLSS J0318.9+5755, dubbed Treble Clef, remained unknown. Recent observations by the Chandra X-ray Observatory and eROSITA, however, have led to the hypothesis that the Treble Clef central cloud of charged particles was originally expelled by a supermassive black hole at the center of a galaxy. After the radio emission from those particles faded, they may have been reinvigorated by a shock wave from the collision of two clusters of galaxies. The featured composite image shows radio emission in red, while recently discovered X-rays are shown in blue. Unusual objects like Treble Clef give humanity unexpected clues about how whole clusters of galaxies interact as well as the general evolution of our universe.
+This is an unusual rainbow. For one thing, the rainbow is not complete, appearing only in a sunlit fan -- but that by itself is not very unusual. What is most unusual is the fake location of the Sun. The Sun appears to be toward the front, just below those hills -- but it is not. That is not how rainbows work. Rainbows involve a backward reflection from falling rain, so that the Sun must really be behind you. In this case, gaps between clouds near the setting Sun allowed rays to cross the entire sky and appear to converge in front, an unusual phenomenon called anticrepuscular rays. The photo was taken with a phone last week at sunset in Presenzano, Italy. The seemingly reverse rainbow was noticed when hanging up laundry.
 
 
 ---
@@ -15,36 +15,38 @@ Explanation : What is Treble Clef? This unusual radio structure extends over 2 m
 
 ### Dictionary.com
 
-**estimable** _adjective_ • /[es-tuh-muh-buhl]/
+**crispate** _adjective_ • /[kris-peyt]/
 
-deserving respect or admiration
+(of a leaf) having curly or wavy edges
 
-Estimable describes a person or thing worthy of genuine respect or admiration. It belongs to the same word family as esteem and estimate, a connection that reflects the idea of assessing something and recognizing its value. An estimable reputation is earned through actions that give others good reason to think highly of you.
+A crispate leaf has edges that curl, ruffle, or wave instead of lying flat. A familiar example for foodies is kale, whose edible leaves have a distinctive ruffled shape. Crispate gives botanists (and the rest of us) a precise word for that characteristic waviness along the edges.
 
-> _She dedicated her life to charity, building an estimable legacy that inspired future generations._
+> _The gardener admired the crispate leaves of the small succulent._
 
 ### Britannica
 
-**bare-bones** _adjective_
+**facade** _noun_
 
-Including only what is most basic or essential, without anything extra.
+An outward appearance that conceals a different reality; a deceptive or superficial presentation.
 
-> _The startup launched with a bare-bones website, focusing on functionality over elaborate design._
+> _Despite the company's gleaming facade of success, internal struggles and financial instability were rampant._
 
-_Similar: basic, essential, minimal_  •  _Opposite: luxurious, elaborate, comprehensive_
+_Similar: appearance, front, pretense_  •  _Opposite: reality, truth, substance_
 
-> _"The mortgage brokers, who had once been the bare-bones sales force of the mortgage market, now had to compete with the banks themselves."_
+> _"He had been an enigma, and he had remained an enigma. What was there in him that was hidden? What was there that he was afraid to look at? He had built up a facade of indifference, behind which he had hidden his true self."_
 >
-> — **Michael Lewis**, The Big Short: Inside the Doomsday Machine (2010)
+> — **Oscar Wilde**, The Picture of Dorian Gray (1890)
 
 ### Merriam-Webster
 
-**fervid** _adjective_ • /FER-vid/
+**compunction** _noun_ • /kum-PUNK-shun/
 
-Having or expressing intense feeling
+A feeling of misgiving
 
-> _The core of the book is the fervid letters the friends exchanged during the years they were apart._
+> _We moved ahead with the plans without compunction._
+>
+> _They felt no compunctions about their crimes._
 
-> “Fervid superfans of high-profile groups often pore over members’ appearances, performances, and private lives. Perceived ‘bad’ behavior such as smoking or drinking can earn widespread public backlash, forcing stars to live under strict rules.” — Jessie Yeung, CNN, 16 Jan. 2026
+> "As a younger man, he tried to finish everything he started. But today he drops a book without compunction if he's extracted what he needed or lost interest." — Jim Higgins, The Milwaukee Journal Sentinel, 21 Dec. 2025
 
-_The metaphor of strong emotions bubbling over simmers in the roots of fervid, which comes from the Latin verb fervēre, meaning “to boil.” In English, this root gave us not only fervid but the similar-sounding and sometimes synonymous word fervent. But while fervid usually suggests warm emotion that is expressed in a spontaneous or feverish manner (as in “fervid basketball fans”), fervent is reserved for a kind of emotional warmth that is steady and sincere (as in “a fervent belief in human kindness”). Fervid fans of kimchi or sauerkraut (or fervent followers of anything fermented), may appreciate that fervēre is also the root of ferment._
+_According to an old proverb, "a guilty conscience needs no accuser." The implication is that the sting of a guilty conscience can prick very hard indeed. The sudden guilty "prickings" of compunction are reflected in the word's Latin roots: compungere means "to prick hard" or "to sting." Compungere, in turn, comes from pungere, meaning "to prick," which is the ancestor of some other prickly words in English, such as puncture and point._
