@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-20 15:37:09 UTC_
+_Updated: 2026-10-21 15:54:41 UTC_
 
-### A Year of Sunspots
+### New Ghosts Revealed in Cassiopeia
 
-![A Year of Sunspots](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg?w=5120&h=3840&fit=clip&crop=faces%2Cfocalpoint)
+![New Ghosts Revealed in Cassiopeia](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png?w=2622&h=1751&fit=clip&crop=faces%2Cfocalpoint)
 
-This is an unusual rainbow. For one thing, the rainbow is not complete, appearing only in a sunlit fan -- but that by itself is not very unusual. What is most unusual is the fake location of the Sun. The Sun appears to be toward the front, just below those hills -- but it is not. That is not how rainbows work. Rainbows involve a backward reflection from falling rain, so that the Sun must really be behind you. In this case, gaps between clouds near the setting Sun allowed rays to cross the entire sky and appear to converge in front, an unusual phenomenon called anticrepuscular rays. The photo was taken with a phone last week at sunset in Presenzano, Italy. The seemingly reverse rainbow was noticed when hanging up laundry.
+Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today’s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system γ Cassiopeia. Energetic light from γ Cassiopeia causes the hydrogen gas in IC 59 and 63 to glow red. Their dust reflects and scatters some blue-ish white starlight. Newly discovered Objects 1, 2, and 3 appear as blue phantoms, revealing the presence of ionized oxygen. But ionized by what? Like at the bow of a speeding boat, γ Cassiopeia may be piling up material as the system moves through interstellar gas and dust. It follows that Object 3 may be the compressed and heated oxygen of that bow shock. Object 1 could be a planetary nebula if a central white dwarf is identified. The origins of these astronomical apparitions remain a mystery to be solved.
 
 
 ---
@@ -15,38 +15,36 @@ This is an unusual rainbow. For one thing, the rainbow is not complete, appearin
 
 ### Dictionary.com
 
-**crispate** _adjective_ • /[kris-peyt]/
+**memetic** _adjective_ • /[muh-me-tik]/
 
-(of a leaf) having curly or wavy edges
+of or relating to memes
 
-A crispate leaf has edges that curl, ruffle, or wave instead of lying flat. A familiar example for foodies is kale, whose edible leaves have a distinctive ruffled shape. Crispate gives botanists (and the rest of us) a precise word for that characteristic waviness along the edges.
+Memetic can describe something connected with memes and the way they spread through a culture or online space. A joke, image, phrase, or even a behavior can become memetic when people copy it, remix it, and pass it along. The word is chronically online, and a single memetic idea can easily take on a life of its own.
 
-> _The gardener admired the crispate leaves of the small succulent._
+> _The video became memetic as thousands of people created their own versions online._
 
 ### Britannica
 
-**facade** _noun_
+**interview** _verb_
 
-An outward appearance that conceals a different reality; a deceptive or superficial presentation.
+To question or talk with someone in order to gather information or learn about them, often in a formal or journalistic setting.
 
-> _Despite the company's gleaming facade of success, internal struggles and financial instability were rampant._
+> _The journalist hoped to interview the reclusive author about her latest novel._
 
-_Similar: appearance, front, pretense_  •  _Opposite: reality, truth, substance_
+_Similar: question, interrogate, debrief_  •  _Opposite: answer, respond, ignore_
 
-> _"He had been an enigma, and he had remained an enigma. What was there in him that was hidden? What was there that he was afraid to look at? He had built up a facade of indifference, behind which he had hidden his true self."_
+> _"He was, in short, a perfect gentleman, and one whom I should have been glad to interview."_
 >
-> — **Oscar Wilde**, The Picture of Dorian Gray (1890)
+> — **Arthur Conan Doyle**, The Adventures of Sherlock Holmes (from "A Scandal in Bohemia") (1892)
 
 ### Merriam-Webster
 
-**compunction** _noun_ • /kum-PUNK-shun/
+**jilt** _verb_ • /JILT/
 
-A feeling of misgiving
+To abruptly end a romantic relationship with someone
 
-> _We moved ahead with the plans without compunction._
->
-> _They felt no compunctions about their crimes._
+> _The novel begins with the hero, having just been jilted by his fiancée, setting off to hike the Appalachian Trail._
 
-> "As a younger man, he tried to finish everything he started. But today he drops a book without compunction if he's extracted what he needed or lost interest." — Jim Higgins, The Milwaukee Journal Sentinel, 21 Dec. 2025
+> “The set suggests Miss Havisham’s room in her estate, which was famously frozen in time from the moment her fiancé jilted her in the Dickens novel, but that’s simply the frame for a behind-the-scenes view into all of the elements ... that go into an actor’s effort to bring a character to life on stage.” — Terry Byrne, The Boston Globe, 20 May 2026
 
-_According to an old proverb, "a guilty conscience needs no accuser." The implication is that the sting of a guilty conscience can prick very hard indeed. The sudden guilty "prickings" of compunction are reflected in the word's Latin roots: compungere means "to prick hard" or "to sting." Compungere, in turn, comes from pungere, meaning "to prick," which is the ancestor of some other prickly words in English, such as puncture and point._
+_What’s in a name? Often, something not very nice, through no fault and much to the chagrin of those bearing that name. Just ask Ralph or Karen. The same is (possibly) true of Gillot, an old pet form of Gillian that is thought to have led to the noun jillet, which originally referred to an unfaithful wife, and later became jilt, used in the late 17th century for a person (especially a woman) who capriciously casts a lover aside. The verb jilt followed for the actions of such a person. These days, though jilt usually implies the sudden ending of a romantic relationship, it can also be used beyond that context with the broader meaning “to sever close relations with.”_
