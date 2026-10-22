@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-21 15:54:41 UTC_
+_Updated: 2026-10-22 15:51:10 UTC_
 
-### New Ghosts Revealed in Cassiopeia
+### The First Green Star, WD J1330+6435
 
-![New Ghosts Revealed in Cassiopeia](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png?w=2622&h=1751&fit=clip&crop=faces%2Cfocalpoint)
+![The First Green Star, WD J1330+6435](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/green_wd_mark-garlick_annotated2.jpg?w=1280&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
-Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today’s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system γ Cassiopeia. Energetic light from γ Cassiopeia causes the hydrogen gas in IC 59 and 63 to glow red. Their dust reflects and scatters some blue-ish white starlight. Newly discovered Objects 1, 2, and 3 appear as blue phantoms, revealing the presence of ionized oxygen. But ionized by what? Like at the bow of a speeding boat, γ Cassiopeia may be piling up material as the system moves through interstellar gas and dust. It follows that Object 3 may be the compressed and heated oxygen of that bow shock. Object 1 could be a planetary nebula if a central white dwarf is identified. The origins of these astronomical apparitions remain a mystery to be solved.
+Star light, star bright: is there a green star out tonight? Other than the Sun, all stars are so far from Earth that they appear as points in the sky.  They are mostly white, but sometimes noticeably red or blue. This color typically relates to the temperature: blue stars are hotter than red stars. What about other colors? The featured image is an illustration showing WD J1330+6435, a white dwarf star, surrounded by an accretion disk with gas and rocks orbiting the star. White dwarfs are small, faint stars that are left over when a star like the Sun exhausts its nuclear fuel. Astronomers recently found that some white dwarf stars, despite their name, would appear yellow, green, cyan, pink, or purple. In these cases, trace elements that were accreted to these stars interact with the stellar atmosphere and shift its normally white color. But, alas! I wish I may, I wish I might, but they are too faint to see tonight...
 
 
 ---
@@ -15,36 +15,38 @@ Jinkies, look at all those ghosts! It took 100 hours of observation and a specia
 
 ### Dictionary.com
 
-**memetic** _adjective_ • /[muh-me-tik]/
+**parvenu** _noun_ • /[pahr-vuh-noo]/
 
-of or relating to memes
+a person who has recently gained wealth but lacks the expected refinement
 
-Memetic can describe something connected with memes and the way they spread through a culture or online space. A joke, image, phrase, or even a behavior can become memetic when people copy it, remix it, and pass it along. The word is chronically online, and a single memetic idea can easily take on a life of its own.
+A parvenu is someone who has recently acquired wealth or status but is seen as lacking the polish that's expected to go with it. The word tends to carry a snobbish edge, since it reflects judgments about who does and does not belong in elite circles. Calling someone a parvenu might say as much about you as it does about them.
 
-> _The video became memetic as thousands of people created their own versions online._
+> _The parvenu loudly bragged about his fortune while using the wrong fork at dinner._
 
 ### Britannica
 
-**interview** _verb_
+**trek** _verb_ • //trɛk//
 
-To question or talk with someone in order to gather information or learn about them, often in a formal or journalistic setting.
+To make a long and often difficult journey, typically on foot.
 
-> _The journalist hoped to interview the reclusive author about her latest novel._
+> _After a full day of hiking, we had to trek the final two miles back to our campsite in the dark._
 
-_Similar: question, interrogate, debrief_  •  _Opposite: answer, respond, ignore_
+_Similar: hike, journey, trudge_  •  _Opposite: stroll, amble, stay_
 
-> _"He was, in short, a perfect gentleman, and one whom I should have been glad to interview."_
+> _"For a month or more we had to trek along the Salt Lake Desert, and then we came upon the great settlement of the Mormons."_
 >
-> — **Arthur Conan Doyle**, The Adventures of Sherlock Holmes (from "A Scandal in Bohemia") (1892)
+> — **Arthur Conan Doyle**, A Study in Scarlet (1887)
 
 ### Merriam-Webster
 
-**jilt** _verb_ • /JILT/
+**vocation** _noun_ • /voh-KAY-shun/
 
-To abruptly end a romantic relationship with someone
+An occupation, or a calling to do a certain kind of work
 
-> _The novel begins with the hero, having just been jilted by his fiancée, setting off to hike the Appalachian Trail._
+> _Since he was a teenager, he knew that he would find his vocation in marine biology._
+>
+> _She is headed to medical school to pursue her vocation as a doctor._
 
-> “The set suggests Miss Havisham’s room in her estate, which was famously frozen in time from the moment her fiancé jilted her in the Dickens novel, but that’s simply the frame for a behind-the-scenes view into all of the elements ... that go into an actor’s effort to bring a character to life on stage.” — Terry Byrne, The Boston Globe, 20 May 2026
+> “Through her education and her father’s encouragement, she had nurtured a vocation for literature and was determined to make a career for herself in the bundan, Japan’s literary elite …” — Bryan Karetnyk, introduction to Troubled Waters by Higuchi Ichiyō, 2026
 
-_What’s in a name? Often, something not very nice, through no fault and much to the chagrin of those bearing that name. Just ask Ralph or Karen. The same is (possibly) true of Gillot, an old pet form of Gillian that is thought to have led to the noun jillet, which originally referred to an unfaithful wife, and later became jilt, used in the late 17th century for a person (especially a woman) who capriciously casts a lover aside. The verb jilt followed for the actions of such a person. These days, though jilt usually implies the sudden ending of a romantic relationship, it can also be used beyond that context with the broader meaning “to sever close relations with.”_
+_When vocation was first used in English in the 15th century it referred specifically to a summons from God to perform a particular task or function in life, especially a religious one. This meaning is no surprise given the word’s source: it comes from the Latin vocation-, vocacio, meaning “summons,” which in turn comes from vocāre, meaning “to call.”  Vocation also has a non-religious function in the English language as a word for the strong desire to do a certain kind of work, or as a word for the work itself, making vocation a synonym of the words calling and occupation._
