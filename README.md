@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-24 14:26:53 UTC_
+_Updated: 2026-10-25 14:55:37 UTC_
 
-### Rosetta's Selfie
+### Dark Matter in a Simulated Universe
 
-![Rosetta's Selfie](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png?w=1024&h=1024&fit=clip&crop=faces%2Cfocalpoint)
+![Dark Matter in a Simulated Universe](https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&h=900&fit=clip&crop=faces%2Cfocalpoint)
 
-This Rosetta spacecraft selfie was snapped on October 7th, 2014. At the time the comet-chasing spacecraft was about 472 million kilometers from planet Earth, but only 16 kilometers from the surface of comet 67P/Churyumov-Gerasimenko. Looming beyond the spacecraft near the top of the frame, dust and gas stream away from the comet's curious double-lobed nucleus. Bright sunlight glints off one of Rosetta's 14 meter long solar arrays. In fact, two exposures, one short and one long, were combined to record the dramatic high contrast scene using the CIVA camera system on Rosetta's still-attached Philae lander. Its chosen primary landing site was on the visible hemisphere of the smaller lobe of the nucleus. This was the last image from Philae's camera before the lander separated from Rosetta on November 12. Shortly after separation Philae took another image looking back toward the orbiter and began its descent to the nucleus of the comet.
+Is our universe haunted? It might look that way on this dark matter map. The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and how visible matter is distributed. The featured image from the American Museum of Natural History's Hayden Planetarium Space Show, Dark Universe, highlights one example of how pervasive dark matter might haunt our universe. In this frame from a detailed computer simulation, complex filaments of dark matter, shown in black, are strewn about the universe like spider webs, while the relatively rare clumps of familiar baryonic matter are colored orange. These simulations are good statistical matches to astronomical observations. In what is perhaps a scarier turn of events, dark matter -- although quite strange and in an unknown form -- is no longer thought to be the strangest source of gravity in the universe. That honor now falls to dark energy, a more uniform source of repulsive gravity that seems to now dominate the expansion of the entire universe.
 
 
 ---
@@ -15,36 +15,36 @@ This Rosetta spacecraft selfie was snapped on October 7th, 2014. At the time the
 
 ### Dictionary.com
 
-**cicerone** _noun_ • /[sis-uh-roh-nee]/
+**bereft** _adjective_ • /[bih-reft]/
 
-a person who conducts sightseers; guide
+deprived
 
-A cicerone is a guide who shows visitors around a place of interest and helps them understand what they're seeing. Unlike a docent, who is most closely associated with museums and galleries, a cicerone might guide visitors through a historic district or ancient ruins. With a cicerone, sightseeing comes with explanations as well as directions.
+Bereft describes being left without someone or something important. A room bereft of furniture feels markedly empty, while a garden bereft of shade offers nowhere to escape the afternoon sun. Bereft can even describe the way a person keenly feels a loved one's absence, which helps give the word more emotional weight than simply "without."
 
-> _Our knowledgeable cicerone led us through the old battlefield, explaining how the terrain shaped the course of the fighting._
+> _The storm left the small rural town bereft of power for days._
 
 ### Britannica
 
-**enthusiastic** _adjective_
+**heartily** _adverb_
 
-Having or showing intense and eager enjoyment, interest, or approval.
+In an enthusiastic, energetic, or complete manner.
 
-> _The crowd was enthusiastic, cheering loudly for their favorite band._
+> _The audience applauded heartily, showing their appreciation for the performance._
 
-_Similar: eager, zealous, ardent_  •  _Opposite: apathetic, indifferent, unenthusiastic_
+_Similar: enthusiastically, vigorously, genuinely_  •  _Opposite: half-heartedly, reluctantly, insincerely_
 
-> _"His sisters were elegant women, with an air of decided fashion. His brother-in-law, Mr. Hurst, merely looked the gentleman; but his wife was an enthusiastic admirer of Mr. Bingley's."_
+> _"I heartily repent of my folly, and am heartily ashamed of it."_
 >
 > — **Jane Austen**, Pride and Prejudice (1813)
 
 ### Merriam-Webster
 
-**puissant** _adjective_ • /PWISS-unt/
+**emissary** _noun_ • /EM-uh-sair-ee/
 
-Powerful
+A person sent to represent another person or organization
 
-> _The creatures in her fantasy novel are wielders of puissant magic, able to strike down enemies by harnessing the power of weather phenomena like lightning and tornadoes._
+> _Emissaries from the government are trying to negotiate a settlement._
 
-> “The show is light on tech, but the accompanying images … pour through as addendums to Felder's puissant passion of Liszt's Liebesträume or Beethoven's Für Elise and land with great effect.” — David John Chávez, The Mercury News (San Jose, California), 1 Feb. 2026
+> “Brian [Jones] had enjoyed being in control of the band. He’d arranged their gigs, negotiated their deals, served as their spokesman; he was their emissary with the press, making regular visits to Record Mirror and Melody Maker.” — Bob Spitz, The Rolling Stones: The Biography, 2026
 
-_Puissant has some powerful ties to some more commonplace English words. Although puissant has a considerably fancier feel than power and potent, all three words share the same Latin ancestor: posse, a verb meaning “to be able.” Potent came from potent-, potens, a form of posse. Power came to us by way of Anglo-French poer, which itself comes from an alteration of posse. From poer also came the Anglo-French adjective pussant, meaning “able” or “powerful,” and English speakers borrowed that to form puissant in the 15th century._
+_If you’re a big cheese or big kahuna, you may often find yourself too crunched for time to meet face-to-face with your fellow bigwigs, let alone the hoi polloi. In such cases, a good solution is to send out an emissary, someone to act as your representative and shake the necessary hands, grease the necessary palms, etc. The operative phrase here is “send out”; emissary comes from Latin emittere, meaning “to send out.” When emissary was first adopted in the early 17th century, it typically emitted bad vibes (emit also hails from emittere), carrying the implication that the business of an emissary was dishonest or corrupt. But today, that connotation has faded completely, and emissaries are those simply sent to act on someone's behalf._
