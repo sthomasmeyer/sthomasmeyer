@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-25 14:55:37 UTC_
+_Updated: 2026-10-26 17:17:22 UTC_
 
-### Dark Matter in a Simulated Universe
+### M42: The Great Nebula in Orion
 
-![Dark Matter in a Simulated Universe](https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&h=900&fit=clip&crop=faces%2Cfocalpoint)
+![M42: The Great Nebula in Orion](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg?w=2000&h=2090&fit=clip&crop=faces%2Cfocalpoint)
 
-Is our universe haunted? It might look that way on this dark matter map. The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and how visible matter is distributed. The featured image from the American Museum of Natural History's Hayden Planetarium Space Show, Dark Universe, highlights one example of how pervasive dark matter might haunt our universe. In this frame from a detailed computer simulation, complex filaments of dark matter, shown in black, are strewn about the universe like spider webs, while the relatively rare clumps of familiar baryonic matter are colored orange. These simulations are good statistical matches to astronomical observations. In what is perhaps a scarier turn of events, dark matter -- although quite strange and in an unknown form -- is no longer thought to be the strangest source of gravity in the universe. That honor now falls to dark energy, a more uniform source of repulsive gravity that seems to now dominate the expansion of the entire universe.
+The Great Nebula in Orion, an immense, nearby starbirth region, is one of the most famous of all astronomical nebulas. Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. In the featured deep image in assigned colors highlighted by emission in hydrogen, wisps and sheets of dust and gas are particularly evident. The Great Nebula in Orion can be found with the unaided eye near the easily identifiable belt of three stars in the popular constellation Orion. In addition to housing a bright open cluster of stars known as the Trapezium, the Orion Nebula contains many stellar nurseries. These nurseries contain much hydrogen gas, hot young stars, proplyds, and stellar jets spewing material at high speeds. Also known as M42, the Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun.
 
 
 ---
@@ -15,36 +15,36 @@ Is our universe haunted? It might look that way on this dark matter map. The gra
 
 ### Dictionary.com
 
-**bereft** _adjective_ • /[bih-reft]/
+**trouvaille** _noun_ • /[troo-vahy]/
 
-deprived
+a lucky discovery or a found treasure
 
-Bereft describes being left without someone or something important. A room bereft of furniture feels markedly empty, while a garden bereft of shade offers nowhere to escape the afternoon sun. Bereft can even describe the way a person keenly feels a loved one's absence, which helps give the word more emotional weight than simply "without."
+A trouvaille is a lucky find that's especially satisfying. Imagine checking out a flea market table piled high with mundane odds and ends, and suddenly you notice an original pressing of your favorite record just sitting there in plain sight. A trouvaille like that is something you didn't come looking for but are very glad you found.
 
-> _The storm left the small rural town bereft of power for days._
+> _The four-leaf clover tucked inside the dusty old book was a delightful trouvaille._
 
 ### Britannica
 
-**heartily** _adverb_
+**grotesque** _adjective_
 
-In an enthusiastic, energetic, or complete manner.
+Very strange or ugly in a way that is not normal or natural, often to the point of being absurd or ridiculous.
 
-> _The audience applauded heartily, showing their appreciation for the performance._
+> _The ancient gargoyles adorning the cathedral's facade presented a grotesque yet fascinating spectacle._
 
-_Similar: enthusiastically, vigorously, genuinely_  •  _Opposite: half-heartedly, reluctantly, insincerely_
+_Similar: bizarre, monstrous, distorted_  •  _Opposite: beautiful, normal, ordinary_
 
-> _"I heartily repent of my folly, and am heartily ashamed of it."_
+> _"The two things which were most striking in this face were, in the first place, the enormous size of his mouth; and, in the second place, the fact that it was cleft from ear to ear; these two things, taken together, formed a most grotesque and horrible spectacle."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Victor Hugo**, Notre-Dame de Paris (The Hunchback of Notre-Dame) (1831)
 
 ### Merriam-Webster
 
-**emissary** _noun_ • /EM-uh-sair-ee/
+**disparate** _adjective_ • /DISS-puh-rut/
 
-A person sent to represent another person or organization
+Different from each other
 
-> _Emissaries from the government are trying to negotiate a settlement._
+> _The orchestral project joins disparate musical elements to create a truly original sound._
 
-> “Brian [Jones] had enjoyed being in control of the band. He’d arranged their gigs, negotiated their deals, served as their spokesman; he was their emissary with the press, making regular visits to Record Mirror and Melody Maker.” — Bob Spitz, The Rolling Stones: The Biography, 2026
+> "Some of the spacious galleries feature a single artist ... one is devoted to murals, another to architecture, but many are organized by themes rather than genre, period, place or, and this is important, prestige. Thematic grouping of disparate work has become a popular, though not uncontroversial, trend." — Mary McNamara, The Los Angeles Times, 3 Sept. 2026
 
-_If you’re a big cheese or big kahuna, you may often find yourself too crunched for time to meet face-to-face with your fellow bigwigs, let alone the hoi polloi. In such cases, a good solution is to send out an emissary, someone to act as your representative and shake the necessary hands, grease the necessary palms, etc. The operative phrase here is “send out”; emissary comes from Latin emittere, meaning “to send out.” When emissary was first adopted in the early 17th century, it typically emitted bad vibes (emit also hails from emittere), carrying the implication that the business of an emissary was dishonest or corrupt. But today, that connotation has faded completely, and emissaries are those simply sent to act on someone's behalf._
+_If you enjoy sorting different objects into separate categories, you're well prepared to understand the origins of disparate. The word, which first appeared in English in the 16th century, comes from the Latin verb disparāre, meaning "to divide, separate off, make different." Disparāre, in turn, comes from parāre, a verb meaning "to supply, provide, make ready or prepare." Other descendants of parāre in English include both separate and prepare, as well as repair, apparatus, and even the pugnacious vituperate ("to criticize harshly and usually publicly")._
