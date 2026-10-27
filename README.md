@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-26 17:17:22 UTC_
+_Updated: 2026-10-27 16:28:18 UTC_
 
-### M42: The Great Nebula in Orion
+### Noctilucent Clouds over Sweden
 
-![M42: The Great Nebula in Orion](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg?w=2000&h=2090&fit=clip&crop=faces%2Cfocalpoint)
+![Noctilucent Clouds over Sweden](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg?w=6048&h=4030&fit=clip&crop=faces%2Cfocalpoint)
 
-The Great Nebula in Orion, an immense, nearby starbirth region, is one of the most famous of all astronomical nebulas. Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. In the featured deep image in assigned colors highlighted by emission in hydrogen, wisps and sheets of dust and gas are particularly evident. The Great Nebula in Orion can be found with the unaided eye near the easily identifiable belt of three stars in the popular constellation Orion. In addition to housing a bright open cluster of stars known as the Trapezium, the Orion Nebula contains many stellar nurseries. These nurseries contain much hydrogen gas, hot young stars, proplyds, and stellar jets spewing material at high speeds. Also known as M42, the Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun.
+Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too dim to be seen, they may become visible just after sunset during the summer when illuminated by sunlight from below the horizon. Noctilucent clouds are the highest clouds and are known more technically as polar mesospheric clouds. Featured here as they appeared in early August, a network of blue noctilucent clouds was captured in the distant sky above a field of green grass near Linköping, Sweden, with trees in stark silhouette across the horizon. Much about noctilucent clouds has been discovered only in the past two decades, while how they form and evolve remains a topic of active research.
 
 
 ---
@@ -15,36 +15,36 @@ The Great Nebula in Orion, an immense, nearby starbirth region, is one of the mo
 
 ### Dictionary.com
 
-**trouvaille** _noun_ • /[troo-vahy]/
+**stroopwafel** _noun_ • /[strohp-wah-fuhl]/
 
-a lucky discovery or a found treasure
+a small, crisp Dutch waffle cookie
 
-A trouvaille is a lucky find that's especially satisfying. Imagine checking out a flea market table piled high with mundane odds and ends, and suddenly you notice an original pressing of your favorite record just sitting there in plain sight. A trouvaille like that is something you didn't come looking for but are very glad you found.
+A stroopwafel is a Dutch treat made from two thin waffle cookies with a sweet caramel filling between them. One popular way to eat a stroopwafel is to rest it over a hot cup of coffee or tea so the steam gently warms and softens the filling. The result is still crisp at the edges, but pleasantly gooey in the middle. Yum!
 
-> _The four-leaf clover tucked inside the dusty old book was a delightful trouvaille._
+> _She enjoyed a sweet stroopwafel as an afternoon snack during her trip to Amsterdam._
 
 ### Britannica
 
-**grotesque** _adjective_
+**engulf** _verb_
 
-Very strange or ugly in a way that is not normal or natural, often to the point of being absurd or ridiculous.
+To flow over and cover completely, or to overwhelm as if by flowing over.
 
-> _The ancient gargoyles adorning the cathedral's facade presented a grotesque yet fascinating spectacle._
+> _The sudden storm threatened to engulf the small fishing boat in its massive waves._
 
-_Similar: bizarre, monstrous, distorted_  •  _Opposite: beautiful, normal, ordinary_
+_Similar: immerse, inundate, overwhelm_  •  _Opposite: uncover, expose, release_
 
-> _"The two things which were most striking in this face were, in the first place, the enormous size of his mouth; and, in the second place, the fact that it was cleft from ear to ear; these two things, taken together, formed a most grotesque and horrible spectacle."_
+> _"But it was in vain: sleep fled from my eyes; and the anguish of my soul engulfed me, and I was left a prey to the most terrific reveries."_
 >
-> — **Victor Hugo**, Notre-Dame de Paris (The Hunchback of Notre-Dame) (1831)
+> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
 
 ### Merriam-Webster
 
-**disparate** _adjective_ • /DISS-puh-rut/
+**milieu** _noun_ • /meel-YOO/
 
-Different from each other
+The setting in which people live or in which something occurs
 
-> _The orchestral project joins disparate musical elements to create a truly original sound._
+> _Langston Hughes, Zora Neale Hurston, and Jean Toomer were among the many writers who flourished in the intellectual milieu of the Harlem Renaissance._
 
-> "Some of the spacious galleries feature a single artist ... one is devoted to murals, another to architecture, but many are organized by themes rather than genre, period, place or, and this is important, prestige. Thematic grouping of disparate work has become a popular, though not uncontroversial, trend." — Mary McNamara, The Los Angeles Times, 3 Sept. 2026
+> “‘Hombre al Agua’ starts out playful and grows more overtly comic, particularly once politics is thrown into the mix. At one point, a character compares the film’s milieu, the world of the rich, to old sci-fi movies where astronauts land on a planet that looks a lot like earth but turns out to be completely different.” — Steve Pond, The Wrap, 6 Sept. 2026
 
-_If you enjoy sorting different objects into separate categories, you're well prepared to understand the origins of disparate. The word, which first appeared in English in the 16th century, comes from the Latin verb disparāre, meaning "to divide, separate off, make different." Disparāre, in turn, comes from parāre, a verb meaning "to supply, provide, make ready or prepare." Other descendants of parāre in English include both separate and prepare, as well as repair, apparatus, and even the pugnacious vituperate ("to criticize harshly and usually publicly")._
+_It’s not difficult to locate another word within the milieu of milieu, whose final four letters spell lieu. Lieu is an archaic word meaning “place,” today used almost exclusively in “in lieu of” (= in the place of), as in “in lieu of cash a credit card is acceptable.” English users borrowed this lieu from Anglo-French—the French language used in medieval England—in the 13th century. It wasn’t until many centuries later, in the mid-1880s, that English adopted milieu from the French spoken in France. (In Old French, milieu meant “midst,” from mi, meaning “middle,” + lieu.) Both milieu and lieu have an ancestor in the Latin word for place, locus, as does many an English word, including locate._
