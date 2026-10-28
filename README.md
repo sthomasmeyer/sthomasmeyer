@@ -1,12 +1,14 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-27 16:28:18 UTC_
+_Updated: 2026-10-28 17:07:28 UTC_
 
-### Noctilucent Clouds over Sweden
+### The Mutual Occultation of Ganymede and Io
 
-![Noctilucent Clouds over Sweden](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg?w=6048&h=4030&fit=clip&crop=faces%2Cfocalpoint)
+[![The Mutual Occultation of Ganymede and Io](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/occultation.jpeg?w=1600&h=1000&fit=clip&crop=faces%2Cfocalpoint)](https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/)
 
-Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too dim to be seen, they may become visible just after sunset during the summer when illuminated by sunlight from below the horizon. Noctilucent clouds are the highest clouds and are known more technically as polar mesospheric clouds. Featured here as they appeared in early August, a network of blue noctilucent clouds was captured in the distant sky above a field of green grass near Linköping, Sweden, with trees in stark silhouette across the horizon. Much about noctilucent clouds has been discovered only in the past two decades, while how they form and evolve remains a topic of active research.
+▶️ _[Watch today's Astronomy Video on NASA Science](https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/)_
+
+Jupiter is one of the least lonely planets in the Solar System, at least when it comes to natural satellites. 115 moons have been discovered orbiting Jupiter so far! (Saturn has the most with 293, but who’s counting.) Ganymede and Io, two of Jupiter’s Galilean moons, met in the sky on October 20th, 2026. Today’s video captures the meeting, with Ganymede briefly blocking Io from view. This event, when an astronomical object passes in front of another and either completely or partially blocks it, is called a mutual occultation. The mutual occultations of Galilean moons are rare to witness because they require Earth’s edge-on view of their orbits. This occurs once every 6 years when Jupiter reaches its equinox and appears less “tilted”. Ganymede is also casting its shadow on Jupiter’s right side. Any fictional Jovian species within the shadow would experience a solar eclipse!
 
 
 ---
@@ -15,36 +17,38 @@ Sometimes it's night on the ground but day in the air. As the Earth rotates to e
 
 ### Dictionary.com
 
-**stroopwafel** _noun_ • /[strohp-wah-fuhl]/
+**senescent** _adjective_ • /[si-nes-uhnt]/
 
-a small, crisp Dutch waffle cookie
+growing old; aging
 
-A stroopwafel is a Dutch treat made from two thin waffle cookies with a sweet caramel filling between them. One popular way to eat a stroopwafel is to rest it over a hot cup of coffee or tea so the steam gently warms and softens the filling. The result is still crisp at the edges, but pleasantly gooey in the middle. Yum!
+Senescent describes something that is growing old or showing the effects of age. In biology, the word can refer to cells that have stopped dividing but remain alive, a process researchers study for its role in aging. You might think of a person as senescent too, but we strongly recommend keeping that to yourself!
 
-> _She enjoyed a sweet stroopwafel as an afternoon snack during her trip to Amsterdam._
+> _The senescent dog moved slowly and liked to take long naps in the sun._
 
 ### Britannica
 
-**engulf** _verb_
+**dissolve** _verb_ • //dɪˈzɑːlv//
 
-To flow over and cover completely, or to overwhelm as if by flowing over.
+To officially end or terminate an organization, agreement, or relationship.
 
-> _The sudden storm threatened to engulf the small fishing boat in its massive waves._
+> _The committee decided to dissolve the old regulations, paving the way for a new, more flexible policy._
 
-_Similar: immerse, inundate, overwhelm_  •  _Opposite: uncover, expose, release_
+_Similar: terminate, disband, annul_  •  _Opposite: establish, form, constitute_
 
-> _"But it was in vain: sleep fled from my eyes; and the anguish of my soul engulfed me, and I was left a prey to the most terrific reveries."_
+> _"When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."_
 >
-> — **Mary Shelley**, Frankenstein; or, The Modern Prometheus (1818)
+> — **Thomas Jefferson**, The Declaration of Independence (July 4, 1776)
 
 ### Merriam-Webster
 
-**milieu** _noun_ • /meel-YOO/
+**grotesque** _adjective_ • /groh-TESK/
 
-The setting in which people live or in which something occurs
+Very strange or ugly in a way that is not normal or natural
 
-> _Langston Hughes, Zora Neale Hurston, and Jean Toomer were among the many writers who flourished in the intellectual milieu of the Harlem Renaissance._
+> _She opted for a scary Halloween costume, complete with a grotesque monster mask._
+>
+> _Their claim is a grotesque distortion of the facts._
 
-> “‘Hombre al Agua’ starts out playful and grows more overtly comic, particularly once politics is thrown into the mix. At one point, a character compares the film’s milieu, the world of the rich, to old sci-fi movies where astronauts land on a planet that looks a lot like earth but turns out to be completely different.” — Steve Pond, The Wrap, 6 Sept. 2026
+> "At the heart of Mary Shelley's 1818 classic Frankenstein and its many pop culture adaptations is the scene in the mad scientist’s lab where Victor Frankenstein, helped by a bolt of lightning, animates the grotesque figure made out of human and animal parts lying on his anatomy table." — Candida Rifkind, The Winnipeg Free Press, 30 May 2026
 
-_It’s not difficult to locate another word within the milieu of milieu, whose final four letters spell lieu. Lieu is an archaic word meaning “place,” today used almost exclusively in “in lieu of” (= in the place of), as in “in lieu of cash a credit card is acceptable.” English users borrowed this lieu from Anglo-French—the French language used in medieval England—in the 13th century. It wasn’t until many centuries later, in the mid-1880s, that English adopted milieu from the French spoken in France. (In Old French, milieu meant “midst,” from mi, meaning “middle,” + lieu.) Both milieu and lieu have an ancestor in the Latin word for place, locus, as does many an English word, including locate._
+_During the Italian Renaissance, Romans of culture took a great interest in their country's past and began excavating ancient buildings. During their excavations, they uncovered chambers (known in Italian as grotte, "caves," in reference to their cavelike appearance) decorated with fantastical paintings. The Italian word grottesca became the name for a later but similar type of painting or sculpture depicting fantastic combinations of human and animal forms interwoven with unusual fruits and flowers, and by 1561 it had passed through Middle French into the English noun grotesque. The adjective form of grotesque was first used in the early 17th century to describe the decorative art but is now used to describe anything bizarre, incongruous, or unusual._
