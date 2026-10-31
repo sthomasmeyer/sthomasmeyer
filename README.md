@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-30 16:59:11 UTC_
+_Updated: 2026-10-31 16:01:08 UTC_
 
-### Haunting the Cepheus Flare
+### Night on a Spooky Planet
 
-![Haunting the Cepheus Flare](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg?w=6000&h=4076&fit=clip&crop=faces%2Cfocalpoint)
+![Night on a Spooky Planet](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg?w=1300&h=867&fit=clip&crop=faces%2Cfocalpoint)
 
-Spooky shapes seem to haunt this dusty expanse, drifting through the night in the royal constellation Cepheus. Of course, the shapes are cosmic dust clouds visible in dimly reflected starlight. Far from your own neighborhood, they lurk above the plane of the Milky Way at the edge of the Cepheus Flare molecular cloud complex some 1,200 light-years away. Over 2 light-years across and brighter than most of the other ghostly apparitions, vdB 141 or Sh2-136 is also known as the Ghost Nebula. It lies at lower right in the starry field of view. Inside the Ghost Nebula are reddish telltale signs of dense cores collapsing in the early stages of star formation. With the eerie hue of interstellar dust reflecting bluish light from hot young stars of NGC 7023, the Iris Nebula stands out against the dark just left of center. In the broad telescopic frame, these fertile interstellar dust fields stretch almost six full moons across the sky.
+What spooky planet is this? Planet Earth on a dark and stormy night, of course. The ghostly scene was photographed at Hverir, a geothermally active area found along northeastern Iceland's volcanic landscape. Triggered by solar activity, geomagnetic storms have unleashed energetic particles trapped in Earth's magnetic field. Penetrating the planet's upper atmosphere at high latitudes, the particles create auroral displays in the starry night sky. Ghostly towers of steam and gas are venting from local fumaroles to dance against the eerie, greenish northern lights. For now, auroral activity on planet Earth remains in a high state as the Sun is only in early phases of decline from the peak of its solar activity cycle. And soon, other ghostly apparitions may dance in your neighborhood. Happy Halloween!
 
 
 ---
@@ -15,38 +15,36 @@ Spooky shapes seem to haunt this dusty expanse, drifting through the night in th
 
 ### Dictionary.com
 
-**chalcedony** _noun_ • /[kal-sed-uhn-ee]/
+**thaumaturgy** _noun_ • /[thaw-muh-tur-jee]/
 
-a translucent variety of quartz, often milky or grayish
+the working of wonders or miracles; magic
 
-Chalcedony is a variety of quartz that often takes on a translucent, milky appearance. Long before modern gem cutting, chalcedony was used in carvings and jewelry because it could take a smooth polish while holding fine detail. The blend of durability and beauty that made chalcedony useful to ancient craftspeople still makes it an appealing gemstone today.
+Thaumaturgy is the working of wonders or miracles through seemingly supernatural means. The word can conjure up secret rites performed by candlelight or incredible feats that leave onlookers wondering what they just witnessed. Thaumaturgy belongs to the shadowy borderland where belief and magic are hard to separate.
 
-> _The jeweler crafted a necklace featuring a smooth piece of pale gray chalcedony._
+> _The sorcerer performed acts of thaumaturgy that defied explanation._
 
 ### Britannica
 
-**bouquet** _noun_
+**uniform** _noun_ • //ˈjuː.nə.fɔːrm//
 
-A group of flowers that are picked and often tied together.
+A distinctive set of clothes worn by members of an organization, service, or group to maintain a standardized appearance.
 
-> _She carefully arranged the vibrant bouquet of wildflowers in the antique vase._
+> _Freshly pressed and adorned with polished brass buttons, his dress uniform hung ready for the morning inspection._
 
-_Similar: posy, nosegay, arrangement_
+_Similar: livery, regalia, vestments_  •  _Opposite: civilian clothes, plainclothes, mufti_
 
-> _"He had a bouquet in his hand, a bouquet of violets."_
+> _"He moved over to the window: a smallish, frail figure, the meagreness of his body merely emphasized by the blue overalls which were the uniform of the party."_
 >
-> — **Victor Hugo**, Les Misérables (1862)
+> — **George Orwell**, Nineteen Eighty-Four (1949)
 
 ### Merriam-Webster
 
-**reticent** _adjective_ • /RET-uh-sunt/
+**wraith** _noun_ • /RAYTH/
 
-Feeling or showing reluctance, unwillingness, or hesitation
+The spirit of a dead person
 
-> _The team was reticent to spend such a large amount of money, even for an all-star free agent._
->
-> _He’s always been reticent about discussing personal matters at work._
+> _The most frightening scene from the movie featured a vengeful wraith creeping slowly up behind the main characters._
 
-> “It can be dangerous and difficult for journalists to report in war zones, and armies are understandably reticent to share details of their location, actions, and future plans.” — Rainey Reitman, Transaction Denied: Big Finance’s Power to Punish Speech, 2026
+> "Nearly every storyteller knew the legend of the ghostly woman dressed in white, forever searching for her husband. ... Like all good desert legends, the facts shifted with the wind, but the ending was always the same: if you wandered too far into the dunes, you just might hear the wraith calling to her lost husband." — Candice McDonald, The Alamogordo (New Mexico) Daily News, 30 July 2026
 
-_Use of reticent to mean “reluctant”—though it veers away from the word’s Latin origins in the verb reticēre, meaning “to keep silent”—is well established, and there is no reason to be reticent about employing it. In fact, reticent took on its “reluctant” sense a mere 50 years after first appearing in English in the early 19th century with the meaning “inclined to be silent or uncommunicative.” Though some brows may furrow, the development of reticent’s newer meaning has some logic to it: English speakers first used reticent synonymously with reluctant when the context was speech, as in “he was reticent to talk about his past,” keeping the word close to its “silent” beginnings. Eventually, however, exclusive association with speech was abandoned, and one can now be reticent to do anything, even if it’s to admit that language is not immutable._
+_If you see your own double, you're in trouble, at least if you believe old superstitions. The belief that a ghostly twin's appearance portends death is one common to many cultures. In German folklore, such an apparition is called a Doppelgänger (literally, "double goer"); in Scottish lore, it is a wraith. The exact origin of the word wraith is misty, however, and etymologists can only trace it back to the early 16th century—in particular to a 1513 translation of Virgil's Aeneid by Gavin Douglas (the Scotsman used wraith to name apparitions of both the dead and the living). Today, wraith may refer broadly to ghost or specter, or figuratively to something regarded as ghostly or insubstantial, as when New Yorker film critic Anthony Lane referred to an actor's "wraith of a mustache."_
