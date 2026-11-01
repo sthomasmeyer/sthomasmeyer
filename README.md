@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-10-31 16:01:08 UTC_
+_Updated: 2026-11-01 17:04:37 UTC_
 
-### Night on a Spooky Planet
+### Colors of the Moon
 
-![Night on a Spooky Planet](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg?w=1300&h=867&fit=clip&crop=faces%2Cfocalpoint)
+![Colors of the Moon](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg?w=960&h=991&fit=clip&crop=faces%2Cfocalpoint)
 
-What spooky planet is this? Planet Earth on a dark and stormy night, of course. The ghostly scene was photographed at Hverir, a geothermally active area found along northeastern Iceland's volcanic landscape. Triggered by solar activity, geomagnetic storms have unleashed energetic particles trapped in Earth's magnetic field. Penetrating the planet's upper atmosphere at high latitudes, the particles create auroral displays in the starry night sky. Ghostly towers of steam and gas are venting from local fumaroles to dance against the eerie, greenish northern lights. For now, auroral activity on planet Earth remains in a high state as the Sun is only in early phases of decline from the peak of its solar activity cycle. And soon, other ghostly apparitions may dance in your neighborhood. Happy Halloween!
+What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy. A red- or yellow-colored moon usually indicates a moon seen near the horizon. There, some of the blue light has been scattered away by a long path through the Earth's atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles. What created the purple moon is unclear -- it may be a combination of several effects. The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth's shadow, appeared a faint red -- due to light refracted through air around the Earth. Have you ever seen an unusually colorful Moon?
 
 
 ---
@@ -15,36 +15,36 @@ What spooky planet is this? Planet Earth on a dark and stormy night, of course. 
 
 ### Dictionary.com
 
-**thaumaturgy** _noun_ • /[thaw-muh-tur-jee]/
+**ad infinitum** _adverb_ • /[ad in-fuh-nahy-tuhm]/
 
-the working of wonders or miracles; magic
+to infinity; endlessly
 
-Thaumaturgy is the working of wonders or miracles through seemingly supernatural means. The word can conjure up secret rites performed by candlelight or incredible feats that leave onlookers wondering what they just witnessed. Thaumaturgy belongs to the shadowy borderland where belief and magic are hard to separate.
+When something continues without an end in sight, you can describe it as happening ad infinitum. Whether it's a song on repeat or the same breakfast each morning, this adverb captures the feeling of repetition. You might say that ad infinitum is a useful way to describe the merry-go-round of life's little moments and routines.
 
-> _The sorcerer performed acts of thaumaturgy that defied explanation._
+> _They debated the controversial rule changes ad infinitum, never reaching a final decision._
 
 ### Britannica
 
-**uniform** _noun_ • //ˈjuː.nə.fɔːrm//
+**multitasking** _noun_
 
-A distinctive set of clothes worn by members of an organization, service, or group to maintain a standardized appearance.
+The ability of a computer operating system or a person to perform multiple tasks or processes seemingly simultaneously.
 
-> _Freshly pressed and adorned with polished brass buttons, his dress uniform hung ready for the morning inspection._
+> _In today's fast-paced world, many professionals feel constant pressure to excel at multitasking, often juggling emails, phone calls, and project deadlines all at once._
 
-_Similar: livery, regalia, vestments_  •  _Opposite: civilian clothes, plainclothes, mufti_
+_Similar: parallel processing, concurrent operation, juggling_  •  _Opposite: single-tasking, focused work, sequential processing_
 
-> _"He moved over to the window: a smallish, frail figure, the meagreness of his body merely emphasized by the blue overalls which were the uniform of the party."_
+> _"Multitasking is a feature of the Operating System/360 that allows the concurrent execution of two or more tasks within a single operating system environment."_
 >
-> — **George Orwell**, Nineteen Eighty-Four (1949)
+> — **IBM Corporation**, IBM System/360 Operating System: Concepts and Facilities (1965)
 
 ### Merriam-Webster
 
-**wraith** _noun_ • /RAYTH/
+**Pyrrhic** _adjective_ • /PEER-ik/
 
-The spirit of a dead person
+Achieved at excessive cost
 
-> _The most frightening scene from the movie featured a vengeful wraith creeping slowly up behind the main characters._
+> _The basketball team’s comeback in the final minutes turned out to be a Pyrrhic victory as the star center injured her ankle._
 
-> "Nearly every storyteller knew the legend of the ghostly woman dressed in white, forever searching for her husband. ... Like all good desert legends, the facts shifted with the wind, but the ending was always the same: if you wandered too far into the dunes, you just might hear the wraith calling to her lost husband." — Candice McDonald, The Alamogordo (New Mexico) Daily News, 30 July 2026
+> “… where I work, some of my colleagues have suggested that … universities ought to wean themselves off federal grants and become fully fiscally independent; otherwise, they’ll remain too vulnerable to political pressure. This would be a Pyrrhic victory, however, if you believe that robust government funding of research, and of higher education in general, is vital for scientific and social progress.” — David Pozen, The New York Times, 13 Mar. 2026
 
-_If you see your own double, you're in trouble, at least if you believe old superstitions. The belief that a ghostly twin's appearance portends death is one common to many cultures. In German folklore, such an apparition is called a Doppelgänger (literally, "double goer"); in Scottish lore, it is a wraith. The exact origin of the word wraith is misty, however, and etymologists can only trace it back to the early 16th century—in particular to a 1513 translation of Virgil's Aeneid by Gavin Douglas (the Scotsman used wraith to name apparitions of both the dead and the living). Today, wraith may refer broadly to ghost or specter, or figuratively to something regarded as ghostly or insubstantial, as when New Yorker film critic Anthony Lane referred to an actor's "wraith of a mustache."_
+_In 306 B.C.E., at the age of twelve, a youth named Pyrrhus took the throne of Epirus, a country in northwestern Greece. Pyrrhus grew to be an aggressive and quarrelsome king, given to warring with his neighbors. In 280 B.C.E., he brought 25,000 men (and a number of elephants) to southern Italy and defeated the Romans at Heraclea, but only after losing many of his soldiers. A year later, he again suffered heavy casualties at Roman hands in a battle at Ausculum. According to Plutarch, when he was congratulated on those victories Pyrrhus replied, “Another such victory over the Romans and we are undone.” The bloody battles of Pyrrhus didn’t find their way into English in the phrase “Pyrrhic victory” until the 1800s, but once it was established Pyrrhic quickly found occupation as an adjective even independent of the phrase, in such constructions as a “Pyrrhic achievement” and “Pyrrhic success.”_
