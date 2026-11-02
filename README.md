@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-01 17:04:37 UTC_
+_Updated: 2026-11-02 20:43:20 UTC_
 
-### Colors of the Moon
+### A Long Cloud on Mars
 
-![Colors of the Moon](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg?w=960&h=991&fit=clip&crop=faces%2Cfocalpoint)
+![A Long Cloud on Mars](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&h=1200&fit=clip&crop=faces%2Cfocalpoint)
 
-What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy. A red- or yellow-colored moon usually indicates a moon seen near the horizon. There, some of the blue light has been scattered away by a long path through the Earth's atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles. What created the purple moon is unclear -- it may be a combination of several effects. The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth's shadow, appeared a faint red -- due to light refracted through air around the Earth. Have you ever seen an unusually colorful Moon?
+What’s causing this unusually long cloud on Mars? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA’s robotic Mars Express spacecraft. The featured image is from 2018. The cloud forms only during spring and summer seasons and then only during morning hours. Made of water-ice, the most familiar process that causes cloud crystals to form around bits of dust would fail due to the thinness and lack of dust high in the Martian atmosphere. Leading speculation holds that dust is not involved. After the cloud forms near the volcano Arsia Mons, wind blows the cloud downstream — creating a tail that can extend over 1500 kilometers. Efforts to better understand AMECs will continue, an understanding that may bolster a more complete view of cloud formation on Earth.
 
 
 ---
@@ -15,36 +15,36 @@ What color is the Moon? It depends on the night -- and the time. Outside of the 
 
 ### Dictionary.com
 
-**ad infinitum** _adverb_ • /[ad in-fuh-nahy-tuhm]/
+**maneki-neko** _noun_ • /[mah-ne-kee-ne-koh]/
 
-to infinity; endlessly
+a Japanese good luck statuette of a cat
 
-When something continues without an end in sight, you can describe it as happening ad infinitum. Whether it's a song on repeat or the same breakfast each morning, this adverb captures the feeling of repetition. You might say that ad infinitum is a useful way to describe the merry-go-round of life's little moments and routines.
+You may have seen a maneki-neko perched near the entrance of a restaurant or shop, with one little paw raised. This statuette of a cat is traditionally displayed to attract good fortune, and its name comes from Japanese words meaning "beckoning cat." The next time you spot a maneki-neko, consider it a friendly invitation to good luck!
 
-> _They debated the controversial rule changes ad infinitum, never reaching a final decision._
+> _She placed a ceramic maneki-neko near the register to beckon good fortune into her store._
 
 ### Britannica
 
-**multitasking** _noun_
+**energetic** _adjective_
 
-The ability of a computer operating system or a person to perform multiple tasks or processes seemingly simultaneously.
+Having or showing a lot of energy; active and vigorous.
 
-> _In today's fast-paced world, many professionals feel constant pressure to excel at multitasking, often juggling emails, phone calls, and project deadlines all at once._
+> _The energetic puppy chased its tail with boundless enthusiasm._
 
-_Similar: parallel processing, concurrent operation, juggling_  •  _Opposite: single-tasking, focused work, sequential processing_
+_Similar: vigorous, lively, dynamic_  •  _Opposite: lethargic, sluggish, inactive_
 
-> _"Multitasking is a feature of the Operating System/360 that allows the concurrent execution of two or more tasks within a single operating system environment."_
+> _"An energetic thought or action will at once make the world your debtor."_
 >
-> — **IBM Corporation**, IBM System/360 Operating System: Concepts and Facilities (1965)
+> — **Ralph Waldo Emerson**, Self-Reliance (1841)
 
 ### Merriam-Webster
 
-**Pyrrhic** _adjective_ • /PEER-ik/
+**satiate** _verb_ • /SAY-shee-ayt/
 
-Achieved at excessive cost
+To satisfy (a need, desire, etc.) fully
 
-> _The basketball team’s comeback in the final minutes turned out to be a Pyrrhic victory as the star center injured her ankle._
+> _The new restaurant’s menu promises to satiate diners’ cravings for comfort food, offering fresh spins on classic, time-honored fare._
 
-> “… where I work, some of my colleagues have suggested that … universities ought to wean themselves off federal grants and become fully fiscally independent; otherwise, they’ll remain too vulnerable to political pressure. This would be a Pyrrhic victory, however, if you believe that robust government funding of research, and of higher education in general, is vital for scientific and social progress.” — David Pozen, The New York Times, 13 Mar. 2026
+> “Powell was one of scores of Taylor Swift fans and inquisitive passersby who braved the New York City heat Thursday to satiate their curiosity about what many are calling the wedding of the century and the American equivalent of royal nuptials.” — Kaitlyn Huamani and Jake Offenhartz, The Associated Press, 3 July 2026
 
-_In 306 B.C.E., at the age of twelve, a youth named Pyrrhus took the throne of Epirus, a country in northwestern Greece. Pyrrhus grew to be an aggressive and quarrelsome king, given to warring with his neighbors. In 280 B.C.E., he brought 25,000 men (and a number of elephants) to southern Italy and defeated the Romans at Heraclea, but only after losing many of his soldiers. A year later, he again suffered heavy casualties at Roman hands in a battle at Ausculum. According to Plutarch, when he was congratulated on those victories Pyrrhus replied, “Another such victory over the Romans and we are undone.” The bloody battles of Pyrrhus didn’t find their way into English in the phrase “Pyrrhic victory” until the 1800s, but once it was established Pyrrhic quickly found occupation as an adjective even independent of the phrase, in such constructions as a “Pyrrhic achievement” and “Pyrrhic success.”_
+_The time has come at last to share the “sad” history of satiate, by which we mean that the two words—sad and satiate—are etymologically connected, not that the details will have you reaching for the tissue box. Both satiate and sad are related to the Latin satis, meaning “enough.” When we say our desire, thirst, curiosity, etc. has been satiated, we mean it has been fully satisfied (satisfy being another satis descendant)—in other words, we’ve had enough. Satiate and sate (believed to be an alteration and shortening of satiate) sometimes imply simple contentment, but often suggest that having enough has dulled interest or desire for more, as in “Years of globe-trotting satiated their interest in travel.”_
