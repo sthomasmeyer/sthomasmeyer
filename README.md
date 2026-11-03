@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-02 20:43:20 UTC_
+_Updated: 2026-11-03 18:21:36 UTC_
 
-### A Long Cloud on Mars
+### Comet PanSTARRs and Rainbow Meteor
 
-![A Long Cloud on Mars](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&h=1200&fit=clip&crop=faces%2Cfocalpoint)
+![Comet PanSTARRs and Rainbow Meteor](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg?w=0&h=0&fit=clip&crop=faces%2Cfocalpoint)
 
-What’s causing this unusually long cloud on Mars? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA’s robotic Mars Express spacecraft. The featured image is from 2018. The cloud forms only during spring and summer seasons and then only during morning hours. Made of water-ice, the most familiar process that causes cloud crystals to form around bits of dust would fail due to the thinness and lack of dust high in the Martian atmosphere. Leading speculation holds that dust is not involved. After the cloud forms near the volcano Arsia Mons, wind blows the cloud downstream — creating a tail that can extend over 1500 kilometers. Efforts to better understand AMECs will continue, an understanding that may bolster a more complete view of cloud formation on Earth.
+Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor. Comet C/2025 R3 (PanSTARRS) was captured from Hautacam, France in April when the giant space iceberg sported impressive ion (blue) and dust tails. Sand-sized rocky debris that enters Earth’s atmosphere typically appears as meteors, while the colorful foreground streak here may indicate a complicated composition. This month three notable meteor showers will reach their peaks. Over the next few days, the Southern Taurids will be reaching their apex, while the Northern Taurids will top out about a week later. Both originate from Comet 2P/Encke. November is most famous for the Leonids Meteor Shower, though, which originates from Comet 55P/Tempel-Tuttle and will reach its crescendo in about two weeks.
 
 
 ---
@@ -15,36 +15,36 @@ What’s causing this unusually long cloud on Mars? Known as the Arsia Mons Elo
 
 ### Dictionary.com
 
-**maneki-neko** _noun_ • /[mah-ne-kee-ne-koh]/
+**boomlet** _noun_ • /[boom-lit]/
 
-a Japanese good luck statuette of a cat
+a brief increase, as in business activity or political popularity
 
-You may have seen a maneki-neko perched near the entrance of a restaurant or shop, with one little paw raised. This statuette of a cat is traditionally displayed to attract good fortune, and its name comes from Japanese words meaning "beckoning cat." The next time you spot a maneki-neko, consider it a friendly invitation to good luck!
+Not every surge is big enough to qualify as a full-blown boom — and that's where boomlet comes in. A boomlet is a brief increase, particularly in business activity or political popularity. The word is a diminutive form of "boom," giving it a sense of a smaller or more temporary burst of enthusiasm. A boomlet shows that even a short-term boost can make an impression.
 
-> _She placed a ceramic maneki-neko near the register to beckon good fortune into her store._
+> _Local retailers enjoyed a brief boomlet in sales during the holiday weekend._
 
 ### Britannica
 
-**energetic** _adjective_
+**paternal** _adjective_
 
-Having or showing a lot of energy; active and vigorous.
+Of or relating to a father; characteristic of a father.
 
-> _The energetic puppy chased its tail with boundless enthusiasm._
+> _His paternal instincts kicked in when he saw the lost child wandering alone in the park._
 
-_Similar: vigorous, lively, dynamic_  •  _Opposite: lethargic, sluggish, inactive_
+_Similar: fatherly, parental_  •  _Opposite: maternal, motherly_
 
-> _"An energetic thought or action will at once make the world your debtor."_
+> _"Mr. Bennet was a gentleman of easy fortune, living at Longbourn with his wife and five daughters, and though he had a paternal interest in their welfare, his primary concern was often his own amusement."_
 >
-> — **Ralph Waldo Emerson**, Self-Reliance (1841)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
 ### Merriam-Webster
 
-**satiate** _verb_ • /SAY-shee-ayt/
+**candidate** _noun_ • /KAN-duh-dayt/
 
-To satisfy (a need, desire, etc.) fully
+Someone aspiring to, or nominated or qualified for, an office
 
-> _The new restaurant’s menu promises to satiate diners’ cravings for comfort food, offering fresh spins on classic, time-honored fare._
+> _The hiring team will select the best candidate for the job._
 
-> “Powell was one of scores of Taylor Swift fans and inquisitive passersby who braved the New York City heat Thursday to satiate their curiosity about what many are calling the wedding of the century and the American equivalent of royal nuptials.” — Kaitlyn Huamani and Jake Offenhartz, The Associated Press, 3 July 2026
+> "Voters can choose up to three of the candidates on their ballot." — Mary Ramsey, The Charlotte (North Carolina) Observer, 14 Feb. 2026
 
-_The time has come at last to share the “sad” history of satiate, by which we mean that the two words—sad and satiate—are etymologically connected, not that the details will have you reaching for the tissue box. Both satiate and sad are related to the Latin satis, meaning “enough.” When we say our desire, thirst, curiosity, etc. has been satiated, we mean it has been fully satisfied (satisfy being another satis descendant)—in other words, we’ve had enough. Satiate and sate (believed to be an alteration and shortening of satiate) sometimes imply simple contentment, but often suggest that having enough has dulled interest or desire for more, as in “Years of globe-trotting satiated their interest in travel.”_
+_When a man running for public office in ancient Rome greeted voters in the Forum, the center of judicial and public business, he wore a toga that had been whitened with chalk. As a result, the Latin word for someone seeking office came to be candidātus, meaning literally "clothed in white." Candidātus, in turn, comes from the adjective candidus, meaning "white." Candidātus was adopted into English as candidate, and since the 17th century that word has had an uncontested seat in the language._
