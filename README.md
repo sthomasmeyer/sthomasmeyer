@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-03 18:21:36 UTC_
+_Updated: 2026-11-04 18:34:46 UTC_
 
-### Comet PanSTARRs and Rainbow Meteor
+### The Not-So-Hidden Galaxy, IC 342
 
-![Comet PanSTARRs and Rainbow Meteor](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg?w=0&h=0&fit=clip&crop=faces%2Cfocalpoint)
+![The Not-So-Hidden Galaxy, IC 342](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/ic342.png?w=4144&h=2822&fit=clip&crop=faces%2Cfocalpoint)
 
-Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor. Comet C/2025 R3 (PanSTARRS) was captured from Hautacam, France in April when the giant space iceberg sported impressive ion (blue) and dust tails. Sand-sized rocky debris that enters Earth’s atmosphere typically appears as meteors, while the colorful foreground streak here may indicate a complicated composition. This month three notable meteor showers will reach their peaks. Over the next few days, the Southern Taurids will be reaching their apex, while the Northern Taurids will top out about a week later. Both originate from Comet 2P/Encke. November is most famous for the Leonids Meteor Shower, though, which originates from Comet 55P/Tempel-Tuttle and will reach its crescendo in about two weeks.
+“I see” IC 342, the Hidden Galaxy! Today’s image peers through the plane of the Milky Way, through all its gas, dust and stars, to unveil this spiral galaxy. IC 342 (or Caldwell 5) is one of the brightest members of the IC 342/Maffei group of galaxies. Located about 10 million light years away, this group is quite close to the Local Group that includes our Milky Way. Inaccurate accounting of the crowded and dusty Milky Way foreground has led to misunderstandings in IC 342’s history, including the theory that the galaxy was ejected from the Local Group. IC 342 has its own dust intermittently blocking the glow of hydrogen gas, indicating the presence of bright, young stars. Magnetic field maps of IC 342 reveal that magnetic fields may contribute substantially to one of the biggest galactic puzzles: how do spiral arms form?
 
 
 ---
@@ -15,36 +15,38 @@ Did this meteor come from that comet? Probably not. Although many meteors do o
 
 ### Dictionary.com
 
-**boomlet** _noun_ • /[boom-lit]/
+**sharent** _verb_ • /[shair-uhnt]/
 
-a brief increase, as in business activity or political popularity
+to frequently use social media to share photos and information about one's child
 
-Not every surge is big enough to qualify as a full-blown boom — and that's where boomlet comes in. A boomlet is a brief increase, particularly in business activity or political popularity. The word is a diminutive form of "boom," giving it a sense of a smaller or more temporary burst of enthusiasm. A boomlet shows that even a short-term boost can make an impression.
+Parents might sharent when their kids take their first steps or head off to their first day of school, posting photos on social media for friends and family to see. The word blends "share" and "parent" to capture a distinctly modern way of documenting family life. When parents want to celebrate big milestones or capture small everyday moments, they can sharent.
 
-> _Local retailers enjoyed a brief boomlet in sales during the holiday weekend._
+> _Proud parents often sharent, posting updates and photos of their growing toddler._
 
 ### Britannica
 
-**paternal** _adjective_
+**rupture** _verb_ • //ˈrʌp.tʃɚ//
 
-Of or relating to a father; characteristic of a father.
+To break, burst, or suddenly tear apart; to cause a breach or dissolution in a physical structure, relationship, or condition.
 
-> _His paternal instincts kicked in when he saw the lost child wandering alone in the park._
+> _The sudden surge in hydrostatic pressure threatened to rupture the aging municipal pipeline._
 
-_Similar: fatherly, parental_  •  _Opposite: maternal, motherly_
+_Similar: burst, fracture, sever_  •  _Opposite: heal, mend, repair_
 
-> _"Mr. Bennet was a gentleman of easy fortune, living at Longbourn with his wife and five daughters, and though he had a paternal interest in their welfare, his primary concern was often his own amusement."_
+> _"The outrage was one which could never be forgiven; the rupture between the King and the Commons had become irreparable."_
 >
-> — **Jane Austen**, Pride and Prejudice (1813)
+> — **Thomas Babington Macaulay**, The History of England from the Accession of James the Second (1848)
 
 ### Merriam-Webster
 
-**candidate** _noun_ • /KAN-duh-dayt/
+**fulsome** _adjective_ • /FULL-sum/
 
-Someone aspiring to, or nominated or qualified for, an office
+Generous in amount, extent, or spirit
 
-> _The hiring team will select the best candidate for the job._
+> _They were fulsome in their praise of her efforts to raise money for the new wing of the children’s hospital._
+>
+> _A day after offering a weak non-apology for instigating a bases-clearing brawl, the pitcher expressed more fulsome regrets at a press conference, taking full responsibility._
 
-> "Voters can choose up to three of the candidates on their ballot." — Mary Ramsey, The Charlotte (North Carolina) Observer, 14 Feb. 2026
+> “... her archive, now kept at Yale University, forms the basis of this lusty, vibrant and fittingly multi-textured bio-doc that pays fulsome tribute to [Barbara] Hammer’s shapeshifting, once undervalued but now increasingly revered talent.” — Leslie Felperin The Hollywood Reporter, 4 Sept. 2026
 
-_When a man running for public office in ancient Rome greeted voters in the Forum, the center of judicial and public business, he wore a toga that had been whitened with chalk. As a result, the Latin word for someone seeking office came to be candidātus, meaning literally "clothed in white." Candidātus, in turn, comes from the adjective candidus, meaning "white." Candidātus was adopted into English as candidate, and since the 17th century that word has had an uncontested seat in the language._
+_In the 19th century, fulsome was mostly a literary term used disapprovingly to describe excessive, insincere praise and flattery. This meaning is still current, but since the early 20th century fulsome has been increasingly used with far more positive meanings, among them “abundant, copious” (as in “wrote in fulsome detail”) and “full and well developed” (as in “a fulsome voice”). The result is some amount of confusion: a phrase like “fulsome praise” used today without clarifying context may rightly be understood to mean either “abundant praise” or “excessive and obsequious praise.” While some critics object to the pleasanter meanings of fulsome, they are in fact true to the word’s origins: when it was first used in the 14th century, fulsome meant “abundant, copious.”_
