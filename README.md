@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-04 18:34:46 UTC_
+_Updated: 2026-11-05 18:40:32 UTC_
 
-### The Not-So-Hidden Galaxy, IC 342
+### Enceladus in Silhouette
 
-![The Not-So-Hidden Galaxy, IC 342](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/ic342.png?w=4144&h=2822&fit=clip&crop=faces%2Cfocalpoint)
+![Enceladus in Silhouette](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png?w=982&h=575&fit=clip&crop=faces%2Cfocalpoint)
 
-“I see” IC 342, the Hidden Galaxy! Today’s image peers through the plane of the Milky Way, through all its gas, dust and stars, to unveil this spiral galaxy. IC 342 (or Caldwell 5) is one of the brightest members of the IC 342/Maffei group of galaxies. Located about 10 million light years away, this group is quite close to the Local Group that includes our Milky Way. Inaccurate accounting of the crowded and dusty Milky Way foreground has led to misunderstandings in IC 342’s history, including the theory that the galaxy was ejected from the Local Group. IC 342 has its own dust intermittently blocking the glow of hydrogen gas, indicating the presence of bright, young stars. Magnetic field maps of IC 342 reveal that magnetic fields may contribute substantially to one of the biggest galactic puzzles: how do spiral arms form?
+One of our Solar System's most tantalizing worlds, Enceladus is backlit by the Sun in this Cassini spacecraft image from November 1, 2009. The dramatic illumination reveals the plumes that continuously spew into space from the south pole of Saturn's 500 kilometer diameter moon. Discovered by Cassini in 2005, the icy plumes are likely connected to an ocean beneath the ice shell of Enceladus. They supply material directly to Saturn's outer, tenuous E ring and make the surface of Enceladus as reflective as snow. Across the scene, Saturn's icy rings scatter sunlight toward Cassini's cameras. Beyond the rings (lower right), the night side of 80 kilometer diameter moon Pandora is faintly lit by Saturnlight.
 
 
 ---
@@ -15,38 +15,36 @@ _Updated: 2026-11-04 18:34:46 UTC_
 
 ### Dictionary.com
 
-**sharent** _verb_ • /[shair-uhnt]/
+**incarnadine** _adjective_ • /[in-kahr-nuh-dahyn]/
 
-to frequently use social media to share photos and information about one's child
+red; crimson
 
-Parents might sharent when their kids take their first steps or head off to their first day of school, posting photos on social media for friends and family to see. The word blends "share" and "parent" to capture a distinctly modern way of documenting family life. When parents want to celebrate big milestones or capture small everyday moments, they can sharent.
+A sunset can paint the sky, turning it a dramatic incarnadine shade. You might also find this color in the jewel-like seeds of a ripe pomegranate, the velvet folds of a theater curtain, or the bright plumage of a cardinal. Wherever you see an incarnadine hue, it's bound to be a showstopper.
 
-> _Proud parents often sharent, posting updates and photos of their growing toddler._
+> _The sky turned a rich incarnadine color as the sun dipped below the horizon._
 
 ### Britannica
 
-**rupture** _verb_ • //ˈrʌp.tʃɚ//
+**edible** _adjective_
 
-To break, burst, or suddenly tear apart; to cause a breach or dissolution in a physical structure, relationship, or condition.
+Suitable or safe to be eaten.
 
-> _The sudden surge in hydrostatic pressure threatened to rupture the aging municipal pipeline._
+> _The wild berries, though beautiful, were not all edible, so we had to be careful what we picked._
 
-_Similar: burst, fracture, sever_  •  _Opposite: heal, mend, repair_
+_Similar: palatable, eatable, consumable_  •  _Opposite: inedible, poisonous, toxic_
 
-> _"The outrage was one which could never be forgiven; the rupture between the King and the Commons had become irreparable."_
+> _"I found also some small plants, which in the country where I was born, are eaten with bread, and are very good, and I knew them to be edible."_
 >
-> — **Thomas Babington Macaulay**, The History of England from the Accession of James the Second (1848)
+> — **Daniel Defoe**, Robinson Crusoe (1719)
 
 ### Merriam-Webster
 
-**fulsome** _adjective_ • /FULL-sum/
+**effrontery** _noun_ • /ih-FRUN-tuh-ree/
 
-Generous in amount, extent, or spirit
+Bold shamelessness
 
-> _They were fulsome in their praise of her efforts to raise money for the new wing of the children’s hospital._
->
-> _A day after offering a weak non-apology for instigating a bases-clearing brawl, the pitcher expressed more fulsome regrets at a press conference, taking full responsibility._
+> _Holly could not believe the sheer effrontery of the student who asked that her grade be changed even though she had completed little of the coursework._
 
-> “... her archive, now kept at Yale University, forms the basis of this lusty, vibrant and fittingly multi-textured bio-doc that pays fulsome tribute to [Barbara] Hammer’s shapeshifting, once undervalued but now increasingly revered talent.” — Leslie Felperin The Hollywood Reporter, 4 Sept. 2026
+> “Big Nose kicks up a loud fuss when a squirrel, chipmunk or bird has the effrontery to cross on the deck while he is lazily laying with his eyes peeking out the patio door glass.” — Barry Ellsworth, The Trenton (Ontario) Trentonian, 4 June 2026
 
-_In the 19th century, fulsome was mostly a literary term used disapprovingly to describe excessive, insincere praise and flattery. This meaning is still current, but since the early 20th century fulsome has been increasingly used with far more positive meanings, among them “abundant, copious” (as in “wrote in fulsome detail”) and “full and well developed” (as in “a fulsome voice”). The result is some amount of confusion: a phrase like “fulsome praise” used today without clarifying context may rightly be understood to mean either “abundant praise” or “excessive and obsequious praise.” While some critics object to the pleasanter meanings of fulsome, they are in fact true to the word’s origins: when it was first used in the 14th century, fulsome meant “abundant, copious.”_
+_A bald-faced liar (or barefaced liar, if you prefer) is one who has no shame about their dishonesty. Is it possible to be so shameless, so bald or bare of face as to be completely without a forehead? If this strikes you as an odd question (it is), consider the history of effrontery, a formal synonym of such informal words for shamelessness as nerve, cheek, and gall. The word traces back to the Medieval Latin adjective effrons, formed by combining the Latin prefix ex-, meaning “out” or “without,” with frons, the Latin word for “forehead.” Medieval Latin users didn’t use it to mean “without forehead,” however, but “shameless.” While the connection between the word’s literal origins and figurative meaning is unclear, some theorists have noted frons was sometimes used for the ability to blush, suggesting that someone acting with effrontery betrays no embarrassed feelings (visibly, at least) about their mendacity._
