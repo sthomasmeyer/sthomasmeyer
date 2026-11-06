@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-05 18:40:32 UTC_
+_Updated: 2026-11-06 17:54:01 UTC_
 
-### Enceladus in Silhouette
+### A Farewell to Swift
 
-![Enceladus in Silhouette](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png?w=982&h=575&fit=clip&crop=faces%2Cfocalpoint)
+![A Farewell to Swift](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg?w=5252&h=3744&fit=clip&crop=faces%2Cfocalpoint)
 
-One of our Solar System's most tantalizing worlds, Enceladus is backlit by the Sun in this Cassini spacecraft image from November 1, 2009. The dramatic illumination reveals the plumes that continuously spew into space from the south pole of Saturn's 500 kilometer diameter moon. Discovered by Cassini in 2005, the icy plumes are likely connected to an ocean beneath the ice shell of Enceladus. They supply material directly to Saturn's outer, tenuous E ring and make the surface of Enceladus as reflective as snow. Across the scene, Saturn's icy rings scatter sunlight toward Cassini's cameras. Beyond the rings (lower right), the night side of 80 kilometer diameter moon Pandora is faintly lit by Saturnlight.
+It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia. The featured image is a mosaic created in 2018 using the first one million images captured by the satellite's Ultraviolet/Optical Telescope. Swift had a combination of instruments, including an X-ray telescope and a gamma-ray telescope, that worked together to enable humanity to study, in unprecedented detail, the fastest and most energetic explosions in the universe. The most recent solar maximum accelerated the decay of the satellite's orbit. An innovative mission to rescue Swift by boosting its orbit was not successful. Swift burned on reentry like a shooting star, but the impressive data acquired by the telescope over its mission will continue to bring light to the mysteries of the cosmos for years to come. May it keep inspiring new missions to boldly go into space, explore new data and seek out new science.
 
 
 ---
@@ -15,36 +15,36 @@ One of our Solar System's most tantalizing worlds, Enceladus is backlit by the S
 
 ### Dictionary.com
 
-**incarnadine** _adjective_ • /[in-kahr-nuh-dahyn]/
+**whipsaw** _verb_ • /[wip-saw]/
 
-red; crimson
+to subject to two opposing forces at the same time
 
-A sunset can paint the sky, turning it a dramatic incarnadine shade. You might also find this color in the jewel-like seeds of a ripe pomegranate, the velvet folds of a theater curtain, or the bright plumage of a cardinal. Wherever you see an incarnadine hue, it's bound to be a showstopper.
+When you're caught between two competing demands, you can say you're being whipsawed. The word originally referred to a type of saw operated by two people pulling it back and forth, an apt image for feeling pulled in different directions. If you're being whipsawed, it may leave you unsure of which way to turn.
 
-> _The sky turned a rich incarnadine color as the sun dipped below the horizon._
+> _Conflicting orders from both managers continued to whipsaw the team throughout the frantic week._
 
 ### Britannica
 
-**edible** _adjective_
+**the brunt of** _idiom_
 
-Suitable or safe to be eaten.
+The main force or most severe impact of something harmful or dangerous.
 
-> _The wild berries, though beautiful, were not all edible, so we had to be careful what we picked._
+> _Small, independent businesses often bear the brunt of economic downturns._
 
-_Similar: palatable, eatable, consumable_  •  _Opposite: inedible, poisonous, toxic_
+_Similar: main impact, full force, worst part_
 
-> _"I found also some small plants, which in the country where I was born, are eaten with bread, and are very good, and I knew them to be edible."_
+> _"The most formidable of the Goths were the Ostrogoths, who, with the Visigoths, bore the brunt of the Huns' attacks."_
 >
-> — **Daniel Defoe**, Robinson Crusoe (1719)
+> — **Edward Gibbon**, The History of the Decline and Fall of the Roman Empire (1776)
 
 ### Merriam-Webster
 
-**effrontery** _noun_ • /ih-FRUN-tuh-ree/
+**quondam** _adjective_ • /KWAHN-dum/
 
-Bold shamelessness
+Former or sometime
 
-> _Holly could not believe the sheer effrontery of the student who asked that her grade be changed even though she had completed little of the coursework._
+> _Many people were surprised to learn that the quondam professor has since become a dancer._
 
-> “Big Nose kicks up a loud fuss when a squirrel, chipmunk or bird has the effrontery to cross on the deck while he is lazily laying with his eyes peeking out the patio door glass.” — Barry Ellsworth, The Trenton (Ontario) Trentonian, 4 June 2026
+> “… quondam soccer legend David Beckham and his wife Victoria, formerly known as Posh Spice of the Spice Girls …” — Alex Beam, The Boston Globe, 31 July 2026
 
-_A bald-faced liar (or barefaced liar, if you prefer) is one who has no shame about their dishonesty. Is it possible to be so shameless, so bald or bare of face as to be completely without a forehead? If this strikes you as an odd question (it is), consider the history of effrontery, a formal synonym of such informal words for shamelessness as nerve, cheek, and gall. The word traces back to the Medieval Latin adjective effrons, formed by combining the Latin prefix ex-, meaning “out” or “without,” with frons, the Latin word for “forehead.” Medieval Latin users didn’t use it to mean “without forehead,” however, but “shameless.” While the connection between the word’s literal origins and figurative meaning is unclear, some theorists have noted frons was sometimes used for the ability to blush, suggesting that someone acting with effrontery betrays no embarrassed feelings (visibly, at least) about their mendacity._
+_Looking for an unusual and creative way to say “former”? Quondam (which came to English in the 16th century from Latin quondam, meaning “at one time” or “formerly”) certainly fits the bill. Or maybe you’d prefer whilom, ci-devant, or preterit. Or you could really go wild with umquhile, a word that is extremely rare even in its more natural Scots English setting. Quondam itself isn’t exactly ubiquitous, but it’s used more than any of the other words above. If you’re looking for something a bit more pedestrian, you might try erstwhile. Despite its wonderfully archaic flavor, erstwhile is a highly favored alternative._
