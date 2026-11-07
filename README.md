@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-06 17:54:01 UTC_
+_Updated: 2026-11-07 16:48:18 UTC_
 
-### A Farewell to Swift
+### De Gerlache-Kocher Massif
 
-![A Farewell to Swift](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg?w=5252&h=3744&fit=clip&crop=faces%2Cfocalpoint)
+![De Gerlache-Kocher Massif](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg?w=1500&h=1022&fit=clip&crop=faces%2Cfocalpoint)
 
-It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia. The featured image is a mosaic created in 2018 using the first one million images captured by the satellite's Ultraviolet/Optical Telescope. Swift had a combination of instruments, including an X-ray telescope and a gamma-ray telescope, that worked together to enable humanity to study, in unprecedented detail, the fastest and most energetic explosions in the universe. The most recent solar maximum accelerated the decay of the satellite's orbit. An innovative mission to rescue Swift by boosting its orbit was not successful. Swift burned on reentry like a shooting star, but the impressive data acquired by the telescope over its mission will continue to bring light to the mysteries of the cosmos for years to come. May it keep inspiring new missions to boldly go into space, explore new data and seek out new science.
+De Gerlache-Kocher massif looms on the visible horizon in this close-up of the edge of the Moon. The mountainous formation rises about 4 kilometers above its surroundings and is located very close to the lunar south pole. Boasting permanently shadowed crater floors that likely contain deposits of water ice and peaks that receive almost continuous sunlight for solar power generation, the south polar region is consider a prime location for the first human settlement on the Moon. In fact, De Gerlache-Kocher massif itself has been considered as a potential landing site for future crewed Artemis missions to the Moon. The remarkable telescopic image of the massif at the lunar limb was captured on October 31. Then, a favorable libration angle or lunar wobble enhanced this oblique view across the Moon's south pole.
 
 
 ---
@@ -15,36 +15,38 @@ It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly
 
 ### Dictionary.com
 
-**whipsaw** _verb_ • /[wip-saw]/
+**condign** _adjective_ • /[kuhn-dahyn]/
 
-to subject to two opposing forces at the same time
+well-deserved; fitting
 
-When you're caught between two competing demands, you can say you're being whipsawed. The word originally referred to a type of saw operated by two people pulling it back and forth, an apt image for feeling pulled in different directions. If you're being whipsawed, it may leave you unsure of which way to turn.
+When a consequence is well-deserved, it might be described as condign. This adjective means "well-deserved or fitting," and it's especially associated with punishment that matches an offense. Condign comes from a Latin root meaning "worthy," reflecting the idea of something being appropriate or justified.
 
-> _Conflicting orders from both managers continued to whipsaw the team throughout the frantic week._
+> _After years of deceit, the corrupt official finally received condign punishment for his actions._
 
 ### Britannica
 
-**the brunt of** _idiom_
+**corsage** _noun_
 
-The main force or most severe impact of something harmful or dangerous.
+A small bouquet of flowers worn by a woman, typically pinned to her clothing or tied to her wrist, for a special occasion.
 
-> _Small, independent businesses often bear the brunt of economic downturns._
+> _For the prom, he presented her with a delicate corsage of pink roses, which she proudly pinned to her dress._
 
-_Similar: main impact, full force, worst part_
+_Similar: nosegay, bouquet_
 
-> _"The most formidable of the Goths were the Ostrogoths, who, with the Visigoths, bore the brunt of the Huns' attacks."_
+> _"She wore a new green sprigged muslin, with a corsage of white gardenias, and her hair was dressed high with a green ribbon."_
 >
-> — **Edward Gibbon**, The History of the Decline and Fall of the Roman Empire (1776)
+> — **Margaret Mitchell**, Gone With the Wind (1936)
 
 ### Merriam-Webster
 
-**quondam** _adjective_ • /KWAHN-dum/
+**abandon** _noun_ • /uh-BAN-dun/
 
-Former or sometime
+A feeling or attitude of wild or complete freedom
 
-> _Many people were surprised to learn that the quondam professor has since become a dancer._
+> _The two friends spent the work week looking forward to hitting the clubs together on Friday night and dancing with total abandon._
+>
+> _After years of contemplating, he finally decided to make a career pivot and pursue his passion with reckless abandon._
 
-> “… quondam soccer legend David Beckham and his wife Victoria, formerly known as Posh Spice of the Spice Girls …” — Alex Beam, The Boston Globe, 31 July 2026
+> “That experience didn’t just provide her the freedom to fail; it pushed her to take risks with abandon and follow her instincts. Even if that movie wasn’t well-received, it was an ambitious project that she had an obvious passion for.” — Coleman Spilde, Salon, 5 July 2026
 
-_Looking for an unusual and creative way to say “former”? Quondam (which came to English in the 16th century from Latin quondam, meaning “at one time” or “formerly”) certainly fits the bill. Or maybe you’d prefer whilom, ci-devant, or preterit. Or you could really go wild with umquhile, a word that is extremely rare even in its more natural Scots English setting. Quondam itself isn’t exactly ubiquitous, but it’s used more than any of the other words above. If you’re looking for something a bit more pedestrian, you might try erstwhile. Despite its wonderfully archaic flavor, erstwhile is a highly favored alternative._
+_Given the familiarity of the verb abandon, you may associate the noun with the act of leaving and never returning. But despite being a relative newcomer to English, the noun abandon, with its more pleasant connotations of freedom, is likely here to stay. It only entered the English language in the early 1800s, as a borrowing from French that goes back to an Old French word meaning “surrender.” (English had borrowed the verb abandon centuries before from the French speakers living in medieval England.) Louisa May Alcott recognized the word’s utility; she used it of Jo in Little Women, writing that “when the writing fit came on, she gave herself up to it with entire abandon, and led a blissful life, unconscious of want, care, or bad weather ...”_
