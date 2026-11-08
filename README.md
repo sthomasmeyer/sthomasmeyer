@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-07 16:48:18 UTC_
+_Updated: 2026-11-08 17:00:02 UTC_
 
-### De Gerlache-Kocher Massif
+### Major Fireball Meteor
 
-![De Gerlache-Kocher Massif](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg?w=1500&h=1022&fit=clip&crop=faces%2Cfocalpoint)
+![Major Fireball Meteor](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg?w=0&h=0&fit=clip&crop=faces%2Cfocalpoint)
 
-De Gerlache-Kocher massif looms on the visible horizon in this close-up of the edge of the Moon. The mountainous formation rises about 4 kilometers above its surroundings and is located very close to the lunar south pole. Boasting permanently shadowed crater floors that likely contain deposits of water ice and peaks that receive almost continuous sunlight for solar power generation, the south polar region is consider a prime location for the first human settlement on the Moon. In fact, De Gerlache-Kocher massif itself has been considered as a potential landing site for future crewed Artemis missions to the Moon. The remarkable telescopic image of the massif at the lunar limb was captured on October 31. Then, a favorable libration angle or lunar wobble enhanced this oblique view across the Moon's south pole.
+The sky glows with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the thoughtfully composed photo shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of La Villa, Alta Badia in Italy's Dolomite Alps. Above the nestled village lights, the constellation Ursa Major hangs over the northern horizon. But most stunning is the intense fireball meteor. It was captured during the camera's exposure by chance as it flashed east to west across the northern horizon, under Ursa Major's familiar Big Dipper asterism. Sightings of this major fireball meteor were widely reported in European skies, making it one of the most reported fireball events ever for planet Earth's American Meteor Society and the International Meteor Organization. The meteor's measured track over Germany is consistent with its origin near the active radiant of November's Northern Taurid Meteor Shower, a shower associated with dust from Encke's comet.
 
 
 ---
@@ -15,38 +15,36 @@ De Gerlache-Kocher massif looms on the visible horizon in this close-up of the e
 
 ### Dictionary.com
 
-**condign** _adjective_ • /[kuhn-dahyn]/
+**sudser** _noun_ • /[suhd-zer]/
 
-well-deserved; fitting
+soap opera
 
-When a consequence is well-deserved, it might be described as condign. This adjective means "well-deserved or fitting," and it's especially associated with punishment that matches an offense. Condign comes from a Latin root meaning "worthy," reflecting the idea of something being appropriate or justified.
+If you're looking for another fun word for "soap opera," may we suggest sudser? The word draws on "suds," a term for soapy water, and calls to mind the soap products once advertised during daytime serials. So next time you watch a soap opera, go ahead and call it a sudser. It's just more fun!
 
-> _After years of deceit, the corrupt official finally received condign punishment for his actions._
+> _My aunt spent the afternoon watching classic daytime sudsers on television._
 
 ### Britannica
 
-**corsage** _noun_
+**swanky** _adjective_
 
-A small bouquet of flowers worn by a woman, typically pinned to her clothing or tied to her wrist, for a special occasion.
+Very fashionable and expensive; stylishly luxurious.
 
-> _For the prom, he presented her with a delicate corsage of pink roses, which she proudly pinned to her dress._
+> _The new downtown restaurant, with its velvet banquettes and crystal chandeliers, was undeniably swanky._
 
-_Similar: nosegay, bouquet_
+_Similar: posh, chic, ritzy_  •  _Opposite: unfashionable, dowdy, plain_
 
-> _"She wore a new green sprigged muslin, with a corsage of white gardenias, and her hair was dressed high with a green ribbon."_
+> _"It was a rather swanky affair, and I felt a bit out of place in my old tweed suit."_
 >
-> — **Margaret Mitchell**, Gone With the Wind (1936)
+> — **P.G. Wodehouse**, The Code of the Woosters (1938)
 
 ### Merriam-Webster
 
-**abandon** _noun_ • /uh-BAN-dun/
+**cockamamie** _adjective_ • /kah-kuh-MAY-mee/
 
-A feeling or attitude of wild or complete freedom
+Ridiculous or silly
 
-> _The two friends spent the work week looking forward to hitting the clubs together on Friday night and dancing with total abandon._
->
-> _After years of contemplating, he finally decided to make a career pivot and pursue his passion with reckless abandon._
+> _Instead of being honest, he came up with a cockamamie excuse about why he didn’t turn in his assignment._
 
-> “That experience didn’t just provide her the freedom to fail; it pushed her to take risks with abandon and follow her instincts. Even if that movie wasn’t well-received, it was an ambitious project that she had an obvious passion for.” — Coleman Spilde, Salon, 5 July 2026
+> “As my wife and I plotted our annual family road trip, I made my pitch: A cemetery tour of the Midwest! It would be fun! … ‘It’s cemetery summer,’ I whispered and pumped my fist. A few days after my wife agreed to the plan, I found an even more willing audience for my cockamamie scheme.” — Will McGrath, The New York Times, 20 Aug. 2026
 
-_Given the familiarity of the verb abandon, you may associate the noun with the act of leaving and never returning. But despite being a relative newcomer to English, the noun abandon, with its more pleasant connotations of freedom, is likely here to stay. It only entered the English language in the early 1800s, as a borrowing from French that goes back to an Old French word meaning “surrender.” (English had borrowed the verb abandon centuries before from the French speakers living in medieval England.) Louisa May Alcott recognized the word’s utility; she used it of Jo in Little Women, writing that “when the writing fit came on, she gave herself up to it with entire abandon, and led a blissful life, unconscious of want, care, or bad weather ...”_
+_By the look and sound of it, cockamamie (also spelled cockamamy) could have something to do with a rooster and the outrageous sound it makes. But in fact, cockamamie is believed to be an altered form of the term decalcomania, which refers to the process, invented in the mid-19th century, of transferring pictures and designs from specially prepared paper to surfaces such as glass or porcelain. (The word referring to the picture or design itself, decal, is a shortening of decalcomania.) The word decalcomania comes from French, with décalcomanie combining the verb décalquer, meaning “to trace" or "to transfer by tracing,” and -manie, meaning “-mania.” Starting in the 1930s, painted strips of paper with images capable of being transferred to the skin were called decals or—in children’s slang—cockamamies. Those familiar with today’s temporary tattoos will understand quickly that these were regarded by many as silly novelties, lending the word cockamamie the necessary leeway for application to anything ridiculous._
