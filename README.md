@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-09 21:24:02 UTC_
+_Updated: 2026-11-10 18:37:51 UTC_
 
-### Rigel and the Witch Head Nebula
+### Saturn Behind the Moon
 
-![Rigel and the Witch Head Nebula](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg?w=3000&h=1990&fit=clip&crop=faces%2Cfocalpoint)
+![Saturn Behind the Moon](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg?w=2124&h=1582&fit=clip&crop=faces%2Cfocalpoint)
 
-Does the blue nebula look like the head of a witch? The nebula is known popularly as the Witch Head Nebula because, it is said, the nebula's shape resembles a Halloween-style caricature of a witch's head. Exactly how, though, can be a topic of imaginative speculation. What is clear is that IC 2118 is about 50 light-years across and made of gas and dust that points to -- because it has been partly eroded by -- the nearby star Rigel. One of the brighter stars in the constellation Orion, Rigel lies just below the center of the featured image. The blue color of the Witch Head Nebula and is caused not only by Rigel's intense blue starlight but also because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth's daytime sky to appear blue, although the scatterers in planet Earth's atmosphere are molecules of nitrogen and oxygen.
+Sometimes Saturn disappears. It doesn't really go away, of course -- it just disappears from our view when Earth's Moon moves in front. Such a Saturnian eclipse, more formally called an occultation, was visible in early 2025 along a small swath of Earth -- from Greenland through central Europe and into northern Africa. The featured image is a digital fusion of three images, the first of just Saturn before it disappeared, and then two more of the Moon with different exposure lengths. The images were taken from Sardinia, Italy, after sunset. The bright dot near Saturn is not a moon of Saturn, but rather the star 85 Aquarii, which is further behind Saturn than Saturn is behind the Moon. The next time the Moon moves in front of Saturn, as visible from some place on Earth, will be in 2031.
 
 
 ---
@@ -15,36 +15,36 @@ Does the blue nebula look like the head of a witch? The nebula is known popularl
 
 ### Dictionary.com
 
-**sessile** _adjective_ • /[ses-il]/
+**catnap** _verb_ • /[kat-nap]/
 
-permanently attached; not freely moving
+to steal or abduct a cat, especially in order to keep it as one's own
 
-Something that stays fixed in one spot and doesn't move freely can be described as sessile. This adjective is used in biology for organisms, or parts of them, that are permanently attached to an object. Sessile comes from a Latin term meaning "to sit," fitting for an object or creature that's stuck in place.
+As a noun, a catnap refers to catching some Z's, but the verb can have a very different meaning. To catnap is to steal a cat, especially with the intention of keeping it as your own. So while a catnap might sound like a harmless bit of shut-eye, make sure you know which meaning you're dealing with!
 
-> _The sessile organisms remain anchored to ocean rocks for their entire lives._
+> _Someone tried to catnap the neighbor's Persian kitten right off their front porch._
 
 ### Britannica
 
-**raze** _verb_ • /rāz/
+**reflective** _adjective_ • /rɪˈflɛktɪv/
 
-To completely destroy or level to the ground, especially a building or city.
+Thinking carefully and deeply about something; given to contemplation.
 
-> _The invading army vowed to raze the ancient fortress, leaving no stone unturned._
+> _After the long journey, she spent a reflective evening journaling her experiences and planning for the future._
 
-_Similar: demolish, flatten, level_  •  _Opposite: build, construct, erect_
+_Similar: contemplative, pensive, meditative_  •  _Opposite: thoughtless, unthinking, impulsive_
 
-> _"And, when they had razed the city, they found a great treasure of gold and silver, and precious stones, which they divided amongst themselves."_
+> _"But every night come out these envoys of beauty, and light the world with their reflective beams."_
 >
-> — **Guido delle Colonne**, The History of the Destruction of Troy (c. 1287)
+> — **Ralph Waldo Emerson**, Nature (1836)
 
 ### Merriam-Webster
 
-**wabi-sabi** _noun_ • /WAH-bee-SAH-bee/
+**defer** _verb_ • /dih-FER/
 
-A philosophy emphasizing the value of imperfection
+To put off or delay
 
-> _Over the years, the gardener learned to let go of his perfectionism and embrace wabi-sabi._
+> _We decided to defer the offer so that we could explore other options._
 
-> "Traditional Japanese homes often follow the philosophy of wabi-sabi, an appreciation for imperfection and asymmetry. If elements are flawed, worn out or unbalanced, rather than scrambling to fix them, the theory goes, it's better to not only accept but celebrate a place's peccadillos." — Robin Roberts, The Vancouver (British Columbia) Sun, 9 May 2026
+> “Amelie plans to defer college for a year to attempt a mostly solo thru-hike of the 2,650-mile Pacific Crest Trail.” — Justin Souza, Noozhawk (Santa Barbara, California), 24 Sept. 2026
 
-_Wabi-sabi followed a simple path to English: it was borrowed directly from Japanese in the early 1960s. The philosophy this word refers to, however, is much older. In the mid-16th century, Japanese tea master Sen Rikyū firmly established simple or unadorned beauty, known as wabi, and an aged appearance or rustic patina, known as sabi, as integral aesthetic elements of the ceramics used in tea ceremonies. A popular expression of wabi-sabi is seen in kintsugi, the traditional Japanese art of repairing broken pottery using a lacquer and metal powder (such as gold, silver, or platinum) to draw attention to, rather than hide, the repair. Kintsugi is another Japanese borrowing, from kin, meaning "gold" and tsugi, meaning "patch."_
+_There are two distinct words spelled defer in English, each with its own history and meaning. The defer having to do with allowing someone else to decide or choose something, or with agreeing to follow someone else’s decision, tradition, etc., (as in “deferred to his parents’ wishes”) comes from the Latin dēferre, meaning “to bring down, convey, transfer, submit.” The defer meaning “to put off or delay” comes from a different Latin verb, differre, which itself has several meanings, including two that resound in its English descendant: “to postpone” and “to delay.” Another meaning of differre is “to be unlike or distinct,” which makes apparent another of its descendants: differ, meaning “to be different.”_
