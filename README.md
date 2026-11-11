@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-10 18:37:51 UTC_
+_Updated: 2026-11-11 18:37:17 UTC_
 
-### Saturn Behind the Moon
+### NGC 4449: Small Galaxy, Big Impact
 
-![Saturn Behind the Moon](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg?w=2124&h=1582&fit=clip&crop=faces%2Cfocalpoint)
+![NGC 4449: Small Galaxy, Big Impact](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=2048&h=1320&fit=clip&crop=faces%2Cfocalpoint)
 
-Sometimes Saturn disappears. It doesn't really go away, of course -- it just disappears from our view when Earth's Moon moves in front. Such a Saturnian eclipse, more formally called an occultation, was visible in early 2025 along a small swath of Earth -- from Greenland through central Europe and into northern Africa. The featured image is a digital fusion of three images, the first of just Saturn before it disappeared, and then two more of the Moon with different exposure lengths. The images were taken from Sardinia, Italy, after sunset. The bright dot near Saturn is not a moon of Saturn, but rather the star 85 Aquarii, which is further behind Saturn than Saturn is behind the Moon. The next time the Moon moves in front of Saturn, as visible from some place on Earth, will be in 2031.
+Don’t judge a galaxy by its size. Our home galaxy, the Milky Way, is about 100,000 light years across. This huge expanse of space contains hundreds of billions of stars! The smallest galaxies, called dwarf galaxies, are about 1/10th the size of the Milky Way and only contain a few billion stars. They are also the most common type of galaxy in the whole universe. Today’s image shows one such dwarf galaxy, NGC 4449, captured by the Hubble Space Telescope. NGC 4449 and similar dwarf galaxies are missing more oxygen than models predict. This suggests their stellar winds and supernovae are surprisingly effective at blowing away oxygen and other heavy elements. Turns out these tiny galaxies may play a big role in spreading heavy elements — the building blocks of stars, planets, and life — throughout the universe!
 
 
 ---
@@ -15,36 +15,36 @@ Sometimes Saturn disappears. It doesn't really go away, of course -- it just di
 
 ### Dictionary.com
 
-**catnap** _verb_ • /[kat-nap]/
+**perseverance** _noun_ • /[pur-suh-veer-uhns]/
 
-to steal or abduct a cat, especially in order to keep it as one's own
+steady persistence in a course of action, a purpose, a state
 
-As a noun, a catnap refers to catching some Z's, but the verb can have a very different meaning. To catnap is to steal a cat, especially with the intention of keeping it as your own. So while a catnap might sound like a harmless bit of shut-eye, make sure you know which meaning you're dealing with!
+Working toward a long-term goal takes perseverance, especially when obstacles get in your way. This word, which comes from a Latin term meaning "steadfast," refers to the persistence it takes to achieve something. Whatever you're working toward, perseverance can help you keep at it.
 
-> _Someone tried to catnap the neighbor's Persian kitten right off their front porch._
+> _Through years of hard practice, her perseverance finally paid off with a gold medal._
 
 ### Britannica
 
-**reflective** _adjective_ • /rɪˈflɛktɪv/
+**frigid** _adjective_
 
-Thinking carefully and deeply about something; given to contemplation.
+Extremely cold in temperature.
 
-> _After the long journey, she spent a reflective evening journaling her experiences and planning for the future._
+> _The explorers braced themselves against the frigid winds sweeping across the Antarctic plain._
 
-_Similar: contemplative, pensive, meditative_  •  _Opposite: thoughtless, unthinking, impulsive_
+_Similar: arctic, glacial, icy_  •  _Opposite: hot, warm, balmy_
 
-> _"But every night come out these envoys of beauty, and light the world with their reflective beams."_
+> _"I am alone and miserable. Only the most frigid and desolate of hearts could fail to be moved by my plight."_
 >
-> — **Ralph Waldo Emerson**, Nature (1836)
+> — **Mary Shelley**, Frankenstein (1818)
 
 ### Merriam-Webster
 
-**defer** _verb_ • /dih-FER/
+**valorous** _adjective_ • /VAL-uh-russ/
 
-To put off or delay
+Courageous or brave
 
-> _We decided to defer the offer so that we could explore other options._
+> _For carrying three wounded members of his squadron out of harm's way, the lieutenant was presented with an award that recognized his valorous actions in the heat of battle._
 
-> “Amelie plans to defer college for a year to attempt a mostly solo thru-hike of the 2,650-mile Pacific Crest Trail.” — Justin Souza, Noozhawk (Santa Barbara, California), 24 Sept. 2026
+> "... a Texas native who was awarded the Medal of Honor for valorous action during combat in Vietnam." — Melissa Renteria, The San Antonio (Texas) Express-News, 8 Mar. 2026
 
-_There are two distinct words spelled defer in English, each with its own history and meaning. The defer having to do with allowing someone else to decide or choose something, or with agreeing to follow someone else’s decision, tradition, etc., (as in “deferred to his parents’ wishes”) comes from the Latin dēferre, meaning “to bring down, convey, transfer, submit.” The defer meaning “to put off or delay” comes from a different Latin verb, differre, which itself has several meanings, including two that resound in its English descendant: “to postpone” and “to delay.” Another meaning of differre is “to be unlike or distinct,” which makes apparent another of its descendants: differ, meaning “to be different.”_
+_The English language has no shortage of synonyms for brave. In fact, it even has two different such words from the same Latin verb, valēre ("to be well, to have strength"): valiant and valorous. Valiant is the older of the pair, borrowed from the Anglo-French vaillant ("worthy, strong, courageous") in the 1300s. Valorous followed in the 1400s, a combination of valor ("strength of mind or spirit that enables a person to encounter danger with firmness")—another valēre descendent—and the adjective suffix -ous. While the words can be used synonymously, valorous sometimes has an archaic or romantic ring, describing stout-hearted warriors of yore, while the more common word valiant often describes soldiers as well as general kinds of bravery or effort._
