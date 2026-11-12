@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-11 18:37:17 UTC_
+_Updated: 2026-11-12 18:50:23 UTC_
 
-### NGC 4449: Small Galaxy, Big Impact
+### Moon, Venus and Spica Meet
 
-![NGC 4449: Small Galaxy, Big Impact](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=2048&h=1320&fit=clip&crop=faces%2Cfocalpoint)
+![Moon, Venus and Spica Meet](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg)
 
-Don’t judge a galaxy by its size. Our home galaxy, the Milky Way, is about 100,000 light years across. This huge expanse of space contains hundreds of billions of stars! The smallest galaxies, called dwarf galaxies, are about 1/10th the size of the Milky Way and only contain a few billion stars. They are also the most common type of galaxy in the whole universe. Today’s image shows one such dwarf galaxy, NGC 4449, captured by the Hubble Space Telescope. NGC 4449 and similar dwarf galaxies are missing more oxygen than models predict. This suggests their stellar winds and supernovae are surprisingly effective at blowing away oxygen and other heavy elements. Turns out these tiny galaxies may play a big role in spreading heavy elements — the building blocks of stars, planets, and life — throughout the universe!
+Not all those who wander are lost. A night sky example is that planets wander, and in fact the very word "planet" comes from "wandering star" in Greek. As planets shift relative to fixed stars, they may appear from our perspective to get closer to other astronomical objects. Such meetings are called conjunctions. They don't happen by chance, but follow the precise laws of celestial mechanics. This peaceful image, captured in  Poland, shows the crescent Moon above the Tatra Mountains, and bright Venus close by, a little lower in the horizon. The bright star to the left of Venus is Spica in the constellation of Virgo, the Maiden. Spica is one of the brightest stars in the sky, only about 250 light-years away. It was found in 1890 that Spica is a binary star: two massive blue stars orbiting each other every 4 days. But earlier this year it was reported that Spica, the current companion of wandering Venus, is actually a triple system.
 
 
 ---
@@ -15,36 +15,36 @@ Don’t judge a galaxy by its size. Our home galaxy, the Milky Way, is about 100
 
 ### Dictionary.com
 
-**perseverance** _noun_ • /[pur-suh-veer-uhns]/
+**attenuate** _verb_ • /[uh-ten-yoo-ayt]/
 
-steady persistence in a course of action, a purpose, a state
+to weaken or reduce in force, intensity, effect, quantity, or value
 
-Working toward a long-term goal takes perseverance, especially when obstacles get in your way. This word, which comes from a Latin term meaning "steadfast," refers to the persistence it takes to achieve something. Whatever you're working toward, perseverance can help you keep at it.
+Having a busy week? A funny movie can attenuate some of the stress by making your worries feel less intense. Attenuate comes from a Latin term meaning "to make thin." Whether it's literal or figurative, something attenuated is weakened or reduced.
 
-> _Through years of hard practice, her perseverance finally paid off with a gold medal._
+> _A heartfelt apology helped attenuate her anger after their disagreement._
 
 ### Britannica
 
-**frigid** _adjective_
+**nosegay** _noun_
 
-Extremely cold in temperature.
+A small bouquet of flowers.
 
-> _The explorers braced themselves against the frigid winds sweeping across the Antarctic plain._
+> _She carried a delicate nosegay of wildflowers, their sweet scent filling the air._
 
-_Similar: arctic, glacial, icy_  •  _Opposite: hot, warm, balmy_
+_Similar: posy, tussie-mussie, bouquet_
 
-> _"I am alone and miserable. Only the most frigid and desolate of hearts could fail to be moved by my plight."_
+> _"She would frequently gather a nosegay of the choicest flowers, and present it to her mother, with a look of such sweet affection, as would have melted the hardest heart."_
 >
-> — **Mary Shelley**, Frankenstein (1818)
+> — **Jane Austen**, Sense and Sensibility (1811)
 
 ### Merriam-Webster
 
-**valorous** _adjective_ • /VAL-uh-russ/
+**gauntlet** _noun_ • /GAWNT-lut/
 
-Courageous or brave
+A series of challenges amounting to an ordeal
 
-> _For carrying three wounded members of his squadron out of harm's way, the lieutenant was presented with an award that recognized his valorous actions in the heat of battle._
+> _Salmon returning to their spawning grounds must make it past a gauntlet of predators, from eagles to otters to bears._
 
-> "... a Texas native who was awarded the Medal of Honor for valorous action during combat in Vietnam." — Melissa Renteria, The San Antonio (Texas) Express-News, 8 Mar. 2026
+> “… I’m also a mother in my forties, which means daily life is a gauntlet of logistics: lunches, permission slips, orthodontist appointments, emotional squalls, school emails multiplying like fruit flies.” — Mira Ptacin, Literary Hub, 4 Feb. 2026
 
-_The English language has no shortage of synonyms for brave. In fact, it even has two different such words from the same Latin verb, valēre ("to be well, to have strength"): valiant and valorous. Valiant is the older of the pair, borrowed from the Anglo-French vaillant ("worthy, strong, courageous") in the 1300s. Valorous followed in the 1400s, a combination of valor ("strength of mind or spirit that enables a person to encounter danger with firmness")—another valēre descendent—and the adjective suffix -ous. While the words can be used synonymously, valorous sometimes has an archaic or romantic ring, describing stout-hearted warriors of yore, while the more common word valiant often describes soldiers as well as general kinds of bravery or effort._
+_Gauntlet is often used today for a line, series, or assemblage of something that poses some sort of ordeal (as in “the celebs had to make it past a gauntlet of autograph-seekers”) but it originally referred to a trial of a particularly awful variety. In the not-so-golden days, a gauntlet was a military punishment in which a prisoner was made to pass between two rows of men armed with (and using) clubs or other weapons. The original word for the punishment in English was gantelope, from the Swedish gatlopp meaning, literally, “run down the lane.” Gantelope was a bit funny-sounding to the English ear, though, and through a process called folk etymology gantelope morphed into the already-familiar gauntlet. By the time gantelope had become gauntlet, an older gauntlet, referring to a protective glove worn with medieval armor, had been part of the language for about 200 years. (It comes from the Middle French word gantelet, a diminutive of gant, “glove.”)_
