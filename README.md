@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-12 18:50:23 UTC_
+_Updated: 2026-11-13 18:28:53 UTC_
 
-### Moon, Venus and Spica Meet
+### NGC 206 and the Star Clouds of Andromeda
 
-![Moon, Venus and Spica Meet](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg)
+![NGC 206 and the Star Clouds of Andromeda](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg?w=4096&h=2902&fit=clip&crop=faces%2Cfocalpoint)
 
-Not all those who wander are lost. A night sky example is that planets wander, and in fact the very word "planet" comes from "wandering star" in Greek. As planets shift relative to fixed stars, they may appear from our perspective to get closer to other astronomical objects. Such meetings are called conjunctions. They don't happen by chance, but follow the precise laws of celestial mechanics. This peaceful image, captured in  Poland, shows the crescent Moon above the Tatra Mountains, and bright Venus close by, a little lower in the horizon. The bright star to the left of Venus is Spica in the constellation of Virgo, the Maiden. Spica is one of the brightest stars in the sky, only about 250 light-years away. It was found in 1890 that Spica is a binary star: two massive blue stars orbiting each other every 4 days. But earlier this year it was reported that Spica, the current companion of wandering Venus, is actually a triple system.
+The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.
 
 
 ---
@@ -15,36 +15,36 @@ Not all those who wander are lost. A night sky example is that planets wander, a
 
 ### Dictionary.com
 
-**attenuate** _verb_ • /[uh-ten-yoo-ayt]/
+**chameleonic** _adjective_ • /[kuh-mee-lee-ahn-ik]/
 
-to weaken or reduce in force, intensity, effect, quantity, or value
+tending to readily change, in appearance, beliefs, or behavior
 
-Having a busy week? A funny movie can attenuate some of the stress by making your worries feel less intense. Attenuate comes from a Latin term meaning "to make thin." Whether it's literal or figurative, something attenuated is weakened or reduced.
+Chameleonic describes someone or something that readily changes to suit new circumstances. Like its reptilian namesake, the word suggests an ability to make quick changes. Someone with a chameleonic personality can adjust to any kind of social situation.
 
-> _A heartfelt apology helped attenuate her anger after their disagreement._
+> _Her chameleonic style allowed her to blend in seamlessly with every crowd she met._
 
 ### Britannica
 
-**nosegay** _noun_
+**dishearten** _verb_
 
-A small bouquet of flowers.
+To cause someone to lose hope, enthusiasm, or courage; to discourage.
 
-> _She carried a delicate nosegay of wildflowers, their sweet scent filling the air._
+> _The constant setbacks began to dishearten the team, but they refused to give up._
 
-_Similar: posy, tussie-mussie, bouquet_
+_Similar: discourage, dismay, dispirit_  •  _Opposite: encourage, hearten, inspire_
 
-> _"She would frequently gather a nosegay of the choicest flowers, and present it to her mother, with a look of such sweet affection, as would have melted the hardest heart."_
+> _"She was not disheartened, however, but continued to hope that some favourable circumstance might yet occur."_
 >
-> — **Jane Austen**, Sense and Sensibility (1811)
+> — **Jane Austen**, Pride and Prejudice (1813)
 
 ### Merriam-Webster
 
-**gauntlet** _noun_ • /GAWNT-lut/
+**impertinent** _adjective_ • /im-PER-tuh-nunt/
 
-A series of challenges amounting to an ordeal
+Rude and showing a lack of respect
 
-> _Salmon returning to their spawning grounds must make it past a gauntlet of predators, from eagles to otters to bears._
+> _The band stopped doing interviews after years of journalists asking invasive and impertinent questions._
 
-> “… I’m also a mother in my forties, which means daily life is a gauntlet of logistics: lunches, permission slips, orthodontist appointments, emotional squalls, school emails multiplying like fruit flies.” — Mira Ptacin, Literary Hub, 4 Feb. 2026
+> “On Friday night, I discovered that the plans I had for Saturday morning were not going to work out, so I decided to go fishing instead. It was too late to hitch up with a fishing buddy, and it would be impertinent to ask permission to fish on someone’s private property at such a late hour, so I decided to go by myself to the public section of the Soque River.” — Bill Hager, The White County (Georgia) News, 7 July 2026
 
-_Gauntlet is often used today for a line, series, or assemblage of something that poses some sort of ordeal (as in “the celebs had to make it past a gauntlet of autograph-seekers”) but it originally referred to a trial of a particularly awful variety. In the not-so-golden days, a gauntlet was a military punishment in which a prisoner was made to pass between two rows of men armed with (and using) clubs or other weapons. The original word for the punishment in English was gantelope, from the Swedish gatlopp meaning, literally, “run down the lane.” Gantelope was a bit funny-sounding to the English ear, though, and through a process called folk etymology gantelope morphed into the already-familiar gauntlet. By the time gantelope had become gauntlet, an older gauntlet, referring to a protective glove worn with medieval armor, had been part of the language for about 200 years. (It comes from the Middle French word gantelet, a diminutive of gant, “glove.”)_
+_A pertinent statement or remark is one that pertains—that is, is relevant—to the subject at hand. It stands to reason, therefore, that impertinent could be used to describe things that are irrelevant. Indeed, “not pertinent” is the word’s oldest meaning, dating to the 15th century. A pertinent question: how did a word meaning “irrelevant” come to also describe someone as rude (now the more common sense of impertinent)? The answer comes down to the particular quality of rudeness on display. Burping loudly while your teacher is giving a lecture, for example, would be rude, but unlikely to be called impertinent. Raising your hand mid-lecture to ask where your teacher purchased such a ridiculous sweater, however, would be impertinent, i.e. such a question is rude because it in no way pertains to the matter at hand in a classroom._
