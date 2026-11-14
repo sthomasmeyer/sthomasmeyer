@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-13 18:28:53 UTC_
+_Updated: 2026-11-14 16:59:37 UTC_
 
-### NGC 206 and the Star Clouds of Andromeda
+### Apollo 12 and Surveyor 3
 
-![NGC 206 and the Star Clouds of Andromeda](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg?w=4096&h=2902&fit=clip&crop=faces%2Cfocalpoint)
+![Apollo 12 and Surveyor 3](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/KF-ApAn48-7133-4.jpg?w=2181&h=2200&fit=clip&crop=faces%2Cfocalpoint)
 
-The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.
+Put on your red/blue glasses and gaze across the western Ocean of Storms on the surface of the Moon. The 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November of 1969. Surveyor 3 had landedat the site on the inside slope of a small crater about 2 1/2 years earlier in April of 1967. Visible on the horizon beyond the far crater wall, Apollo 12's Lunar Module Intrepid touched down less than 200 meters (650 feet) away, easy moonwalking distance from the robotic Surveyor spacecraft. This stereo image was carefully created from two separate pictures (AS12-48-7133, AS12-48-7134) captured on the lunar surface. They depict the scene from only slightly different viewpoints, approximating the separation between human eyes.
 
 
 ---
@@ -15,36 +15,36 @@ The large stellar association cataloged as NGC 206 is nestled within the dusty a
 
 ### Dictionary.com
 
-**chameleonic** _adjective_ • /[kuh-mee-lee-ahn-ik]/
+**edutainment** _noun_ • /[ej-oo-tayn-muhnt]/
 
-tending to readily change, in appearance, beliefs, or behavior
+television programs, movies, books, etc., that are both educational and entertaining
 
-Chameleonic describes someone or something that readily changes to suit new circumstances. Like its reptilian namesake, the word suggests an ability to make quick changes. Someone with a chameleonic personality can adjust to any kind of social situation.
+A science show that teaches viewers about the natural world while keeping them entertained is a great example of edutainment. This noun blends "education" and "entertainment" to describe media, such as television programs, movies, and games, that provide both of these things. From an engaging documentary to a video game that hones math skills, edutainment makes learning feel less like homework.
 
-> _Her chameleonic style allowed her to blend in seamlessly with every crowd she met._
+> _Interactive video games can be effective edutainment for students learning complex subjects._
 
 ### Britannica
 
-**dishearten** _verb_
+**facility** _noun_ • /fəˈsɪlɪti/
 
-To cause someone to lose hope, enthusiasm, or courage; to discourage.
+Skill and ease in doing something.
 
-> _The constant setbacks began to dishearten the team, but they refused to give up._
+> _Her remarkable facility for understanding complex algorithms allowed her to excel in her programming career._
 
-_Similar: discourage, dismay, dispirit_  •  _Opposite: encourage, hearten, inspire_
+_Similar: aptitude, dexterity, knack_  •  _Opposite: difficulty, ineptitude, clumsiness_
 
-> _"She was not disheartened, however, but continued to hope that some favourable circumstance might yet occur."_
+> _"Mr. Darcy soon afterwards entered the room. Bingley, who had been speaking to him, walked towards the table, and Elizabeth had the opportunity of observing his behaviour, and of judging of his facility in conversation."_
 >
 > — **Jane Austen**, Pride and Prejudice (1813)
 
 ### Merriam-Webster
 
-**impertinent** _adjective_ • /im-PER-tuh-nunt/
+**boilerplate** _noun_ • /BOY-ler-playt/
 
-Rude and showing a lack of respect
+Standardized text or formulaic language
 
-> _The band stopped doing interviews after years of journalists asking invasive and impertinent questions._
+> _The last paragraph of the contract was legal boilerplate._
 
-> “On Friday night, I discovered that the plans I had for Saturday morning were not going to work out, so I decided to go fishing instead. It was too late to hitch up with a fishing buddy, and it would be impertinent to ask permission to fish on someone’s private property at such a late hour, so I decided to go by myself to the public section of the Soque River.” — Bill Hager, The White County (Georgia) News, 7 July 2026
+> "New Orleans is where the food, music, history and culture are unlike anywhere else in the world. That's not travel-guide boilerplate—it's what hits you the moment you step into the French Quarter and feel the city operating on its own rhythm." — Lauren Schuster, The Miami Herald, 8 Apr. 2026
 
-_A pertinent statement or remark is one that pertains—that is, is relevant—to the subject at hand. It stands to reason, therefore, that impertinent could be used to describe things that are irrelevant. Indeed, “not pertinent” is the word’s oldest meaning, dating to the 15th century. A pertinent question: how did a word meaning “irrelevant” come to also describe someone as rude (now the more common sense of impertinent)? The answer comes down to the particular quality of rudeness on display. Burping loudly while your teacher is giving a lecture, for example, would be rude, but unlikely to be called impertinent. Raising your hand mid-lecture to ask where your teacher purchased such a ridiculous sweater, however, would be impertinent, i.e. such a question is rude because it in no way pertains to the matter at hand in a classroom._
+_In the days before computers, small newspapers around the U.S. relied heavily on feature stories, editorials, and other printed material supplied by large publishing syndicates. The syndicates delivered that copy on metal plates with the type already in place so the local papers wouldn't have to set it. Printers apparently dubbed those syndicated plates "boiler plates" because of their resemblance to the plating used in making steam boilers. Soon boilerplate came to refer to the printed material on the plates as well as to the plates themselves. Because boilerplate stories were often more filler—material used to fill extra space in a column or page of a newspaper to increase its size—than important or informative news, the word acquired negative connotations and gained the "standardized or formulaic language" sense widely used today._
