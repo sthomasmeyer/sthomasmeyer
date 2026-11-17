@@ -1,12 +1,12 @@
 # NASA Astronomy Picture of the Day
 
-_Updated: 2026-11-16 20:56:45 UTC_
+_Updated: 2026-11-17 19:45:58 UTC_
 
-### NGC 7129: Star Formation with Jets from Webb
+### Milky Way versus Aurora
 
-![NGC 7129: Star Formation with Jets from Webb](https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/10/weic2620a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg)
+![Milky Way versus Aurora](https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg)
 
-How do stars form? To help answer this question, NASA used the James Webb Space Telescope to take the featured detailed image of the star-forming region NGC 7129 in infrared light. Star formation progresses when gravity pulls together massive amounts of gas, but soon things can get complicated when previously formed stars emit powerful jets and winds -- and some then explode. Opaque dust can form in the cool atmospheres of stars and, when dispersed, can obstruct visible-light images. Many stars can be seen to be forming in the featured image, with the young stars on the left, in the gold-colored gas, typically being more mature than the young stars on the right -- in the red region. Jets and winds likely cause the filamentary nature of the red-colored gas. Studying stars at different stages of development bolsters understanding about what physical processes are most important and when.
+Are these two giant arches battling for control of the sky? No, but it sure looks like it! The arch on the left is the central band of our Milky Way Galaxy, an ancient system of stars, gas, and dust that predates our Earth and is very far away. The arch on the right, by contrast, is an auroral ribbon that is only hours old, composed of energized atoms and molecules, and is close by -- right in Earth's upper atmosphere. These chance-superposed titans have our Sun in common, a stellar member of the Milky Way that ejects energetic particles which create auroras. Far behind the middle of the auroral arch is the Big Dipper. Even farther in the distance is the Andromeda galaxy -- the bright spot near the top of the frame, just left of center. The featured image was taken about a month ago from Kvaløya in northern Norway.
 
 
 ---
@@ -15,36 +15,36 @@ How do stars form? To help answer this question, NASA used the James Webb Space 
 
 ### Dictionary.com
 
-**sibilant** _adjective_ • /[sib-uh-luhnt]/
+**hythe** _noun_ • /[hahyth]/
 
-hissing
+a landing place or harbor on a river
 
-Sibilant describes a hissing sound, especially (but not always) one produced in speech. The "sss" sound itself is sibilant, created as air passes through a narrow channel in the mouth. Sibilant sounds can make speech seem softer, sharper, or more secretive depending on how they're used.
+A hythe is a landing place or small harbor along a river. Before modern docks and marinas, a hythe could be a practical spot for boats to load, unload, or come ashore. The usefulness of a hythe came from location, not sophistication.
 
-> _The actor's sibilant whisper echoed through the quiet theater as he uttered the secret._
+> _The fishermen moored their small wooden boats at the quiet hythe before sunset._
 
 ### Britannica
 
-**heedless** _adjective_
+**flabbergast** _verb_ • //ˈflæbərˌɡæst//
 
-Lacking care or attention; unmindful; careless.
+To shock or surprise someone greatly, often to the point of speechlessness.
 
-> _The heedless driver sped through the intersection, narrowly avoiding a collision._
+> _The magician's sudden disappearance was designed to flabbergast the audience._
 
-_Similar: careless, unmindful, inattentive_  •  _Opposite: careful, attentive, mindful_
+_Similar: astonish, astound, dumbfound_  •  _Opposite: calm, bore, reassure_
 
-> _"Great things, and full of wonder in our ears, far differing from this world, thou hast revealed, divine interpreter, by favour sent down from on high to visit us, this lowly place; and what we oft have heard, but heedless, now our ears have heard with new delight, and understood."_
+> _"It would flabbergast the average man to learn how many of the world's great achievements have been due to the fact that the man who did them was too lazy to do anything else."_
 >
-> — **John Milton**, Paradise Lost (1667)
+> — **P.G. Wodehouse**, The Small Bachelor (1927)
 
 ### Merriam-Webster
 
-**travesty** _noun_ • /TRAV-uh-stee/
+**stolid** _adjective_ • /STAH-lid/
 
-A distorted or badly inferior imitation
+Expressing little or no emotion
 
-> _The investigation into the causes of the accident was a complete travesty._
+> _The detective presented the facts of the case with stolid indifference._
 
-> “This case is an example of the failure of our judicial system’s lack of common sense, good judgment and morality. It is nothing less than a travesty of justice.” — Richard Votapka (letter to the editor), The Stuart (Florida) News, 18 Mar. 2026
+> "Even the most stolid of personalities can get dragged into drama, breaking one of the biggest rules in journalism: never become the story." — Katie Rosseinsky, The Independent (United Kingdom), 15 Apr. 2026
 
-_When disaster strikes, keeping track of which word to use seems pretty unimportant. But you don’t want to describe disastrous events as travesties, because they’re not: they’re tragedies. Travesties are terrible too, but travesty refers specifically to something that is done in a way that makes a mockery of what it’s supposed to be: for example, a contest won by the judge’s spouse could be considered a travesty. And a trial in which the defendant wasn’t allowed to present evidence could be described as a “travesty of justice.” Travesty, which can also function as a verb meaning “to make a travesty of” or “to parody,” comes from the French travestir, meaning “to disguise.” Its roots, however, wind back through Italian to the Latin vestire, meaning “to clothe” or “to dress.” Other descendants of vestire include vestment, divest, and invest._
+_Today, a person described as stolid may simply be someone who doesn't wear their feelings on their sleeve, who appears unemotional or uninterested in what is happening around them. Its use is usually descriptive, rather than disparaging. Once upon a time, however, someone calling you stolid would not be doing you a solid. Stolid comes from the Latin adjective stolidus, meaning "dull" or "stupid." It is also distantly related to the word stultify, meaning "to cause to appear or be stupid, foolish, or absurdly illogical." The earliest examples of usage for stolid, which date back to the 17th century, indicate that it too was originally associated with a lack of smarts; it was used to describe people considered foolish for their relative impassivity. By the 1800s, however, stolid was frequently appearing without such negative connotations, and it continues to be free of such overtones today._
